@@ -1,0 +1,30 @@
+[
+  {
+    "word": "abbai",
+    "paradigm": {
+      "masc": { "pl": { "nom": "abbai",  "gen": "abbejan", "dat": "abbeimas", "akk": "abbans" } },
+      "fem":  { "pl": { "nom": "abbas",  "gen": "abbejan", "dat": "abbeimas", "akk": "abbans" } },
+      "neut": { "pl": { "nom": "abbai",  "gen": "abbejan", "dat": "abbeimas", "akk": "abbans" } }
+    }
+  },
+  {
+    "word": "abaks",
+    "grammar_note": "masc",
+    "paradigm": {
+      "masc": {
+        "sg": { "nom": "abaks",  "gen": "abakas",  "dat": "abaku",     "akk": "abakan" },
+        "pl": { "nom": "abakai", "gen": "abakan",  "dat": "abakamans", "akk": "abakans" }
+      }
+    }
+  },
+  {
+    "word": "abazs",
+    "grammar_note": "masc",
+    "paradigm": {
+      "masc": {
+        "sg": { "nom": "abazs",  "gen": "abazzas",  "dat": "abazzu",     "akk": "abazzan" },
+        "pl": { "nom": "abazzai","gen": "abazzan",  "dat": "abazzamans", "akk": "abazzans" }
+      }
+    }
+  }
+]
