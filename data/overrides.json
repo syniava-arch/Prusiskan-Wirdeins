@@ -1,0 +1,395 @@
+[
+  {
+    "word": "abbai",
+    "paradigm": {
+      "masc": {
+        "pl": {
+          "nom": "abbai",
+          "gen": "abbejan",
+          "dat": "abbeimas",
+          "akk": "abbans"
+        }
+      },
+      "fem": {
+        "pl": {
+          "nom": "abbas",
+          "gen": "abbejan",
+          "dat": "abbeimas",
+          "akk": "abbans"
+        }
+      },
+      "neut": {
+        "pl": {
+          "nom": "abbai",
+          "gen": "abbejan",
+          "dat": "abbeimas",
+          "akk": "abbans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abaks",
+    "grammar_note": "masc",
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "abaks",
+          "gen": "abakas",
+          "dat": "abaku",
+          "akk": "abakan"
+        },
+        "pl": {
+          "nom": "abakai",
+          "gen": "abakan",
+          "dat": "abakamans",
+          "akk": "abakans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abazs",
+    "grammar_note": "masc",
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "abazs",
+          "gen": "abazzas",
+          "dat": "abazzu",
+          "akk": "abazzan"
+        },
+        "pl": {
+          "nom": "abazzai",
+          "gen": "abazzan",
+          "dat": "abazzamans",
+          "akk": "abazzans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abazziks",
+    "grammar_note": "masc",
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "abazziks",
+          "gen": "abazzikas",
+          "dat": "abazziku",
+          "akk": "abazzikan"
+        },
+        "pl": {
+          "nom": "abazzikai",
+          "gen": "abazzikan",
+          "dat": "abazzikamans",
+          "akk": "abazzikans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abbaras",
+    "grammar_note": "fem, nom pl tantum",
+    "paradigm": {
+      "fem": {
+        "pl": {
+          "nom": "abbaras",
+          "gen": "abbaran",
+          "dat": "abbaramans",
+          "akk": "abbarans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abbeimas",
+    "ru": "обоим, обеим",
+    "lt": "abiem",
+    "lv": "abiem, abām",
+    "en": "both of them, both",
+    "de": "beiden",
+    "pl": "obu / obojgu"
+  },
+  {
+    "word": "abbejan",
+    "id": 7,
+    "g": "gen",
+    "s": "↑ Abbai gen (в базе исправлено 2026-08-21: было ошибочно dat)",
+    "ru": "обоих, обеих",
+    "lt": "abiejų",
+    "lv": "abu, abužu",
+    "en": "of both",
+    "de": "beider",
+    "pl": "obu"
+  },
+  {
+    "word": "abipussis",
+    "grammar_note": "aj",
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "abipussis",
+            "gen": "abipussis",
+            "dat": "abipussismu",
+            "akk": "abipussin"
+          },
+          "pl": {
+            "nom": "abipussjai",
+            "gen": "abipussin",
+            "dat": "abipussimans",
+            "akk": "abipussins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "abipussi",
+            "gen": "abipussis",
+            "dat": "abipuššai",
+            "akk": "abipussin"
+          },
+          "pl": {
+            "nom": "abipussis",
+            "gen": "abipussin",
+            "dat": "abipussimans",
+            "akk": "abipussins"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "abipussi",
+            "gen": "abipussis",
+            "dat": "abipussismu",
+            "akk": "abipussi"
+          },
+          "pl": {
+            "nom": "abipussjai",
+            "gen": "abipussin",
+            "dat": "abipussimans",
+            "akk": "abipussins"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "abipussjaisis",
+            "gen": "abipussjaisjas",
+            "dat": "abipussjaisjasmu",
+            "akk": "abipussjaisin"
+          },
+          "pl": {
+            "nom": "abipussjaisjai",
+            "gen": "abipussjaisin",
+            "dat": "abipussjaisimans",
+            "akk": "abipussjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "abipussjaisi",
+            "gen": "abipussjaisjas",
+            "dat": "abipussjaisjai",
+            "akk": "abipussjaisjan"
+          },
+          "pl": {
+            "nom": "abipussjaisjas",
+            "gen": "abipussjaisjan",
+            "dat": "abipussjaisjamans",
+            "akk": "abipussjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "abipussjaisi",
+            "gen": "abipussjaisjas",
+            "dat": "abipussjaisjasmu",
+            "akk": "abipussjaisi"
+          },
+          "pl": {
+            "nom": "abipussjaisjai",
+            "gen": "abipussjaisin",
+            "dat": "abipussjaisimans",
+            "akk": "abipussjaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaabipussjaisis",
+            "gen": "ukaabipussjaisjas",
+            "dat": "ukaabipussjaisjasmu",
+            "akk": "ukaabipussjaisin"
+          },
+          "pl": {
+            "nom": "ukaabipussjaisjai",
+            "gen": "ukaabipussjaisin",
+            "dat": "ukaabipussjaisimans",
+            "akk": "ukaabipussjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaabipussjaisi",
+            "gen": "ukaabipussjaisjas",
+            "dat": "ukaabipussjaisjai",
+            "akk": "ukaabipussjaisjan"
+          },
+          "pl": {
+            "nom": "ukaabipussjaisjas",
+            "gen": "ukaabipussjaisjan",
+            "dat": "ukaabipussjaisjamans",
+            "akk": "ukaabipussjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaabipussjaisi",
+            "gen": "ukaabipussjaisjas",
+            "dat": "ukaabipussjaisjasmu",
+            "akk": "ukaabipussjaisi"
+          },
+          "pl": {
+            "nom": "ukaabipussjaisjai",
+            "gen": "ukaabipussjaisin",
+            "dat": "ukaabipussjaisimans",
+            "akk": "ukaabipussjaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "abipussjai",
+        "comparative": "abipussjais",
+        "superlative": "ukaabipussjais"
+      }
+    }
+  },
+  {
+    "word": "begēdis",
+    "id": 519,
+    "w": "begēdis",
+    "f": "begīdis"
+  },
+  {
+    "word": "nigēdingis",
+    "id": 3914,
+    "w": "nigēdingis",
+    "f": "nigīdingis"
+  },
+  {
+    "word": "tūlalunks",
+    "id": 6575,
+    "w": "tūlalunks",
+    "f": "tūlilunks",
+    "ru": "многогранник, многоугольник"
+  },
+  {
+    "word": "regulārs tūlalunks",
+    "id": 5244,
+    "w": "regulārs tūlalunks",
+    "f": "regulārs tūlilunks",
+    "ru": "правильный многогранник, правильный многоугольник"
+  },
+  {
+    "word": "ōpisan",
+    "id": 6665,
+    "w": "ōpisan"
+  },
+  {
+    "word": "ōpicials",
+    "id": 8457,
+    "w": "ōpicials",
+    "f": "ōficials"
+  },
+  {
+    "word": "septinnjalunks",
+    "id": 10399,
+    "w": "septinnjalunks",
+    "f": "septinnelunks"
+  },
+  {
+    "word": "septinnjalunkins",
+    "id": 10398,
+    "w": "septinnjalunkins",
+    "f": "septinnelunkins"
+  },
+  {
+    "word": "audribbintun si",
+    "id": 8538,
+    "w": "audribbintun si",
+    "s": "ezze sebbei [Āu-, Dribbintun drv, nusikratyti, atkratīties]"
+  },
+  {
+    "word": "saldiskan",
+    "id": 10347,
+    "w": "saldiskan",
+    "s": "[Salds DRV, Süßigkeiten MK]"
+  },
+  {
+    "word": "klatka",
+    "id": 7306,
+    "de": "Käfig, Bauer\n(Vogelbauer), Vogelbauer"
+  },
+  {
+    "word": "pestiwālan",
+    "source": "[telepōns, ōpisan, prancōzis, festivāls ]",
+    "de": "Festival",
+    "en": "festival",
+    "lt": "festivalis",
+    "lv": "festivāls",
+    "pl": "Festiwal",
+    "ru": "фестиваль"
+  },
+  {
+    "word": "ussjalunks",
+    "source": "[Trillunks ]",
+    "de": "Sechseck, Hexagon",
+    "en": "hexagon",
+    "lt": "šešiakampis",
+    "lv": "sešstūris",
+    "pl": "sześciokąt, sześciobok, heksagon",
+    "ru": "шестиугольник"
+  },
+  {
+    "word": "kīlns",
+    "source": "[klīns, klynas, kyla]",
+    "de": "Hernie, Bruch",
+    "en": "hernia",
+    "lt": "trūkis, kyla, klynas",
+    "lv": "trūce, bruka",
+    "pl": "przepuklina, kiła",
+    "ru": "грыжа"
+  },
+  {
+    "word": "senēndintun",
+    "source": "[sen + ēnda, saindēt]",
+    "de": "vergiften",
+    "en": "to poison",
+    "lt": "apnuodyti, nunuodyti",
+    "lv": "saindēt, noindēt",
+    "pl": "otruć, otrucić, zatrucić",
+    "ru": "отравить"
+  },
+  {
+    "word": "enmērisna",
+    "source": "[enmēritwei]",
+    "de": "Verdacht",
+    "en": "suspicion",
+    "lt": "įtarimas",
+    "lv": "aizdomas",
+    "pl": "podejrzenie",
+    "ru": "подозрение"
+  },
+  {
+    "word": "enmērimins",
+    "source": "[enmēritwei]",
+    "de": "verdächtig",
+    "en": "suspicious",
+    "lt": "įtartinas",
+    "lv": "aizdomīgs",
+    "pl": "podejrzany",
+    "ru": "подозрительный"
+  }
+]
