@@ -196,6 +196,48 @@
     return out;
   }
 
+  const TENSE_LABEL = {present:"Настоящее время", past:"Прошедшее время", perfect:"Перфект", future:"Будущее время"};
+
+  function pronounRowsHtml(rows){
+    if (!Array.isArray(rows) || !rows.length) return "";
+    return `<table class="mw-conj-table">${rows.map(r => `<tr><td class="mw-conj-pron">${escapeHtml(r.p)}</td><td class="mw-conj-form">${escapeHtml(r.f)}</td></tr>`).join("")}</table>`;
+  }
+
+  function conjugationHtml(conj){
+    if (!conj || typeof conj !== "object") return "";
+    let out = `<div class="mw-paradigm"><h3>Спряжение</h3>`;
+
+    if (conj.indicative){
+      out += `<h4 class="mw-degree-title">Изъявительное наклонение</h4>`;
+      for (const tense of ["present","past","perfect","future"]){
+        if (!conj.indicative[tense]) continue;
+        out += `<div class="mw-conj-subblock"><div class="mw-conj-subtitle">${TENSE_LABEL[tense] || tense}</div>${pronounRowsHtml(conj.indicative[tense])}</div>`;
+      }
+    }
+
+    if (conj.optative){
+      out += `<h4 class="mw-degree-title">Оптатив</h4><table class="mw-conj-table"><tr><td class="mw-conj-form">${escapeHtml(conj.optative)}</td></tr></table>`;
+    }
+
+    if (conj.imperative){
+      out += `<h4 class="mw-degree-title">Императив</h4>${pronounRowsHtml(conj.imperative)}`;
+    }
+
+    if (conj.subjunctive){
+      out += `<h4 class="mw-degree-title">Сослагательное наклонение</h4>${pronounRowsHtml(conj.subjunctive)}`;
+    }
+
+    if (conj.participles && conj.participles.length){
+      out += `<h4 class="mw-degree-title">Причастия</h4>`;
+      for (const part of conj.participles){
+        out += `<div class="mw-conj-subblock"><div class="mw-conj-subtitle">${escapeHtml(part.title)}: <i>${escapeHtml(part.headword)}</i></div><div class="mw-paradigm-grid">${genderGridHtml(part.genders)}</div></div>`;
+      }
+    }
+
+    out += `</div>`;
+    return out;
+  }
+
   function openModal(e){
     const rows = [];
     for (const k of ["ru","lt","lv","de","en","pl"]){
@@ -222,6 +264,7 @@
       ${xrefHtml}
       <div class="mw-table">${rows.join("")}</div>
       ${paradigmHtml(e.paradigm)}
+      ${conjugationHtml(e.conjugation)}
     `;
 
     el.modalBody.querySelectorAll("a[data-word]").forEach(a => {

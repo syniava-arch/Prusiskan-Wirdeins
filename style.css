@@ -395,6 +395,26 @@ body{
 }
 .mw-degree-title:first-of-type{ margin-top: 0; }
 
+.mw-conj-subblock{ margin-bottom: 12px; }
+.mw-conj-subblock:last-child{ margin-bottom: 0; }
+.mw-conj-subtitle{
+  font-family: var(--sans);
+  font-size: 11px;
+  color: var(--parchment-dim);
+  margin-bottom: 4px;
+}
+.mw-conj-table{ width: 100%; border-collapse: collapse; }
+.mw-conj-table td{ padding: 2px 0; font-size: 13.5px; }
+.mw-conj-pron{
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--amber-dim);
+  width: 130px;
+  vertical-align: top;
+  padding-right: 8px;
+}
+.mw-conj-form{ font-family: var(--serif); color: var(--parchment); }
+
 /* ---------- Responsive ---------- */
 
 @media (max-width: 640px){

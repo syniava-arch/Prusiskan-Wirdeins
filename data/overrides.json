@@ -421,5 +421,348 @@
     "lv": "aizšautne, krāsns aizšautne",
     "pl": "juszka do pieca",
     "ru": "вьюшка (печная заслонка), заслонка"
+  },
+  {
+    "word": "abglābti",
+    "id": 9,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "abglābti",
+          "gen": "abglābtis",
+          "dat": "abglābtei",
+          "akk": "abglābtin"
+        },
+        "pl": {
+          "nom": "abglābtis",
+          "gen": "abglābtin",
+          "dat": "abglābtimans",
+          "akk": "abglābtins"
+        }
+      }
+    }
+  },
+  {
+    "word": "abōnisnā",
+    "id": 8799,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "abōnisnā",
+          "gen": "abōnisnas",
+          "dat": "abōnisnai",
+          "akk": "abōnisnan"
+        },
+        "pl": {
+          "nom": "abōnisnas",
+          "gen": "abōnisnan",
+          "dat": "abōnisnāmans",
+          "akk": "abōnisnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abōnitun",
+    "id": 8800,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "abōni"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "abōni"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "abōni"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "abōnimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "abōnitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "abōni"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "abōni"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "abōni"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "abōni"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "abōnimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "abōnitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "abōni"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma abōniwuns / abōniwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei abōniwuns / abōniwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast abōniwuns / abōniwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast abōniwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai abōniwusis / abōniwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei abōniwusis / abōniwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast abōniwusis / abōniwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst abōniwuns / abōniwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst abōniwuns / abōniwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst abōniwuns / abōniwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst abōniwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai abōniwusis / abōniwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei abōniwusis / abōniwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst abōniwusis / abōniwusjas"
+          }
+        ]
+      },
+      "optative": "abōnisei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "abōnis"
+        },
+        {
+          "p": "(jūs)",
+          "f": "abōniti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "abōnilai"
+        },
+        {
+          "p": "tū",
+          "f": "abōnilai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "abōnilai"
+        },
+        {
+          "p": "mes",
+          "f": "abōnilimai"
+        },
+        {
+          "p": "jūs",
+          "f": "abōnilitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "abōnilai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "abōnints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "abōnints",
+                "gen": "abōnintis",
+                "dat": "abōnintismu",
+                "akk": "abōnintin"
+              },
+              "pl": {
+                "nom": "abōnintjai",
+                "gen": "abōnintin",
+                "dat": "abonintimmans",
+                "akk": "abōnintins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "abonintī",
+                "gen": "abōnintjas",
+                "dat": "abōnintjai",
+                "akk": "abōnintjan"
+              },
+              "pl": {
+                "nom": "abōnintjas",
+                "gen": "abōnintjan",
+                "dat": "abonintjāmans",
+                "akk": "abōnintjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "abōninti",
+                "gen": "abōnintis",
+                "dat": "abōnintismu",
+                "akk": "abōnintin"
+              },
+              "pl": {
+                "nom": "abōnintjai",
+                "gen": "abōnintin",
+                "dat": "abonintimmans",
+                "akk": "abōnintins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "abōniwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "abōniwuns",
+                "gen": "abōniwusjas",
+                "dat": "abōniwusjasmu",
+                "akk": "abōniwusin"
+              },
+              "pl": {
+                "nom": "abōniwusis",
+                "gen": "abōniwusin",
+                "dat": "abōniwusimans",
+                "akk": "abōniwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "abōniwusi",
+                "gen": "abōniwusjas",
+                "dat": "abōniwusjai",
+                "akk": "abōniwusjan"
+              },
+              "pl": {
+                "nom": "abōniwusjas",
+                "gen": "abōniwusjan",
+                "dat": "abōniwusjamans",
+                "akk": "abōniwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "abōniwus",
+                "gen": "abōniwusjas",
+                "dat": "abōniwusjasmu",
+                "akk": "abōniwus"
+              },
+              "pl": {
+                "nom": "abōniwus",
+                "gen": "abōniwusin",
+                "dat": "abōniwusimans",
+                "akk": "abōniwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Страдательное причастие",
+          "headword": "abōnits",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "abōnits",
+                "gen": "abōnitas",
+                "dat": "abōnitasmu",
+                "akk": "abōnitan"
+              },
+              "pl": {
+                "nom": "abonitāi",
+                "gen": "abōnitan",
+                "dat": "abonitammans",
+                "akk": "abōnitans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "abonitā",
+                "gen": "abōnitas",
+                "dat": "abōnitai",
+                "akk": "abōnitan"
+              },
+              "pl": {
+                "nom": "abōnitas",
+                "gen": "abōnitan",
+                "dat": "abonitāmans",
+                "akk": "abōnitans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "abōnitan",
+                "gen": "abōnitas",
+                "dat": "abōnitasmu",
+                "akk": "abōnitan"
+              },
+              "pl": {
+                "nom": "abonitāi",
+                "gen": "abōnitan",
+                "dat": "abonitammans",
+                "akk": "abōnitans"
+              }
+            }
+          }
+        }
+      ]
+    }
   }
 ]
