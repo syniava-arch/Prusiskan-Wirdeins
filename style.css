@@ -218,6 +218,10 @@ body{
   white-space: nowrap;
 }
 .entry-gloss b{ color: var(--parchment); font-weight: 500; }
+.entry-formhint{
+  color: var(--amber-dim);
+  font-style: italic;
+}
 
 .entry-tag{
   font-family: var(--mono);

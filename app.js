@@ -43,6 +43,39 @@
     return out;
   }
 
+  // Recursively collects every inflected word-form string found inside an
+  // entry's paradigm/conjugation data (declension tables, verb forms, etc.),
+  // so they become searchable even though they aren't separate dictionary entries.
+  function collectFormStrings(obj, out){
+    if (!obj) return;
+    if (typeof obj === "string"){ out.push(obj); return; }
+    if (Array.isArray(obj)){ obj.forEach(v => collectFormStrings(v, out)); return; }
+    if (typeof obj === "object"){
+      for (const k in obj){
+        if (k === "title") continue; // descriptive labels, not word-forms
+        collectFormStrings(obj[k], out);
+      }
+    }
+  }
+
+  function getEntryForms(e){
+    if (e._formsCache) return e._formsCache;
+    const list = [];
+    if (e.paradigm) collectFormStrings(e.paradigm, list);
+    if (e.conjugation) collectFormStrings(e.conjugation, list);
+    e._formsCache = list;
+    return list;
+  }
+
+  // Returns the first inflected form (from paradigm/conjugation) matching q, if any.
+  function findMatchingForm(e, q){
+    const forms = getEntryForms(e);
+    for (const f of forms){
+      if (stripAccents(f).includes(q)) return f;
+    }
+    return null;
+  }
+
   function init(data){
     DATA = data;
     el.totalCount.textContent = DATA.length.toLocaleString("ru-RU");
@@ -94,6 +127,7 @@
         for (const k of ["ru","lt","lv","de","en","pl"]){
           if (e[k] && e[k].toLowerCase().includes(state.query.trim().toLowerCase())) return true;
         }
+        if (findMatchingForm(e, q)) return true;
         return false;
       });
     }
@@ -124,9 +158,19 @@
     for (const e of slice){
       const row = document.createElement("div");
       row.className = "entry" + (e.x ? " is-form" : "");
+
+      let glossHtml = escapeHtml(glossLine(e));
+      if (isSearch){
+        const q = stripAccents(state.query.trim());
+        if (!stripAccents(e.w).includes(q)){
+          const m = findMatchingForm(e, q);
+          if (m) glossHtml += ` <span class="entry-formhint">— словоформа: ${escapeHtml(m)}</span>`;
+        }
+      }
+
       row.innerHTML = `
         <span class="entry-word">${escapeHtml(e.w)}</span>
-        <span class="entry-gloss">${escapeHtml(glossLine(e))}</span>
+        <span class="entry-gloss">${glossHtml}</span>
         <span class="entry-tag">${e.x ? "форма" : (e.g || "")}</span>
       `;
       row.addEventListener("click", () => openModal(e));
