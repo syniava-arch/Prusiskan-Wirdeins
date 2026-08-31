@@ -1370,5 +1370,66 @@
         }
       ]
     }
+  },
+  {
+    "word": "ikrāi",
+    "id": 2168,
+    "ru": "икра (ноги), голень"
+  },
+  {
+    "word": "peisāliwezis",
+    "id": 10268,
+    "w": "peisāliwezis",
+    "s": "[peisāli, weztun, kellawezis]"
+  },
+  {
+    "word": "pōstiniks",
+    "id": 10269,
+    "de": "Postangestellte, Postbote",
+    "en": "postal worker, postman",
+    "lt": "paštininkas, laiškanešys",
+    "lv": "pasta darbinieks, pastnieks",
+    "pl": "pocztowiec, pracownik pocztowy, listonosz",
+    "ru": "почтовый служащий, почтальон"
+  },
+  {
+    "word": "eiskjareggis",
+    "source": "[eīskus, regītwei]",
+    "de": "Hellseher",
+    "en": "clairvoyant",
+    "lt": "aiškiaregys",
+    "lv": "gaišreģis",
+    "pl": "jasnowidz, jasnowidzący",
+    "ru": "ясновидец, ясновидящий"
+  },
+  {
+    "word": "eīskjareggibi",
+    "source": "[eīskus, regītwei]",
+    "de": "Hellsehen",
+    "en": "clairvoyance",
+    "lt": "aiškiaregystė",
+    "lv": "gaišredzība",
+    "pl": "jasnowidzenie",
+    "ru": "ясновидение"
+  },
+  {
+    "word": "absurditāti",
+    "id": 16,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "absurditāti",
+          "gen": "absurditātis",
+          "dat": "absurditātei",
+          "akk": "absurditātin"
+        },
+        "pl": {
+          "nom": "absurditātis",
+          "gen": "absurditātin",
+          "dat": "absurditātimans",
+          "akk": "absurditātins"
+        }
+      }
+    }
   }
 ]
