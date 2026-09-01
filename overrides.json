@@ -1,0 +1,1435 @@
+[
+  {
+    "word": "abbai",
+    "paradigm": {
+      "masc": {
+        "pl": {
+          "nom": "abbai",
+          "gen": "abbejan",
+          "dat": "abbeimas",
+          "akk": "abbans"
+        }
+      },
+      "fem": {
+        "pl": {
+          "nom": "abbas",
+          "gen": "abbejan",
+          "dat": "abbeimas",
+          "akk": "abbans"
+        }
+      },
+      "neut": {
+        "pl": {
+          "nom": "abbai",
+          "gen": "abbejan",
+          "dat": "abbeimas",
+          "akk": "abbans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abaks",
+    "grammar_note": "masc",
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "abaks",
+          "gen": "abakas",
+          "dat": "abaku",
+          "akk": "abakan"
+        },
+        "pl": {
+          "nom": "abakai",
+          "gen": "abakan",
+          "dat": "abakamans",
+          "akk": "abakans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abazs",
+    "grammar_note": "masc",
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "abazs",
+          "gen": "abazzas",
+          "dat": "abazzu",
+          "akk": "abazzan"
+        },
+        "pl": {
+          "nom": "abazzai",
+          "gen": "abazzan",
+          "dat": "abazzamans",
+          "akk": "abazzans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abazziks",
+    "grammar_note": "masc",
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "abazziks",
+          "gen": "abazzikas",
+          "dat": "abazziku",
+          "akk": "abazzikan"
+        },
+        "pl": {
+          "nom": "abazzikai",
+          "gen": "abazzikan",
+          "dat": "abazzikamans",
+          "akk": "abazzikans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abbaras",
+    "grammar_note": "fem, nom pl tantum",
+    "paradigm": {
+      "fem": {
+        "pl": {
+          "nom": "abbaras",
+          "gen": "abbaran",
+          "dat": "abbaramans",
+          "akk": "abbarans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abbeimas",
+    "ru": "обоим, обеим",
+    "lt": "abiem",
+    "lv": "abiem, abām",
+    "en": "both of them, both",
+    "de": "beiden",
+    "pl": "obu / obojgu"
+  },
+  {
+    "word": "abbejan",
+    "id": 7,
+    "g": "gen",
+    "s": "↑ Abbai gen (в базе исправлено 2026-08-21: было ошибочно dat)",
+    "ru": "обоих, обеих",
+    "lt": "abiejų",
+    "lv": "abu, abužu",
+    "en": "of both",
+    "de": "beider",
+    "pl": "obu"
+  },
+  {
+    "word": "abipussis",
+    "grammar_note": "aj",
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "abipussis",
+            "gen": "abipussis",
+            "dat": "abipussismu",
+            "akk": "abipussin"
+          },
+          "pl": {
+            "nom": "abipussjai",
+            "gen": "abipussin",
+            "dat": "abipussimans",
+            "akk": "abipussins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "abipussi",
+            "gen": "abipussis",
+            "dat": "abipuššai",
+            "akk": "abipussin"
+          },
+          "pl": {
+            "nom": "abipussis",
+            "gen": "abipussin",
+            "dat": "abipussimans",
+            "akk": "abipussins"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "abipussi",
+            "gen": "abipussis",
+            "dat": "abipussismu",
+            "akk": "abipussi"
+          },
+          "pl": {
+            "nom": "abipussjai",
+            "gen": "abipussin",
+            "dat": "abipussimans",
+            "akk": "abipussins"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "abipussjaisis",
+            "gen": "abipussjaisjas",
+            "dat": "abipussjaisjasmu",
+            "akk": "abipussjaisin"
+          },
+          "pl": {
+            "nom": "abipussjaisjai",
+            "gen": "abipussjaisin",
+            "dat": "abipussjaisimans",
+            "akk": "abipussjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "abipussjaisi",
+            "gen": "abipussjaisjas",
+            "dat": "abipussjaisjai",
+            "akk": "abipussjaisjan"
+          },
+          "pl": {
+            "nom": "abipussjaisjas",
+            "gen": "abipussjaisjan",
+            "dat": "abipussjaisjamans",
+            "akk": "abipussjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "abipussjaisi",
+            "gen": "abipussjaisjas",
+            "dat": "abipussjaisjasmu",
+            "akk": "abipussjaisi"
+          },
+          "pl": {
+            "nom": "abipussjaisjai",
+            "gen": "abipussjaisin",
+            "dat": "abipussjaisimans",
+            "akk": "abipussjaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaabipussjaisis",
+            "gen": "ukaabipussjaisjas",
+            "dat": "ukaabipussjaisjasmu",
+            "akk": "ukaabipussjaisin"
+          },
+          "pl": {
+            "nom": "ukaabipussjaisjai",
+            "gen": "ukaabipussjaisin",
+            "dat": "ukaabipussjaisimans",
+            "akk": "ukaabipussjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaabipussjaisi",
+            "gen": "ukaabipussjaisjas",
+            "dat": "ukaabipussjaisjai",
+            "akk": "ukaabipussjaisjan"
+          },
+          "pl": {
+            "nom": "ukaabipussjaisjas",
+            "gen": "ukaabipussjaisjan",
+            "dat": "ukaabipussjaisjamans",
+            "akk": "ukaabipussjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaabipussjaisi",
+            "gen": "ukaabipussjaisjas",
+            "dat": "ukaabipussjaisjasmu",
+            "akk": "ukaabipussjaisi"
+          },
+          "pl": {
+            "nom": "ukaabipussjaisjai",
+            "gen": "ukaabipussjaisin",
+            "dat": "ukaabipussjaisimans",
+            "akk": "ukaabipussjaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "abipussjai",
+        "comparative": "abipussjais",
+        "superlative": "ukaabipussjais"
+      }
+    }
+  },
+  {
+    "word": "begēdis",
+    "id": 519,
+    "w": "begēdis",
+    "f": "begīdis"
+  },
+  {
+    "word": "nigēdingis",
+    "id": 3914,
+    "w": "nigēdingis",
+    "f": "nigīdingis"
+  },
+  {
+    "word": "tūlalunks",
+    "id": 6575,
+    "w": "tūlalunks",
+    "f": "tūlilunks",
+    "ru": "многогранник, многоугольник"
+  },
+  {
+    "word": "regulārs tūlalunks",
+    "id": 5244,
+    "w": "regulārs tūlalunks",
+    "f": "regulārs tūlilunks",
+    "ru": "правильный многогранник, правильный многоугольник"
+  },
+  {
+    "word": "ōpisan",
+    "id": 6665,
+    "w": "ōpisan"
+  },
+  {
+    "word": "ōpicials",
+    "id": 8457,
+    "w": "ōpicials",
+    "f": "ōficials"
+  },
+  {
+    "word": "septinnjalunks",
+    "id": 10399,
+    "w": "septinnjalunks",
+    "f": "septinnelunks"
+  },
+  {
+    "word": "septinnjalunkins",
+    "id": 10398,
+    "w": "septinnjalunkins",
+    "f": "septinnelunkins"
+  },
+  {
+    "word": "audribbintun si",
+    "id": 8538,
+    "w": "audribbintun si",
+    "s": "ezze sebbei [Āu-, Dribbintun drv, nusikratyti, atkratīties]"
+  },
+  {
+    "word": "saldiskan",
+    "id": 10347,
+    "w": "saldiskan",
+    "s": "[Salds DRV, Süßigkeiten MK]"
+  },
+  {
+    "word": "klatka",
+    "id": 7306,
+    "de": "Käfig, Bauer\n(Vogelbauer), Vogelbauer"
+  },
+  {
+    "word": "pestiwālan",
+    "source": "[telepōns, ōpisan, prancōzis, festivāls ]",
+    "de": "Festival",
+    "en": "festival",
+    "lt": "festivalis",
+    "lv": "festivāls",
+    "pl": "Festiwal",
+    "ru": "фестиваль"
+  },
+  {
+    "word": "ussjalunks",
+    "source": "[Trillunks ]",
+    "de": "Sechseck, Hexagon",
+    "en": "hexagon",
+    "lt": "šešiakampis",
+    "lv": "sešstūris",
+    "pl": "sześciokąt, sześciobok, heksagon",
+    "ru": "шестиугольник"
+  },
+  {
+    "word": "kīlns",
+    "source": "[klīns, klynas, kyla]",
+    "de": "Hernie, Bruch",
+    "en": "hernia",
+    "lt": "trūkis, kyla, klynas",
+    "lv": "trūce, bruka",
+    "pl": "przepuklina, kiła",
+    "ru": "грыжа"
+  },
+  {
+    "word": "senēndintun",
+    "source": "[sen + ēnda, saindēt]",
+    "de": "vergiften",
+    "en": "to poison",
+    "lt": "apnuodyti, nunuodyti",
+    "lv": "saindēt, noindēt",
+    "pl": "otruć, otrucić, zatrucić",
+    "ru": "отравить"
+  },
+  {
+    "word": "enmērisna",
+    "source": "[enmēritwei]",
+    "de": "Verdacht",
+    "en": "suspicion",
+    "lt": "įtarimas",
+    "lv": "aizdomas",
+    "pl": "podejrzenie",
+    "ru": "подозрение"
+  },
+  {
+    "word": "enmērimins",
+    "source": "[enmēritwei]",
+    "de": "verdächtig",
+    "en": "suspicious",
+    "lt": "įtartinas",
+    "lv": "aizdomīgs",
+    "pl": "podejrzany",
+    "ru": "подозрительный"
+  },
+  {
+    "word": "spanstan",
+    "id": 5859,
+    "de": "Spindel (Rocken)",
+    "en": "spindle (distaff)",
+    "lt": "varpstė, verpstė",
+    "lv": "vārpste, vārpsta",
+    "pl": "wrzeciono (przęślica)",
+    "ru": "веретено (прялка, прасница)"
+  },
+  {
+    "word": "spanstīkan",
+    "source": "[Spanstan]",
+    "de": "Spindel",
+    "en": "spindle",
+    "lt": "verpstukas",
+    "lv": "vērpjamā vārpsta, vārpstiņa",
+    "pl": "wrzeciono",
+    "ru": "веретено"
+  },
+  {
+    "word": "peršaūtlan",
+    "source": "[per, šaūtun, aizšautne]",
+    "de": "Stöpsel",
+    "en": "chimney damper",
+    "lt": "krosniakaištis, juška, kaištis, sklandis, užsklanda",
+    "lv": "aizšautne, krāsns aizšautne",
+    "pl": "juszka do pieca",
+    "ru": "вьюшка (печная заслонка), заслонка"
+  },
+  {
+    "word": "abglābti",
+    "id": 9,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "abglābti",
+          "gen": "abglābtis",
+          "dat": "abglābtei",
+          "akk": "abglābtin"
+        },
+        "pl": {
+          "nom": "abglābtis",
+          "gen": "abglābtin",
+          "dat": "abglābtimans",
+          "akk": "abglābtins"
+        }
+      }
+    }
+  },
+  {
+    "word": "abōnisnā",
+    "id": 8799,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "abōnisnā",
+          "gen": "abōnisnas",
+          "dat": "abōnisnai",
+          "akk": "abōnisnan"
+        },
+        "pl": {
+          "nom": "abōnisnas",
+          "gen": "abōnisnan",
+          "dat": "abōnisnāmans",
+          "akk": "abōnisnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abōnitun",
+    "id": 8800,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "abōni"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "abōni"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "abōni"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "abōnimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "abōnitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "abōni"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "abōni"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "abōni"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "abōni"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "abōnimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "abōnitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "abōni"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma abōniwuns / abōniwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei abōniwuns / abōniwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast abōniwuns / abōniwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast abōniwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai abōniwusis / abōniwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei abōniwusis / abōniwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast abōniwusis / abōniwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst abōniwuns / abōniwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst abōniwuns / abōniwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst abōniwuns / abōniwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst abōniwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai abōniwusis / abōniwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei abōniwusis / abōniwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst abōniwusis / abōniwusjas"
+          }
+        ]
+      },
+      "optative": "abōnisei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "abōnis"
+        },
+        {
+          "p": "(jūs)",
+          "f": "abōniti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "abōnilai"
+        },
+        {
+          "p": "tū",
+          "f": "abōnilai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "abōnilai"
+        },
+        {
+          "p": "mes",
+          "f": "abōnilimai"
+        },
+        {
+          "p": "jūs",
+          "f": "abōnilitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "abōnilai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "abōnints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "abōnints",
+                "gen": "abōnintis",
+                "dat": "abōnintismu",
+                "akk": "abōnintin"
+              },
+              "pl": {
+                "nom": "abōnintjai",
+                "gen": "abōnintin",
+                "dat": "abonintimmans",
+                "akk": "abōnintins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "abonintī",
+                "gen": "abōnintjas",
+                "dat": "abōnintjai",
+                "akk": "abōnintjan"
+              },
+              "pl": {
+                "nom": "abōnintjas",
+                "gen": "abōnintjan",
+                "dat": "abonintjāmans",
+                "akk": "abōnintjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "abōninti",
+                "gen": "abōnintis",
+                "dat": "abōnintismu",
+                "akk": "abōnintin"
+              },
+              "pl": {
+                "nom": "abōnintjai",
+                "gen": "abōnintin",
+                "dat": "abonintimmans",
+                "akk": "abōnintins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "abōniwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "abōniwuns",
+                "gen": "abōniwusjas",
+                "dat": "abōniwusjasmu",
+                "akk": "abōniwusin"
+              },
+              "pl": {
+                "nom": "abōniwusis",
+                "gen": "abōniwusin",
+                "dat": "abōniwusimans",
+                "akk": "abōniwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "abōniwusi",
+                "gen": "abōniwusjas",
+                "dat": "abōniwusjai",
+                "akk": "abōniwusjan"
+              },
+              "pl": {
+                "nom": "abōniwusjas",
+                "gen": "abōniwusjan",
+                "dat": "abōniwusjamans",
+                "akk": "abōniwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "abōniwus",
+                "gen": "abōniwusjas",
+                "dat": "abōniwusjasmu",
+                "akk": "abōniwus"
+              },
+              "pl": {
+                "nom": "abōniwus",
+                "gen": "abōniwusin",
+                "dat": "abōniwusimans",
+                "akk": "abōniwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Страдательное причастие",
+          "headword": "abōnits",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "abōnits",
+                "gen": "abōnitas",
+                "dat": "abōnitasmu",
+                "akk": "abōnitan"
+              },
+              "pl": {
+                "nom": "abonitāi",
+                "gen": "abōnitan",
+                "dat": "abonitammans",
+                "akk": "abōnitans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "abonitā",
+                "gen": "abōnitas",
+                "dat": "abōnitai",
+                "akk": "abōnitan"
+              },
+              "pl": {
+                "nom": "abōnitas",
+                "gen": "abōnitan",
+                "dat": "abonitāmans",
+                "akk": "abōnitans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "abōnitan",
+                "gen": "abōnitas",
+                "dat": "abōnitasmu",
+                "akk": "abōnitan"
+              },
+              "pl": {
+                "nom": "abonitāi",
+                "gen": "abōnitan",
+                "dat": "abonitammans",
+                "akk": "abōnitans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "abōrts",
+    "id": 8679,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "abōrts",
+          "gen": "abōrtas",
+          "dat": "abōrtu",
+          "akk": "abōrtan"
+        },
+        "pl": {
+          "nom": "abōrtai",
+          "gen": "abōrtan",
+          "dat": "abōrtamans",
+          "akk": "abōrtans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abrānki",
+    "id": 14,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "abrānki",
+          "gen": "abrānkis",
+          "dat": "abrānkei",
+          "akk": "abrānkin"
+        },
+        "pl": {
+          "nom": "abrānkis",
+          "gen": "abrānkin",
+          "dat": "abrānkimans",
+          "akk": "abrānkins"
+        }
+      }
+    }
+  },
+  {
+    "word": "abstinēnci",
+    "id": 8801,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "abstinēnci",
+          "gen": "abstinēncis",
+          "dat": "abstinēncei",
+          "akk": "abstinēncin"
+        },
+        "pl": {
+          "nom": "abstinēncis",
+          "gen": "abstinēncin",
+          "dat": "abstinēncimans",
+          "akk": "abstinēncins"
+        }
+      }
+    }
+  },
+  {
+    "word": "abstinēnts",
+    "id": 8802,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "abstinēnts",
+          "gen": "abstinēntis",
+          "dat": "abstinēnti",
+          "akk": "abstinēntin"
+        },
+        "pl": {
+          "nom": "abstinēntjai",
+          "gen": "abstinēntin",
+          "dat": "abstinēntimans",
+          "akk": "abstinēntins"
+        }
+      }
+    }
+  },
+  {
+    "word": "abstrākcija",
+    "id": 8803,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "abstrākcija",
+          "gen": "abstrākcijas",
+          "dat": "abstrākcijai",
+          "akk": "abstrākcijan"
+        },
+        "pl": {
+          "nom": "abstrākcijas",
+          "gen": "abstrākcijan",
+          "dat": "abstrākcijamans",
+          "akk": "abstrākcijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abstrakciōnisms",
+    "id": 8804,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "abstrakciōnisms",
+          "gen": "abstrakciōnismas",
+          "dat": "abstrakciōnismu",
+          "akk": "abstrakciōnisman"
+        },
+        "pl": {
+          "nom": "abstrakciōnismai",
+          "gen": "abstrakciōnisman",
+          "dat": "abstrakciōnismamans",
+          "akk": "abstrakciōnismans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abstrakciōnists",
+    "id": 8805,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "abstrakciōnists",
+          "gen": "abstrakciōnistas",
+          "dat": "abstrakciōnistu",
+          "akk": "abstrakciōnistan"
+        },
+        "pl": {
+          "nom": "abstrakciōnistai",
+          "gen": "abstrakciōnistan",
+          "dat": "abstrakciōnistamans",
+          "akk": "abstrakciōnistans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abstraktan",
+    "id": 8806,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "abstraktan",
+          "gen": "abstraktas",
+          "dat": "abstraktu",
+          "akk": "abstraktan"
+        },
+        "pl": {
+          "nom": "abstraktāi",
+          "gen": "abstraktan",
+          "dat": "abstraktammans",
+          "akk": "abstraktans"
+        }
+      }
+    }
+  },
+  {
+    "word": "abstrakts",
+    "id": 8807,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "abstrakts",
+            "gen": "abstraktas",
+            "dat": "abstraktasmu",
+            "akk": "abstraktan"
+          },
+          "pl": {
+            "nom": "abstraktai",
+            "gen": "abstraktan",
+            "dat": "abstraktamans",
+            "akk": "abstraktans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "abstrakta",
+            "gen": "abstraktas",
+            "dat": "abstraktai",
+            "akk": "abstraktan"
+          },
+          "pl": {
+            "nom": "abstraktas",
+            "gen": "abstraktan",
+            "dat": "abstraktamans",
+            "akk": "abstraktans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "abstraktan",
+            "gen": "abstraktas",
+            "dat": "abstraktasmu",
+            "akk": "abstraktan"
+          },
+          "pl": {
+            "nom": "abstraktai",
+            "gen": "abstraktan",
+            "dat": "abstraktamans",
+            "akk": "abstraktans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "abstraktaisis",
+            "gen": "abstraktaisjas",
+            "dat": "abstraktaisjasmu",
+            "akk": "abstraktaisin"
+          },
+          "pl": {
+            "nom": "abstraktaisjai",
+            "gen": "abstraktaisin",
+            "dat": "abstraktaisimans",
+            "akk": "abstraktaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "abstraktaisi",
+            "gen": "abstraktaisjas",
+            "dat": "abstraktaisjai",
+            "akk": "abstraktaisjan"
+          },
+          "pl": {
+            "nom": "abstraktaisjas",
+            "gen": "abstraktaisjan",
+            "dat": "abstraktaisjamans",
+            "akk": "abstraktaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "abstraktaisi",
+            "gen": "abstraktaisjas",
+            "dat": "abstraktaisjasmu",
+            "akk": "abstraktaisi"
+          },
+          "pl": {
+            "nom": "abstraktaisjai",
+            "gen": "abstraktaisin",
+            "dat": "abstraktaisimans",
+            "akk": "abstraktaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaabstraktaisis",
+            "gen": "ukaabstraktaisjas",
+            "dat": "ukaabstraktaisjasmu",
+            "akk": "ukaabstraktaisin"
+          },
+          "pl": {
+            "nom": "ukaabstraktaisjai",
+            "gen": "ukaabstraktaisin",
+            "dat": "ukaabstraktaisimans",
+            "akk": "ukaabstraktaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaabstraktaisi",
+            "gen": "ukaabstraktaisjas",
+            "dat": "ukaabstraktaisjai",
+            "akk": "ukaabstraktaisjan"
+          },
+          "pl": {
+            "nom": "ukaabstraktaisjas",
+            "gen": "ukaabstraktaisjan",
+            "dat": "ukaabstraktaisjamans",
+            "akk": "ukaabstraktaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaabstraktaisi",
+            "gen": "ukaabstraktaisjas",
+            "dat": "ukaabstraktaisjasmu",
+            "akk": "ukaabstraktaisi"
+          },
+          "pl": {
+            "nom": "ukaabstraktaisjai",
+            "gen": "ukaabstraktaisin",
+            "dat": "ukaabstraktaisimans",
+            "akk": "ukaabstraktaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "abstraktai",
+        "comparative": "abstraktais",
+        "superlative": "ukaabstraktais"
+      }
+    }
+  },
+  {
+    "word": "absōrbitun",
+    "id": 15,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "absōrbi"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "absōrbi"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "absōrbi"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "absōrbimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "absōrbitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "absōrbi"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "absōrbi"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "absōrbi"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "absōrbi"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "absōrbimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "absōrbitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "absōrbi"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma absōrbiwuns / absōrbiwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei absōrbiwuns / absōrbiwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast absōrbiwuns / absōrbiwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast absōrbiwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai absōrbiwusis / absōrbiwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei absōrbiwusis / absōrbiwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast absōrbiwusis / absōrbiwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst absōrbiwuns / absōrbiwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst absōrbiwuns / absōrbiwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst absōrbiwuns / absōrbiwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst absōrbiwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai absōrbiwusis / absōrbiwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei absōrbiwusis / absōrbiwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst absōrbiwusis / absōrbiwusjas"
+          }
+        ]
+      },
+      "optative": "absōrbisei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "absōrbis"
+        },
+        {
+          "p": "(jūs)",
+          "f": "absōrbiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "absōrbilai"
+        },
+        {
+          "p": "tū",
+          "f": "absōrbilai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "absōrbilai"
+        },
+        {
+          "p": "mes",
+          "f": "absōrbilimai"
+        },
+        {
+          "p": "jūs",
+          "f": "absōrbilitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "absōrbilai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "absōrbints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "absōrbints",
+                "gen": "absōrbintis",
+                "dat": "absōrbintismu",
+                "akk": "absōrbintin"
+              },
+              "pl": {
+                "nom": "absōrbintjai",
+                "gen": "absōrbintin",
+                "dat": "absorbintimmans",
+                "akk": "absōrbintins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "absorbintī",
+                "gen": "absōrbintjas",
+                "dat": "absōrbintjai",
+                "akk": "absōrbintjan"
+              },
+              "pl": {
+                "nom": "absōrbintjas",
+                "gen": "absōrbintjan",
+                "dat": "absorbintjāmans",
+                "akk": "absōrbintjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "absōrbinti",
+                "gen": "absōrbintis",
+                "dat": "absōrbintismu",
+                "akk": "absōrbintin"
+              },
+              "pl": {
+                "nom": "absōrbintjai",
+                "gen": "absōrbintin",
+                "dat": "absorbintimmans",
+                "akk": "absōrbintins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "absōrbiwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "absōrbiwuns",
+                "gen": "absōrbiwusjas",
+                "dat": "absōrbiwusjasmu",
+                "akk": "absōrbiwusin"
+              },
+              "pl": {
+                "nom": "absōrbiwusis",
+                "gen": "absōrbiwusin",
+                "dat": "absōrbiwusimans",
+                "akk": "absōrbiwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "absōrbiwusi",
+                "gen": "absōrbiwusjas",
+                "dat": "absōrbiwusjai",
+                "akk": "absōrbiwusjan"
+              },
+              "pl": {
+                "nom": "absōrbiwusjas",
+                "gen": "absōrbiwusjan",
+                "dat": "absōrbiwusjamans",
+                "akk": "absōrbiwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "absōrbiwus",
+                "gen": "absōrbiwusjas",
+                "dat": "absōrbiwusjasmu",
+                "akk": "absōrbiwus"
+              },
+              "pl": {
+                "nom": "absōrbiwus",
+                "gen": "absōrbiwusin",
+                "dat": "absōrbiwusimans",
+                "akk": "absōrbiwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Страдательное причастие",
+          "headword": "absōrbits",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "absōrbits",
+                "gen": "absōrbitas",
+                "dat": "absōrbitasmu",
+                "akk": "absōrbitan"
+              },
+              "pl": {
+                "nom": "absorbitāi",
+                "gen": "absōrbitan",
+                "dat": "absorbitammans",
+                "akk": "absōrbitans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "absorbitā",
+                "gen": "absōrbitas",
+                "dat": "absōrbitai",
+                "akk": "absōrbitan"
+              },
+              "pl": {
+                "nom": "absōrbitas",
+                "gen": "absōrbitan",
+                "dat": "absorbitāmans",
+                "akk": "absōrbitans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "absōrbitan",
+                "gen": "absōrbitas",
+                "dat": "absōrbitasmu",
+                "akk": "absōrbitan"
+              },
+              "pl": {
+                "nom": "absorbitāi",
+                "gen": "absōrbitan",
+                "dat": "absorbitammans",
+                "akk": "absōrbitans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "ikrāi",
+    "id": 2168,
+    "ru": "икра (ноги), голень"
+  },
+  {
+    "word": "peisāliwezis",
+    "id": 10268,
+    "w": "peisāliwezis",
+    "s": "[peisāli, weztun, kellawezis]"
+  },
+  {
+    "word": "pōstiniks",
+    "id": 10269,
+    "de": "Postangestellte, Postbote",
+    "en": "postal worker, postman",
+    "lt": "paštininkas, laiškanešys",
+    "lv": "pasta darbinieks, pastnieks",
+    "pl": "pocztowiec, pracownik pocztowy, listonosz",
+    "ru": "почтовый служащий, почтальон"
+  },
+  {
+    "word": "eiskjareggis",
+    "source": "[eīskus, regītwei]",
+    "de": "Hellseher",
+    "en": "clairvoyant",
+    "lt": "aiškiaregys",
+    "lv": "gaišreģis",
+    "pl": "jasnowidz, jasnowidzący",
+    "ru": "ясновидец, ясновидящий"
+  },
+  {
+    "word": "eīskjareggibi",
+    "source": "[eīskus, regītwei]",
+    "de": "Hellsehen",
+    "en": "clairvoyance",
+    "lt": "aiškiaregystė",
+    "lv": "gaišredzība",
+    "pl": "jasnowidzenie",
+    "ru": "ясновидение"
+  },
+  {
+    "word": "absurditāti",
+    "id": 16,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "absurditāti",
+          "gen": "absurditātis",
+          "dat": "absurditātei",
+          "akk": "absurditātin"
+        },
+        "pl": {
+          "nom": "absurditātis",
+          "gen": "absurditātin",
+          "dat": "absurditātimans",
+          "akk": "absurditātins"
+        }
+      }
+    }
+  }
+]
