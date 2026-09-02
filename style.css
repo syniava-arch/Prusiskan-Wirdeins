@@ -380,7 +380,7 @@ body{
   margin-bottom: 6px;
 }
 .mw-para-table{ width: 100%; border-collapse: collapse; table-layout: fixed; }
-.mw-para-table td{ padding: 2px 0; font-size: 13.5px; }
+.mw-para-table td{ padding-top: 2px; padding-bottom: 2px; font-size: 13.5px; }
 .mw-para-case{
   font-family: var(--mono);
   font-size: 10.5px;
@@ -394,6 +394,15 @@ body{
   color: var(--parchment);
   overflow-wrap: anywhere;
   word-break: break-word;
+}
+
+.mw-adv-list{ display: flex; flex-direction: column; gap: 10px; }
+.mw-adv-row{ }
+.mw-adv-label{
+  font-family: var(--sans);
+  font-size: 11px;
+  color: var(--amber-dim);
+  margin-bottom: 2px;
 }
 
 .mw-degree-title{
@@ -415,7 +424,7 @@ body{
   margin-bottom: 4px;
 }
 .mw-conj-table{ width: 100%; border-collapse: collapse; }
-.mw-conj-table td{ padding: 2px 0; font-size: 13.5px; }
+.mw-conj-table td{ padding-top: 2px; padding-bottom: 2px; font-size: 13.5px; }
 .mw-conj-pron{
   font-family: var(--mono);
   font-size: 11px;
@@ -440,6 +449,7 @@ body{
   .search-wrap{ max-width: none; width: 100%; }
   .mw-paradigm-grid{ grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; }
   .mw-para-case{ width: 32px; font-size: 10px; padding-right: 6px; }
+  .mw-adv-label{ font-size: 10.5px; }
 }
 
 @media (prefers-reduced-motion: reduce){

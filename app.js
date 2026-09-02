@@ -226,9 +226,9 @@
       if (paradigm.adverb){
         const rows = DEGREE_KEYS.filter(deg => paradigm.adverb[deg]);
         if (rows.length){
-          out += `<h4 class="mw-degree-title">Наречие</h4><table class="mw-para-table">
-            ${rows.map(deg => `<tr><td class="mw-para-case">${DEGREE_LABEL[deg]}</td><td class="mw-para-form">${escapeHtml(paradigm.adverb[deg])}</td></tr>`).join("")}
-          </table>`;
+          out += `<h4 class="mw-degree-title">Наречие</h4><div class="mw-adv-list">
+            ${rows.map(deg => `<div class="mw-adv-row"><div class="mw-adv-label">${DEGREE_LABEL[deg]}</div><div class="mw-para-form">${escapeHtml(paradigm.adverb[deg])}</div></div>`).join("")}
+          </div>`;
         }
       }
       out += `</div>`;
