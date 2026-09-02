@@ -379,15 +379,22 @@ body{
   color: var(--parchment-dim);
   margin-bottom: 6px;
 }
-.mw-para-table{ width: 100%; border-collapse: collapse; }
+.mw-para-table{ width: 100%; border-collapse: collapse; table-layout: fixed; }
 .mw-para-table td{ padding: 2px 0; font-size: 13.5px; }
 .mw-para-case{
   font-family: var(--mono);
   font-size: 10.5px;
   color: var(--amber-dim);
-  width: 40px;
+  width: 38px;
+  padding-right: 8px;
+  vertical-align: top;
 }
-.mw-para-form{ font-family: var(--serif); color: var(--parchment); }
+.mw-para-form{
+  font-family: var(--serif);
+  color: var(--parchment);
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
 
 .mw-degree-title{
   font-family: var(--sans);
@@ -417,7 +424,12 @@ body{
   vertical-align: top;
   padding-right: 8px;
 }
-.mw-conj-form{ font-family: var(--serif); color: var(--parchment); }
+.mw-conj-form{
+  font-family: var(--serif);
+  color: var(--parchment);
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
 
 /* ---------- Responsive ---------- */
 
@@ -426,6 +438,8 @@ body{
   .entry-tag{ display:none; }
   .letter-heading{ font-size: 30px; }
   .search-wrap{ max-width: none; width: 100%; }
+  .mw-paradigm-grid{ grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; }
+  .mw-para-case{ width: 32px; font-size: 10px; padding-right: 6px; }
 }
 
 @media (prefers-reduced-motion: reduce){
