@@ -5356,5 +5356,571 @@
         }
       ]
     }
+  },
+  {
+    "word": "āudairiskan",
+    "id": 278,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "āudairiskan",
+          "gen": "āudairiskas",
+          "dat": "āudairisku",
+          "akk": "āudairiskan"
+        },
+        "pl": {
+          "nom": "audairiskāi",
+          "gen": "āudairiskan",
+          "dat": "audairiskammans",
+          "akk": "āudairiskans"
+        }
+      }
+    }
+  },
+  {
+    "word": "āudairisks",
+    "id": 277,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "āudairisks",
+            "gen": "āudairiskas",
+            "dat": "āudairiskasmu",
+            "akk": "āudairiskan"
+          },
+          "pl": {
+            "nom": "āudairiskai",
+            "gen": "āudairiskan",
+            "dat": "āudairiskamans",
+            "akk": "āudairiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "āudairiska",
+            "gen": "āudairiskas",
+            "dat": "āudairiskai",
+            "akk": "āudairiskan"
+          },
+          "pl": {
+            "nom": "āudairiskas",
+            "gen": "āudairiskan",
+            "dat": "āudairiskamans",
+            "akk": "āudairiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "āudairiskan",
+            "gen": "āudairiskas",
+            "dat": "āudairiskasmu",
+            "akk": "āudairiskan"
+          },
+          "pl": {
+            "nom": "āudairiskai",
+            "gen": "āudairiskan",
+            "dat": "āudairiskamans",
+            "akk": "āudairiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "āudairiskaisis",
+            "gen": "āudairiskaisjas",
+            "dat": "āudairiskaisjasmu",
+            "akk": "āudairiskaisin"
+          },
+          "pl": {
+            "nom": "āudairiskaisjai",
+            "gen": "āudairiskaisin",
+            "dat": "āudairiskaisimans",
+            "akk": "āudairiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "āudairiskaisi",
+            "gen": "āudairiskaisjas",
+            "dat": "āudairiskaisjai",
+            "akk": "āudairiskaisjan"
+          },
+          "pl": {
+            "nom": "āudairiskaisjas",
+            "gen": "āudairiskaisjan",
+            "dat": "āudairiskaisjamans",
+            "akk": "āudairiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "āudairiskaisi",
+            "gen": "āudairiskaisjas",
+            "dat": "āudairiskaisjasmu",
+            "akk": "āudairiskaisi"
+          },
+          "pl": {
+            "nom": "āudairiskaisjai",
+            "gen": "āudairiskaisin",
+            "dat": "āudairiskaisimans",
+            "akk": "āudairiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaāudairiskaisis",
+            "gen": "ukaāudairiskaisjas",
+            "dat": "ukaāudairiskaisjasmu",
+            "akk": "ukaāudairiskaisin"
+          },
+          "pl": {
+            "nom": "ukaāudairiskaisjai",
+            "gen": "ukaāudairiskaisin",
+            "dat": "ukaāudairiskaisimans",
+            "akk": "ukaāudairiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaāudairiskaisi",
+            "gen": "ukaāudairiskaisjas",
+            "dat": "ukaāudairiskaisjai",
+            "akk": "ukaāudairiskaisjan"
+          },
+          "pl": {
+            "nom": "ukaāudairiskaisjas",
+            "gen": "ukaāudairiskaisjan",
+            "dat": "ukaāudairiskaisjamans",
+            "akk": "ukaāudairiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaāudairiskaisi",
+            "gen": "ukaāudairiskaisjas",
+            "dat": "ukaāudairiskaisjasmu",
+            "akk": "ukaāudairiskaisi"
+          },
+          "pl": {
+            "nom": "ukaāudairiskaisjai",
+            "gen": "ukaāudairiskaisin",
+            "dat": "ukaāudairiskaisimans",
+            "akk": "ukaāudairiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "āudairiskai",
+        "comparative": "āudairiskais",
+        "superlative": "ukaāudairiskais"
+      }
+    }
+  },
+  {
+    "word": "āudalban",
+    "id": 8883,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "āudalban",
+          "gen": "āudalbas",
+          "dat": "āudalbu",
+          "akk": "āudalban"
+        },
+        "pl": {
+          "nom": "audalbāi",
+          "gen": "āudalban",
+          "dat": "audalbammans",
+          "akk": "āudalbans"
+        }
+      }
+    }
+  },
+  {
+    "word": "āudalbis",
+    "id": 8884,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "āudalbis",
+          "gen": "āudalbijas",
+          "dat": "āudalbiju",
+          "akk": "āudalbijan"
+        },
+        "pl": {
+          "nom": "āudalbijai",
+          "gen": "āudalbijan",
+          "dat": "āudalbimans",
+          "akk": "āudalbijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "āudalbtun",
+    "id": 8885,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "āudalba"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "āudalba"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "āudalba"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "āudalbimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "āudalbitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "āudalba"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "āudalba"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "āudalba"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "āudalba"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "āudalbimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "āudalbitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "āudalba"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma āudalbuns / āudalbusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei āudalbuns / āudalbusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast āudalbuns / āudalbusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast āudalbus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai āudalbusis / āudalbusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei āudalbusis / āudalbusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast āudalbusis / āudalbusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst āudalbuns / āudalbusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst āudalbuns / āudalbusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst āudalbuns / āudalbusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst āudalbus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai āudalbusis / āudalbusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei āudalbusis / āudalbusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst āudalbusis / āudalbusjas"
+          }
+        ]
+      },
+      "optative": "āudalbsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "āudalbais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "āudalbaiti"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "āudalbants",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "āudalbants",
+                "gen": "āudalbantis",
+                "dat": "āudalbantismu",
+                "akk": "āudalbantin"
+              },
+              "pl": {
+                "nom": "āudalbantjai",
+                "gen": "āudalbantin",
+                "dat": "audalbantimmans",
+                "akk": "āudalbantins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "audalbantī",
+                "gen": "āudalbantjas",
+                "dat": "āudalbantjai",
+                "akk": "āudalbantjan"
+              },
+              "pl": {
+                "nom": "āudalbantjas",
+                "gen": "āudalbantjan",
+                "dat": "audalbantjāmans",
+                "akk": "āudalbantjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "āudalbanti",
+                "gen": "āudalbantis",
+                "dat": "āudalbantismu",
+                "akk": "āudalbantin"
+              },
+              "pl": {
+                "nom": "āudalbantjai",
+                "gen": "āudalbantin",
+                "dat": "audalbantimmans",
+                "akk": "āudalbantins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "āudalbuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "āudalbuns",
+                "gen": "āudalbusjas",
+                "dat": "āudalbusjasmu",
+                "akk": "āudalbusin"
+              },
+              "pl": {
+                "nom": "āudalbusis",
+                "gen": "āudalbusin",
+                "dat": "āudalbusimans",
+                "akk": "āudalbusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "āudalbusi",
+                "gen": "āudalbusjas",
+                "dat": "āudalbusjai",
+                "akk": "āudalbusjan"
+              },
+              "pl": {
+                "nom": "āudalbusjas",
+                "gen": "āudalbusjan",
+                "dat": "āudalbusjamans",
+                "akk": "āudalbusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "āudalbus",
+                "gen": "āudalbusjas",
+                "dat": "āudalbusjasmu",
+                "akk": "āudalbus"
+              },
+              "pl": {
+                "nom": "āudalbus",
+                "gen": "āudalbusin",
+                "dat": "āudalbusimans",
+                "akk": "āudalbus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "āudalbts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "āudalbts",
+                "gen": "āudalbtas",
+                "dat": "āudalbtasmu",
+                "akk": "āudalbtan"
+              },
+              "pl": {
+                "nom": "audalbtāi",
+                "gen": "āudalbtan",
+                "dat": "audalbtammans",
+                "akk": "āudalbtans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "audalbtā",
+                "gen": "āudalbtas",
+                "dat": "āudalbtai",
+                "akk": "āudalbtan"
+              },
+              "pl": {
+                "nom": "āudalbtas",
+                "gen": "āudalbtan",
+                "dat": "audalbtāmans",
+                "akk": "āudalbtans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "āudalbtan",
+                "gen": "āudalbtas",
+                "dat": "āudalbtasmu",
+                "akk": "āudalbtan"
+              },
+              "pl": {
+                "nom": "audalbtāi",
+                "gen": "āudalbtan",
+                "dat": "audalbtammans",
+                "akk": "āudalbtans"
+              }
+            }
+          }
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "āudalblai"
+        },
+        {
+          "p": "tū",
+          "f": "āudalblai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "āudalblai"
+        },
+        {
+          "p": "mes",
+          "f": "āudalblimai"
+        },
+        {
+          "p": "jūs",
+          "f": "āudalblitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "āudalblai"
+        }
+      ]
+    }
+  },
+  {
+    "word": "āudegan",
+    "id": 8886,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "āudegan",
+          "gen": "āudegas",
+          "dat": "āudegu",
+          "akk": "āudegan"
+        },
+        "pl": {
+          "nom": "audegāi",
+          "gen": "āudegan",
+          "dat": "audegammans",
+          "akk": "āudegans"
+        }
+      }
+    }
+  },
+  {
+    "word": "āudegli",
+    "id": 283,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "āudegli",
+          "gen": "āudeglis",
+          "dat": "āudeglei",
+          "akk": "āudeglin"
+        },
+        "pl": {
+          "nom": "āudeglis",
+          "gen": "āudeglin",
+          "dat": "āudeglimans",
+          "akk": "āudeglins"
+        }
+      }
+    }
+  },
+  {
+    "word": "āudijan",
+    "id": 10832,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "āudijan",
+          "gen": "āudijas",
+          "dat": "āudiju",
+          "akk": "āudijan"
+        },
+        "pl": {
+          "nom": "audijāi",
+          "gen": "āudijan",
+          "dat": "audijammans",
+          "akk": "āudijans"
+        }
+      }
+    }
   }
 ]
