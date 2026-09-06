@@ -1,10 +1,699 @@
 {
-  "generated_at": "20260906T181731Z",
+  "generated_at": "20260906T181852Z",
   "repository": "syniava-arch/Prusiskan-Wirdeins",
   "total_added": 10489,
   "total_modified": 0,
   "total_removed": 0,
   "added_sample_with_forms": [
+    {
+      "original": {
+        "i": 98,
+        "w": "āldī",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[aldija, aldyti, aldot, łódź MK]",
+        "de": "Boot",
+        "en": "boat",
+        "lt": "valtis",
+        "lv": "laiva",
+        "pl": "łódź, łodyga (łódź)",
+        "ru": "лодка"
+      },
+      "search_entry": {
+        "word": "āldī",
+        "numb": "51",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "aldī",
+            "āldjas"
+          ],
+          [
+            "Genitive",
+            "āldjas",
+            "āldjan"
+          ],
+          [
+            "Dative",
+            "āldjai",
+            "aldjāmans"
+          ],
+          [
+            "Accusative",
+            "āldjan",
+            "āldjans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8505,
+        "w": "Ālpin murrautajs",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Alpenmurmeltier, Alpu murkšķis MK]",
+        "de": "Alpenmurmeltier",
+        "en": "alpine marmot",
+        "lt": "alpinis",
+        "lv": "Alpu murkšķis",
+        "pl": "świstak",
+        "ru": "альпийский сурок"
+      },
+      "search_entry": {
+        "word": "Ālpin murrautajs",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "Ālpin murrautajs",
+            "Ālpin murrautajai"
+          ],
+          [
+            "Genitive",
+            "Ālpin murrautajas",
+            "Ālpin murrautajan"
+          ],
+          [
+            "Dative",
+            "Ālpin murrautaju",
+            "Ālpin murrautajamans"
+          ],
+          [
+            "Accusative",
+            "Ālpin murrautajan",
+            "Ālpin murrautajans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 69,
+        "w": "ājs",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Hai, Haifisch + haizivs MK]",
+        "de": "Haifisch",
+        "en": "shark",
+        "lt": "ryklys",
+        "lv": "haizivs",
+        "pl": "rekin",
+        "ru": "акула"
+      },
+      "search_entry": {
+        "word": "ājs",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "ājs",
+            "ājai"
+          ],
+          [
+            "Genitive",
+            "ājas",
+            "ājan"
+          ],
+          [
+            "Dative",
+            "āju",
+            "ājamans"
+          ],
+          [
+            "Accusative",
+            "ājan",
+            "ājans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 66,
+        "w": "āistwei",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Ennoys E 158 VM]",
+        "de": "sich erhitzen",
+        "en": "to heat up (to become warmer)",
+        "lt": "kaisti",
+        "lv": "karst, kaitēties",
+        "pl": "rozgrzewać się",
+        "ru": "нагреваться"
+      },
+      "search_entry": {
+        "word": "āistwei",
+        "numb": "95",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āistants",
+            "āistantjai"
+          ],
+          [
+            "Genitive",
+            "āistantis",
+            "āistantin"
+          ],
+          [
+            "Dative",
+            "āistantismu",
+            "aistantimmans"
+          ],
+          [
+            "Accusative",
+            "āistantin",
+            "āistantins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8506,
+        "w": "Ālpis",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "nom pl tantum f [Alpen MK]",
+        "de": "Alpen",
+        "en": "the Alps",
+        "lt": "Alpės",
+        "lv": "Alpi",
+        "pl": "Alpy",
+        "ru": "Альпы"
+      },
+      "search_entry": {
+        "word": "Ālpis",
+        "numb": "52",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "Ālpis",
+            "Ālpis"
+          ],
+          [
+            "Genitive",
+            "Ālpijas",
+            "Ālpin"
+          ],
+          [
+            "Dative",
+            "Ālpijai",
+            "Ālpimans"
+          ],
+          [
+            "Accusative",
+            "Ālpijan",
+            "Ālpins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 103,
+        "w": "ālkan",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Alkayne ON JG + alkas, alka MK]",
+        "de": "Tempel",
+        "en": "temple",
+        "lt": "šventovė",
+        "lv": "svētnīca",
+        "pl": "świątynia",
+        "ru": "святилище"
+      },
+      "search_entry": {
+        "word": "ālkan",
+        "numb": "35",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "neut",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "ālkan",
+            "alkāi"
+          ],
+          [
+            "Genitive",
+            "ālkas",
+            "ālkan"
+          ],
+          [
+            "Dative",
+            "ālku",
+            "alkammans"
+          ],
+          [
+            "Accusative",
+            "ālkan",
+            "ālkans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8475,
+        "w": "àsmens",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[ašmuo, akmuo + asmens, akmens + kamień MK]",
+        "de": "Schneide",
+        "en": "blade (edge)",
+        "lt": "ašmenys",
+        "lv": "asmens",
+        "pl": "ostrze",
+        "ru": "острие"
+      },
+      "search_entry": {
+        "word": "àsmens",
+        "numb": "61",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "àsmens",
+            "àsmenes / àsmenjai"
+          ],
+          [
+            "Genitive",
+            "àsmenes",
+            "àsmenin"
+          ],
+          [
+            "Dative",
+            "àsmeni",
+            "àsmenimans"
+          ],
+          [
+            "Accusative",
+            "àsmenin",
+            "àsmenins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 127,
+        "w": "ámzisks",
+        "l": "A",
+        "f": "ámziskas",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Amzin drv]",
+        "de": "Volks-",
+        "en": "folk attr",
+        "lt": "liaudiškas",
+        "lv": "tautisks",
+        "pl": "ludowy",
+        "ru": "народный"
+      },
+      "search_entry": {
+        "word": "ámzisks",
+        "numb": "25",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "ámzisks",
+            "ámziskai"
+          ],
+          [
+            "Genitive",
+            "ámziskas",
+            "ámziskan"
+          ],
+          [
+            "Dative",
+            "ámziskasmu",
+            "ámziskamans"
+          ],
+          [
+            "Accusative",
+            "ámziskan",
+            "ámziskans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8809,
+        "w": "Ādams",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Adams 63]",
+        "de": "Adam",
+        "en": "Adam",
+        "lt": "Adomas",
+        "lv": "Ādams",
+        "pl": "Adam",
+        "ru": "Адам"
+      },
+      "search_entry": {
+        "word": "Ādams",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "Ādams",
+            "Ādamai"
+          ],
+          [
+            "Genitive",
+            "Ādamas",
+            "Ādaman"
+          ],
+          [
+            "Dative",
+            "Ādamu",
+            "Ādamamans"
+          ],
+          [
+            "Accusative",
+            "Ādaman",
+            "Ādamans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8838,
+        "w": "ālibi",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Alibi MK]",
+        "de": "Alibi",
+        "en": "alibi",
+        "lt": "alibi",
+        "lv": "alibi",
+        "pl": "alibi",
+        "ru": "алиби"
+      },
+      "search_entry": {
+        "word": "ālibi",
+        "numb": "0n",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "ālibi0n",
+            "ālibi0n"
+          ],
+          [
+            "Genitive",
+            "ālibi0n",
+            "ālibi0n"
+          ],
+          [
+            "Dative",
+            "ālibi0n",
+            "ālibi0n"
+          ],
+          [
+            "Accusative",
+            "ālibi0n",
+            "ālibi0n"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 32,
+        "w": "àfrikisks",
+        "l": "A",
+        "f": "àfrikiskas",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Afrika drv]",
+        "de": "afrikanisch",
+        "en": "African",
+        "lt": "afrikietiškas",
+        "lv": "afrikānisks",
+        "pl": "afrykański",
+        "ru": "африканский"
+      },
+      "search_entry": {
+        "word": "àfrikisks",
+        "numb": "25",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "àfrikisks",
+            "àfrikiskai"
+          ],
+          [
+            "Genitive",
+            "àfrikiskas",
+            "àfrikiskan"
+          ],
+          [
+            "Dative",
+            "àfrikiskasmu",
+            "àfrikiskamans"
+          ],
+          [
+            "Accusative",
+            "àfrikiskan",
+            "àfrikiskans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8007,
+        "w": "àswanretiks",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Horserettich DIA, aswinan VM, swēikis VM MK]",
+        "de": "Meerrettich",
+        "en": "horseradish",
+        "lt": "krienas",
+        "lv": "mārrutki",
+        "pl": "chrzan",
+        "ru": "хрен"
+      },
+      "search_entry": {
+        "word": "àswanretiks",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "àswanretiks",
+            "àswanretikai"
+          ],
+          [
+            "Genitive",
+            "àswanretikas",
+            "àswanretikan"
+          ],
+          [
+            "Dative",
+            "àswanretiku",
+            "àswanretikamans"
+          ],
+          [
+            "Accusative",
+            "àswanretikan",
+            "àswanretikans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 112,
+        "w": "ālps",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Alf DIA MK]",
+        "de": "Papierdrache",
+        "en": "kite",
+        "lt": "aitvaras (žaislinis)",
+        "lv": "papīra pūķis",
+        "pl": "latawiec (zabawka)",
+        "ru": "бумажный змей"
+      },
+      "search_entry": {
+        "word": "ālps",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "ālps",
+            "ālpai"
+          ],
+          [
+            "Genitive",
+            "ālpas",
+            "ālpan"
+          ],
+          [
+            "Dative",
+            "ālpu",
+            "ālpamans"
+          ],
+          [
+            "Accusative",
+            "ālpan",
+            "ālpans"
+          ]
+        ]
+      }
+    },
     {
       "original": {
         "i": 8835,
@@ -113,589 +802,6 @@
     },
     {
       "original": {
-        "i": 32,
-        "w": "àfrikisks",
-        "l": "A",
-        "f": "àfrikiskas",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Afrika drv]",
-        "de": "afrikanisch",
-        "en": "African",
-        "lt": "afrikietiškas",
-        "lv": "afrikānisks",
-        "pl": "afrykański",
-        "ru": "африканский"
-      },
-      "search_entry": {
-        "word": "àfrikisks",
-        "numb": "25",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "àfrikisks",
-            "àfrikiskai"
-          ],
-          [
-            "Genitive",
-            "àfrikiskas",
-            "àfrikiskan"
-          ],
-          [
-            "Dative",
-            "àfrikiskasmu",
-            "àfrikiskamans"
-          ],
-          [
-            "Accusative",
-            "àfrikiskan",
-            "àfrikiskans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 8475,
-        "w": "àsmens",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[ašmuo, akmuo + asmens, akmens + kamień MK]",
-        "de": "Schneide",
-        "en": "blade (edge)",
-        "lt": "ašmenys",
-        "lv": "asmens",
-        "pl": "ostrze",
-        "ru": "острие"
-      },
-      "search_entry": {
-        "word": "àsmens",
-        "numb": "61",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "àsmens",
-            "àsmenes / àsmenjai"
-          ],
-          [
-            "Genitive",
-            "àsmenes",
-            "àsmenin"
-          ],
-          [
-            "Dative",
-            "àsmeni",
-            "àsmenimans"
-          ],
-          [
-            "Accusative",
-            "àsmenin",
-            "àsmenins"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 98,
-        "w": "āldī",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[aldija, aldyti, aldot, łódź MK]",
-        "de": "Boot",
-        "en": "boat",
-        "lt": "valtis",
-        "lv": "laiva",
-        "pl": "łódź, łodyga (łódź)",
-        "ru": "лодка"
-      },
-      "search_entry": {
-        "word": "āldī",
-        "numb": "51",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "fem",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "aldī",
-            "āldjas"
-          ],
-          [
-            "Genitive",
-            "āldjas",
-            "āldjan"
-          ],
-          [
-            "Dative",
-            "āldjai",
-            "aldjāmans"
-          ],
-          [
-            "Accusative",
-            "āldjan",
-            "āldjans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 69,
-        "w": "ājs",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Hai, Haifisch + haizivs MK]",
-        "de": "Haifisch",
-        "en": "shark",
-        "lt": "ryklys",
-        "lv": "haizivs",
-        "pl": "rekin",
-        "ru": "акула"
-      },
-      "search_entry": {
-        "word": "ājs",
-        "numb": "32",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "ājs",
-            "ājai"
-          ],
-          [
-            "Genitive",
-            "ājas",
-            "ājan"
-          ],
-          [
-            "Dative",
-            "āju",
-            "ājamans"
-          ],
-          [
-            "Accusative",
-            "ājan",
-            "ājans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 8007,
-        "w": "àswanretiks",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Horserettich DIA, aswinan VM, swēikis VM MK]",
-        "de": "Meerrettich",
-        "en": "horseradish",
-        "lt": "krienas",
-        "lv": "mārrutki",
-        "pl": "chrzan",
-        "ru": "хрен"
-      },
-      "search_entry": {
-        "word": "àswanretiks",
-        "numb": "32",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "àswanretiks",
-            "àswanretikai"
-          ],
-          [
-            "Genitive",
-            "àswanretikas",
-            "àswanretikan"
-          ],
-          [
-            "Dative",
-            "àswanretiku",
-            "àswanretikamans"
-          ],
-          [
-            "Accusative",
-            "àswanretikan",
-            "àswanretikans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 8809,
-        "w": "Ādams",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Adams 63]",
-        "de": "Adam",
-        "en": "Adam",
-        "lt": "Adomas",
-        "lv": "Ādams",
-        "pl": "Adam",
-        "ru": "Адам"
-      },
-      "search_entry": {
-        "word": "Ādams",
-        "numb": "32",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "Ādams",
-            "Ādamai"
-          ],
-          [
-            "Genitive",
-            "Ādamas",
-            "Ādaman"
-          ],
-          [
-            "Dative",
-            "Ādamu",
-            "Ādamamans"
-          ],
-          [
-            "Accusative",
-            "Ādaman",
-            "Ādamans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 127,
-        "w": "ámzisks",
-        "l": "A",
-        "f": "ámziskas",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Amzin drv]",
-        "de": "Volks-",
-        "en": "folk attr",
-        "lt": "liaudiškas",
-        "lv": "tautisks",
-        "pl": "ludowy",
-        "ru": "народный"
-      },
-      "search_entry": {
-        "word": "ámzisks",
-        "numb": "25",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "ámzisks",
-            "ámziskai"
-          ],
-          [
-            "Genitive",
-            "ámziskas",
-            "ámziskan"
-          ],
-          [
-            "Dative",
-            "ámziskasmu",
-            "ámziskamans"
-          ],
-          [
-            "Accusative",
-            "ámziskan",
-            "ámziskans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 66,
-        "w": "āistwei",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Ennoys E 158 VM]",
-        "de": "sich erhitzen",
-        "en": "to heat up (to become warmer)",
-        "lt": "kaisti",
-        "lv": "karst, kaitēties",
-        "pl": "rozgrzewać się",
-        "ru": "нагреваться"
-      },
-      "search_entry": {
-        "word": "āistwei",
-        "numb": "95",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "āistants",
-            "āistantjai"
-          ],
-          [
-            "Genitive",
-            "āistantis",
-            "āistantin"
-          ],
-          [
-            "Dative",
-            "āistantismu",
-            "aistantimmans"
-          ],
-          [
-            "Accusative",
-            "āistantin",
-            "āistantins"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 125,
-        "w": "āmpels",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Ampel MK]",
-        "de": "Ampel (Verkehrsampel)",
-        "en": "traffic light",
-        "lt": "šviesoforas",
-        "lv": "luksofors",
-        "pl": "sygnał świetlny",
-        "ru": "светофор"
-      },
-      "search_entry": {
-        "word": "āmpels",
-        "numb": "32",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "āmpels",
-            "āmpelai"
-          ],
-          [
-            "Genitive",
-            "āmpelas",
-            "āmpelan"
-          ],
-          [
-            "Dative",
-            "āmpelu",
-            "āmpelamans"
-          ],
-          [
-            "Accusative",
-            "āmpelan",
-            "āmpelans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 8505,
-        "w": "Ālpin murrautajs",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Alpenmurmeltier, Alpu murkšķis MK]",
-        "de": "Alpenmurmeltier",
-        "en": "alpine marmot",
-        "lt": "alpinis",
-        "lv": "Alpu murkšķis",
-        "pl": "świstak",
-        "ru": "альпийский сурок"
-      },
-      "search_entry": {
-        "word": "Ālpin murrautajs",
-        "numb": "32",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "Ālpin murrautajs",
-            "Ālpin murrautajai"
-          ],
-          [
-            "Genitive",
-            "Ālpin murrautajas",
-            "Ālpin murrautajan"
-          ],
-          [
-            "Dative",
-            "Ālpin murrautaju",
-            "Ālpin murrautajamans"
-          ],
-          [
-            "Accusative",
-            "Ālpin murrautajan",
-            "Ālpin murrautajans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 8506,
-        "w": "Ālpis",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "nom pl tantum f [Alpen MK]",
-        "de": "Alpen",
-        "en": "the Alps",
-        "lt": "Alpės",
-        "lv": "Alpi",
-        "pl": "Alpy",
-        "ru": "Альпы"
-      },
-      "search_entry": {
-        "word": "Ālpis",
-        "numb": "52",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "fem",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "Ālpis",
-            "Ālpis"
-          ],
-          [
-            "Genitive",
-            "Ālpijas",
-            "Ālpin"
-          ],
-          [
-            "Dative",
-            "Ālpijai",
-            "Ālpimans"
-          ],
-          [
-            "Accusative",
-            "Ālpijan",
-            "Ālpins"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
         "i": 7759,
         "w": "āngingis",
         "l": "A",
@@ -743,112 +849,6 @@
             "Accusative",
             "āngingjan",
             "āngingjans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 8509,
-        "w": "ānanasi",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[die Ananas Pit]",
-        "de": "Ananas",
-        "en": "pineapple",
-        "lt": "ananasas",
-        "lv": "ananāss",
-        "pl": "ananas",
-        "ru": "ананас"
-      },
-      "search_entry": {
-        "word": "ānanasi",
-        "numb": "52",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "fem",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "ānanasi",
-            "ānanasis"
-          ],
-          [
-            "Genitive",
-            "ānanasis",
-            "ānanasin"
-          ],
-          [
-            "Dative",
-            "ānanasei",
-            "ānanasimans"
-          ],
-          [
-            "Accusative",
-            "ānanasin",
-            "ānanasins"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 8534,
-        "w": "āngautwei",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Āngus drv]",
-        "de": "geizen",
-        "en": "to stint (to scrimp)",
-        "lt": "šykštėti, šykštauti",
-        "lv": "skopoties",
-        "pl": "skąpić",
-        "ru": "скупиться, жадничать"
-      },
-      "search_entry": {
-        "word": "āngautwei",
-        "numb": "131",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "āngaunts",
-            "āngauntjai"
-          ],
-          [
-            "Genitive",
-            "āngauntis",
-            "āngauntin"
-          ],
-          [
-            "Dative",
-            "āngauntismu",
-            "angauntimmans"
-          ],
-          [
-            "Accusative",
-            "āngauntin",
-            "āngauntins"
           ]
         ]
       }
@@ -961,130 +961,24 @@
     },
     {
       "original": {
-        "i": 133,
-        "w": "āngs",
+        "i": 8534,
+        "w": "āngautwei",
         "l": "A",
         "f": "",
         "x": false,
         "b": "",
         "g": "",
-        "s": "f [Angis E 747]",
-        "de": "Schlange (Reptil)",
-        "en": "snake",
-        "lt": "gyvatė",
-        "lv": "čūska",
-        "pl": "żmija",
-        "ru": "змея"
+        "s": "[Āngus drv]",
+        "de": "geizen",
+        "en": "to stint (to scrimp)",
+        "lt": "šykštėti, šykštauti",
+        "lv": "skopoties",
+        "pl": "skąpić",
+        "ru": "скупиться, жадничать"
       },
       "search_entry": {
-        "word": "āngs",
-        "numb": "60",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "fem",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "āngs",
-            "āngis"
-          ],
-          [
-            "Genitive",
-            "āngis",
-            "āngin"
-          ],
-          [
-            "Dative",
-            "āngei",
-            "angimmans"
-          ],
-          [
-            "Accusative",
-            "āngin",
-            "āngins"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 103,
-        "w": "ālkan",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Alkayne ON JG + alkas, alka MK]",
-        "de": "Tempel",
-        "en": "temple",
-        "lt": "šventovė",
-        "lv": "svētnīca",
-        "pl": "świątynia",
-        "ru": "святилище"
-      },
-      "search_entry": {
-        "word": "ālkan",
-        "numb": "35",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "neut",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "ālkan",
-            "alkāi"
-          ],
-          [
-            "Genitive",
-            "ālkas",
-            "ālkan"
-          ],
-          [
-            "Dative",
-            "ālku",
-            "alkammans"
-          ],
-          [
-            "Accusative",
-            "ālkan",
-            "ālkans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 8862,
-        "w": "ānkants",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[ankant, ankants, ankanst DIA Riemann MK]",
-        "de": "Beifall",
-        "en": "acclaim (thumbs-up), thumbs-up (acclaim)",
-        "lt": "pritarimas",
-        "lv": "piekrišana, aprobēšana (piekrišana)",
-        "pl": "aprobata (poparcie)",
-        "ru": "одобрение"
-      },
-      "search_entry": {
-        "word": "ānkants",
-        "numb": "32",
+        "word": "āngautwei",
+        "numb": "131",
         "desc": ""
       },
       "declension": {
@@ -1097,997 +991,23 @@
           ],
           [
             "Nominative",
-            "ānkants",
-            "ānkantai"
+            "āngaunts",
+            "āngauntjai"
           ],
           [
             "Genitive",
-            "ānkantas",
-            "ānkantan"
+            "āngauntis",
+            "āngauntin"
           ],
           [
             "Dative",
-            "ānkantu",
-            "ānkantamans"
+            "āngauntismu",
+            "angauntimmans"
           ],
           [
             "Accusative",
-            "ānkantan",
-            "ānkantans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 8838,
-        "w": "ālibi",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Alibi MK]",
-        "de": "Alibi",
-        "en": "alibi",
-        "lt": "alibi",
-        "lv": "alibi",
-        "pl": "alibi",
-        "ru": "алиби"
-      },
-      "search_entry": {
-        "word": "ālibi",
-        "numb": "0n",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "ālibi0n",
-            "ālibi0n"
-          ],
-          [
-            "Genitive",
-            "ālibi0n",
-            "ālibi0n"
-          ],
-          [
-            "Dative",
-            "ālibi0n",
-            "ālibi0n"
-          ],
-          [
-            "Accusative",
-            "ālibi0n",
-            "ālibi0n"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 141,
-        "w": "ānkstai",
-        "l": "A",
-        "f": "ankstāi",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "av [Angstainai 79 VM]",
-        "de": "fruh",
-        "en": "early",
-        "lt": "anksti",
-        "lv": "agri",
-        "pl": "wcześnie",
-        "ru": "рано"
-      },
-      "search_entry": {
-        "word": "ānkstai",
-        "numb": "45",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "fem",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "ānkstai",
-            "ānkstaas"
-          ],
-          [
-            "Genitive",
-            "ānkstaas",
-            "ānkstaan"
-          ],
-          [
-            "Dative",
-            "ānkstaai",
-            "ānkstaamans"
-          ],
-          [
-            "Accusative",
-            "ānkstaan",
-            "ānkstaans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 136,
-        "w": "āngus",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "aj [āūgus 87]",
-        "de": "geizig",
-        "en": "stingy",
-        "lt": "šykštus, gobšus",
-        "lv": "skops",
-        "pl": "skąpy",
-        "ru": "скупой, жадный"
-      },
-      "search_entry": {
-        "word": "āngus",
-        "numb": "30",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "āngus",
-            "āngwai"
-          ],
-          [
-            "Genitive",
-            "āngwas",
-            "āngun"
-          ],
-          [
-            "Dative",
-            "āngusmu",
-            "āngumans"
-          ],
-          [
-            "Accusative",
-            "āngun",
-            "ānguns"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 157,
-        "w": "āntran",
-        "l": "A",
-        "f": "",
-        "x": true,
-        "b": "Āntars",
-        "g": "acc",
-        "s": "↑ Āntars acc [āntran 87]",
-        "de": "",
-        "en": "",
-        "lt": "",
-        "lv": "",
-        "pl": "",
-        "ru": ""
-      },
-      "search_entry": null,
-      "declension": null
-    },
-    {
-      "original": {
-        "i": 134,
-        "w": "āngtun",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Anctan E 689 VM]",
-        "de": "schmieren, bestreichen",
-        "en": "to lubricate",
-        "lt": "tepti",
-        "lv": "ziest, smērēt",
-        "pl": "smarować",
-        "ru": "мазать"
-      },
-      "search_entry": {
-        "word": "āngtun",
-        "numb": "85",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "āngants",
-            "āngantjai"
-          ],
-          [
-            "Genitive",
-            "āngantis",
-            "āngantin"
-          ],
-          [
-            "Dative",
-            "āngantismu",
-            "angantimmans"
-          ],
-          [
-            "Accusative",
-            "āngantin",
-            "āngantins"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 8492,
-        "w": "Ānsis",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Hans, Ansis MK]",
-        "de": "Hans, Johann",
-        "en": "John",
-        "lt": "Ansis, Jonas",
-        "lv": "Ansis, Jāns",
-        "pl": "Jan",
-        "ru": "Иван, Иоанн"
-      },
-      "search_entry": {
-        "word": "Ānsis",
-        "numb": "40",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "Ānsis",
-            "Ānsjai"
-          ],
-          [
-            "Genitive",
-            "Ānsjas",
-            "Ānsjan"
-          ],
-          [
-            "Dative",
-            "Ānsju",
-            "Ānsjamans"
-          ],
-          [
-            "Accusative",
-            "Ānsjan",
-            "Ānsjans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 153,
-        "w": "āntarsgimsenis",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[āntersgimsennien 63]",
-        "de": "Wiedergeburt",
-        "en": "rebirth, revival",
-        "lt": "atgimimas",
-        "lv": "atdzimšana",
-        "pl": "odrodzenie",
-        "ru": "возрождение"
-      },
-      "search_entry": {
-        "word": "āntarsgimsenis",
-        "numb": "40",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "āntarsgimsenis",
-            "āntarsgimsenjai"
-          ],
-          [
-            "Genitive",
-            "āntarsgimsenjas",
-            "āntarsgimsenjan"
-          ],
-          [
-            "Dative",
-            "āntarsgimsenju",
-            "āntarsgimsenjamans"
-          ],
-          [
-            "Accusative",
-            "āntarsgimsenjan",
-            "āntarsgimsenjans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 149,
-        "w": "ānss",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "f [Ansis E 367]",
-        "de": "Haken (Bügelshaken)",
-        "en": "hook of a (pail-)bail (tug)",
-        "lt": "vąšas (vąškaro vąšas)",
-        "lv": "āķis (lociņa kāsis)",
-        "pl": "hak (uchwytu)",
-        "ru": "крючок (крючок дужки)"
-      },
-      "search_entry": {
-        "word": "ānss",
-        "numb": "60",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "fem",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "ānss",
-            "ānsis"
-          ],
-          [
-            "Genitive",
-            "ānsis",
-            "ānsin"
-          ],
-          [
-            "Dative",
-            "ānsei",
-            "ansimmans"
-          ],
-          [
-            "Accusative",
-            "ānsin",
-            "ānsins"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 158,
-        "w": "āntrasubs",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[sobowtór, Āntars, Subs MK]",
-        "de": "Doppelgänger",
-        "en": "double (look-alike)",
-        "lt": "antrininkas",
-        "lv": "dubultnieks",
-        "pl": "sobowtór",
-        "ru": "двойник"
-      },
-      "search_entry": {
-        "word": "āntrasubs",
-        "numb": "32",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "āntrasubs",
-            "āntrasubai"
-          ],
-          [
-            "Genitive",
-            "āntrasubas",
-            "āntrasuban"
-          ],
-          [
-            "Dative",
-            "āntrasubu",
-            "āntrasubamans"
-          ],
-          [
-            "Accusative",
-            "āntrasuban",
-            "āntrasubans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 112,
-        "w": "ālps",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Alf DIA MK]",
-        "de": "Papierdrache",
-        "en": "kite",
-        "lt": "aitvaras (žaislinis)",
-        "lv": "papīra pūķis",
-        "pl": "latawiec (zabawka)",
-        "ru": "бумажный змей"
-      },
-      "search_entry": {
-        "word": "ālps",
-        "numb": "32",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "ālps",
-            "ālpai"
-          ],
-          [
-            "Genitive",
-            "ālpas",
-            "ālpan"
-          ],
-          [
-            "Dative",
-            "ālpu",
-            "ālpamans"
-          ],
-          [
-            "Accusative",
-            "ālpan",
-            "ālpans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 146,
-        "w": "ānksts",
-        "l": "A",
-        "f": "ānkstas",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "aj [ankstus + Angsteina MK]",
-        "de": "fruh (zeitig)",
-        "en": "early",
-        "lt": "ankstus, ankstyvas",
-        "lv": "agrs, agrīns",
-        "pl": "wczesny",
-        "ru": "ранний"
-      },
-      "search_entry": {
-        "word": "ānksts",
-        "numb": "26",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "ānksts",
-            "ankstāi"
-          ],
-          [
-            "Genitive",
-            "ānkstas",
-            "ānkstan"
-          ],
-          [
-            "Dative",
-            "ankstàsmu",
-            "ankstammans"
-          ],
-          [
-            "Accusative",
-            "ānkstan",
-            "ānkstans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 7948,
-        "w": "āntreniks",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "Anternink DIA MK",
-        "de": "Knecht eines Instmannes, Knecht eines Knechts",
-        "en": "help (hired help) of a farm-hand",
-        "lt": "samdinio samdinys (samdinio samdinys fermoje)",
-        "lv": "algādža algotnis",
-        "pl": "parobek (u gospodarza)",
-        "ru": "поденщик батрака"
-      },
-      "search_entry": {
-        "word": "āntreniks",
-        "numb": "32",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "āntreniks",
-            "āntrenikai"
-          ],
-          [
-            "Genitive",
-            "āntrenikas",
-            "āntrenikan"
-          ],
-          [
-            "Dative",
-            "āntreniku",
-            "āntrenikamans"
-          ],
-          [
-            "Accusative",
-            "āntrenikan",
-            "āntrenikans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 159,
-        "w": "āntrins",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Āntars drv + antrinis MK]",
-        "de": "sekundär",
-        "en": "secondary",
-        "lt": "antrinis",
-        "lv": "otrējs",
-        "pl": "wtórny",
-        "ru": "вторичный"
-      },
-      "search_entry": {
-        "word": "āntrins",
-        "numb": "25",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "āntrins",
-            "āntrinai"
-          ],
-          [
-            "Genitive",
-            "āntrinas",
-            "āntrinan"
-          ],
-          [
-            "Dative",
-            "āntrinasmu",
-            "āntrinamans"
-          ],
-          [
-            "Accusative",
-            "āntrinan",
-            "āntrinans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 160,
-        "w": "āntrintun",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[wtórzyć MK]",
-        "de": "wiederholen",
-        "en": "to repeat",
-        "lt": "kartoti",
-        "lv": "atkārtot",
-        "pl": "powtarzać",
-        "ru": "повторять"
-      },
-      "search_entry": {
-        "word": "āntrintun",
-        "numb": "85",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "āntrinants",
-            "āntrinantjai"
-          ],
-          [
-            "Genitive",
-            "āntrinantis",
-            "āntrinantin"
-          ],
-          [
-            "Dative",
-            "āntrinantismu",
-            "antrinantimmans"
-          ],
-          [
-            "Accusative",
-            "āntrinantin",
-            "āntrinantins"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 197,
-        "w": "ārditun",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[ardyti, ardīt, oriti MK]",
-        "de": "beschadigen, sroren",
-        "en": "to destroy",
-        "lt": "pažeisti",
-        "lv": "savainot, sabojāt",
-        "pl": "naruszyć, uszkodzić, zakłócić",
-        "ru": "нарушить, повредить"
-      },
-      "search_entry": {
-        "word": "ārditun",
-        "numb": "138",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "ārdints",
-            "ārdintjai"
-          ],
-          [
-            "Genitive",
-            "ārdintis",
-            "ārdintin"
-          ],
-          [
-            "Dative",
-            "ārdintismu",
-            "ardintimmans"
-          ],
-          [
-            "Accusative",
-            "ārdintin",
-            "ārdintins"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 196,
-        "w": "ārdan",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Ārditun drv]",
-        "de": "Beschadigung",
-        "en": "damage",
-        "lt": "sužalojimas",
-        "lv": "sabojāšana, bojājums",
-        "pl": "uszkodzenie",
-        "ru": "повреждение"
-      },
-      "search_entry": {
-        "word": "ārdan",
-        "numb": "35",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "neut",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "ārdan",
-            "ardāi"
-          ],
-          [
-            "Genitive",
-            "ārdas",
-            "ārdan"
-          ],
-          [
-            "Dative",
-            "ārdu",
-            "ardammans"
-          ],
-          [
-            "Accusative",
-            "ārdan",
-            "ārdans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 209,
-        "w": "ārklubis",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Arglobis E 76]",
-        "de": "Scheitel, Scheitel (Haare)",
-        "en": "parting of hairs, vertex of the head",
-        "lt": "viršugalvis, sklastymas",
-        "lv": "galvvidus, pauris, šķirtne matos",
-        "pl": "wierzchołek głowy, przedział włosów",
-        "ru": "макушка, пробор"
-      },
-      "search_entry": {
-        "word": "ārklubis",
-        "numb": "41",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "ārklubis",
-            "arklubjāi"
-          ],
-          [
-            "Genitive",
-            "ārklubjas",
-            "ārklubjan"
-          ],
-          [
-            "Dative",
-            "ārklubju",
-            "arklubjammans"
-          ],
-          [
-            "Accusative",
-            "ārklubjan",
-            "ārklubjans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 208,
-        "w": "ārka",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "[Arcan 121]",
-        "de": "Arche",
-        "en": "ark",
-        "lt": "arka",
-        "lv": "arka",
-        "pl": "arka",
-        "ru": "ковчег"
-      },
-      "search_entry": {
-        "word": "ārka",
-        "numb": "45",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "fem",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "ārka",
-            "ārkas"
-          ],
-          [
-            "Genitive",
-            "ārkas",
-            "ārkan"
-          ],
-          [
-            "Dative",
-            "ārkai",
-            "ārkamans"
-          ],
-          [
-            "Accusative",
-            "ārkan",
-            "ārkans"
-          ]
-        ]
-      }
-    },
-    {
-      "original": {
-        "i": 180,
-        "w": "āpus",
-        "l": "A",
-        "f": "",
-        "x": false,
-        "b": "",
-        "g": "",
-        "s": "aj [apus JB MK]",
-        "de": "zart",
-        "en": "tender",
-        "lt": "švelnus",
-        "lv": "maigs",
-        "pl": "łagodny",
-        "ru": "нежный"
-      },
-      "search_entry": {
-        "word": "āpus",
-        "numb": "31",
-        "desc": ""
-      },
-      "declension": {
-        "table_id": "subst",
-        "rows": [
-          [
-            "masc",
-            "sing",
-            "plur"
-          ],
-          [
-            "Nominative",
-            "āpus",
-            "apwāi"
-          ],
-          [
-            "Genitive",
-            "apwas",
-            "āpun"
-          ],
-          [
-            "Dative",
-            "āpusmu",
-            "apummans"
-          ],
-          [
-            "Accusative",
-            "āpun",
-            "āpuns"
+            "āngauntin",
+            "āngauntins"
           ]
         ]
       }
@@ -2147,24 +1067,24 @@
     },
     {
       "original": {
-        "i": 7621,
-        "w": "ārstimins",
+        "i": 134,
+        "w": "āngtun",
         "l": "A",
         "f": "",
         "x": false,
         "b": "",
         "g": "",
-        "s": "[Ārstitun drv Pit]",
-        "de": "heilbar",
-        "en": "curable",
-        "lt": "išgydomas",
-        "lv": "izdziedināms, izārstējams",
-        "pl": "uleczalny",
-        "ru": "излечимый"
+        "s": "[Anctan E 689 VM]",
+        "de": "schmieren, bestreichen",
+        "en": "to lubricate",
+        "lt": "tepti",
+        "lv": "ziest, smērēt",
+        "pl": "smarować",
+        "ru": "мазать"
       },
       "search_entry": {
-        "word": "ārstimins",
-        "numb": "25",
+        "word": "āngtun",
+        "numb": "85",
         "desc": ""
       },
       "declension": {
@@ -2177,23 +1097,129 @@
           ],
           [
             "Nominative",
-            "ārstimins",
-            "ārstiminai"
+            "āngants",
+            "āngantjai"
           ],
           [
             "Genitive",
-            "ārstiminas",
-            "ārstiminan"
+            "āngantis",
+            "āngantin"
           ],
           [
             "Dative",
-            "ārstiminasmu",
-            "ārstiminamans"
+            "āngantismu",
+            "angantimmans"
           ],
           [
             "Accusative",
-            "ārstiminan",
-            "ārstiminans"
+            "āngantin",
+            "āngantins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 136,
+        "w": "āngus",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "aj [āūgus 87]",
+        "de": "geizig",
+        "en": "stingy",
+        "lt": "šykštus, gobšus",
+        "lv": "skops",
+        "pl": "skąpy",
+        "ru": "скупой, жадный"
+      },
+      "search_entry": {
+        "word": "āngus",
+        "numb": "30",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āngus",
+            "āngwai"
+          ],
+          [
+            "Genitive",
+            "āngwas",
+            "āngun"
+          ],
+          [
+            "Dative",
+            "āngusmu",
+            "āngumans"
+          ],
+          [
+            "Accusative",
+            "āngun",
+            "ānguns"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 133,
+        "w": "āngs",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "f [Angis E 747]",
+        "de": "Schlange (Reptil)",
+        "en": "snake",
+        "lt": "gyvatė",
+        "lv": "čūska",
+        "pl": "żmija",
+        "ru": "змея"
+      },
+      "search_entry": {
+        "word": "āngs",
+        "numb": "60",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āngs",
+            "āngis"
+          ],
+          [
+            "Genitive",
+            "āngis",
+            "āngin"
+          ],
+          [
+            "Dative",
+            "āngei",
+            "angimmans"
+          ],
+          [
+            "Accusative",
+            "āngin",
+            "āngins"
           ]
         ]
       }
@@ -2220,24 +1246,97 @@
     },
     {
       "original": {
-        "i": 275,
-        "w": "āudaira",
+        "i": 157,
+        "w": "āntran",
+        "l": "A",
+        "f": "",
+        "x": true,
+        "b": "Āntars",
+        "g": "acc",
+        "s": "↑ Āntars acc [āntran 87]",
+        "de": "",
+        "en": "",
+        "lt": "",
+        "lv": "",
+        "pl": "",
+        "ru": ""
+      },
+      "search_entry": null,
+      "declension": null
+    },
+    {
+      "original": {
+        "i": 8492,
+        "w": "Ānsis",
         "l": "A",
         "f": "",
         "x": false,
         "b": "",
         "g": "",
-        "s": "[Sendaīrintun MK]",
-        "de": "Bedingung",
-        "en": "condition",
-        "lt": "sąlyga",
-        "lv": "noteikums, apstākļi",
-        "pl": "warunek",
-        "ru": "условие"
+        "s": "[Hans, Ansis MK]",
+        "de": "Hans, Johann",
+        "en": "John",
+        "lt": "Ansis, Jonas",
+        "lv": "Ansis, Jāns",
+        "pl": "Jan",
+        "ru": "Иван, Иоанн"
       },
       "search_entry": {
-        "word": "āudaira",
-        "numb": "45",
+        "word": "Ānsis",
+        "numb": "40",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "Ānsis",
+            "Ānsjai"
+          ],
+          [
+            "Genitive",
+            "Ānsjas",
+            "Ānsjan"
+          ],
+          [
+            "Dative",
+            "Ānsju",
+            "Ānsjamans"
+          ],
+          [
+            "Accusative",
+            "Ānsjan",
+            "Ānsjans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8509,
+        "w": "ānanasi",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[die Ananas Pit]",
+        "de": "Ananas",
+        "en": "pineapple",
+        "lt": "ananasas",
+        "lv": "ananāss",
+        "pl": "ananas",
+        "ru": "ананас"
+      },
+      "search_entry": {
+        "word": "ānanasi",
+        "numb": "52",
         "desc": ""
       },
       "declension": {
@@ -2250,46 +1349,152 @@
           ],
           [
             "Nominative",
-            "āudaira",
-            "āudairas"
+            "ānanasi",
+            "ānanasis"
           ],
           [
             "Genitive",
-            "āudairas",
-            "āudairan"
+            "ānanasis",
+            "ānanasin"
           ],
           [
             "Dative",
-            "āudairai",
-            "āudairamans"
+            "ānanasei",
+            "ānanasimans"
           ],
           [
             "Accusative",
-            "āudairan",
-            "āudairans"
+            "ānanasin",
+            "ānanasins"
           ]
         ]
       }
     },
     {
       "original": {
-        "i": 222,
-        "w": "ārwarbs",
+        "i": 149,
+        "w": "ānss",
         "l": "A",
         "f": "",
         "x": false,
         "b": "",
         "g": "",
-        "s": "[Arwarbs E 301]",
-        "de": "Raderbindeholz",
-        "en": "cart wheel's binder",
-        "lt": "pertraukas ratų",
-        "lv": "treiliņš",
-        "pl": "łącznia kołowa",
-        "ru": "дрога"
+        "s": "f [Ansis E 367]",
+        "de": "Haken (Bügelshaken)",
+        "en": "hook of a (pail-)bail (tug)",
+        "lt": "vąšas (vąškaro vąšas)",
+        "lv": "āķis (lociņa kāsis)",
+        "pl": "hak (uchwytu)",
+        "ru": "крючок (крючок дужки)"
       },
       "search_entry": {
-        "word": "ārwarbs",
+        "word": "ānss",
+        "numb": "60",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "ānss",
+            "ānsis"
+          ],
+          [
+            "Genitive",
+            "ānsis",
+            "ānsin"
+          ],
+          [
+            "Dative",
+            "ānsei",
+            "ansimmans"
+          ],
+          [
+            "Accusative",
+            "ānsin",
+            "ānsins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 146,
+        "w": "ānksts",
+        "l": "A",
+        "f": "ānkstas",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "aj [ankstus + Angsteina MK]",
+        "de": "fruh (zeitig)",
+        "en": "early",
+        "lt": "ankstus, ankstyvas",
+        "lv": "agrs, agrīns",
+        "pl": "wczesny",
+        "ru": "ранний"
+      },
+      "search_entry": {
+        "word": "ānksts",
+        "numb": "26",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "ānksts",
+            "ankstāi"
+          ],
+          [
+            "Genitive",
+            "ānkstas",
+            "ānkstan"
+          ],
+          [
+            "Dative",
+            "ankstàsmu",
+            "ankstammans"
+          ],
+          [
+            "Accusative",
+            "ānkstan",
+            "ānkstans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8862,
+        "w": "ānkants",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[ankant, ankants, ankanst DIA Riemann MK]",
+        "de": "Beifall",
+        "en": "acclaim (thumbs-up), thumbs-up (acclaim)",
+        "lt": "pritarimas",
+        "lv": "piekrišana, aprobēšana (piekrišana)",
+        "pl": "aprobata (poparcie)",
+        "ru": "одобрение"
+      },
+      "search_entry": {
+        "word": "ānkants",
         "numb": "32",
         "desc": ""
       },
@@ -2303,23 +1508,182 @@
           ],
           [
             "Nominative",
-            "ārwarbs",
-            "ārwarbai"
+            "ānkants",
+            "ānkantai"
           ],
           [
             "Genitive",
-            "ārwarbas",
-            "ārwarban"
+            "ānkantas",
+            "ānkantan"
           ],
           [
             "Dative",
-            "ārwarbu",
-            "ārwarbamans"
+            "ānkantu",
+            "ānkantamans"
           ],
           [
             "Accusative",
-            "ārwarban",
-            "ārwarbans"
+            "ānkantan",
+            "ānkantans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 153,
+        "w": "āntarsgimsenis",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[āntersgimsennien 63]",
+        "de": "Wiedergeburt",
+        "en": "rebirth, revival",
+        "lt": "atgimimas",
+        "lv": "atdzimšana",
+        "pl": "odrodzenie",
+        "ru": "возрождение"
+      },
+      "search_entry": {
+        "word": "āntarsgimsenis",
+        "numb": "40",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āntarsgimsenis",
+            "āntarsgimsenjai"
+          ],
+          [
+            "Genitive",
+            "āntarsgimsenjas",
+            "āntarsgimsenjan"
+          ],
+          [
+            "Dative",
+            "āntarsgimsenju",
+            "āntarsgimsenjamans"
+          ],
+          [
+            "Accusative",
+            "āntarsgimsenjan",
+            "āntarsgimsenjans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 158,
+        "w": "āntrasubs",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[sobowtór, Āntars, Subs MK]",
+        "de": "Doppelgänger",
+        "en": "double (look-alike)",
+        "lt": "antrininkas",
+        "lv": "dubultnieks",
+        "pl": "sobowtór",
+        "ru": "двойник"
+      },
+      "search_entry": {
+        "word": "āntrasubs",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āntrasubs",
+            "āntrasubai"
+          ],
+          [
+            "Genitive",
+            "āntrasubas",
+            "āntrasuban"
+          ],
+          [
+            "Dative",
+            "āntrasubu",
+            "āntrasubamans"
+          ],
+          [
+            "Accusative",
+            "āntrasuban",
+            "āntrasubans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 7948,
+        "w": "āntreniks",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "Anternink DIA MK",
+        "de": "Knecht eines Instmannes, Knecht eines Knechts",
+        "en": "help (hired help) of a farm-hand",
+        "lt": "samdinio samdinys (samdinio samdinys fermoje)",
+        "lv": "algādža algotnis",
+        "pl": "parobek (u gospodarza)",
+        "ru": "поденщик батрака"
+      },
+      "search_entry": {
+        "word": "āntreniks",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āntreniks",
+            "āntrenikai"
+          ],
+          [
+            "Genitive",
+            "āntrenikas",
+            "āntrenikan"
+          ],
+          [
+            "Dative",
+            "āntreniku",
+            "āntrenikamans"
+          ],
+          [
+            "Accusative",
+            "āntrenikan",
+            "āntrenikans"
           ]
         ]
       }
@@ -2379,53 +1743,53 @@
     },
     {
       "original": {
-        "i": 276,
-        "w": "āudairatun",
+        "i": 208,
+        "w": "ārka",
         "l": "A",
         "f": "",
         "x": false,
         "b": "",
         "g": "",
-        "s": "[Āudaira MK]",
-        "de": "bedingen (mit der Bedingung)",
-        "en": "to condition",
-        "lt": "sąlygoti",
-        "lv": "nosacīt (ar noteikumu)",
-        "pl": "warunkować",
-        "ru": "обусловить"
+        "s": "[Arcan 121]",
+        "de": "Arche",
+        "en": "ark",
+        "lt": "arka",
+        "lv": "arka",
+        "pl": "arka",
+        "ru": "ковчег"
       },
       "search_entry": {
-        "word": "āudairatun",
-        "numb": "131",
+        "word": "ārka",
+        "numb": "45",
         "desc": ""
       },
       "declension": {
         "table_id": "subst",
         "rows": [
           [
-            "masc",
+            "fem",
             "sing",
             "plur"
           ],
           [
             "Nominative",
-            "āudairants",
-            "āudairantjai"
+            "ārka",
+            "ārkas"
           ],
           [
             "Genitive",
-            "āudairantis",
-            "āudairantin"
+            "ārkas",
+            "ārkan"
           ],
           [
             "Dative",
-            "āudairantismu",
-            "audairantimmans"
+            "ārkai",
+            "ārkamans"
           ],
           [
             "Accusative",
-            "āudairantin",
-            "āudairantins"
+            "ārkan",
+            "ārkans"
           ]
         ]
       }
@@ -2485,6 +1849,59 @@
     },
     {
       "original": {
+        "i": 141,
+        "w": "ānkstai",
+        "l": "A",
+        "f": "ankstāi",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "av [Angstainai 79 VM]",
+        "de": "fruh",
+        "en": "early",
+        "lt": "anksti",
+        "lv": "agri",
+        "pl": "wcześnie",
+        "ru": "рано"
+      },
+      "search_entry": {
+        "word": "ānkstai",
+        "numb": "45",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "ānkstai",
+            "ānkstaas"
+          ],
+          [
+            "Genitive",
+            "ānkstaas",
+            "ānkstaan"
+          ],
+          [
+            "Dative",
+            "ānkstaai",
+            "ānkstaamans"
+          ],
+          [
+            "Accusative",
+            "ānkstaan",
+            "ānkstaans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
         "i": 273,
         "w": "āubirga",
         "l": "A",
@@ -2532,6 +1949,1490 @@
             "Accusative",
             "āubirgan",
             "āubirgans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 125,
+        "w": "āmpels",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Ampel MK]",
+        "de": "Ampel (Verkehrsampel)",
+        "en": "traffic light",
+        "lt": "šviesoforas",
+        "lv": "luksofors",
+        "pl": "sygnał świetlny",
+        "ru": "светофор"
+      },
+      "search_entry": {
+        "word": "āmpels",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āmpels",
+            "āmpelai"
+          ],
+          [
+            "Genitive",
+            "āmpelas",
+            "āmpelan"
+          ],
+          [
+            "Dative",
+            "āmpelu",
+            "āmpelamans"
+          ],
+          [
+            "Accusative",
+            "āmpelan",
+            "āmpelans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 209,
+        "w": "ārklubis",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Arglobis E 76]",
+        "de": "Scheitel, Scheitel (Haare)",
+        "en": "parting of hairs, vertex of the head",
+        "lt": "viršugalvis, sklastymas",
+        "lv": "galvvidus, pauris, šķirtne matos",
+        "pl": "wierzchołek głowy, przedział włosów",
+        "ru": "макушка, пробор"
+      },
+      "search_entry": {
+        "word": "ārklubis",
+        "numb": "41",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "ārklubis",
+            "arklubjāi"
+          ],
+          [
+            "Genitive",
+            "ārklubjas",
+            "ārklubjan"
+          ],
+          [
+            "Dative",
+            "ārklubju",
+            "arklubjammans"
+          ],
+          [
+            "Accusative",
+            "ārklubjan",
+            "ārklubjans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 197,
+        "w": "ārditun",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[ardyti, ardīt, oriti MK]",
+        "de": "beschadigen, sroren",
+        "en": "to destroy",
+        "lt": "pažeisti",
+        "lv": "savainot, sabojāt",
+        "pl": "naruszyć, uszkodzić, zakłócić",
+        "ru": "нарушить, повредить"
+      },
+      "search_entry": {
+        "word": "ārditun",
+        "numb": "138",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "ārdints",
+            "ārdintjai"
+          ],
+          [
+            "Genitive",
+            "ārdintis",
+            "ārdintin"
+          ],
+          [
+            "Dative",
+            "ārdintismu",
+            "ardintimmans"
+          ],
+          [
+            "Accusative",
+            "ārdintin",
+            "ārdintins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 7621,
+        "w": "ārstimins",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Ārstitun drv Pit]",
+        "de": "heilbar",
+        "en": "curable",
+        "lt": "išgydomas",
+        "lv": "izdziedināms, izārstējams",
+        "pl": "uleczalny",
+        "ru": "излечимый"
+      },
+      "search_entry": {
+        "word": "ārstimins",
+        "numb": "25",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "ārstimins",
+            "ārstiminai"
+          ],
+          [
+            "Genitive",
+            "ārstiminas",
+            "ārstiminan"
+          ],
+          [
+            "Dative",
+            "ārstiminasmu",
+            "ārstiminamans"
+          ],
+          [
+            "Accusative",
+            "ārstiminan",
+            "ārstiminans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 160,
+        "w": "āntrintun",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[wtórzyć MK]",
+        "de": "wiederholen",
+        "en": "to repeat",
+        "lt": "kartoti",
+        "lv": "atkārtot",
+        "pl": "powtarzać",
+        "ru": "повторять"
+      },
+      "search_entry": {
+        "word": "āntrintun",
+        "numb": "85",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āntrinants",
+            "āntrinantjai"
+          ],
+          [
+            "Genitive",
+            "āntrinantis",
+            "āntrinantin"
+          ],
+          [
+            "Dative",
+            "āntrinantismu",
+            "antrinantimmans"
+          ],
+          [
+            "Accusative",
+            "āntrinantin",
+            "āntrinantins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 275,
+        "w": "āudaira",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Sendaīrintun MK]",
+        "de": "Bedingung",
+        "en": "condition",
+        "lt": "sąlyga",
+        "lv": "noteikums, apstākļi",
+        "pl": "warunek",
+        "ru": "условие"
+      },
+      "search_entry": {
+        "word": "āudaira",
+        "numb": "45",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āudaira",
+            "āudairas"
+          ],
+          [
+            "Genitive",
+            "āudairas",
+            "āudairan"
+          ],
+          [
+            "Dative",
+            "āudairai",
+            "āudairamans"
+          ],
+          [
+            "Accusative",
+            "āudairan",
+            "āudairans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 196,
+        "w": "ārdan",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Ārditun drv]",
+        "de": "Beschadigung",
+        "en": "damage",
+        "lt": "sužalojimas",
+        "lv": "sabojāšana, bojājums",
+        "pl": "uszkodzenie",
+        "ru": "повреждение"
+      },
+      "search_entry": {
+        "word": "ārdan",
+        "numb": "35",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "neut",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "ārdan",
+            "ardāi"
+          ],
+          [
+            "Genitive",
+            "ārdas",
+            "ārdan"
+          ],
+          [
+            "Dative",
+            "ārdu",
+            "ardammans"
+          ],
+          [
+            "Accusative",
+            "ārdan",
+            "ārdans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 180,
+        "w": "āpus",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "aj [apus JB MK]",
+        "de": "zart",
+        "en": "tender",
+        "lt": "švelnus",
+        "lv": "maigs",
+        "pl": "łagodny",
+        "ru": "нежный"
+      },
+      "search_entry": {
+        "word": "āpus",
+        "numb": "31",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āpus",
+            "apwāi"
+          ],
+          [
+            "Genitive",
+            "apwas",
+            "āpun"
+          ],
+          [
+            "Dative",
+            "āpusmu",
+            "apummans"
+          ],
+          [
+            "Accusative",
+            "āpun",
+            "āpuns"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 278,
+        "w": "āudairiskan",
+        "l": "A",
+        "f": "āudairisku",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[āudairisks drv]",
+        "de": "Bedingtheit, Konvention, Förmlichkeit",
+        "en": "conventionality",
+        "lt": "sąlygiškumas, sąlyginumas",
+        "lv": "nosacītība",
+        "pl": "warunkowość",
+        "ru": "условность"
+      },
+      "search_entry": {
+        "word": "āudairiskan",
+        "numb": "35",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "neut",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āudairiskan",
+            "audairiskāi"
+          ],
+          [
+            "Genitive",
+            "āudairiskas",
+            "āudairiskan"
+          ],
+          [
+            "Dative",
+            "āudairisku",
+            "audairiskammans"
+          ],
+          [
+            "Accusative",
+            "āudairiskan",
+            "āudairiskans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8883,
+        "w": "āudalban",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Audalbtun DRV MK]",
+        "de": "Schwindelei (Betrug)",
+        "en": "fraud",
+        "lt": "afera",
+        "lv": "afēra",
+        "pl": "afera",
+        "ru": "афера"
+      },
+      "search_entry": {
+        "word": "āudalban",
+        "numb": "35",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "neut",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āudalban",
+            "audalbāi"
+          ],
+          [
+            "Genitive",
+            "āudalbas",
+            "āudalban"
+          ],
+          [
+            "Dative",
+            "āudalbu",
+            "audalbammans"
+          ],
+          [
+            "Accusative",
+            "āudalban",
+            "āudalbans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 222,
+        "w": "ārwarbs",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Arwarbs E 301]",
+        "de": "Raderbindeholz",
+        "en": "cart wheel's binder",
+        "lt": "pertraukas ratų",
+        "lv": "treiliņš",
+        "pl": "łącznia kołowa",
+        "ru": "дрога"
+      },
+      "search_entry": {
+        "word": "ārwarbs",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "ārwarbs",
+            "ārwarbai"
+          ],
+          [
+            "Genitive",
+            "ārwarbas",
+            "ārwarban"
+          ],
+          [
+            "Dative",
+            "ārwarbu",
+            "ārwarbamans"
+          ],
+          [
+            "Accusative",
+            "ārwarban",
+            "ārwarbans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 276,
+        "w": "āudairatun",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Āudaira MK]",
+        "de": "bedingen (mit der Bedingung)",
+        "en": "to condition",
+        "lt": "sąlygoti",
+        "lv": "nosacīt (ar noteikumu)",
+        "pl": "warunkować",
+        "ru": "обусловить"
+      },
+      "search_entry": {
+        "word": "āudairatun",
+        "numb": "131",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āudairants",
+            "āudairantjai"
+          ],
+          [
+            "Genitive",
+            "āudairantis",
+            "āudairantin"
+          ],
+          [
+            "Dative",
+            "āudairantismu",
+            "audairantimmans"
+          ],
+          [
+            "Accusative",
+            "āudairantin",
+            "āudairantins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 283,
+        "w": "āudegli",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Degtwei + peisālei , nuodėgulis, nodegulis]",
+        "de": "schwelendes, Holzscheit, verkohltes Holzscheit",
+        "en": "firebrand",
+        "lt": "nuodėgulis",
+        "lv": "nodegulis",
+        "pl": "głownia (ożóg), ożóg (głownia)",
+        "ru": "головешка"
+      },
+      "search_entry": {
+        "word": "āudegli",
+        "numb": "52",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āudegli",
+            "āudeglis"
+          ],
+          [
+            "Genitive",
+            "āudeglis",
+            "āudeglin"
+          ],
+          [
+            "Dative",
+            "āudeglei",
+            "āudeglimans"
+          ],
+          [
+            "Accusative",
+            "āudeglin",
+            "āudeglins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8884,
+        "w": "āudalbis",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Ādalbtun DRV MK]",
+        "de": "Schwindler",
+        "en": "fraudster, swindler",
+        "lt": "aferistas",
+        "lv": "afērists",
+        "pl": "aferzysta",
+        "ru": "аферист"
+      },
+      "search_entry": {
+        "word": "āudalbis",
+        "numb": "38",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āudalbis",
+            "āudalbijai"
+          ],
+          [
+            "Genitive",
+            "āudalbijas",
+            "āudalbijan"
+          ],
+          [
+            "Dative",
+            "āudalbiju",
+            "āudalbimans"
+          ],
+          [
+            "Accusative",
+            "āudalbijan",
+            "āudalbijans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 10832,
+        "w": "āudijan",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[audio]",
+        "de": "Audio",
+        "en": "audio",
+        "lt": "audio, garso įrašas",
+        "lv": "audio, skaņu ieraksts",
+        "pl": "audio",
+        "ru": "аудио"
+      },
+      "search_entry": {
+        "word": "āudijan",
+        "numb": "35",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "neut",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āudijan",
+            "audijāi"
+          ],
+          [
+            "Genitive",
+            "āudijas",
+            "āudijan"
+          ],
+          [
+            "Dative",
+            "āudiju",
+            "audijammans"
+          ],
+          [
+            "Accusative",
+            "āudijan",
+            "āudijans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 292,
+        "w": "āugarbis",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[nuokalnė, nokalne GlN]",
+        "de": "Abhang",
+        "en": "slope",
+        "lt": "nuokalnė, šlaitas",
+        "lv": "nokalne, piegāze",
+        "pl": "stok (zbocze), zbocze",
+        "ru": "спуск (склон), склон"
+      },
+      "search_entry": {
+        "word": "āugarbis",
+        "numb": "40",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āugarbis",
+            "āugarbjai"
+          ],
+          [
+            "Genitive",
+            "āugarbjas",
+            "āugarbjan"
+          ],
+          [
+            "Dative",
+            "āugarbju",
+            "āugarbjamans"
+          ],
+          [
+            "Accusative",
+            "āugarbjan",
+            "āugarbjans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 309,
+        "w": "āukla",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Auclo E 451]",
+        "de": "Halfter",
+        "en": "horse halter",
+        "lt": "apynasris",
+        "lv": "apauši",
+        "pl": "uzda",
+        "ru": "недоуздок"
+      },
+      "search_entry": {
+        "word": "āukla",
+        "numb": "45",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āukla",
+            "āuklas"
+          ],
+          [
+            "Genitive",
+            "āuklas",
+            "āuklan"
+          ],
+          [
+            "Dative",
+            "āuklai",
+            "āuklamans"
+          ],
+          [
+            "Accusative",
+            "āuklan",
+            "āuklans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 159,
+        "w": "āntrins",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Āntars drv + antrinis MK]",
+        "de": "sekundär",
+        "en": "secondary",
+        "lt": "antrinis",
+        "lv": "otrējs",
+        "pl": "wtórny",
+        "ru": "вторичный"
+      },
+      "search_entry": {
+        "word": "āntrins",
+        "numb": "25",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āntrins",
+            "āntrinai"
+          ],
+          [
+            "Genitive",
+            "āntrinas",
+            "āntrinan"
+          ],
+          [
+            "Dative",
+            "āntrinasmu",
+            "āntrinamans"
+          ],
+          [
+            "Accusative",
+            "āntrinan",
+            "āntrinans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 277,
+        "w": "āudairisks",
+        "l": "A",
+        "f": "āudairiskas",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Āudaira drv]",
+        "de": "bedingt",
+        "en": "conditional",
+        "lt": "sąlyginis, sąlygiškas",
+        "lv": "nosacīts, nosacījuma attr",
+        "pl": "warunkowy",
+        "ru": "условный"
+      },
+      "search_entry": {
+        "word": "āudairisks",
+        "numb": "25",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āudairisks",
+            "āudairiskai"
+          ],
+          [
+            "Genitive",
+            "āudairiskas",
+            "āudairiskan"
+          ],
+          [
+            "Dative",
+            "āudairiskasmu",
+            "āudairiskamans"
+          ],
+          [
+            "Accusative",
+            "āudairiskan",
+            "āudairiskans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 288,
+        "w": "āudrizē",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Dreztun drv MK]",
+        "de": "Fetzen",
+        "en": "shred",
+        "lt": "skiautė",
+        "lv": "lupatiņa (atgriezums)",
+        "pl": "kłaczek, strzępek",
+        "ru": "клочок"
+      },
+      "search_entry": {
+        "word": "āudrizē",
+        "numb": "53",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "audrizē",
+            "āudrizis"
+          ],
+          [
+            "Genitive",
+            "āudrizis",
+            "āudrizin"
+          ],
+          [
+            "Dative",
+            "āudrizei",
+            "audrizīmans"
+          ],
+          [
+            "Accusative",
+            "āudrizin",
+            "āudrizins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8885,
+        "w": "āudalbtun",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Dālbtun DRV, behauen, Aushauer DIA Riemann MK]",
+        "de": "beschwindeln",
+        "en": "to swindle",
+        "lt": "apsukti (apgauti)",
+        "lv": "apmanīt, apkrāpt",
+        "pl": "oszukać",
+        "ru": "обжулить"
+      },
+      "search_entry": {
+        "word": "āudalbtun",
+        "numb": "85",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āudalbants",
+            "āudalbantjai"
+          ],
+          [
+            "Genitive",
+            "āudalbantis",
+            "āudalbantin"
+          ],
+          [
+            "Dative",
+            "āudalbantismu",
+            "audalbantimmans"
+          ],
+          [
+            "Accusative",
+            "āudalbantin",
+            "āudalbantins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8467,
+        "w": "āuksli",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[aukšlė + aukšlēja + ukleja MK]",
+        "de": "Ukelei",
+        "en": "bleak (common bleak)",
+        "lt": "aukšlė",
+        "lv": "vīķe",
+        "pl": "ukleja",
+        "ru": "уклейка"
+      },
+      "search_entry": {
+        "word": "āuksli",
+        "numb": "52",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āuksli",
+            "āukslis"
+          ],
+          [
+            "Genitive",
+            "āukslis",
+            "āukslin"
+          ],
+          [
+            "Dative",
+            "āukslei",
+            "āukslimans"
+          ],
+          [
+            "Accusative",
+            "āukslin",
+            "āukslins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 340,
+        "w": "āulaukis",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Aũlaukis DIA]",
+        "de": "Westwind",
+        "en": "wester (wind)",
+        "lt": "aulaukis",
+        "lv": "vakarvējš",
+        "pl": "wiatr wieczorny",
+        "ru": "ветер западный"
+      },
+      "search_entry": {
+        "word": "āulaukis",
+        "numb": "40",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āulaukis",
+            "āulaukjai"
+          ],
+          [
+            "Genitive",
+            "āulaukjas",
+            "āulaukjan"
+          ],
+          [
+            "Dative",
+            "āulaukju",
+            "āulaukjamans"
+          ],
+          [
+            "Accusative",
+            "āulaukjan",
+            "āulaukjans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8890,
+        "w": "āukruwjeins",
+        "l": "A",
+        "f": "āukruwjains",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Āukruwja DRV MK]",
+        "de": "Müllkippe, Mülldeponie, Müllhalde",
+        "en": "dump (rubbish dump), rubbish dump, laystall, scrapheap",
+        "lt": "šiukšlynas, sąvartynas",
+        "lv": "mēslaine",
+        "pl": "śmietnisko, wysypisko",
+        "ru": "мусорная свалка, свалка (мусорная свалка)"
+      },
+      "search_entry": {
+        "word": "āukruwjeins",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āukruwjeins",
+            "āukruwjeinai"
+          ],
+          [
+            "Genitive",
+            "āukruwjeinas",
+            "āukruwjeinan"
+          ],
+          [
+            "Dative",
+            "āukruwjeinu",
+            "āukruwjeinamans"
+          ],
+          [
+            "Accusative",
+            "āukruwjeinan",
+            "āukruwjeinans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 310,
+        "w": "āuklekstis",
+        "l": "A",
+        "f": "āuklakstis",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "nom pl tantum f [Auklextes E 280]",
+        "de": "Getreideabfegsel",
+        "en": "waste after winnowing(fanning) crops",
+        "lt": "nuovėtos",
+        "lv": "vētīšanas atkritumi",
+        "pl": "odpadki od wywiania zboża",
+        "ru": "отходы веяния"
+      },
+      "search_entry": {
+        "word": "āuklekstis",
+        "numb": "52",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āuklekstis",
+            "āuklekstis"
+          ],
+          [
+            "Genitive",
+            "āuklekstijas",
+            "āuklekstin"
+          ],
+          [
+            "Dative",
+            "āuklekstijai",
+            "āuklekstimans"
+          ],
+          [
+            "Accusative",
+            "āuklekstijan",
+            "āuklekstins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 352,
+        "w": "āumesenis",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Aumestun drv]",
+        "de": "Verlust",
+        "en": "loss",
+        "lt": "praradimas",
+        "lv": "zaudējums",
+        "pl": "zgubienie, utrata (zgubienie), strata (zgubienie)",
+        "ru": "утрата"
+      },
+      "search_entry": {
+        "word": "āumesenis",
+        "numb": "40",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āumesenis",
+            "āumesenjai"
+          ],
+          [
+            "Genitive",
+            "āumesenjas",
+            "āumesenjan"
+          ],
+          [
+            "Dative",
+            "āumesenju",
+            "āumesenjamans"
+          ],
+          [
+            "Accusative",
+            "āumesenjan",
+            "āumesenjans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 351,
+        "w": "āumens",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[aumuo~ + rozum MK]",
+        "de": "Bewußtsein",
+        "en": "consciousness",
+        "lt": "sąmonė",
+        "lv": "samaņa, apziņa",
+        "pl": "świadomość, przytomność, zmysł",
+        "ru": "сознание"
+      },
+      "search_entry": {
+        "word": "āumens",
+        "numb": "61",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āumens",
+            "āumenes / āumenjai"
+          ],
+          [
+            "Genitive",
+            "āumenes",
+            "āumenin"
+          ],
+          [
+            "Dative",
+            "āumeni",
+            "āumenimans"
+          ],
+          [
+            "Accusative",
+            "āumenin",
+            "āumenins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 364,
+        "w": "āupeisa",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Aupeisātun drv MK]",
+        "de": "Abschrift, Durchschrift",
+        "en": "written copy",
+        "lt": "nuorašas, kopija (nuorašas)",
+        "lv": "noraksts",
+        "pl": "kopia (odpis)",
+        "ru": "список (копия), копия (список)"
+      },
+      "search_entry": {
+        "word": "āupeisa",
+        "numb": "45",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āupeisa",
+            "āupeisas"
+          ],
+          [
+            "Genitive",
+            "āupeisas",
+            "āupeisan"
+          ],
+          [
+            "Dative",
+            "āupeisai",
+            "āupeisamans"
+          ],
+          [
+            "Accusative",
+            "āupeisan",
+            "āupeisans"
           ]
         ]
       }
@@ -2588,14 +3489,1697 @@
           ]
         ]
       }
+    },
+    {
+      "original": {
+        "i": 7772,
+        "w": "Āušauts",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Auschauts GlN]",
+        "de": "Auschaut",
+        "en": "Aushaut (masculine deity Aushaut)",
+        "lt": "Aušautas",
+        "lv": "Aušauts",
+        "pl": "Auszaut",
+        "ru": "Аушавт, Аушаут"
+      },
+      "search_entry": {
+        "word": "Āušauts",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "Āušauts",
+            "Āušautai"
+          ],
+          [
+            "Genitive",
+            "Āušautas",
+            "Āušautan"
+          ],
+          [
+            "Dative",
+            "Āušautu",
+            "Āušautamans"
+          ],
+          [
+            "Accusative",
+            "Āušautan",
+            "Āušautans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 316,
+        "w": "āukruwja",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Krūtwei drv, Abfall, atkritumi MK]",
+        "de": "Mull, Abfall",
+        "en": "trash, waste",
+        "lt": "šiukšlės",
+        "lv": "gruži, atkritumi",
+        "pl": "śmiecie, odpadki",
+        "ru": "мусор"
+      },
+      "search_entry": {
+        "word": "āukruwja",
+        "numb": "45",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āukruwja",
+            "āukruwjas"
+          ],
+          [
+            "Genitive",
+            "āukruwjas",
+            "āukruwjan"
+          ],
+          [
+            "Dative",
+            "āukruwjai",
+            "āukruwjamans"
+          ],
+          [
+            "Accusative",
+            "āukruwjan",
+            "āukruwjans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 372,
+        "w": "āuss",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[āusins 83]",
+        "de": "Ohr",
+        "en": "ear (\"lug\")",
+        "lt": "ausis",
+        "lv": "auss",
+        "pl": "ucho",
+        "ru": "ухо"
+      },
+      "search_entry": {
+        "word": "aūss",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "aūss",
+            "aūsai"
+          ],
+          [
+            "Genitive",
+            "aūsas",
+            "aūsan"
+          ],
+          [
+            "Dative",
+            "aūsu",
+            "aūsamans"
+          ],
+          [
+            "Accusative",
+            "aūsan",
+            "aūsans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 396,
+        "w": "āustaban",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Austebtwei + nuostaba MK]",
+        "de": "Verwunderung, Erstaunen",
+        "en": "surprise, astonishment",
+        "lt": "nuostaba",
+        "lv": "izbrīns",
+        "pl": "zdumienie, zdziwienie",
+        "ru": "удивление, изумление"
+      },
+      "search_entry": {
+        "word": "āustaban",
+        "numb": "35",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "neut",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āustaban",
+            "austabāi"
+          ],
+          [
+            "Genitive",
+            "āustabas",
+            "āustaban"
+          ],
+          [
+            "Dative",
+            "āustabu",
+            "austabammans"
+          ],
+          [
+            "Accusative",
+            "āustaban",
+            "āustabans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 395,
+        "w": "āustā",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Austo E 89]",
+        "de": "Mund",
+        "en": "mouth",
+        "lt": "burna",
+        "lv": "mute",
+        "pl": "usta",
+        "ru": "рот"
+      },
+      "search_entry": {
+        "word": "āustā",
+        "numb": "46",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "austā",
+            "āustas"
+          ],
+          [
+            "Genitive",
+            "āustas",
+            "āustan"
+          ],
+          [
+            "Dative",
+            "āustai",
+            "austāmans"
+          ],
+          [
+            "Accusative",
+            "āustan",
+            "āustans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 398,
+        "w": "āustabawingis",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "aj [Āustaban drv]",
+        "de": "wunderbar",
+        "en": "amazing",
+        "lt": "nuostabus",
+        "lv": "brīnišķīgs",
+        "pl": "miewający, zadziwiający",
+        "ru": "удивительный"
+      },
+      "search_entry": {
+        "word": "āustabawingis",
+        "numb": "27",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āustabawingis",
+            "āustabawingjai"
+          ],
+          [
+            "Genitive",
+            "āustabawingjas",
+            "āustabawingjan"
+          ],
+          [
+            "Dative",
+            "āustabawingjasmu",
+            "āustabawingjamans"
+          ],
+          [
+            "Accusative",
+            "āustabawingjan",
+            "āustabawingjans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 397,
+        "w": "āustabautwei",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Āustaban drv]",
+        "de": "wundern sich (dauernd)",
+        "en": "to wonder, to be surprised (manytimes)",
+        "lt": "stebėtis",
+        "lv": "brīnīties",
+        "pl": "dziwić się",
+        "ru": "удивляться"
+      },
+      "search_entry": {
+        "word": "āustabautwei",
+        "numb": "143",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āustabawints",
+            "āustabawintjai"
+          ],
+          [
+            "Genitive",
+            "āustabawintis",
+            "āustabawintin"
+          ],
+          [
+            "Dative",
+            "āustabawintismu",
+            "austabawintimmans"
+          ],
+          [
+            "Accusative",
+            "āustabawintin",
+            "āustabawintins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 363,
+        "w": "āupausintun",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[preipaus , pašalinti MK]",
+        "de": "beseitigen",
+        "en": "to take away, to turn out,to eliminate",
+        "lt": "pašalinti",
+        "lv": "izskaust",
+        "pl": "usunąć, wydalać",
+        "ru": "устранить, ликвидировать"
+      },
+      "search_entry": {
+        "word": "āupausintun",
+        "numb": "85",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āupausinants",
+            "āupausinantjai"
+          ],
+          [
+            "Genitive",
+            "āupausinantis",
+            "āupausinantin"
+          ],
+          [
+            "Dative",
+            "āupausinantismu",
+            "aupausinantimmans"
+          ],
+          [
+            "Accusative",
+            "āupausinantin",
+            "āupausinantins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 7305,
+        "w": "āustekarbs",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[āustin, Kārbs, Maulkorb MK]",
+        "de": "Maulkorb",
+        "en": "muzzle",
+        "lt": "antsnukis",
+        "lv": "uzpurnis",
+        "pl": "kaganiec",
+        "ru": "намордник"
+      },
+      "search_entry": {
+        "word": "āustekarbs",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āustekarbs",
+            "āustekarbai"
+          ],
+          [
+            "Genitive",
+            "āustekarbas",
+            "āustekarban"
+          ],
+          [
+            "Dative",
+            "āustekarbu",
+            "āustekarbamans"
+          ],
+          [
+            "Accusative",
+            "āustekarban",
+            "āustekarbans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 7346,
+        "w": "āustas kōmbainan",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[comb-, -ain-, Geltaīnan, Deinaīna, kombajn MK]",
+        "de": "Mähdrescher",
+        "en": "combine- harvester",
+        "lt": "kombainas",
+        "lv": "kombains",
+        "pl": "kombajn",
+        "ru": "комбайн"
+      },
+      "search_entry": {
+        "word": "āustas kōmbainan",
+        "numb": "35",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "neut",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āustas kōmbainan",
+            "āustas kombaināi"
+          ],
+          [
+            "Genitive",
+            "āustas kōmbainas",
+            "āustas kōmbainan"
+          ],
+          [
+            "Dative",
+            "āustas kōmbainu",
+            "āustas kombainammans"
+          ],
+          [
+            "Accusative",
+            "āustas kōmbainan",
+            "āustas kōmbainans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8039,
+        "w": "āustewingis",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Āusts, derlingas, ražīgs, urodzajny drv MK]",
+        "de": "fruchtbar (fruchtbar in bezug auf die Ernte)",
+        "en": "fertile, fecund",
+        "lt": "derlingas",
+        "lv": "ražīgs",
+        "pl": "urodzajny, żyzny (urodzajny)",
+        "ru": "плодородный, урожайный"
+      },
+      "search_entry": {
+        "word": "āustewingis",
+        "numb": "27",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āustewingis",
+            "āustewingjai"
+          ],
+          [
+            "Genitive",
+            "āustewingjas",
+            "āustewingjan"
+          ],
+          [
+            "Dative",
+            "āustewingjasmu",
+            "āustewingjamans"
+          ],
+          [
+            "Accusative",
+            "āustewingjan",
+            "āustewingjans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8886,
+        "w": "āudegan",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Āudegtwei DRV]",
+        "de": "Bräune (Sonnenbräune), Sonnenbräune",
+        "en": "tan (sun tan), sun tan",
+        "lt": "įdegimas",
+        "lv": "iedegums",
+        "pl": "opalenizna",
+        "ru": "загар"
+      },
+      "search_entry": {
+        "word": "āudegan",
+        "numb": "35",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "neut",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āudegan",
+            "audegāi"
+          ],
+          [
+            "Genitive",
+            "āudegas",
+            "āudegan"
+          ],
+          [
+            "Dative",
+            "āudegu",
+            "audegammans"
+          ],
+          [
+            "Accusative",
+            "āudegan",
+            "āudegans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 7622,
+        "w": "āustisks",
+        "l": "A",
+        "f": "āustiskas",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Austā drv, mündlich Nx]",
+        "de": "mündlich",
+        "en": "oral (not written)",
+        "lt": "sakytinis, žodinis",
+        "lv": "mutvārdu gen attr",
+        "pl": "ustny",
+        "ru": "устный"
+      },
+      "search_entry": {
+        "word": "āustisks",
+        "numb": "25",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āustisks",
+            "āustiskai"
+          ],
+          [
+            "Genitive",
+            "āustiskas",
+            "āustiskan"
+          ],
+          [
+            "Dative",
+            "āustiskasmu",
+            "āustiskamans"
+          ],
+          [
+            "Accusative",
+            "āustiskan",
+            "āustiskans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8040,
+        "w": "āustewingiskan",
+        "l": "A",
+        "f": "āustewingisku",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Āustewingis drv]",
+        "de": "Ergiebigkeit (Fruchtbarkeit)",
+        "en": "fertility",
+        "lt": "derlingumas",
+        "lv": "ražīgums",
+        "pl": "urodzajność",
+        "ru": "урожайность"
+      },
+      "search_entry": {
+        "word": "āustewingiskan",
+        "numb": "49",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āustewingiskan49",
+            "āustewingiskan49"
+          ],
+          [
+            "Genitive",
+            "āustewingiskan49",
+            "āustewingiskan49"
+          ],
+          [
+            "Dative",
+            "āustewingiskan49",
+            "āustewingiskan49"
+          ],
+          [
+            "Accusative",
+            "āustewingiskan49",
+            "āustewingiskan49"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 402,
+        "w": "āustjan",
+        "l": "A",
+        "f": "āustin",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[āustin 89 drv]",
+        "de": "Schnauze (Maul), Maul",
+        "en": "muzzle, snout",
+        "lt": "snukis",
+        "lv": "purns",
+        "pl": "pysk, morda, ujście, port",
+        "ru": "морда"
+      },
+      "search_entry": {
+        "word": "āustjan",
+        "numb": "37",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "neut",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āustjan",
+            "austjāi"
+          ],
+          [
+            "Genitive",
+            "āustjas",
+            "āustjan"
+          ],
+          [
+            "Dative",
+            "āustju",
+            "austjammans"
+          ],
+          [
+            "Accusative",
+            "āustjan",
+            "āustjans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8545,
+        "w": "āusikars",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Āuss, Kartwei drv MK]",
+        "de": "Ohrring",
+        "en": "earring",
+        "lt": "auskaras",
+        "lv": "auskars",
+        "pl": "kolczyk",
+        "ru": "серьга"
+      },
+      "search_entry": {
+        "word": "āusikars",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āusikars",
+            "āusikarai"
+          ],
+          [
+            "Genitive",
+            "āusikaras",
+            "āusikaran"
+          ],
+          [
+            "Dative",
+            "āusikaru",
+            "āusikaramans"
+          ],
+          [
+            "Accusative",
+            "āusikaran",
+            "āusikarans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 408,
+        "w": "Āustrarīki",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Osterreich MK]",
+        "de": "Österreich",
+        "en": "Austria",
+        "lt": "Austrija",
+        "lv": "Austrija",
+        "pl": "Austria",
+        "ru": "Австрия"
+      },
+      "search_entry": {
+        "word": "Āustrarīki",
+        "numb": "52",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "Āustrarīki",
+            "Āustrarīkis"
+          ],
+          [
+            "Genitive",
+            "Āustrarīkis",
+            "Āustrarīkin"
+          ],
+          [
+            "Dative",
+            "Āustrarīkei",
+            "Āustrarīkimans"
+          ],
+          [
+            "Accusative",
+            "Āustrarīkin",
+            "Āustrarīkins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 403,
+        "w": "āustrā",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[aušra + austrumi + ju(s)trzenka MK]",
+        "de": "Morgenrote",
+        "en": "dawn, daybreak",
+        "lt": "aušra",
+        "lv": "ausma",
+        "pl": "zorza",
+        "ru": "заря, рассвет"
+      },
+      "search_entry": {
+        "word": "āustrā",
+        "numb": "46",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "austrā",
+            "āustras"
+          ],
+          [
+            "Genitive",
+            "āustras",
+            "āustran"
+          ],
+          [
+            "Dative",
+            "āustrai",
+            "austrāmans"
+          ],
+          [
+            "Accusative",
+            "āustran",
+            "āustrans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 410,
+        "w": "āustrarikīns",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Āustrarīki drv]",
+        "de": "Österreicher",
+        "en": "Austrian man",
+        "lt": "austras",
+        "lv": "austrietis",
+        "pl": "Austriak",
+        "ru": "австриец"
+      },
+      "search_entry": {
+        "word": "āustrarikīns",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āustrarikīns",
+            "āustrarikīnai"
+          ],
+          [
+            "Genitive",
+            "āustrarikīnas",
+            "āustrarikīnan"
+          ],
+          [
+            "Dative",
+            "āustrarikīnu",
+            "āustrarikīnamans"
+          ],
+          [
+            "Accusative",
+            "āustrarikīnan",
+            "āustrarikīnans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 409,
+        "w": "āustrarikīnini",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Āustrarīkins drv]",
+        "de": "Österreicherin",
+        "en": "Austrian woman",
+        "lt": "austrė",
+        "lv": "austriete",
+        "pl": "Austriaczka",
+        "ru": "австрийка"
+      },
+      "search_entry": {
+        "word": "āustrarikīnini",
+        "numb": "50",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āustrarikīnini",
+            "āustrarikīninjas"
+          ],
+          [
+            "Genitive",
+            "āustrarikīninjas",
+            "āustrarikīninjan"
+          ],
+          [
+            "Dative",
+            "āustrarikīninjai",
+            "āustrarikīninjamans"
+          ],
+          [
+            "Accusative",
+            "āustrarikīninjan",
+            "āustrarikīninjans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 426,
+        "w": "āutri",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Antre E 514]",
+        "de": "Schmiede",
+        "en": "smithy (forge)",
+        "lt": "kalvė",
+        "lv": "smēde",
+        "pl": "kuźnia",
+        "ru": "кузница"
+      },
+      "search_entry": {
+        "word": "āutri",
+        "numb": "52",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āutri",
+            "āutris"
+          ],
+          [
+            "Genitive",
+            "āutris",
+            "āutrin"
+          ],
+          [
+            "Dative",
+            "āutrei",
+            "āutrimans"
+          ],
+          [
+            "Accusative",
+            "āutrin",
+            "āutrins"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8904,
+        "w": "Āzijas",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "GEN ATTR [Āzija DRV]",
+        "de": "asiatisch",
+        "en": "asian",
+        "lt": "Azijos gen attr",
+        "lv": "Āzijas gen attr",
+        "pl": "azjatycki",
+        "ru": "азиатский"
+      },
+      "search_entry": null,
+      "declension": null
+    },
+    {
+      "original": {
+        "i": 7908,
+        "w": "āuwilks",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Āuwilks drv, gija, pavediens Nx]",
+        "de": "Motif, Thread",
+        "en": "thread (plot), thread (in a novel, in a process)",
+        "lt": "gija (seka, ryšys, tema)",
+        "lv": "pavediens (secība, saite, temats)",
+        "pl": "wątek",
+        "ru": "поток (поток выполнения), нить, мотив"
+      },
+      "search_entry": {
+        "word": "āuwilks",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āuwilks",
+            "āuwilkai"
+          ],
+          [
+            "Genitive",
+            "āuwilkas",
+            "āuwilkan"
+          ],
+          [
+            "Dative",
+            "āuwilku",
+            "āuwilkamans"
+          ],
+          [
+            "Accusative",
+            "āuwilkan",
+            "āuwilkans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 7767,
+        "w": "āumeningi",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "av [Āumens drv MK]",
+        "de": "absichtlich",
+        "en": "on purpose",
+        "lt": "tyčia",
+        "lv": "tīšam",
+        "pl": "umyślne, celowo",
+        "ru": "нарочно, специально"
+      },
+      "search_entry": null,
+      "declension": null
+    },
+    {
+      "original": {
+        "i": 452,
+        "w": "āzautun si",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Azē drv ožiuotis MK]",
+        "de": "bocken",
+        "en": "to be whimsical (capricious)",
+        "lt": "ožiuotis",
+        "lv": "tiepties, spītēties",
+        "pl": "kaprysić, upierać się",
+        "ru": "упрямиться, капризнисать"
+      },
+      "search_entry": {
+        "word": "āzautun si",
+        "numb": "143",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āzawints si",
+            "āzawintjai si"
+          ],
+          [
+            "Genitive",
+            "āzawintis si",
+            "āzawintin si"
+          ],
+          [
+            "Dative",
+            "āzawintismu si",
+            "azawintimmans si"
+          ],
+          [
+            "Accusative",
+            "āzawintin si",
+            "āzawintins si"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 3,
+        "w": "abazs",
+        "l": "A",
+        "f": "abazzus",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Abasus E 294]",
+        "de": "Wagen",
+        "en": "cart",
+        "lt": "vežimas",
+        "lv": "rati",
+        "pl": "wóz",
+        "ru": "повозка, воз"
+      },
+      "search_entry": {
+        "word": "abazs",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "abazs",
+            "abazzai"
+          ],
+          [
+            "Genitive",
+            "abazzas",
+            "abazzan"
+          ],
+          [
+            "Dative",
+            "abazzu",
+            "abazzamans"
+          ],
+          [
+            "Accusative",
+            "abazzan",
+            "abazzans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 457,
+        "w": "Āzija",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Asien MK]",
+        "de": "Asien",
+        "en": "Asia",
+        "lt": "Azija",
+        "lv": "Āzija",
+        "pl": "Azja",
+        "ru": "Азия"
+      },
+      "search_entry": {
+        "word": "Āzija",
+        "numb": "45",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "fem",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "Āzija",
+            "Āzijas"
+          ],
+          [
+            "Genitive",
+            "Āzijas",
+            "Āzijan"
+          ],
+          [
+            "Dative",
+            "Āzijai",
+            "Āzijamans"
+          ],
+          [
+            "Accusative",
+            "Āzijan",
+            "Āzijans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 438,
+        "w": "āuwirps",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Auwirpis E 320]",
+        "de": "Rinne",
+        "en": "gutter (trough)",
+        "lt": "latakas",
+        "lv": "noteka, rene",
+        "pl": "żłób do spuszczenia wody",
+        "ru": "желоб"
+      },
+      "search_entry": {
+        "word": "āuwirps",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āuwirps",
+            "āuwirpai"
+          ],
+          [
+            "Genitive",
+            "āuwirpas",
+            "āuwirpan"
+          ],
+          [
+            "Dative",
+            "āuwirpu",
+            "āuwirpamans"
+          ],
+          [
+            "Accusative",
+            "āuwirpan",
+            "āuwirpans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 439,
+        "w": "āuwirs",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Auwerus E 529]",
+        "de": "Schlacke (Metallschlacke)",
+        "en": "cinder",
+        "lt": "gargažė",
+        "lv": "sārņi",
+        "pl": "szlaka",
+        "ru": "шлак"
+      },
+      "search_entry": {
+        "word": "āuwirs",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āuwirs",
+            "āuwirai"
+          ],
+          [
+            "Genitive",
+            "āuwiras",
+            "āuwiran"
+          ],
+          [
+            "Dative",
+            "āuwiru",
+            "āuwiramans"
+          ],
+          [
+            "Accusative",
+            "āuwiran",
+            "āuwirans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 7740,
+        "w": "abazziks",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[abazzus GlN]",
+        "de": "Kinderwagen",
+        "en": "baby carriage",
+        "lt": "vaikų vežimėlis",
+        "lv": "bērnu ratiņi",
+        "pl": "wózek",
+        "ru": "коляска (детская)"
+      },
+      "search_entry": {
+        "word": "abazziks",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "abazziks",
+            "abazzikai"
+          ],
+          [
+            "Genitive",
+            "abazzikas",
+            "abazzikan"
+          ],
+          [
+            "Dative",
+            "abazziku",
+            "abazzikamans"
+          ],
+          [
+            "Accusative",
+            "abazzikan",
+            "abazzikans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 8798,
+        "w": "abaks",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Abakus Pit]",
+        "de": "Abakus",
+        "en": "abacus",
+        "lt": "skaitykliai (skaitytuvai), abakas",
+        "lv": "abaks, skaitāmie kauliņi, skaitīkļi",
+        "pl": "liczydło, abakus",
+        "ru": "абак, счеты  (абак)"
+      },
+      "search_entry": {
+        "word": "abaks",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "abaks",
+            "abakai"
+          ],
+          [
+            "Genitive",
+            "abakas",
+            "abakan"
+          ],
+          [
+            "Dative",
+            "abaku",
+            "abakamans"
+          ],
+          [
+            "Accusative",
+            "abakan",
+            "abakans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 411,
+        "w": "āustrarīkisks",
+        "l": "A",
+        "f": "āustrarīkiskas",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Āustrarīki drv]",
+        "de": "österreichisch",
+        "en": "Austrian",
+        "lt": "austriškas",
+        "lv": "austrisks",
+        "pl": "austriacki",
+        "ru": "австрийский"
+      },
+      "search_entry": {
+        "word": "āustrarīkisks",
+        "numb": "25",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āustrarīkisks",
+            "āustrarīkiskai"
+          ],
+          [
+            "Genitive",
+            "āustrarīkiskas",
+            "āustrarīkiskan"
+          ],
+          [
+            "Dative",
+            "āustrarīkiskasmu",
+            "āustrarīkiskamans"
+          ],
+          [
+            "Accusative",
+            "āustrarīkiskan",
+            "āustrarīkiskans"
+          ]
+        ]
+      }
+    },
+    {
+      "original": {
+        "i": 412,
+        "w": "āusts",
+        "l": "A",
+        "f": "",
+        "x": false,
+        "b": "",
+        "g": "",
+        "s": "[Aust DIA MK]",
+        "de": "Wachstum (Ernte)",
+        "en": "harvest",
+        "lt": "derlius",
+        "lv": "raža",
+        "pl": "urodzaj",
+        "ru": "урожай"
+      },
+      "search_entry": {
+        "word": "āusts",
+        "numb": "32",
+        "desc": ""
+      },
+      "declension": {
+        "table_id": "subst",
+        "rows": [
+          [
+            "masc",
+            "sing",
+            "plur"
+          ],
+          [
+            "Nominative",
+            "āusts",
+            "āustai"
+          ],
+          [
+            "Genitive",
+            "āustas",
+            "āustan"
+          ],
+          [
+            "Dative",
+            "āustu",
+            "āustamans"
+          ],
+          [
+            "Accusative",
+            "āustan",
+            "āustans"
+          ]
+        ]
+      }
     }
   ],
   "modified_sample_with_forms": [],
   "notes": {
     "total_added_full": 10489,
     "total_modified_full": 0,
-    "forms_extracted_for": 50,
-    "limit": 50,
+    "forms_extracted_for": 100,
+    "limit": 100,
     "full_data_files": [
       "new_entries.json",
       "modified_entries.json",
