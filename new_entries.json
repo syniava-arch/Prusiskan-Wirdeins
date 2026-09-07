@@ -1136,6 +1136,22 @@
     "ru": "список (копия), копия (список)"
   },
   {
+    "i": 386,
+    "w": "āušauts",
+    "l": "A",
+    "f": "",
+    "x": false,
+    "b": "",
+    "g": "",
+    "s": "f [āuschautins 53 drv]",
+    "de": "Schuld (Geldschuld)",
+    "en": "debt",
+    "lt": "skola",
+    "lv": "parāds",
+    "pl": "dług",
+    "ru": "долги (задолженность)"
+  },
+  {
     "i": 7772,
     "w": "Āušauts",
     "l": "A",
@@ -1328,6 +1344,22 @@
     "ru": "устный"
   },
   {
+    "i": 401,
+    "w": "āustjan",
+    "l": "A",
+    "f": "āustin",
+    "x": false,
+    "b": "",
+    "g": "",
+    "s": "[āustin 89 + Munde]",
+    "de": "Mündung, Hafen",
+    "en": "delta, port",
+    "lt": "žiotys, uostas",
+    "lv": "grīva, ieteka, osta",
+    "pl": "ujście, port",
+    "ru": "устье, порт"
+  },
+  {
     "i": 402,
     "w": "āustjan",
     "l": "A",
@@ -1456,6 +1488,22 @@
     "ru": "кузница"
   },
   {
+    "i": 433,
+    "w": "āuwilks",
+    "l": "A",
+    "f": "",
+    "x": false,
+    "b": "",
+    "g": "",
+    "s": "[Awilkis E 472]",
+    "de": "Faden",
+    "en": "thread",
+    "lt": "siūlas",
+    "lv": "diegs",
+    "pl": "nić",
+    "ru": "нитка"
+  },
+  {
     "i": 7908,
     "w": "āuwilks",
     "l": "A",
@@ -1550,53 +1598,5 @@
     "lv": "Āzijas gen attr",
     "pl": "azjatycki",
     "ru": "азиатский"
-  },
-  {
-    "i": 8798,
-    "w": "abaks",
-    "l": "A",
-    "f": "",
-    "x": false,
-    "b": "",
-    "g": "",
-    "s": "[Abakus Pit]",
-    "de": "Abakus",
-    "en": "abacus",
-    "lt": "skaitykliai (skaitytuvai), abakas",
-    "lv": "abaks, skaitāmie kauliņi, skaitīkļi",
-    "pl": "liczydło, abakus",
-    "ru": "абак, счеты  (абак)"
-  },
-  {
-    "i": 3,
-    "w": "abazs",
-    "l": "A",
-    "f": "abazzus",
-    "x": false,
-    "b": "",
-    "g": "",
-    "s": "[Abasus E 294]",
-    "de": "Wagen",
-    "en": "cart",
-    "lt": "vežimas",
-    "lv": "rati",
-    "pl": "wóz",
-    "ru": "повозка, воз"
-  },
-  {
-    "i": 7740,
-    "w": "abazziks",
-    "l": "A",
-    "f": "",
-    "x": false,
-    "b": "",
-    "g": "",
-    "s": "[abazzus GlN]",
-    "de": "Kinderwagen",
-    "en": "baby carriage",
-    "lt": "vaikų vežimėlis",
-    "lv": "bērnu ratiņi",
-    "pl": "wózek",
-    "ru": "коляска (детская)"
   }
 ]
