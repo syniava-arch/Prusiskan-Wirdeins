@@ -8509,5 +8509,5080 @@
         "superlative": "ukapāustiskais"
       }
     }
+  },
+  {
+    "word": "āušauts",
+    "id": 386,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "āušauts",
+          "gen": "āušautis",
+          "dat": "āušautei",
+          "akk": "āušautin"
+        },
+        "pl": {
+          "nom": "āušautis",
+          "gen": "āušautin",
+          "dat": "āušautimans",
+          "akk": "āušautins"
+        }
+      }
+    }
+  },
+  {
+    "word": "absurds",
+    "id": 17,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "absurds",
+            "gen": "absurdas",
+            "dat": "absurdasmu",
+            "akk": "absurdan"
+          },
+          "pl": {
+            "nom": "absurdai",
+            "gen": "absurdan",
+            "dat": "absurdamans",
+            "akk": "absurdans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "absurda",
+            "gen": "absurdas",
+            "dat": "absurdai",
+            "akk": "absurdan"
+          },
+          "pl": {
+            "nom": "absurdas",
+            "gen": "absurdan",
+            "dat": "absurdamans",
+            "akk": "absurdans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "absurdan",
+            "gen": "absurdas",
+            "dat": "absurdasmu",
+            "akk": "absurdan"
+          },
+          "pl": {
+            "nom": "absurdai",
+            "gen": "absurdan",
+            "dat": "absurdamans",
+            "akk": "absurdans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "absurdaisis",
+            "gen": "absurdaisjas",
+            "dat": "absurdaisjasmu",
+            "akk": "absurdaisin"
+          },
+          "pl": {
+            "nom": "absurdaisjai",
+            "gen": "absurdaisin",
+            "dat": "absurdaisimans",
+            "akk": "absurdaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "absurdaisi",
+            "gen": "absurdaisjas",
+            "dat": "absurdaisjai",
+            "akk": "absurdaisjan"
+          },
+          "pl": {
+            "nom": "absurdaisjas",
+            "gen": "absurdaisjan",
+            "dat": "absurdaisjamans",
+            "akk": "absurdaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "absurdaisi",
+            "gen": "absurdaisjas",
+            "dat": "absurdaisjasmu",
+            "akk": "absurdaisi"
+          },
+          "pl": {
+            "nom": "absurdaisjai",
+            "gen": "absurdaisin",
+            "dat": "absurdaisimans",
+            "akk": "absurdaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaabsurdaisis",
+            "gen": "ukaabsurdaisjas",
+            "dat": "ukaabsurdaisjasmu",
+            "akk": "ukaabsurdaisin"
+          },
+          "pl": {
+            "nom": "ukaabsurdaisjai",
+            "gen": "ukaabsurdaisin",
+            "dat": "ukaabsurdaisimans",
+            "akk": "ukaabsurdaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaabsurdaisi",
+            "gen": "ukaabsurdaisjas",
+            "dat": "ukaabsurdaisjai",
+            "akk": "ukaabsurdaisjan"
+          },
+          "pl": {
+            "nom": "ukaabsurdaisjas",
+            "gen": "ukaabsurdaisjan",
+            "dat": "ukaabsurdaisjamans",
+            "akk": "ukaabsurdaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaabsurdaisi",
+            "gen": "ukaabsurdaisjas",
+            "dat": "ukaabsurdaisjasmu",
+            "akk": "ukaabsurdaisi"
+          },
+          "pl": {
+            "nom": "ukaabsurdaisjai",
+            "gen": "ukaabsurdaisin",
+            "dat": "ukaabsurdaisimans",
+            "akk": "ukaabsurdaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "absurdai",
+        "comparative": "absurdais",
+        "superlative": "ukaabsurdais"
+      }
+    }
+  },
+  {
+    "word": "abzōluts",
+    "id": 19,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "abzōluts",
+            "gen": "abzōlutas",
+            "dat": "abzōlutasmu",
+            "akk": "abzōlutan"
+          },
+          "pl": {
+            "nom": "abzōlutai",
+            "gen": "abzōlutan",
+            "dat": "abzōlutamans",
+            "akk": "abzōlutans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "abzōluta",
+            "gen": "abzōlutas",
+            "dat": "abzōlutai",
+            "akk": "abzōlutan"
+          },
+          "pl": {
+            "nom": "abzōlutas",
+            "gen": "abzōlutan",
+            "dat": "abzōlutamans",
+            "akk": "abzōlutans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "abzōlutan",
+            "gen": "abzōlutas",
+            "dat": "abzōlutasmu",
+            "akk": "abzōlutan"
+          },
+          "pl": {
+            "nom": "abzōlutai",
+            "gen": "abzōlutan",
+            "dat": "abzōlutamans",
+            "akk": "abzōlutans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "abzōlutaisis",
+            "gen": "abzōlutaisjas",
+            "dat": "abzōlutaisjasmu",
+            "akk": "abzōlutaisin"
+          },
+          "pl": {
+            "nom": "abzōlutaisjai",
+            "gen": "abzōlutaisin",
+            "dat": "abzōlutaisimans",
+            "akk": "abzōlutaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "abzōlutaisi",
+            "gen": "abzōlutaisjas",
+            "dat": "abzōlutaisjai",
+            "akk": "abzōlutaisjan"
+          },
+          "pl": {
+            "nom": "abzōlutaisjas",
+            "gen": "abzōlutaisjan",
+            "dat": "abzōlutaisjamans",
+            "akk": "abzōlutaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "abzōlutaisi",
+            "gen": "abzōlutaisjas",
+            "dat": "abzōlutaisjasmu",
+            "akk": "abzōlutaisi"
+          },
+          "pl": {
+            "nom": "abzōlutaisjai",
+            "gen": "abzōlutaisin",
+            "dat": "abzōlutaisimans",
+            "akk": "abzōlutaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaabzōlutaisis",
+            "gen": "ukaabzōlutaisjas",
+            "dat": "ukaabzōlutaisjasmu",
+            "akk": "ukaabzōlutaisin"
+          },
+          "pl": {
+            "nom": "ukaabzōlutaisjai",
+            "gen": "ukaabzōlutaisin",
+            "dat": "ukaabzōlutaisimans",
+            "akk": "ukaabzōlutaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaabzōlutaisi",
+            "gen": "ukaabzōlutaisjas",
+            "dat": "ukaabzōlutaisjai",
+            "akk": "ukaabzōlutaisjan"
+          },
+          "pl": {
+            "nom": "ukaabzōlutaisjas",
+            "gen": "ukaabzōlutaisjan",
+            "dat": "ukaabzōlutaisjamans",
+            "akk": "ukaabzōlutaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaabzōlutaisi",
+            "gen": "ukaabzōlutaisjas",
+            "dat": "ukaabzōlutaisjasmu",
+            "akk": "ukaabzōlutaisi"
+          },
+          "pl": {
+            "nom": "ukaabzōlutaisjai",
+            "gen": "ukaabzōlutaisin",
+            "dat": "ukaabzōlutaisimans",
+            "akk": "ukaabzōlutaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "abzōlutai",
+        "comparative": "abzōlutais",
+        "superlative": "ukaabzōlutais"
+      }
+    }
+  },
+  {
+    "word": "abzōlwents",
+    "id": 8808,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "abzōlwents",
+          "gen": "abzōlwentis",
+          "dat": "abzōlwenti",
+          "akk": "abzōlwentin"
+        },
+        "pl": {
+          "nom": "abzōlwentjai",
+          "gen": "abzōlwentin",
+          "dat": "abzōlwentimans",
+          "akk": "abzōlwentins"
+        }
+      }
+    }
+  },
+  {
+    "word": "adjektīwan",
+    "id": 23,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "adjektīwan",
+          "gen": "adjektīwas",
+          "dat": "adjektīwu",
+          "akk": "adjektīwan"
+        },
+        "pl": {
+          "nom": "adjektiwāi",
+          "gen": "adjektīwan",
+          "dat": "adjektiwammans",
+          "akk": "adjektīwans"
+        }
+      }
+    }
+  },
+  {
+    "word": "adli",
+    "id": 24,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "adli",
+          "gen": "adlis",
+          "dat": "adlei",
+          "akk": "adlin"
+        },
+        "pl": {
+          "nom": "adlis",
+          "gen": "adlin",
+          "dat": "adlimans",
+          "akk": "adlins"
+        }
+      }
+    }
+  },
+  {
+    "word": "administratīws",
+    "id": 8811,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "administratīws",
+            "gen": "administratīwas",
+            "dat": "administratīwasmu",
+            "akk": "administratīwan"
+          },
+          "pl": {
+            "nom": "administratīwai",
+            "gen": "administratīwan",
+            "dat": "administratīwamans",
+            "akk": "administratīwans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "administratīwa",
+            "gen": "administratīwas",
+            "dat": "administratīwai",
+            "akk": "administratīwan"
+          },
+          "pl": {
+            "nom": "administratīwas",
+            "gen": "administratīwan",
+            "dat": "administratīwamans",
+            "akk": "administratīwans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "administratīwan",
+            "gen": "administratīwas",
+            "dat": "administratīwasmu",
+            "akk": "administratīwan"
+          },
+          "pl": {
+            "nom": "administratīwai",
+            "gen": "administratīwan",
+            "dat": "administratīwamans",
+            "akk": "administratīwans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "administratīwaisis",
+            "gen": "administratīwaisjas",
+            "dat": "administratīwaisjasmu",
+            "akk": "administratīwaisin"
+          },
+          "pl": {
+            "nom": "administratīwaisjai",
+            "gen": "administratīwaisin",
+            "dat": "administratīwaisimans",
+            "akk": "administratīwaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "administratīwaisi",
+            "gen": "administratīwaisjas",
+            "dat": "administratīwaisjai",
+            "akk": "administratīwaisjan"
+          },
+          "pl": {
+            "nom": "administratīwaisjas",
+            "gen": "administratīwaisjan",
+            "dat": "administratīwaisjamans",
+            "akk": "administratīwaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "administratīwaisi",
+            "gen": "administratīwaisjas",
+            "dat": "administratīwaisjasmu",
+            "akk": "administratīwaisi"
+          },
+          "pl": {
+            "nom": "administratīwaisjai",
+            "gen": "administratīwaisin",
+            "dat": "administratīwaisimans",
+            "akk": "administratīwaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaadministratīwaisis",
+            "gen": "ukaadministratīwaisjas",
+            "dat": "ukaadministratīwaisjasmu",
+            "akk": "ukaadministratīwaisin"
+          },
+          "pl": {
+            "nom": "ukaadministratīwaisjai",
+            "gen": "ukaadministratīwaisin",
+            "dat": "ukaadministratīwaisimans",
+            "akk": "ukaadministratīwaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaadministratīwaisi",
+            "gen": "ukaadministratīwaisjas",
+            "dat": "ukaadministratīwaisjai",
+            "akk": "ukaadministratīwaisjan"
+          },
+          "pl": {
+            "nom": "ukaadministratīwaisjas",
+            "gen": "ukaadministratīwaisjan",
+            "dat": "ukaadministratīwaisjamans",
+            "akk": "ukaadministratīwaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaadministratīwaisi",
+            "gen": "ukaadministratīwaisjas",
+            "dat": "ukaadministratīwaisjasmu",
+            "akk": "ukaadministratīwaisi"
+          },
+          "pl": {
+            "nom": "ukaadministratīwaisjai",
+            "gen": "ukaadministratīwaisin",
+            "dat": "ukaadministratīwaisimans",
+            "akk": "ukaadministratīwaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "administratīwai",
+        "comparative": "administratīwais",
+        "superlative": "ukaadministratīwais"
+      }
+    }
+  },
+  {
+    "word": "admirāls",
+    "id": 26,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "admirāls",
+          "gen": "admirālas",
+          "dat": "admirālu",
+          "akk": "admirālan"
+        },
+        "pl": {
+          "nom": "admirālai",
+          "gen": "admirālan",
+          "dat": "admirālamans",
+          "akk": "admirālans"
+        }
+      }
+    }
+  },
+  {
+    "word": "admiralitāti",
+    "id": 25,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "admiralitāti",
+          "gen": "admiralitātis",
+          "dat": "admiralitātei",
+          "akk": "admiralitātin"
+        },
+        "pl": {
+          "nom": "admiralitātis",
+          "gen": "admiralitātin",
+          "dat": "admiralitātimans",
+          "akk": "admiralitātins"
+        }
+      }
+    }
+  },
+  {
+    "word": "adrenalīns",
+    "id": 8812,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "adrenalīns",
+          "gen": "adrenalīnas",
+          "dat": "adrenalīnu",
+          "akk": "adrenalīnan"
+        },
+        "pl": {
+          "nom": "adrenalīnai",
+          "gen": "adrenalīnan",
+          "dat": "adrenalīnamans",
+          "akk": "adrenalīnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "adressi",
+    "id": 7786,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "adressi",
+          "gen": "adressis",
+          "dat": "adressei",
+          "akk": "adressin"
+        },
+        "pl": {
+          "nom": "adressis",
+          "gen": "adressin",
+          "dat": "adressimans",
+          "akk": "adressins"
+        }
+      }
+    }
+  },
+  {
+    "word": "adressitun",
+    "id": 8813,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "adressi"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "adressi"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "adressi"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "adressimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "adressitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "adressi"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "adressi"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "adressi"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "adressi"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "adressimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "adressitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "adressi"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma adressiwuns / adressiwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei adressiwuns / adressiwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast adressiwuns / adressiwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast adressiwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai adressiwusis / adressiwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei adressiwusis / adressiwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast adressiwusis / adressiwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst adressiwuns / adressiwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst adressiwuns / adressiwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst adressiwuns / adressiwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst adressiwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai adressiwusis / adressiwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei adressiwusis / adressiwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst adressiwusis / adressiwusjas"
+          }
+        ]
+      },
+      "optative": "adressisei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "adressis"
+        },
+        {
+          "p": "(jūs)",
+          "f": "adressiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "adressilai"
+        },
+        {
+          "p": "tū",
+          "f": "adressilai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "adressilai"
+        },
+        {
+          "p": "mes",
+          "f": "adressilimai"
+        },
+        {
+          "p": "jūs",
+          "f": "adressilitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "adressilai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "adressints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "adressints",
+                "gen": "adressintis",
+                "dat": "adressintismu",
+                "akk": "adressintin"
+              },
+              "pl": {
+                "nom": "adressintjai",
+                "gen": "adressintin",
+                "dat": "adresintimmans",
+                "akk": "adressintins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "adressintī",
+                "gen": "adressintjas",
+                "dat": "adressintjai",
+                "akk": "adressintjan"
+              },
+              "pl": {
+                "nom": "adressintjas",
+                "gen": "adressintjan",
+                "dat": "adresintjāmans",
+                "akk": "adressintjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "adressinti",
+                "gen": "adressintis",
+                "dat": "adressintismu",
+                "akk": "adressintin"
+              },
+              "pl": {
+                "nom": "adressintjai",
+                "gen": "adressintin",
+                "dat": "adresintimmans",
+                "akk": "adressintins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "adressiwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "adressiwuns",
+                "gen": "adressiwusjas",
+                "dat": "adressiwusjasmu",
+                "akk": "adressiwusin"
+              },
+              "pl": {
+                "nom": "adressiwusis",
+                "gen": "adressiwusin",
+                "dat": "adressiwusimans",
+                "akk": "adressiwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "adressiwusi",
+                "gen": "adressiwusjas",
+                "dat": "adressiwusjai",
+                "akk": "adressiwusjan"
+              },
+              "pl": {
+                "nom": "adressiwusjas",
+                "gen": "adressiwusjan",
+                "dat": "adressiwusjamans",
+                "akk": "adressiwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "adressiwus",
+                "gen": "adressiwusjas",
+                "dat": "adressiwusjasmu",
+                "akk": "adressiwus"
+              },
+              "pl": {
+                "nom": "adressiwus",
+                "gen": "adressiwusin",
+                "dat": "adressiwusimans",
+                "akk": "adressiwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "adressits",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "adressits",
+                "gen": "adressitas",
+                "dat": "adressitasmu",
+                "akk": "adressitan"
+              },
+              "pl": {
+                "nom": "adresitāi",
+                "gen": "adressitan",
+                "dat": "adresitammans",
+                "akk": "adressitans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "adresitā",
+                "gen": "adressitas",
+                "dat": "adressitai",
+                "akk": "adressitan"
+              },
+              "pl": {
+                "nom": "adressitas",
+                "gen": "adressitan",
+                "dat": "adresitāmans",
+                "akk": "adressitans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "adressitan",
+                "gen": "adressitas",
+                "dat": "adressitasmu",
+                "akk": "adressitan"
+              },
+              "pl": {
+                "nom": "adresitāi",
+                "gen": "adressitan",
+                "dat": "adresitammans",
+                "akk": "adressitans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "Adwēnts",
+    "id": 27,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "Adwēnts",
+          "gen": "Adwēntis",
+          "dat": "Adwēnti",
+          "akk": "Adwēntin"
+        },
+        "pl": {
+          "nom": "Adwēntjai",
+          "gen": "Adwēntin",
+          "dat": "Adwēntimans",
+          "akk": "Adwēntins"
+        }
+      }
+    }
+  },
+  {
+    "word": "adwerban",
+    "id": 28,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "adwerban",
+          "gen": "adwerbas",
+          "dat": "adwerbu",
+          "akk": "adwerban"
+        },
+        "pl": {
+          "nom": "adwerbāi",
+          "gen": "adwerban",
+          "dat": "adwerbammans",
+          "akk": "adwerbans"
+        }
+      }
+    }
+  },
+  {
+    "word": "adwōkats",
+    "id": 8462,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "adwōkats",
+          "gen": "adwōkatas",
+          "dat": "adwōkatu",
+          "akk": "adwōkatan"
+        },
+        "pl": {
+          "nom": "adwōkatai",
+          "gen": "adwōkatan",
+          "dat": "adwōkatamans",
+          "akk": "adwōkatans"
+        }
+      }
+    }
+  },
+  {
+    "word": "aerōbiki",
+    "id": 8814,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "aerōbiki",
+          "gen": "aerōbikis",
+          "dat": "aerōbikei",
+          "akk": "aerōbikin"
+        },
+        "pl": {
+          "nom": "aerōbikis",
+          "gen": "aerōbikin",
+          "dat": "aerōbikimans",
+          "akk": "aerōbikins"
+        }
+      }
+    }
+  },
+  {
+    "word": "aerozōls",
+    "id": 8815,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "aerozōls",
+          "gen": "aerozōlas",
+          "dat": "aerozōlu",
+          "akk": "aerozōlan"
+        },
+        "pl": {
+          "nom": "aerozōlai",
+          "gen": "aerozōlan",
+          "dat": "aerozōlamans",
+          "akk": "aerozōlans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Afgānistans",
+    "id": 8374,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "Afgānistans",
+          "gen": "Afgānistanas",
+          "dat": "Afgānistanu",
+          "akk": "Afgānistanan"
+        },
+        "pl": {
+          "nom": "Afgānistanai",
+          "gen": "Afgānistanan",
+          "dat": "Afgānistanamans",
+          "akk": "Afgānistanans"
+        }
+      }
+    }
+  },
+  {
+    "word": "afgāns",
+    "id": 8373,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "afgāns",
+          "gen": "afgānas",
+          "dat": "afgānu",
+          "akk": "afgānan"
+        },
+        "pl": {
+          "nom": "afgānai",
+          "gen": "afgānan",
+          "dat": "afgānamans",
+          "akk": "afgānans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Afrika",
+    "id": 29,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Afrika",
+          "gen": "Afrikas",
+          "dat": "Afrikai",
+          "akk": "Afrikan"
+        },
+        "pl": {
+          "nom": "Afrikas",
+          "gen": "Afrikan",
+          "dat": "Afrikamans",
+          "akk": "Afrikans"
+        }
+      }
+    }
+  },
+  {
+    "word": "afrikīnini",
+    "id": 30,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "afrikīnini",
+          "gen": "afrikīninjas",
+          "dat": "afrikīninjai",
+          "akk": "afrikīninjan"
+        },
+        "pl": {
+          "nom": "afrikīninjas",
+          "gen": "afrikīninjan",
+          "dat": "afrikīninjamans",
+          "akk": "afrikīninjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "afrikīns",
+    "id": 31,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "afrikīns",
+          "gen": "afrikīnas",
+          "dat": "afrikīnu",
+          "akk": "afrikīnan"
+        },
+        "pl": {
+          "nom": "afrikīnai",
+          "gen": "afrikīnan",
+          "dat": "afrikīnamans",
+          "akk": "afrikīnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "agēnts",
+    "id": 8816,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "agēnts",
+          "gen": "agēntis",
+          "dat": "agēnti",
+          "akk": "agēntin"
+        },
+        "pl": {
+          "nom": "agēntjai",
+          "gen": "agēntin",
+          "dat": "agēntimans",
+          "akk": "agēntins"
+        }
+      }
+    }
+  },
+  {
+    "word": "agentūri",
+    "id": 8817,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "agentūri",
+          "gen": "agentūris",
+          "dat": "agentūrei",
+          "akk": "agentūrin"
+        },
+        "pl": {
+          "nom": "agentūris",
+          "gen": "agentūrin",
+          "dat": "agentūrimans",
+          "akk": "agentūrins"
+        }
+      }
+    }
+  },
+  {
+    "word": "aglā",
+    "id": 34,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "aglā",
+          "gen": "aglas",
+          "dat": "aglai",
+          "akk": "aglan"
+        },
+        "pl": {
+          "nom": "aglas",
+          "gen": "aglan",
+          "dat": "aglāmans",
+          "akk": "aglans"
+        }
+      }
+    }
+  },
+  {
+    "word": "agrēsija",
+    "id": 8818,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "agrēsija",
+          "gen": "agrēsijas",
+          "dat": "agrēsijai",
+          "akk": "agrēsijan"
+        },
+        "pl": {
+          "nom": "agrēsijas",
+          "gen": "agrēsijan",
+          "dat": "agrēsijamans",
+          "akk": "agrēsijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "agresīws",
+    "id": 8819,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "agresīws",
+            "gen": "agresīwas",
+            "dat": "agresīwasmu",
+            "akk": "agresīwan"
+          },
+          "pl": {
+            "nom": "agresīwai",
+            "gen": "agresīwan",
+            "dat": "agresīwamans",
+            "akk": "agresīwans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "agresīwa",
+            "gen": "agresīwas",
+            "dat": "agresīwai",
+            "akk": "agresīwan"
+          },
+          "pl": {
+            "nom": "agresīwas",
+            "gen": "agresīwan",
+            "dat": "agresīwamans",
+            "akk": "agresīwans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "agresīwan",
+            "gen": "agresīwas",
+            "dat": "agresīwasmu",
+            "akk": "agresīwan"
+          },
+          "pl": {
+            "nom": "agresīwai",
+            "gen": "agresīwan",
+            "dat": "agresīwamans",
+            "akk": "agresīwans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "agresīwaisis",
+            "gen": "agresīwaisjas",
+            "dat": "agresīwaisjasmu",
+            "akk": "agresīwaisin"
+          },
+          "pl": {
+            "nom": "agresīwaisjai",
+            "gen": "agresīwaisin",
+            "dat": "agresīwaisimans",
+            "akk": "agresīwaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "agresīwaisi",
+            "gen": "agresīwaisjas",
+            "dat": "agresīwaisjai",
+            "akk": "agresīwaisjan"
+          },
+          "pl": {
+            "nom": "agresīwaisjas",
+            "gen": "agresīwaisjan",
+            "dat": "agresīwaisjamans",
+            "akk": "agresīwaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "agresīwaisi",
+            "gen": "agresīwaisjas",
+            "dat": "agresīwaisjasmu",
+            "akk": "agresīwaisi"
+          },
+          "pl": {
+            "nom": "agresīwaisjai",
+            "gen": "agresīwaisin",
+            "dat": "agresīwaisimans",
+            "akk": "agresīwaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaagresīwaisis",
+            "gen": "ukaagresīwaisjas",
+            "dat": "ukaagresīwaisjasmu",
+            "akk": "ukaagresīwaisin"
+          },
+          "pl": {
+            "nom": "ukaagresīwaisjai",
+            "gen": "ukaagresīwaisin",
+            "dat": "ukaagresīwaisimans",
+            "akk": "ukaagresīwaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaagresīwaisi",
+            "gen": "ukaagresīwaisjas",
+            "dat": "ukaagresīwaisjai",
+            "akk": "ukaagresīwaisjan"
+          },
+          "pl": {
+            "nom": "ukaagresīwaisjas",
+            "gen": "ukaagresīwaisjan",
+            "dat": "ukaagresīwaisjamans",
+            "akk": "ukaagresīwaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaagresīwaisi",
+            "gen": "ukaagresīwaisjas",
+            "dat": "ukaagresīwaisjasmu",
+            "akk": "ukaagresīwaisi"
+          },
+          "pl": {
+            "nom": "ukaagresīwaisjai",
+            "gen": "ukaagresīwaisin",
+            "dat": "ukaagresīwaisimans",
+            "akk": "ukaagresīwaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "agresīwai",
+        "comparative": "agresīwais",
+        "superlative": "ukaagresīwais"
+      }
+    }
+  },
+  {
+    "word": "agresōrs",
+    "id": 8820,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "agresōrs",
+          "gen": "agresōras",
+          "dat": "agresōru",
+          "akk": "agresōran"
+        },
+        "pl": {
+          "nom": "agresōrai",
+          "gen": "agresōran",
+          "dat": "agresōramans",
+          "akk": "agresōrans"
+        }
+      }
+    }
+  },
+  {
+    "word": "agristi",
+    "id": 7741,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "agristi",
+          "gen": "agristis",
+          "dat": "agristei",
+          "akk": "agristin"
+        },
+        "pl": {
+          "nom": "agristis",
+          "gen": "agristin",
+          "dat": "agristimans",
+          "akk": "agristins"
+        }
+      }
+    }
+  },
+  {
+    "word": "aīkula",
+    "id": 35,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "aīkula",
+          "gen": "aīkulas",
+          "dat": "aīkulai",
+          "akk": "aīkulan"
+        },
+        "pl": {
+          "nom": "aīkulas",
+          "gen": "aīkulan",
+          "dat": "aīkulamans",
+          "akk": "aīkulans"
+        }
+      }
+    }
+  },
+  {
+    "word": "aīkuls",
+    "id": 36,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "aīkuls",
+            "gen": "aīkulas",
+            "dat": "aīkulasmu",
+            "akk": "aīkulan"
+          },
+          "pl": {
+            "nom": "aīkulai",
+            "gen": "aīkulan",
+            "dat": "aīkulamans",
+            "akk": "aīkulans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "aīkula",
+            "gen": "aīkulas",
+            "dat": "aīkulai",
+            "akk": "aīkulan"
+          },
+          "pl": {
+            "nom": "aīkulas",
+            "gen": "aīkulan",
+            "dat": "aīkulamans",
+            "akk": "aīkulans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "aīkulan",
+            "gen": "aīkulas",
+            "dat": "aīkulasmu",
+            "akk": "aīkulan"
+          },
+          "pl": {
+            "nom": "aīkulai",
+            "gen": "aīkulan",
+            "dat": "aīkulamans",
+            "akk": "aīkulans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "aīkulaisis",
+            "gen": "aīkulaisjas",
+            "dat": "aīkulaisjasmu",
+            "akk": "aīkulaisin"
+          },
+          "pl": {
+            "nom": "aīkulaisjai",
+            "gen": "aīkulaisin",
+            "dat": "aīkulaisimans",
+            "akk": "aīkulaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "aīkulaisi",
+            "gen": "aīkulaisjas",
+            "dat": "aīkulaisjai",
+            "akk": "aīkulaisjan"
+          },
+          "pl": {
+            "nom": "aīkulaisjas",
+            "gen": "aīkulaisjan",
+            "dat": "aīkulaisjamans",
+            "akk": "aīkulaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "aīkulaisi",
+            "gen": "aīkulaisjas",
+            "dat": "aīkulaisjasmu",
+            "akk": "aīkulaisi"
+          },
+          "pl": {
+            "nom": "aīkulaisjai",
+            "gen": "aīkulaisin",
+            "dat": "aīkulaisimans",
+            "akk": "aīkulaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaaīkulaisis",
+            "gen": "ukaaīkulaisjas",
+            "dat": "ukaaīkulaisjasmu",
+            "akk": "ukaaīkulaisin"
+          },
+          "pl": {
+            "nom": "ukaaīkulaisjai",
+            "gen": "ukaaīkulaisin",
+            "dat": "ukaaīkulaisimans",
+            "akk": "ukaaīkulaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaaīkulaisi",
+            "gen": "ukaaīkulaisjas",
+            "dat": "ukaaīkulaisjai",
+            "akk": "ukaaīkulaisjan"
+          },
+          "pl": {
+            "nom": "ukaaīkulaisjas",
+            "gen": "ukaaīkulaisjan",
+            "dat": "ukaaīkulaisjamans",
+            "akk": "ukaaīkulaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaaīkulaisi",
+            "gen": "ukaaīkulaisjas",
+            "dat": "ukaaīkulaisjasmu",
+            "akk": "ukaaīkulaisi"
+          },
+          "pl": {
+            "nom": "ukaaīkulaisjai",
+            "gen": "ukaaīkulaisin",
+            "dat": "ukaaīkulaisimans",
+            "akk": "ukaaīkulaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "aīkulai",
+        "comparative": "aīkulais",
+        "superlative": "ukaaīkulais"
+      }
+    }
+  },
+  {
+    "word": "aīnagirbausna",
+    "id": 41,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "aīnagirbausna",
+          "gen": "aīnagirbausnas",
+          "dat": "aīnagirbausnai",
+          "akk": "aīnagirbausnan"
+        },
+        "pl": {
+          "nom": "aīnagirbausnas",
+          "gen": "aīnagirbausnan",
+          "dat": "aīnagirbausnamans",
+          "akk": "aīnagirbausnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "aīnan",
+    "id": 130,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "aīnan",
+          "gen": "aīnas",
+          "dat": "aīnu",
+          "akk": "aīnan"
+        },
+        "pl": {
+          "nom": "aināi",
+          "gen": "aīnan",
+          "dat": "ainammans",
+          "akk": "aīnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "aīnibi",
+    "id": 7757,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "aīnibi",
+          "gen": "aīnibis",
+          "dat": "aīnibei",
+          "akk": "aīnibin"
+        },
+        "pl": {
+          "nom": "aīnibis",
+          "gen": "aīnibin",
+          "dat": "aīnibimans",
+          "akk": "aīnibins"
+        }
+      }
+    }
+  },
+  {
+    "word": "aīningis",
+    "id": 53,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "aīningis",
+            "gen": "aīningjas",
+            "dat": "aīningjasmu",
+            "akk": "aīningjan"
+          },
+          "pl": {
+            "nom": "aīningjai",
+            "gen": "aīningjan",
+            "dat": "aīningjamans",
+            "akk": "aīningjans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "aīningi",
+            "gen": "aīningis",
+            "dat": "aīningei",
+            "akk": "aīningin"
+          },
+          "pl": {
+            "nom": "aīningis",
+            "gen": "aīningin",
+            "dat": "aīningimans",
+            "akk": "aīningins"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "aīningi / aīningjan",
+            "gen": "aīningjas",
+            "dat": "aīningjasmu",
+            "akk": "aīningi / aīningjan"
+          },
+          "pl": {
+            "nom": "aīningjai",
+            "gen": "aīningjan",
+            "dat": "aīningjamans",
+            "akk": "aīningjans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "aīningjaisis",
+            "gen": "aīningjaisjas",
+            "dat": "aīningjaisjasmu",
+            "akk": "aīningjaisin"
+          },
+          "pl": {
+            "nom": "aīningjaisjai",
+            "gen": "aīningjaisin",
+            "dat": "aīningjaisimans",
+            "akk": "aīningjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "aīningjaisi",
+            "gen": "aīningjaisjas",
+            "dat": "aīningjaisjai",
+            "akk": "aīningjaisjan"
+          },
+          "pl": {
+            "nom": "aīningjaisjas",
+            "gen": "aīningjaisjan",
+            "dat": "aīningjaisjamans",
+            "akk": "aīningjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "aīningjaisi",
+            "gen": "aīningjaisjas",
+            "dat": "aīningjaisjasmu",
+            "akk": "aīningjaisi"
+          },
+          "pl": {
+            "nom": "aīningjaisjai",
+            "gen": "aīningjaisin",
+            "dat": "aīningjaisimans",
+            "akk": "aīningjaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaaīningjaisis",
+            "gen": "ukaaīningjaisjas",
+            "dat": "ukaaīningjaisjasmu",
+            "akk": "ukaaīningjaisin"
+          },
+          "pl": {
+            "nom": "ukaaīningjaisjai",
+            "gen": "ukaaīningjaisin",
+            "dat": "ukaaīningjaisimans",
+            "akk": "ukaaīningjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaaīningjaisi",
+            "gen": "ukaaīningjaisjas",
+            "dat": "ukaaīningjaisjai",
+            "akk": "ukaaīningjaisjan"
+          },
+          "pl": {
+            "nom": "ukaaīningjaisjas",
+            "gen": "ukaaīningjaisjan",
+            "dat": "ukaaīningjaisjamans",
+            "akk": "ukaaīningjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaaīningjaisi",
+            "gen": "ukaaīningjaisjas",
+            "dat": "ukaaīningjaisjasmu",
+            "akk": "ukaaīningjaisi"
+          },
+          "pl": {
+            "nom": "ukaaīningjaisjai",
+            "gen": "ukaaīningjaisin",
+            "dat": "ukaaīningjaisimans",
+            "akk": "ukaaīningjaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "aīningjai",
+        "comparative": "aīningjais",
+        "superlative": "ukaaīningjais"
+      }
+    }
+  },
+  {
+    "word": "aīningiskan",
+    "id": 139,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "aīningiskan",
+          "gen": "aīningiskas",
+          "dat": "aīningisku",
+          "akk": "aīningiskan"
+        },
+        "pl": {
+          "nom": "ainingiskāi",
+          "gen": "aīningiskan",
+          "dat": "ainingiskammans",
+          "akk": "aīningiskans"
+        }
+      }
+    }
+  },
+  {
+    "word": "aīns",
+    "id": 55,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "aīns",
+          "gen": "ainasse",
+          "dat": "ainasmu",
+          "akk": "aīnan"
+        },
+        "pl": {
+          "nom": "aināi",
+          "gen": "aīnan",
+          "dat": "ainammans",
+          "akk": "aīnans"
+        }
+      },
+      "fem": {
+        "sg": {
+          "nom": "ainā",
+          "gen": "ainasses",
+          "dat": "ainassei",
+          "akk": "aīnan"
+        },
+        "pl": {
+          "nom": "aīnas",
+          "gen": "aīnan",
+          "dat": "aināmans",
+          "akk": "aīnans"
+        }
+      },
+      "neut": {
+        "sg": {
+          "nom": "aīnan",
+          "gen": "aīnase",
+          "dat": "aīnasmu",
+          "akk": "aīnan"
+        },
+        "pl": {
+          "nom": "aīnan / aināi",
+          "gen": "ainasse / aīnan",
+          "dat": "ainasmu / ainammans",
+          "akk": "aīnan / aīnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "aīsintun",
+    "id": 62,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "aīsina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "aīsina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "aīsina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "aīsinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "aīsinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "aīsina"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "aīsina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "aīsina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "aīsina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "aīsinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "aīsinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "aīsina"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma aīsinuns / aīsinusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei aīsinuns / aīsinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast aīsinuns / aīsinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast aīsinus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai aīsinusis / aīsinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei aīsinusis / aīsinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast aīsinusis / aīsinusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst aīsinuns / aīsinusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst aīsinuns / aīsinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst aīsinuns / aīsinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst aīsinus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai aīsinusis / aīsinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei aīsinusis / aīsinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst aīsinusis / aīsinusjas"
+          }
+        ]
+      },
+      "optative": "aīsinsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "aīsinais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "aīsinaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "aīsinlai"
+        },
+        {
+          "p": "tū",
+          "f": "aīsinlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "aīsinlai"
+        },
+        {
+          "p": "mes",
+          "f": "aīsinlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "aīsinlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "aīsinlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "aīsinants",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "aīsinants",
+                "gen": "aīsinantis",
+                "dat": "aīsinantismu",
+                "akk": "aīsinantin"
+              },
+              "pl": {
+                "nom": "aīsinantjai",
+                "gen": "aīsinantin",
+                "dat": "aisinantimmans",
+                "akk": "aīsinantins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "aisinantī",
+                "gen": "aīsinantjas",
+                "dat": "aīsinantjai",
+                "akk": "aīsinantjan"
+              },
+              "pl": {
+                "nom": "aīsinantjas",
+                "gen": "aīsinantjan",
+                "dat": "aisinantjāmans",
+                "akk": "aīsinantjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "aīsinanti",
+                "gen": "aīsinantis",
+                "dat": "aīsinantismu",
+                "akk": "aīsinantin"
+              },
+              "pl": {
+                "nom": "aīsinantjai",
+                "gen": "aīsinantin",
+                "dat": "aisinantimmans",
+                "akk": "aīsinantins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "aīsinuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "aīsinuns",
+                "gen": "aīsinusjas",
+                "dat": "aīsinusjasmu",
+                "akk": "aīsinusin"
+              },
+              "pl": {
+                "nom": "aīsinusis",
+                "gen": "aīsinusin",
+                "dat": "aīsinusimans",
+                "akk": "aīsinusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "aīsinusi",
+                "gen": "aīsinusjas",
+                "dat": "aīsinusjai",
+                "akk": "aīsinusjan"
+              },
+              "pl": {
+                "nom": "aīsinusjas",
+                "gen": "aīsinusjan",
+                "dat": "aīsinusjamans",
+                "akk": "aīsinusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "aīsinus",
+                "gen": "aīsinusjas",
+                "dat": "aīsinusjasmu",
+                "akk": "aīsinus"
+              },
+              "pl": {
+                "nom": "aīsinus",
+                "gen": "aīsinusin",
+                "dat": "aīsinusimans",
+                "akk": "aīsinus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "aīsints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "aīsints",
+                "gen": "aīsintas",
+                "dat": "aīsintasmu",
+                "akk": "aīsintan"
+              },
+              "pl": {
+                "nom": "aisintāi",
+                "gen": "aīsintan",
+                "dat": "aisintammans",
+                "akk": "aīsintans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "aisintā",
+                "gen": "aīsintas",
+                "dat": "aīsintai",
+                "akk": "aīsintan"
+              },
+              "pl": {
+                "nom": "aīsintas",
+                "gen": "aīsintan",
+                "dat": "aisintāmans",
+                "akk": "aīsintans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "aīsintan",
+                "gen": "aīsintas",
+                "dat": "aīsintasmu",
+                "akk": "aīsintan"
+              },
+              "pl": {
+                "nom": "aisintāi",
+                "gen": "aīsintan",
+                "dat": "aisintammans",
+                "akk": "aīsintans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "aīsms",
+    "id": 63,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "aīsms",
+          "gen": "aīsmas",
+          "dat": "aīsmu",
+          "akk": "aīsman"
+        },
+        "pl": {
+          "nom": "aīsmai",
+          "gen": "aīsman",
+          "dat": "aīsmamans",
+          "akk": "aīsmans"
+        }
+      }
+    }
+  },
+  {
+    "word": "aīstjai",
+    "id": 64,
+    "paradigm": {
+      "masc": {
+        "pl": {
+          "dat": "aīstjamans",
+          "akk": "aīstjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Aīstjanmari",
+    "id": 65,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Aīstjanmari",
+          "gen": "Aīstjanmarjas",
+          "dat": "Aīstjanmarjai",
+          "akk": "Aīstjanmarjan"
+        },
+        "pl": {
+          "nom": "Aīstjanmarjas",
+          "gen": "Aīstjanmarjan",
+          "dat": "Aīstjanmarjamans",
+          "akk": "Aīstjanmarjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "aītagenīs",
+    "id": 67,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "aītagenīs",
+          "gen": "aitagenijjas",
+          "dat": "aitagenijju",
+          "akk": "aitagenijjan"
+        },
+        "pl": {
+          "nom": "aitagenijjai",
+          "gen": "aitagenijjan",
+          "dat": "aitagennimans",
+          "akk": "aitagenijjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "aikātun",
+    "id": 7569,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "aikāi"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "aikāi"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "aikāi"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "aikāimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "aikāitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "aikāi"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "aikāi"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "aikāi"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "aikāi"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "aikāimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "aikāitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "aikāi"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma aikāwuns / aikāwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei aikāwuns / aikāwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast aikāwuns / aikāwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast aikāwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai aikāwusis / aikāwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei aikāwusis / aikāwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast aikāwusis / aikāwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst aikāwuns / aikāwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst aikāwuns / aikāwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst aikāwuns / aikāwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst aikāwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai aikāwusis / aikāwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei aikāwusis / aikāwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst aikāwusis / aikāwusjas"
+          }
+        ]
+      },
+      "optative": "aikāsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "aikāis"
+        },
+        {
+          "p": "(jūs)",
+          "f": "aikāiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "aikālai"
+        },
+        {
+          "p": "tū",
+          "f": "aikālai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "aikālai"
+        },
+        {
+          "p": "mes",
+          "f": "aikālimai"
+        },
+        {
+          "p": "jūs",
+          "f": "aikālitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "aikālai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "aikānts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "aikānts",
+                "gen": "aikāntis",
+                "dat": "aikāntismu",
+                "akk": "aikāntin"
+              },
+              "pl": {
+                "nom": "aikāntjai",
+                "gen": "aikāntin",
+                "dat": "aikantimmans",
+                "akk": "aikāntins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "aikantī",
+                "gen": "aikāntjas",
+                "dat": "aikāntjai",
+                "akk": "aikāntjan"
+              },
+              "pl": {
+                "nom": "aikāntjas",
+                "gen": "aikāntjan",
+                "dat": "aikantjāmans",
+                "akk": "aikāntjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "aikānti",
+                "gen": "aikāntis",
+                "dat": "aikāntismu",
+                "akk": "aikāntin"
+              },
+              "pl": {
+                "nom": "aikāntjai",
+                "gen": "aikāntin",
+                "dat": "aikantimmans",
+                "akk": "aikāntins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "aikāwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "aikāwuns",
+                "gen": "aikāwusjas",
+                "dat": "aikāwusjasmu",
+                "akk": "aikāwusin"
+              },
+              "pl": {
+                "nom": "aikāwusis",
+                "gen": "aikāwusin",
+                "dat": "aikāwusimans",
+                "akk": "aikāwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "aikāwusi",
+                "gen": "aikāwusjas",
+                "dat": "aikāwusjai",
+                "akk": "aikāwusjan"
+              },
+              "pl": {
+                "nom": "aikāwusjas",
+                "gen": "aikāwusjan",
+                "dat": "aikāwusjamans",
+                "akk": "aikāwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "aikāwus",
+                "gen": "aikāwusjas",
+                "dat": "aikāwusjasmu",
+                "akk": "aikāwus"
+              },
+              "pl": {
+                "nom": "aikāwus",
+                "gen": "aikāwusin",
+                "dat": "aikāwusimans",
+                "akk": "aikāwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "aikāts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "aikāts",
+                "gen": "aikātas",
+                "dat": "aikātasmu",
+                "akk": "aikātan"
+              },
+              "pl": {
+                "nom": "aikatāi",
+                "gen": "aikātan",
+                "dat": "aikatammans",
+                "akk": "aikātans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "aikatā",
+                "gen": "aikātas",
+                "dat": "aikātai",
+                "akk": "aikātan"
+              },
+              "pl": {
+                "nom": "aikātas",
+                "gen": "aikātan",
+                "dat": "aikatāmans",
+                "akk": "aikātans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "aikātan",
+                "gen": "aikātas",
+                "dat": "aikātasmu",
+                "akk": "aikātan"
+              },
+              "pl": {
+                "nom": "aikatāi",
+                "gen": "aikātan",
+                "dat": "aikatammans",
+                "akk": "aikātans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "ainadesīmts",
+    "id": 39,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ainadesīmts",
+          "gen": "ainadesīmtas",
+          "dat": "ainadesimtàsmu",
+          "akk": "ainadesīmtan"
+        },
+        "pl": {
+          "nom": "ainadesimtāi",
+          "gen": "ainadesīmtan",
+          "dat": "ainadesimtammans",
+          "akk": "ainadesīmtans"
+        }
+      },
+      "fem": {
+        "sg": {
+          "nom": "ainadesimtā",
+          "gen": "ainadesīmtas",
+          "dat": "ainadesīmtai",
+          "akk": "ainadesīmtan"
+        },
+        "pl": {
+          "nom": "ainadesīmtas",
+          "gen": "ainadesīmtan",
+          "dat": "ainadesimtāmans",
+          "akk": "ainadesīmtans"
+        }
+      },
+      "neut": {
+        "sg": {
+          "nom": "ainadesīmtan",
+          "gen": "ainadesīmtas",
+          "dat": "ainadesimtàsmu",
+          "akk": "ainadesīmtan"
+        },
+        "pl": {
+          "nom": "ainadesimtāi",
+          "gen": "ainadesīmtan",
+          "dat": "ainadesimtammans",
+          "akk": "ainadesīmtans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ainagimmuns",
+    "id": 8821,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ainagimmuns",
+          "gen": "ainagimmusjas",
+          "dat": "ainagimmusjasmu",
+          "akk": "ainagimmusin"
+        },
+        "pl": {
+          "nom": "ainagimmusis",
+          "gen": "ainagimmusin",
+          "dat": "ainagimmusimans",
+          "akk": "ainagimmusins"
+        }
+      },
+      "fem": {
+        "sg": {
+          "nom": "ainagimmusi",
+          "gen": "ainagimmusjas",
+          "dat": "ainagimmusjai",
+          "akk": "ainagimmusin"
+        },
+        "pl": {
+          "nom": "ainagimmusjas",
+          "gen": "ainagimmusjan",
+          "dat": "ainagimmusjamans",
+          "akk": "ainagimmusjans"
+        }
+      },
+      "neut": {
+        "sg": {
+          "nom": "ainagimmus",
+          "gen": "ainagimmusjas",
+          "dat": "ainagimmusjasmu",
+          "akk": "ainagimmus"
+        },
+        "pl": {
+          "nom": "ainagimmus",
+          "gen": "ainagimmusin",
+          "dat": "ainagimmusimans",
+          "akk": "ainagimmus"
+        }
+      }
+    }
+  },
+  {
+    "word": "ainagimmusis",
+    "id": 40,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ainagimmusis",
+          "gen": "ainagimmušas",
+          "dat": "ainagimmušasmu",
+          "akk": "ainagimmusin"
+        },
+        "pl": {
+          "nom": "ainagimmusjai",
+          "gen": "ainagimmusin",
+          "dat": "ainagimmusimans",
+          "akk": "ainagimmusins"
+        }
+      },
+      "fem": {
+        "sg": {
+          "nom": "ainagimmusi",
+          "gen": "ainagimmušas",
+          "dat": "ainagimmušai",
+          "akk": "ainagimmusin"
+        },
+        "pl": {
+          "nom": "ainagimmusis",
+          "gen": "ainagimmusin",
+          "dat": "ainagimmusimans",
+          "akk": "ainagimmusins"
+        }
+      },
+      "neut": {
+        "sg": {
+          "nom": "ainagimmusi",
+          "gen": "ainagimmušas",
+          "dat": "ainagimmušasmu",
+          "akk": "ainagimmusi"
+        },
+        "pl": {
+          "nom": "ainagimmušai",
+          "gen": "ainagimmusin",
+          "dat": "ainagimmusimans",
+          "akk": "ainagimmusins"
+        }
+      }
+    }
+  },
+  {
+    "word": "ainakellan",
+    "id": 7787,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ainakellan",
+          "gen": "ainakellas",
+          "dat": "ainakellu",
+          "akk": "ainakellan"
+        },
+        "pl": {
+          "nom": "ainakelāi",
+          "gen": "ainakellan",
+          "dat": "ainakelammans",
+          "akk": "ainakellans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ainapāusisks",
+    "id": 7963,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ainapāusisks",
+            "gen": "ainapāusiskas",
+            "dat": "ainapāusiskasmu",
+            "akk": "ainapāusiskan"
+          },
+          "pl": {
+            "nom": "ainapāusiskai",
+            "gen": "ainapāusiskan",
+            "dat": "ainapāusiskamans",
+            "akk": "ainapāusiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ainapāusiska",
+            "gen": "ainapāusiskas",
+            "dat": "ainapāusiskai",
+            "akk": "ainapāusiskan"
+          },
+          "pl": {
+            "nom": "ainapāusiskas",
+            "gen": "ainapāusiskan",
+            "dat": "ainapāusiskamans",
+            "akk": "ainapāusiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ainapāusiskan",
+            "gen": "ainapāusiskas",
+            "dat": "ainapāusiskasmu",
+            "akk": "ainapāusiskan"
+          },
+          "pl": {
+            "nom": "ainapāusiskai",
+            "gen": "ainapāusiskan",
+            "dat": "ainapāusiskamans",
+            "akk": "ainapāusiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ainapāusiskaisis",
+            "gen": "ainapāusiskaisjas",
+            "dat": "ainapāusiskaisjasmu",
+            "akk": "ainapāusiskaisin"
+          },
+          "pl": {
+            "nom": "ainapāusiskaisjai",
+            "gen": "ainapāusiskaisin",
+            "dat": "ainapāusiskaisimans",
+            "akk": "ainapāusiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ainapāusiskaisi",
+            "gen": "ainapāusiskaisjas",
+            "dat": "ainapāusiskaisjai",
+            "akk": "ainapāusiskaisjan"
+          },
+          "pl": {
+            "nom": "ainapāusiskaisjas",
+            "gen": "ainapāusiskaisjan",
+            "dat": "ainapāusiskaisjamans",
+            "akk": "ainapāusiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ainapāusiskaisi",
+            "gen": "ainapāusiskaisjas",
+            "dat": "ainapāusiskaisjasmu",
+            "akk": "ainapāusiskaisi"
+          },
+          "pl": {
+            "nom": "ainapāusiskaisjai",
+            "gen": "ainapāusiskaisin",
+            "dat": "ainapāusiskaisimans",
+            "akk": "ainapāusiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaainapāusiskaisis",
+            "gen": "ukaainapāusiskaisjas",
+            "dat": "ukaainapāusiskaisjasmu",
+            "akk": "ukaainapāusiskaisin"
+          },
+          "pl": {
+            "nom": "ukaainapāusiskaisjai",
+            "gen": "ukaainapāusiskaisin",
+            "dat": "ukaainapāusiskaisimans",
+            "akk": "ukaainapāusiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaainapāusiskaisi",
+            "gen": "ukaainapāusiskaisjas",
+            "dat": "ukaainapāusiskaisjai",
+            "akk": "ukaainapāusiskaisjan"
+          },
+          "pl": {
+            "nom": "ukaainapāusiskaisjas",
+            "gen": "ukaainapāusiskaisjan",
+            "dat": "ukaainapāusiskaisjamans",
+            "akk": "ukaainapāusiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaainapāusiskaisi",
+            "gen": "ukaainapāusiskaisjas",
+            "dat": "ukaainapāusiskaisjasmu",
+            "akk": "ukaainapāusiskaisi"
+          },
+          "pl": {
+            "nom": "ukaainapāusiskaisjai",
+            "gen": "ukaainapāusiskaisin",
+            "dat": "ukaainapāusiskaisimans",
+            "akk": "ukaainapāusiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ainapāusiskai",
+        "comparative": "ainapāusiskais",
+        "superlative": "ukaainapāusiskais"
+      }
+    }
+  },
+  {
+    "word": "ainapreslinsna",
+    "id": 7754,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ainapreslinsna",
+          "gen": "ainapreslinsnas",
+          "dat": "ainapreslinsnai",
+          "akk": "ainapreslinsnan"
+        },
+        "pl": {
+          "nom": "ainapreslinsnas",
+          "gen": "ainapreslinsnan",
+          "dat": "ainapreslinsnamans",
+          "akk": "ainapreslinsnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ainapreslintun",
+    "id": 7753,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "ainapreslinna"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "ainapreslinna"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "ainapreslinna"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "ainapreslinnimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "ainapreslinnitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "ainapreslinna"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "ainapreslinna"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "ainapreslinna"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "ainapreslinna"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "ainapreslinnimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "ainapreslinnitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "ainapreslinna"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma ainapreslinnuns / ainapreslinnusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei ainapreslinnuns / ainapreslinnusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast ainapreslinnuns / ainapreslinnusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast ainapreslinnus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai ainapreslinnusis / ainapreslinnusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei ainapreslinnusis / ainapreslinnusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast ainapreslinnusis / ainapreslinnusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst ainapreslinnuns / ainapreslinnusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst ainapreslinnuns / ainapreslinnusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst ainapreslinnuns / ainapreslinnusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst ainapreslinnus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai ainapreslinnusis / ainapreslinnusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei ainapreslinnusis / ainapreslinnusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst ainapreslinnusis / ainapreslinnusjas"
+          }
+        ]
+      },
+      "optative": "ainapreslinsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "ainapreslinnais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "ainapreslinnaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "ainapreslinlai"
+        },
+        {
+          "p": "tū",
+          "f": "ainapreslinlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "ainapreslinlai"
+        },
+        {
+          "p": "mes",
+          "f": "ainapreslinlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "ainapreslinlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "ainapreslinlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "ainapreslinānts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "ainapreslinānts",
+                "gen": "ainapreslināntis",
+                "dat": "ainapreslināntismu",
+                "akk": "ainapreslināntin"
+              },
+              "pl": {
+                "nom": "ainapreslināntjai",
+                "gen": "ainapreslināntin",
+                "dat": "ainapreslinantimmans",
+                "akk": "ainapreslināntins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "ainapreslinantī",
+                "gen": "ainapreslināntjas",
+                "dat": "ainapreslināntjai",
+                "akk": "ainapreslināntjan"
+              },
+              "pl": {
+                "nom": "ainapreslināntjas",
+                "gen": "ainapreslināntjan",
+                "dat": "ainapreslinantjāmans",
+                "akk": "ainapreslināntjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "ainapreslinānti",
+                "gen": "ainapreslināntis",
+                "dat": "ainapreslināntismu",
+                "akk": "ainapreslināntin"
+              },
+              "pl": {
+                "nom": "ainapreslināntjai",
+                "gen": "ainapreslināntin",
+                "dat": "ainapreslinantimmans",
+                "akk": "ainapreslināntins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "ainapreslinnuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "ainapreslinnuns",
+                "gen": "ainapreslinnusjas",
+                "dat": "ainapreslinnusjasmu",
+                "akk": "ainapreslinnusin"
+              },
+              "pl": {
+                "nom": "ainapreslinnusis",
+                "gen": "ainapreslinnusin",
+                "dat": "ainapreslinnusimans",
+                "akk": "ainapreslinnusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "ainapreslinnusi",
+                "gen": "ainapreslinnusjas",
+                "dat": "ainapreslinnusjai",
+                "akk": "ainapreslinnusjan"
+              },
+              "pl": {
+                "nom": "ainapreslinnusjas",
+                "gen": "ainapreslinnusjan",
+                "dat": "ainapreslinnusjamans",
+                "akk": "ainapreslinnusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "ainapreslinnus",
+                "gen": "ainapreslinnusjas",
+                "dat": "ainapreslinnusjasmu",
+                "akk": "ainapreslinnus"
+              },
+              "pl": {
+                "nom": "ainapreslinnus",
+                "gen": "ainapreslinnusin",
+                "dat": "ainapreslinnusimans",
+                "akk": "ainapreslinnus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "ainapreslints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "ainapreslints",
+                "gen": "ainapreslintas",
+                "dat": "ainapreslintasmu",
+                "akk": "ainapreslintan"
+              },
+              "pl": {
+                "nom": "ainapreslintāi",
+                "gen": "ainapreslintan",
+                "dat": "ainapreslintammans",
+                "akk": "ainapreslintans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "ainapreslintā",
+                "gen": "ainapreslintas",
+                "dat": "ainapreslintai",
+                "akk": "ainapreslintan"
+              },
+              "pl": {
+                "nom": "ainapreslintas",
+                "gen": "ainapreslintan",
+                "dat": "ainapreslintāmans",
+                "akk": "ainapreslintans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "ainapreslintan",
+                "gen": "ainapreslintas",
+                "dat": "ainapreslintasmu",
+                "akk": "ainapreslintan"
+              },
+              "pl": {
+                "nom": "ainapreslintāi",
+                "gen": "ainapreslintan",
+                "dat": "ainapreslintammans",
+                "akk": "ainapreslintans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "ainapresliskan",
+    "id": 7752,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ainapresliskan",
+          "gen": "ainapresliskas",
+          "dat": "ainapreslisku",
+          "akk": "ainapresliskan"
+        },
+        "pl": {
+          "nom": "ainapresliskāi",
+          "gen": "ainapresliskan",
+          "dat": "ainapresliskammans",
+          "akk": "ainapresliskans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ainapreslisks",
+    "id": 7751,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ainapreslisks",
+            "gen": "ainapresliskas",
+            "dat": "ainapresliskasmu",
+            "akk": "ainapresliskan"
+          },
+          "pl": {
+            "nom": "ainapresliskai",
+            "gen": "ainapresliskan",
+            "dat": "ainapresliskamans",
+            "akk": "ainapresliskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ainapresliska",
+            "gen": "ainapresliskas",
+            "dat": "ainapresliskai",
+            "akk": "ainapresliskan"
+          },
+          "pl": {
+            "nom": "ainapresliskas",
+            "gen": "ainapresliskan",
+            "dat": "ainapresliskamans",
+            "akk": "ainapresliskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ainapresliskan",
+            "gen": "ainapresliskas",
+            "dat": "ainapresliskasmu",
+            "akk": "ainapresliskan"
+          },
+          "pl": {
+            "nom": "ainapresliskai",
+            "gen": "ainapresliskan",
+            "dat": "ainapresliskamans",
+            "akk": "ainapresliskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ainapresliskaisis",
+            "gen": "ainapresliskaisjas",
+            "dat": "ainapresliskaisjasmu",
+            "akk": "ainapresliskaisin"
+          },
+          "pl": {
+            "nom": "ainapresliskaisjai",
+            "gen": "ainapresliskaisin",
+            "dat": "ainapresliskaisimans",
+            "akk": "ainapresliskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ainapresliskaisi",
+            "gen": "ainapresliskaisjas",
+            "dat": "ainapresliskaisjai",
+            "akk": "ainapresliskaisjan"
+          },
+          "pl": {
+            "nom": "ainapresliskaisjas",
+            "gen": "ainapresliskaisjan",
+            "dat": "ainapresliskaisjamans",
+            "akk": "ainapresliskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ainapresliskaisi",
+            "gen": "ainapresliskaisjas",
+            "dat": "ainapresliskaisjasmu",
+            "akk": "ainapresliskaisi"
+          },
+          "pl": {
+            "nom": "ainapresliskaisjai",
+            "gen": "ainapresliskaisin",
+            "dat": "ainapresliskaisimans",
+            "akk": "ainapresliskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaainapresliskaisis",
+            "gen": "ukaainapresliskaisjas",
+            "dat": "ukaainapresliskaisjasmu",
+            "akk": "ukaainapresliskaisin"
+          },
+          "pl": {
+            "nom": "ukaainapresliskaisjai",
+            "gen": "ukaainapresliskaisin",
+            "dat": "ukaainapresliskaisimans",
+            "akk": "ukaainapresliskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaainapresliskaisi",
+            "gen": "ukaainapresliskaisjas",
+            "dat": "ukaainapresliskaisjai",
+            "akk": "ukaainapresliskaisjan"
+          },
+          "pl": {
+            "nom": "ukaainapresliskaisjas",
+            "gen": "ukaainapresliskaisjan",
+            "dat": "ukaainapresliskaisjamans",
+            "akk": "ukaainapresliskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaainapresliskaisi",
+            "gen": "ukaainapresliskaisjas",
+            "dat": "ukaainapresliskaisjasmu",
+            "akk": "ukaainapresliskaisi"
+          },
+          "pl": {
+            "nom": "ukaainapresliskaisjai",
+            "gen": "ukaainapresliskaisin",
+            "dat": "ukaainapresliskaisimans",
+            "akk": "ukaainapresliskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ainapresliskai",
+        "comparative": "ainapresliskais",
+        "superlative": "ukaainapresliskais"
+      }
+    }
+  },
+  {
+    "word": "ainarānkis",
+    "id": 7755,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ainarānkis",
+          "gen": "ainarānkjas",
+          "dat": "ainarānkju",
+          "akk": "ainarānkjan"
+        },
+        "pl": {
+          "nom": "ainarānkjai",
+          "gen": "ainarānkjan",
+          "dat": "ainarānkjamans",
+          "akk": "ainarānkjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ainaraggis",
+    "id": 8822,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ainaraggis",
+          "gen": "ainaraggjas",
+          "dat": "ainaraggju",
+          "akk": "ainaraggjan"
+        },
+        "pl": {
+          "nom": "ainaraggjai",
+          "gen": "ainaraggjan",
+          "dat": "ainaraggjamans",
+          "akk": "ainaraggjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ainarēizewingis",
+    "id": 7309,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ainarēizewingis",
+            "gen": "ainarēizewingjas",
+            "dat": "ainarēizewingjasmu",
+            "akk": "ainarēizewingjan"
+          },
+          "pl": {
+            "nom": "ainarēizewingjai",
+            "gen": "ainarēizewingjan",
+            "dat": "ainarēizewingjamans",
+            "akk": "ainarēizewingjans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ainarēizewingi",
+            "gen": "ainarēizewingis",
+            "dat": "ainarēizewingei",
+            "akk": "ainarēizewingin"
+          },
+          "pl": {
+            "nom": "ainarēizewingis",
+            "gen": "ainarēizewingin",
+            "dat": "ainarēizewingimans",
+            "akk": "ainarēizewingins"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ainarēizewingi / ainarēizewingjan",
+            "gen": "ainarēizewingjas",
+            "dat": "ainarēizewingjasmu",
+            "akk": "ainarēizewingi / ainarēizewingjan"
+          },
+          "pl": {
+            "nom": "ainarēizewingjai",
+            "gen": "ainarēizewingjan",
+            "dat": "ainarēizewingjamans",
+            "akk": "ainarēizewingjans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ainarēizewingjaisis",
+            "gen": "ainarēizewingjaisjas",
+            "dat": "ainarēizewingjaisjasmu",
+            "akk": "ainarēizewingjaisin"
+          },
+          "pl": {
+            "nom": "ainarēizewingjaisjai",
+            "gen": "ainarēizewingjaisin",
+            "dat": "ainarēizewingjaisimans",
+            "akk": "ainarēizewingjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ainarēizewingjaisi",
+            "gen": "ainarēizewingjaisjas",
+            "dat": "ainarēizewingjaisjai",
+            "akk": "ainarēizewingjaisjan"
+          },
+          "pl": {
+            "nom": "ainarēizewingjaisjas",
+            "gen": "ainarēizewingjaisjan",
+            "dat": "ainarēizewingjaisjamans",
+            "akk": "ainarēizewingjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ainarēizewingjaisi",
+            "gen": "ainarēizewingjaisjas",
+            "dat": "ainarēizewingjaisjasmu",
+            "akk": "ainarēizewingjaisi"
+          },
+          "pl": {
+            "nom": "ainarēizewingjaisjai",
+            "gen": "ainarēizewingjaisin",
+            "dat": "ainarēizewingjaisimans",
+            "akk": "ainarēizewingjaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaainarēizewingjaisis",
+            "gen": "ukaainarēizewingjaisjas",
+            "dat": "ukaainarēizewingjaisjasmu",
+            "akk": "ukaainarēizewingjaisin"
+          },
+          "pl": {
+            "nom": "ukaainarēizewingjaisjai",
+            "gen": "ukaainarēizewingjaisin",
+            "dat": "ukaainarēizewingjaisimans",
+            "akk": "ukaainarēizewingjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaainarēizewingjaisi",
+            "gen": "ukaainarēizewingjaisjas",
+            "dat": "ukaainarēizewingjaisjai",
+            "akk": "ukaainarēizewingjaisjan"
+          },
+          "pl": {
+            "nom": "ukaainarēizewingjaisjas",
+            "gen": "ukaainarēizewingjaisjan",
+            "dat": "ukaainarēizewingjaisjamans",
+            "akk": "ukaainarēizewingjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaainarēizewingjaisi",
+            "gen": "ukaainarēizewingjaisjas",
+            "dat": "ukaainarēizewingjaisjasmu",
+            "akk": "ukaainarēizewingjaisi"
+          },
+          "pl": {
+            "nom": "ukaainarēizewingjaisjai",
+            "gen": "ukaainarēizewingjaisin",
+            "dat": "ukaainarēizewingjaisimans",
+            "akk": "ukaainarēizewingjaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ainarēizewingjai",
+        "comparative": "ainarēizewingjais",
+        "superlative": "ukaainarēizewingjais"
+      }
+    }
+  },
+  {
+    "word": "ainaseīlingis",
+    "id": 43,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ainaseīlingis",
+          "gen": "ainaseīlingjas",
+          "dat": "ainaseīlingju",
+          "akk": "ainaseīlingjan"
+        },
+        "pl": {
+          "nom": "ainaseīlingjai",
+          "gen": "ainaseīlingjan",
+          "dat": "ainaseīlingjamans",
+          "akk": "ainaseīlingjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ainaseīlingiskan",
+    "id": 45,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ainaseīlingiskan",
+          "gen": "ainaseīlingiskas",
+          "dat": "ainaseīlingisku",
+          "akk": "ainaseīlingiskan"
+        },
+        "pl": {
+          "nom": "ainaseilingiskāi",
+          "gen": "ainaseīlingiskan",
+          "dat": "ainaseilingiskammans",
+          "akk": "ainaseīlingiskans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ainatīngis",
+    "id": 47,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ainatīngis",
+            "gen": "ainatīngjas",
+            "dat": "ainatīngjasmu",
+            "akk": "ainatīngjan"
+          },
+          "pl": {
+            "nom": "ainatīngjai",
+            "gen": "ainatīngjan",
+            "dat": "ainatīngjamans",
+            "akk": "ainatīngjans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ainatīngi",
+            "gen": "ainatīngis",
+            "dat": "ainatīngei",
+            "akk": "ainatīngin"
+          },
+          "pl": {
+            "nom": "ainatīngis",
+            "gen": "ainatīngin",
+            "dat": "ainatīngimans",
+            "akk": "ainatīngins"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ainatīngi / ainatīngjan",
+            "gen": "ainatīngjas",
+            "dat": "ainatīngjasmu",
+            "akk": "ainatīngi / ainatīngjan"
+          },
+          "pl": {
+            "nom": "ainatīngjai",
+            "gen": "ainatīngjan",
+            "dat": "ainatīngjamans",
+            "akk": "ainatīngjans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ainatīngjaisis",
+            "gen": "ainatīngjaisjas",
+            "dat": "ainatīngjaisjasmu",
+            "akk": "ainatīngjaisin"
+          },
+          "pl": {
+            "nom": "ainatīngjaisjai",
+            "gen": "ainatīngjaisin",
+            "dat": "ainatīngjaisimans",
+            "akk": "ainatīngjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ainatīngjaisi",
+            "gen": "ainatīngjaisjas",
+            "dat": "ainatīngjaisjai",
+            "akk": "ainatīngjaisjan"
+          },
+          "pl": {
+            "nom": "ainatīngjaisjas",
+            "gen": "ainatīngjaisjan",
+            "dat": "ainatīngjaisjamans",
+            "akk": "ainatīngjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ainatīngjaisi",
+            "gen": "ainatīngjaisjas",
+            "dat": "ainatīngjaisjasmu",
+            "akk": "ainatīngjaisi"
+          },
+          "pl": {
+            "nom": "ainatīngjaisjai",
+            "gen": "ainatīngjaisin",
+            "dat": "ainatīngjaisimans",
+            "akk": "ainatīngjaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaainatīngjaisis",
+            "gen": "ukaainatīngjaisjas",
+            "dat": "ukaainatīngjaisjasmu",
+            "akk": "ukaainatīngjaisin"
+          },
+          "pl": {
+            "nom": "ukaainatīngjaisjai",
+            "gen": "ukaainatīngjaisin",
+            "dat": "ukaainatīngjaisimans",
+            "akk": "ukaainatīngjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaainatīngjaisi",
+            "gen": "ukaainatīngjaisjas",
+            "dat": "ukaainatīngjaisjai",
+            "akk": "ukaainatīngjaisjan"
+          },
+          "pl": {
+            "nom": "ukaainatīngjaisjas",
+            "gen": "ukaainatīngjaisjan",
+            "dat": "ukaainatīngjaisjamans",
+            "akk": "ukaainatīngjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaainatīngjaisi",
+            "gen": "ukaainatīngjaisjas",
+            "dat": "ukaainatīngjaisjasmu",
+            "akk": "ukaainatīngjaisi"
+          },
+          "pl": {
+            "nom": "ukaainatīngjaisjai",
+            "gen": "ukaainatīngjaisin",
+            "dat": "ukaainatīngjaisimans",
+            "akk": "ukaainatīngjaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ainatīngjai",
+        "comparative": "ainatīngjais",
+        "superlative": "ukaainatīngjais"
+      }
+    }
+  },
+  {
+    "word": "ainawīdibi",
+    "id": 8181,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ainawīdibi",
+          "gen": "ainawīdibis",
+          "dat": "ainawīdibei",
+          "akk": "ainawīdibin"
+        },
+        "pl": {
+          "nom": "ainawīdibis",
+          "gen": "ainawīdibin",
+          "dat": "ainawīdibimans",
+          "akk": "ainawīdibins"
+        }
+      }
+    }
+  },
+  {
+    "word": "ainawīdintun",
+    "id": 7373,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "ainawīdina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "ainawīdina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "ainawīdina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "ainawīdinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "ainawīdinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "ainawīdina"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "ainawīdina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "ainawīdina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "ainawīdina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "ainawīdinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "ainawīdinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "ainawīdina"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma ainawīdinuns / ainawīdinusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei ainawīdinuns / ainawīdinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast ainawīdinuns / ainawīdinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast ainawīdinus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai ainawīdinusis / ainawīdinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei ainawīdinusis / ainawīdinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast ainawīdinusis / ainawīdinusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst ainawīdinuns / ainawīdinusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst ainawīdinuns / ainawīdinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst ainawīdinuns / ainawīdinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst ainawīdinus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai ainawīdinusis / ainawīdinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei ainawīdinusis / ainawīdinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst ainawīdinusis / ainawīdinusjas"
+          }
+        ]
+      },
+      "optative": "ainawīdinsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "ainawīdinais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "ainawīdinaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "ainawīdinlai"
+        },
+        {
+          "p": "tū",
+          "f": "ainawīdinlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "ainawīdinlai"
+        },
+        {
+          "p": "mes",
+          "f": "ainawīdinlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "ainawīdinlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "ainawīdinlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "ainawīdinants",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "ainawīdinants",
+                "gen": "ainawīdinantis",
+                "dat": "ainawīdinantismu",
+                "akk": "ainawīdinantin"
+              },
+              "pl": {
+                "nom": "ainawīdinantjai",
+                "gen": "ainawīdinantin",
+                "dat": "ainawidinantimmans",
+                "akk": "ainawīdinantins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "ainawidinantī",
+                "gen": "ainawīdinantjas",
+                "dat": "ainawīdinantjai",
+                "akk": "ainawīdinantjan"
+              },
+              "pl": {
+                "nom": "ainawīdinantjas",
+                "gen": "ainawīdinantjan",
+                "dat": "ainawidinantjāmans",
+                "akk": "ainawīdinantjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "ainawīdinanti",
+                "gen": "ainawīdinantis",
+                "dat": "ainawīdinantismu",
+                "akk": "ainawīdinantin"
+              },
+              "pl": {
+                "nom": "ainawīdinantjai",
+                "gen": "ainawīdinantin",
+                "dat": "ainawidinantimmans",
+                "akk": "ainawīdinantins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "ainawīdinuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "ainawīdinuns",
+                "gen": "ainawīdinusjas",
+                "dat": "ainawīdinusjasmu",
+                "akk": "ainawīdinusin"
+              },
+              "pl": {
+                "nom": "ainawīdinusis",
+                "gen": "ainawīdinusin",
+                "dat": "ainawīdinusimans",
+                "akk": "ainawīdinusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "ainawīdinusi",
+                "gen": "ainawīdinusjas",
+                "dat": "ainawīdinusjai",
+                "akk": "ainawīdinusjan"
+              },
+              "pl": {
+                "nom": "ainawīdinusjas",
+                "gen": "ainawīdinusjan",
+                "dat": "ainawīdinusjamans",
+                "akk": "ainawīdinusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "ainawīdinus",
+                "gen": "ainawīdinusjas",
+                "dat": "ainawīdinusjasmu",
+                "akk": "ainawīdinus"
+              },
+              "pl": {
+                "nom": "ainawīdinus",
+                "gen": "ainawīdinusin",
+                "dat": "ainawīdinusimans",
+                "akk": "ainawīdinus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "ainawīdints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "ainawīdints",
+                "gen": "ainawīdintas",
+                "dat": "ainawīdintasmu",
+                "akk": "ainawīdintan"
+              },
+              "pl": {
+                "nom": "ainawidintāi",
+                "gen": "ainawīdintan",
+                "dat": "ainawidintammans",
+                "akk": "ainawīdintans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "ainawidintā",
+                "gen": "ainawīdintas",
+                "dat": "ainawīdintai",
+                "akk": "ainawīdintan"
+              },
+              "pl": {
+                "nom": "ainawīdintas",
+                "gen": "ainawīdintan",
+                "dat": "ainawidintāmans",
+                "akk": "ainawīdintans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "ainawīdintan",
+                "gen": "ainawīdintas",
+                "dat": "ainawīdintasmu",
+                "akk": "ainawīdintan"
+              },
+              "pl": {
+                "nom": "ainawidintāi",
+                "gen": "ainawīdintan",
+                "dat": "ainawidintammans",
+                "akk": "ainawīdintans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "ainawīdisks",
+    "id": 51,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ainawīdisks",
+            "gen": "ainawīdiskas",
+            "dat": "ainawīdiskasmu",
+            "akk": "ainawīdiskan"
+          },
+          "pl": {
+            "nom": "ainawīdiskai",
+            "gen": "ainawīdiskan",
+            "dat": "ainawīdiskamans",
+            "akk": "ainawīdiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ainawīdiska",
+            "gen": "ainawīdiskas",
+            "dat": "ainawīdiskai",
+            "akk": "ainawīdiskan"
+          },
+          "pl": {
+            "nom": "ainawīdiskas",
+            "gen": "ainawīdiskan",
+            "dat": "ainawīdiskamans",
+            "akk": "ainawīdiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ainawīdiskan",
+            "gen": "ainawīdiskas",
+            "dat": "ainawīdiskasmu",
+            "akk": "ainawīdiskan"
+          },
+          "pl": {
+            "nom": "ainawīdiskai",
+            "gen": "ainawīdiskan",
+            "dat": "ainawīdiskamans",
+            "akk": "ainawīdiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ainawīdiskaisis",
+            "gen": "ainawīdiskaisjas",
+            "dat": "ainawīdiskaisjasmu",
+            "akk": "ainawīdiskaisin"
+          },
+          "pl": {
+            "nom": "ainawīdiskaisjai",
+            "gen": "ainawīdiskaisin",
+            "dat": "ainawīdiskaisimans",
+            "akk": "ainawīdiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ainawīdiskaisi",
+            "gen": "ainawīdiskaisjas",
+            "dat": "ainawīdiskaisjai",
+            "akk": "ainawīdiskaisjan"
+          },
+          "pl": {
+            "nom": "ainawīdiskaisjas",
+            "gen": "ainawīdiskaisjan",
+            "dat": "ainawīdiskaisjamans",
+            "akk": "ainawīdiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ainawīdiskaisi",
+            "gen": "ainawīdiskaisjas",
+            "dat": "ainawīdiskaisjasmu",
+            "akk": "ainawīdiskaisi"
+          },
+          "pl": {
+            "nom": "ainawīdiskaisjai",
+            "gen": "ainawīdiskaisin",
+            "dat": "ainawīdiskaisimans",
+            "akk": "ainawīdiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaainawīdiskaisis",
+            "gen": "ukaainawīdiskaisjas",
+            "dat": "ukaainawīdiskaisjasmu",
+            "akk": "ukaainawīdiskaisin"
+          },
+          "pl": {
+            "nom": "ukaainawīdiskaisjai",
+            "gen": "ukaainawīdiskaisin",
+            "dat": "ukaainawīdiskaisimans",
+            "akk": "ukaainawīdiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaainawīdiskaisi",
+            "gen": "ukaainawīdiskaisjas",
+            "dat": "ukaainawīdiskaisjai",
+            "akk": "ukaainawīdiskaisjan"
+          },
+          "pl": {
+            "nom": "ukaainawīdiskaisjas",
+            "gen": "ukaainawīdiskaisjan",
+            "dat": "ukaainawīdiskaisjamans",
+            "akk": "ukaainawīdiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaainawīdiskaisi",
+            "gen": "ukaainawīdiskaisjas",
+            "dat": "ukaainawīdiskaisjasmu",
+            "akk": "ukaainawīdiskaisi"
+          },
+          "pl": {
+            "nom": "ukaainawīdiskaisjai",
+            "gen": "ukaainawīdiskaisin",
+            "dat": "ukaainawīdiskaisimans",
+            "akk": "ukaainawīdiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ainawīdiskai",
+        "comparative": "ainawīdiskais",
+        "superlative": "ukaainawīdiskais"
+      }
+    }
+  },
+  {
+    "word": "ainawīds",
+    "id": 52,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ainawīds",
+            "gen": "ainawīdas",
+            "dat": "ainawīdasmu",
+            "akk": "ainawīdan"
+          },
+          "pl": {
+            "nom": "ainawīdai",
+            "gen": "ainawīdan",
+            "dat": "ainawīdamans",
+            "akk": "ainawīdans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ainawīda",
+            "gen": "ainawīdas",
+            "dat": "ainawīdai",
+            "akk": "ainawīdan"
+          },
+          "pl": {
+            "nom": "ainawīdas",
+            "gen": "ainawīdan",
+            "dat": "ainawīdamans",
+            "akk": "ainawīdans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ainawīdan",
+            "gen": "ainawīdas",
+            "dat": "ainawīdasmu",
+            "akk": "ainawīdan"
+          },
+          "pl": {
+            "nom": "ainawīdai",
+            "gen": "ainawīdan",
+            "dat": "ainawīdamans",
+            "akk": "ainawīdans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ainawīdaisis",
+            "gen": "ainawīdaisjas",
+            "dat": "ainawīdaisjasmu",
+            "akk": "ainawīdaisin"
+          },
+          "pl": {
+            "nom": "ainawīdaisjai",
+            "gen": "ainawīdaisin",
+            "dat": "ainawīdaisimans",
+            "akk": "ainawīdaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ainawīdaisi",
+            "gen": "ainawīdaisjas",
+            "dat": "ainawīdaisjai",
+            "akk": "ainawīdaisjan"
+          },
+          "pl": {
+            "nom": "ainawīdaisjas",
+            "gen": "ainawīdaisjan",
+            "dat": "ainawīdaisjamans",
+            "akk": "ainawīdaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ainawīdaisi",
+            "gen": "ainawīdaisjas",
+            "dat": "ainawīdaisjasmu",
+            "akk": "ainawīdaisi"
+          },
+          "pl": {
+            "nom": "ainawīdaisjai",
+            "gen": "ainawīdaisin",
+            "dat": "ainawīdaisimans",
+            "akk": "ainawīdaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaainawīdaisis",
+            "gen": "ukaainawīdaisjas",
+            "dat": "ukaainawīdaisjasmu",
+            "akk": "ukaainawīdaisin"
+          },
+          "pl": {
+            "nom": "ukaainawīdaisjai",
+            "gen": "ukaainawīdaisin",
+            "dat": "ukaainawīdaisimans",
+            "akk": "ukaainawīdaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaainawīdaisi",
+            "gen": "ukaainawīdaisjas",
+            "dat": "ukaainawīdaisjai",
+            "akk": "ukaainawīdaisjan"
+          },
+          "pl": {
+            "nom": "ukaainawīdaisjas",
+            "gen": "ukaainawīdaisjan",
+            "dat": "ukaainawīdaisjamans",
+            "akk": "ukaainawīdaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaainawīdaisi",
+            "gen": "ukaainawīdaisjas",
+            "dat": "ukaainawīdaisjasmu",
+            "akk": "ukaainawīdaisi"
+          },
+          "pl": {
+            "nom": "ukaainawīdaisjai",
+            "gen": "ukaainawīdaisin",
+            "dat": "ukaainawīdaisimans",
+            "akk": "ukaainawīdaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ainawīdai",
+        "comparative": "ainawīdais",
+        "superlative": "ukaainawīdais"
+      }
+    }
+  },
+  {
+    "word": "ainazentliskan",
+    "id": 7756,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ainazentliskan",
+          "gen": "ainazentliskas",
+          "dat": "ainazentlisku",
+          "akk": "ainazentliskan"
+        },
+        "pl": {
+          "nom": "ainazentliskāi",
+          "gen": "ainazentliskan",
+          "dat": "ainazentliskammans",
+          "akk": "ainazentliskans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ainazentlisks",
+    "id": 8464,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ainazentlisks",
+            "gen": "ainazentliskas",
+            "dat": "ainazentliskasmu",
+            "akk": "ainazentliskan"
+          },
+          "pl": {
+            "nom": "ainazentliskai",
+            "gen": "ainazentliskan",
+            "dat": "ainazentliskamans",
+            "akk": "ainazentliskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ainazentliska",
+            "gen": "ainazentliskas",
+            "dat": "ainazentliskai",
+            "akk": "ainazentliskan"
+          },
+          "pl": {
+            "nom": "ainazentliskas",
+            "gen": "ainazentliskan",
+            "dat": "ainazentliskamans",
+            "akk": "ainazentliskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ainazentliskan",
+            "gen": "ainazentliskas",
+            "dat": "ainazentliskasmu",
+            "akk": "ainazentliskan"
+          },
+          "pl": {
+            "nom": "ainazentliskai",
+            "gen": "ainazentliskan",
+            "dat": "ainazentliskamans",
+            "akk": "ainazentliskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ainazentliskaisis",
+            "gen": "ainazentliskaisjas",
+            "dat": "ainazentliskaisjasmu",
+            "akk": "ainazentliskaisin"
+          },
+          "pl": {
+            "nom": "ainazentliskaisjai",
+            "gen": "ainazentliskaisin",
+            "dat": "ainazentliskaisimans",
+            "akk": "ainazentliskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ainazentliskaisi",
+            "gen": "ainazentliskaisjas",
+            "dat": "ainazentliskaisjai",
+            "akk": "ainazentliskaisjan"
+          },
+          "pl": {
+            "nom": "ainazentliskaisjas",
+            "gen": "ainazentliskaisjan",
+            "dat": "ainazentliskaisjamans",
+            "akk": "ainazentliskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ainazentliskaisi",
+            "gen": "ainazentliskaisjas",
+            "dat": "ainazentliskaisjasmu",
+            "akk": "ainazentliskaisi"
+          },
+          "pl": {
+            "nom": "ainazentliskaisjai",
+            "gen": "ainazentliskaisin",
+            "dat": "ainazentliskaisimans",
+            "akk": "ainazentliskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaainazentliskaisis",
+            "gen": "ukaainazentliskaisjas",
+            "dat": "ukaainazentliskaisjasmu",
+            "akk": "ukaainazentliskaisin"
+          },
+          "pl": {
+            "nom": "ukaainazentliskaisjai",
+            "gen": "ukaainazentliskaisin",
+            "dat": "ukaainazentliskaisimans",
+            "akk": "ukaainazentliskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaainazentliskaisi",
+            "gen": "ukaainazentliskaisjas",
+            "dat": "ukaainazentliskaisjai",
+            "akk": "ukaainazentliskaisjan"
+          },
+          "pl": {
+            "nom": "ukaainazentliskaisjas",
+            "gen": "ukaainazentliskaisjan",
+            "dat": "ukaainazentliskaisjamans",
+            "akk": "ukaainazentliskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaainazentliskaisi",
+            "gen": "ukaainazentliskaisjas",
+            "dat": "ukaainazentliskaisjasmu",
+            "akk": "ukaainazentliskaisi"
+          },
+          "pl": {
+            "nom": "ukaainazentliskaisjai",
+            "gen": "ukaainazentliskaisin",
+            "dat": "ukaainazentliskaisimans",
+            "akk": "ukaainazentliskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ainazentliskai",
+        "comparative": "ainazentliskais",
+        "superlative": "ukaainazentliskais"
+      }
+    }
+  },
+  {
+    "word": "ainuntapērgimis",
+    "id": 8823,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ainuntapērgimis",
+            "gen": "ainuntapērgimis",
+            "dat": "ainuntapērgimismu",
+            "akk": "ainuntapērgimin"
+          },
+          "pl": {
+            "nom": "ainuntapērgimjai",
+            "gen": "ainuntapērgimjan",
+            "dat": "ainuntapērgimjamans",
+            "akk": "ainuntapērgimjans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ainuntapērgimi",
+            "gen": "ainuntapērgimjas",
+            "dat": "ainuntapērgimjai",
+            "akk": "ainuntapērgimjan"
+          },
+          "pl": {
+            "nom": "ainuntapērgimjas",
+            "gen": "ainuntapērgimjan",
+            "dat": "ainuntapērgimjamans",
+            "akk": "ainuntapērgimjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ainuntapērgimi",
+            "gen": "ainuntapērgimis",
+            "dat": "ainuntapērgimismu",
+            "akk": "ainuntapērgimi"
+          },
+          "pl": {
+            "nom": "ainuntapērgimjai",
+            "gen": "ainuntapērgimin",
+            "dat": "ainuntapērgimimans",
+            "akk": "ainuntapērgimins"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ainuntapērgimjaisis",
+            "gen": "ainuntapērgimjaisjas",
+            "dat": "ainuntapērgimjaisjasmu",
+            "akk": "ainuntapērgimjaisin"
+          },
+          "pl": {
+            "nom": "ainuntapērgimjaisjai",
+            "gen": "ainuntapērgimjaisin",
+            "dat": "ainuntapērgimjaisimans",
+            "akk": "ainuntapērgimjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ainuntapērgimjaisi",
+            "gen": "ainuntapērgimjaisjas",
+            "dat": "ainuntapērgimjaisjai",
+            "akk": "ainuntapērgimjaisjan"
+          },
+          "pl": {
+            "nom": "ainuntapērgimjaisjas",
+            "gen": "ainuntapērgimjaisjan",
+            "dat": "ainuntapērgimjaisjamans",
+            "akk": "ainuntapērgimjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ainuntapērgimjaisi",
+            "gen": "ainuntapērgimjaisjas",
+            "dat": "ainuntapērgimjaisjasmu",
+            "akk": "ainuntapērgimjaisi"
+          },
+          "pl": {
+            "nom": "ainuntapērgimjaisjai",
+            "gen": "ainuntapērgimjaisin",
+            "dat": "ainuntapērgimjaisimans",
+            "akk": "ainuntapērgimjaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaainuntapērgimjaisis",
+            "gen": "ukaainuntapērgimjaisjas",
+            "dat": "ukaainuntapērgimjaisjasmu",
+            "akk": "ukaainuntapērgimjaisin"
+          },
+          "pl": {
+            "nom": "ukaainuntapērgimjaisjai",
+            "gen": "ukaainuntapērgimjaisin",
+            "dat": "ukaainuntapērgimjaisimans",
+            "akk": "ukaainuntapērgimjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaainuntapērgimjaisi",
+            "gen": "ukaainuntapērgimjaisjas",
+            "dat": "ukaainuntapērgimjaisjai",
+            "akk": "ukaainuntapērgimjaisjan"
+          },
+          "pl": {
+            "nom": "ukaainuntapērgimjaisjas",
+            "gen": "ukaainuntapērgimjaisjan",
+            "dat": "ukaainuntapērgimjaisjamans",
+            "akk": "ukaainuntapērgimjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaainuntapērgimjaisi",
+            "gen": "ukaainuntapērgimjaisjas",
+            "dat": "ukaainuntapērgimjaisjasmu",
+            "akk": "ukaainuntapērgimjaisi"
+          },
+          "pl": {
+            "nom": "ukaainuntapērgimjaisjai",
+            "gen": "ukaainuntapērgimjaisin",
+            "dat": "ukaainuntapērgimjaisimans",
+            "akk": "ukaainuntapērgimjaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ainuntapērgimjai",
+        "comparative": "ainuntapērgimjais",
+        "superlative": "ukaainuntapērgimjais"
+      }
+    }
+  },
+  {
+    "word": "ainuntapērgimiskan",
+    "id": 8824,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ainuntapērgimiskan",
+          "gen": "ainuntapērgimiskas",
+          "dat": "ainuntapērgimisku",
+          "akk": "ainuntapērgimiskan"
+        },
+        "pl": {
+          "nom": "ainuntapergimiskāi",
+          "gen": "ainuntapērgimiskan",
+          "dat": "ainuntapergimiskammans",
+          "akk": "ainuntapērgimiskans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ainuntkawīds",
+    "id": 56,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ainuntkawīds",
+          "gen": "ainuntkawīdse",
+          "dat": "ainuntkawīdsmu",
+          "akk": "ainuntkawīdan"
+        },
+        "pl": {
+          "nom": "ainuntkawīdai",
+          "gen": "ainuntkawīdan",
+          "dat": "ainuntkawīdamans",
+          "akk": "ainuntkawīdans"
+        }
+      },
+      "fem": {
+        "sg": {
+          "nom": "ainuntkawīda",
+          "gen": "ainuntkawīdses",
+          "dat": "ainuntkawīdsei",
+          "akk": "ainuntkawīdan"
+        },
+        "pl": {
+          "nom": "ainuntkawīdas",
+          "gen": "ainuntkawīdan",
+          "dat": "ainuntkawīdamans",
+          "akk": "ainuntkawīdans"
+        }
+      },
+      "neut": {
+        "sg": {
+          "nom": "ainuntkawīdan",
+          "gen": "ainuntkawīdse",
+          "dat": "ainuntkawīdsmu",
+          "akk": "ainuntkawīdan"
+        },
+        "pl": {
+          "nom": "ainuntkawīdai",
+          "gen": "ainuntkawīdan",
+          "dat": "ainuntkawīdamans",
+          "akk": "ainuntkawīdans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ainunts",
+    "id": 58,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ainunts",
+          "gen": "ainuntse",
+          "dat": "ainuntsmu",
+          "akk": "ainuntan"
+        },
+        "pl": {
+          "nom": "ainuntai",
+          "gen": "ainuntan",
+          "dat": "ainuntamans",
+          "akk": "ainuntans"
+        }
+      },
+      "fem": {
+        "sg": {
+          "nom": "ainunta",
+          "gen": "ainuntses",
+          "dat": "ainuntsei",
+          "akk": "ainuntan"
+        },
+        "pl": {
+          "nom": "ainuntas",
+          "gen": "ainuntan",
+          "dat": "ainuntamans",
+          "akk": "ainuntans"
+        }
+      },
+      "neut": {
+        "sg": {
+          "nom": "ainuntan",
+          "gen": "ainuntse",
+          "dat": "ainuntsmu",
+          "akk": "ainuntan"
+        },
+        "pl": {
+          "nom": "ainuntai",
+          "gen": "ainuntan",
+          "dat": "ainuntamans",
+          "akk": "ainuntans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ajjers",
+    "id": 68,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ajjers",
+          "gen": "ajjeras",
+          "dat": "ajjeru",
+          "akk": "ajjeran"
+        },
+        "pl": {
+          "nom": "ajerāi",
+          "gen": "ajjeran",
+          "dat": "ajerammans",
+          "akk": "ajjerans"
+        }
+      }
+    }
+  },
+  {
+    "word": "akā",
+    "id": 7758,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "akā",
+          "gen": "akkas",
+          "dat": "akkai",
+          "akk": "akkan"
+        },
+        "pl": {
+          "nom": "akkas",
+          "gen": "akkan",
+          "dat": "akāmans",
+          "akk": "akkans"
+        }
+      }
+    }
+  },
+  {
+    "word": "akācija",
+    "id": 8825,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "akācija",
+          "gen": "akācijas",
+          "dat": "akācijai",
+          "akk": "akācijan"
+        },
+        "pl": {
+          "nom": "akācijas",
+          "gen": "akācijan",
+          "dat": "akācijamans",
+          "akk": "akācijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "akadēmija",
+    "id": 71,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "akadēmija",
+          "gen": "akadēmijas",
+          "dat": "akadēmijai",
+          "akk": "akadēmijan"
+        },
+        "pl": {
+          "nom": "akadēmijas",
+          "gen": "akadēmijan",
+          "dat": "akadēmijamans",
+          "akk": "akadēmijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "akcēnts",
+    "id": 73,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "akcēnts",
+          "gen": "akcēntis",
+          "dat": "akcēnti",
+          "akk": "akcēntin"
+        },
+        "pl": {
+          "nom": "akcēntjai",
+          "gen": "akcēntin",
+          "dat": "akcēntimans",
+          "akk": "akcēntins"
+        }
+      }
+    }
+  },
+  {
+    "word": "akētis",
+    "id": 74,
+    "paradigm": {
+      "fem": {
+        "pl": {
+          "dat": "akētimans",
+          "akk": "akētins"
+        }
+      }
+    }
+  },
+  {
+    "word": "akiwīsts",
+    "id": 77,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "akiwīsts",
+            "gen": "akiwīstas",
+            "dat": "akiwīstasmu",
+            "akk": "akiwīstan"
+          },
+          "pl": {
+            "nom": "akiwīstai",
+            "gen": "akiwīstan",
+            "dat": "akiwīstamans",
+            "akk": "akiwīstans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "akiwīsta",
+            "gen": "akiwīstas",
+            "dat": "akiwīstai",
+            "akk": "akiwīstan"
+          },
+          "pl": {
+            "nom": "akiwīstas",
+            "gen": "akiwīstan",
+            "dat": "akiwīstamans",
+            "akk": "akiwīstans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "akiwīstan",
+            "gen": "akiwīstas",
+            "dat": "akiwīstasmu",
+            "akk": "akiwīstan"
+          },
+          "pl": {
+            "nom": "akiwīstai",
+            "gen": "akiwīstan",
+            "dat": "akiwīstamans",
+            "akk": "akiwīstans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "akiwīstaisis",
+            "gen": "akiwīstaisjas",
+            "dat": "akiwīstaisjasmu",
+            "akk": "akiwīstaisin"
+          },
+          "pl": {
+            "nom": "akiwīstaisjai",
+            "gen": "akiwīstaisin",
+            "dat": "akiwīstaisimans",
+            "akk": "akiwīstaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "akiwīstaisi",
+            "gen": "akiwīstaisjas",
+            "dat": "akiwīstaisjai",
+            "akk": "akiwīstaisjan"
+          },
+          "pl": {
+            "nom": "akiwīstaisjas",
+            "gen": "akiwīstaisjan",
+            "dat": "akiwīstaisjamans",
+            "akk": "akiwīstaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "akiwīstaisi",
+            "gen": "akiwīstaisjas",
+            "dat": "akiwīstaisjasmu",
+            "akk": "akiwīstaisi"
+          },
+          "pl": {
+            "nom": "akiwīstaisjai",
+            "gen": "akiwīstaisin",
+            "dat": "akiwīstaisimans",
+            "akk": "akiwīstaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaakiwīstaisis",
+            "gen": "ukaakiwīstaisjas",
+            "dat": "ukaakiwīstaisjasmu",
+            "akk": "ukaakiwīstaisin"
+          },
+          "pl": {
+            "nom": "ukaakiwīstaisjai",
+            "gen": "ukaakiwīstaisin",
+            "dat": "ukaakiwīstaisimans",
+            "akk": "ukaakiwīstaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaakiwīstaisi",
+            "gen": "ukaakiwīstaisjas",
+            "dat": "ukaakiwīstaisjai",
+            "akk": "ukaakiwīstaisjan"
+          },
+          "pl": {
+            "nom": "ukaakiwīstaisjas",
+            "gen": "ukaakiwīstaisjan",
+            "dat": "ukaakiwīstaisjamans",
+            "akk": "ukaakiwīstaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaakiwīstaisi",
+            "gen": "ukaakiwīstaisjas",
+            "dat": "ukaakiwīstaisjasmu",
+            "akk": "ukaakiwīstaisi"
+          },
+          "pl": {
+            "nom": "ukaakiwīstaisjai",
+            "gen": "ukaakiwīstaisin",
+            "dat": "ukaakiwīstaisimans",
+            "akk": "ukaakiwīstaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "akiwīstai",
+        "comparative": "akiwīstais",
+        "superlative": "ukaakiwīstais"
+      }
+    }
+  },
+  {
+    "word": "akkadisks",
+    "id": 7788,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "akkadisks",
+            "gen": "akkadiskas",
+            "dat": "akkadiskasmu",
+            "akk": "akkadiskan"
+          },
+          "pl": {
+            "nom": "akkadiskai",
+            "gen": "akkadiskan",
+            "dat": "akkadiskamans",
+            "akk": "akkadiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "akkadiska",
+            "gen": "akkadiskas",
+            "dat": "akkadiskai",
+            "akk": "akkadiskan"
+          },
+          "pl": {
+            "nom": "akkadiskas",
+            "gen": "akkadiskan",
+            "dat": "akkadiskamans",
+            "akk": "akkadiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "akkadiskan",
+            "gen": "akkadiskas",
+            "dat": "akkadiskasmu",
+            "akk": "akkadiskan"
+          },
+          "pl": {
+            "nom": "akkadiskai",
+            "gen": "akkadiskan",
+            "dat": "akkadiskamans",
+            "akk": "akkadiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "akkadiskaisis",
+            "gen": "akkadiskaisjas",
+            "dat": "akkadiskaisjasmu",
+            "akk": "akkadiskaisin"
+          },
+          "pl": {
+            "nom": "akkadiskaisjai",
+            "gen": "akkadiskaisin",
+            "dat": "akkadiskaisimans",
+            "akk": "akkadiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "akkadiskaisi",
+            "gen": "akkadiskaisjas",
+            "dat": "akkadiskaisjai",
+            "akk": "akkadiskaisjan"
+          },
+          "pl": {
+            "nom": "akkadiskaisjas",
+            "gen": "akkadiskaisjan",
+            "dat": "akkadiskaisjamans",
+            "akk": "akkadiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "akkadiskaisi",
+            "gen": "akkadiskaisjas",
+            "dat": "akkadiskaisjasmu",
+            "akk": "akkadiskaisi"
+          },
+          "pl": {
+            "nom": "akkadiskaisjai",
+            "gen": "akkadiskaisin",
+            "dat": "akkadiskaisimans",
+            "akk": "akkadiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaakkadiskaisis",
+            "gen": "ukaakkadiskaisjas",
+            "dat": "ukaakkadiskaisjasmu",
+            "akk": "ukaakkadiskaisin"
+          },
+          "pl": {
+            "nom": "ukaakkadiskaisjai",
+            "gen": "ukaakkadiskaisin",
+            "dat": "ukaakkadiskaisimans",
+            "akk": "ukaakkadiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaakkadiskaisi",
+            "gen": "ukaakkadiskaisjas",
+            "dat": "ukaakkadiskaisjai",
+            "akk": "ukaakkadiskaisjan"
+          },
+          "pl": {
+            "nom": "ukaakkadiskaisjas",
+            "gen": "ukaakkadiskaisjan",
+            "dat": "ukaakkadiskaisjamans",
+            "akk": "ukaakkadiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaakkadiskaisi",
+            "gen": "ukaakkadiskaisjas",
+            "dat": "ukaakkadiskaisjasmu",
+            "akk": "ukaakkadiskaisi"
+          },
+          "pl": {
+            "nom": "ukaakkadiskaisjai",
+            "gen": "ukaakkadiskaisin",
+            "dat": "ukaakkadiskaisimans",
+            "akk": "ukaakkadiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "akkadiskai",
+        "comparative": "akkadiskais",
+        "superlative": "ukaakkadiskais"
+      }
+    }
+  },
+  {
+    "word": "Akkads",
+    "id": 7789,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "Akkads",
+          "gen": "Akkadas",
+          "dat": "Akkadu",
+          "akk": "Akkadan"
+        },
+        "pl": {
+          "nom": "Akkadai",
+          "gen": "Akkadan",
+          "dat": "Akkadamans",
+          "akk": "Akkadans"
+        }
+      }
+    }
   }
 ]
