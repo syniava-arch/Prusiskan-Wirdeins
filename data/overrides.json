@@ -54,7 +54,6 @@
   {
     "word": "abbejan",
     "id": 7,
-    "g": "gen",
     "s": "↑ Abbai gen (в базе исправлено 2026-08-21: было ошибочно dat)",
     "ru": "обоих, обеих",
     "lt": "abiejų",
@@ -209,8 +208,6 @@
   {
     "word": "begēdis",
     "id": 519,
-    "w": "begēdis",
-    "f": "begīdis",
     "paradigm": {
       "masc": {
         "sg": {
@@ -229,53 +226,8 @@
     }
   },
   {
-    "word": "nigēdingis",
-    "id": 3914,
-    "w": "nigēdingis",
-    "f": "nigīdingis"
-  },
-  {
-    "word": "tūlalunks",
-    "id": 6575,
-    "w": "tūlalunks",
-    "f": "tūlilunks",
-    "ru": "многогранник, многоугольник"
-  },
-  {
-    "word": "regulārs tūlalunks",
-    "id": 5244,
-    "w": "regulārs tūlalunks",
-    "f": "regulārs tūlilunks",
-    "ru": "правильный многогранник, правильный многоугольник"
-  },
-  {
-    "word": "ōpisan",
-    "id": 6665,
-    "w": "ōpisan"
-  },
-  {
-    "word": "ōpicials",
-    "id": 8457,
-    "w": "ōpicials",
-    "f": "ōficials"
-  },
-  {
-    "word": "septinnjalunks",
-    "id": 10399,
-    "w": "septinnjalunks",
-    "f": "septinnelunks"
-  },
-  {
-    "word": "septinnjalunkins",
-    "id": 10398,
-    "w": "septinnjalunkins",
-    "f": "septinnelunkins"
-  },
-  {
     "word": "audribbintun si",
     "id": 8538,
-    "w": "audribbintun si",
-    "s": "ezze sebbei [Āu-, Dribbintun drv, nusikratyti, atkratīties]",
     "conjugation": {
       "indicative": {
         "present": [
@@ -577,17 +529,6 @@
     }
   },
   {
-    "word": "saldiskan",
-    "id": 10347,
-    "w": "saldiskan",
-    "s": "[Salds DRV, Süßigkeiten MK]"
-  },
-  {
-    "word": "klatka",
-    "id": 7306,
-    "de": "Käfig, Bauer\n(Vogelbauer), Vogelbauer"
-  },
-  {
     "word": "pestiwālan",
     "source": "[telepōns, ōpisan, prancōzis, festivāls ]",
     "de": "Festival",
@@ -595,7 +536,8 @@
     "lt": "festivalis",
     "lv": "festivāls",
     "pl": "Festiwal",
-    "ru": "фестиваль"
+    "ru": "фестиваль",
+    "id": 10905
   },
   {
     "word": "ussjalunks",
@@ -605,7 +547,8 @@
     "lt": "šešiakampis",
     "lv": "sešstūris",
     "pl": "sześciokąt, sześciobok, heksagon",
-    "ru": "шестиугольник"
+    "ru": "шестиугольник",
+    "id": 10906
   },
   {
     "word": "kīlns",
@@ -615,7 +558,8 @@
     "lt": "trūkis, kyla, klynas",
     "lv": "trūce, bruka",
     "pl": "przepuklina, kiła",
-    "ru": "грыжа"
+    "ru": "грыжа",
+    "id": 10907
   },
   {
     "word": "senēndintun",
@@ -625,7 +569,8 @@
     "lt": "apnuodyti, nunuodyti",
     "lv": "saindēt, noindēt",
     "pl": "otruć, otrucić, zatrucić",
-    "ru": "отравить"
+    "ru": "отравить",
+    "id": 10908
   },
   {
     "word": "enmērisna",
@@ -635,7 +580,8 @@
     "lt": "įtarimas",
     "lv": "aizdomas",
     "pl": "podejrzenie",
-    "ru": "подозрение"
+    "ru": "подозрение",
+    "id": 10909
   },
   {
     "word": "enmērimins",
@@ -645,17 +591,8 @@
     "lt": "įtartinas",
     "lv": "aizdomīgs",
     "pl": "podejrzany",
-    "ru": "подозрительный"
-  },
-  {
-    "word": "spanstan",
-    "id": 5859,
-    "de": "Spindel (Rocken)",
-    "en": "spindle (distaff)",
-    "lt": "varpstė, verpstė",
-    "lv": "vārpste, vārpsta",
-    "pl": "wrzeciono (przęślica)",
-    "ru": "веретено (прялка, прасница)"
+    "ru": "подозрительный",
+    "id": 10910
   },
   {
     "word": "spanstīkan",
@@ -665,7 +602,8 @@
     "lt": "verpstukas",
     "lv": "vērpjamā vārpsta, vārpstiņa",
     "pl": "wrzeciono",
-    "ru": "веретено"
+    "ru": "веретено",
+    "id": 10911
   },
   {
     "word": "peršaūtlan",
@@ -675,7 +613,8 @@
     "lt": "krosniakaištis, juška, kaištis, sklandis, užsklanda",
     "lv": "aizšautne, krāsns aizšautne",
     "pl": "juszka do pieca",
-    "ru": "вьюшка (печная заслонка), заслонка"
+    "ru": "вьюшка (печная заслонка), заслонка",
+    "id": 10912
   },
   {
     "word": "abglābti",
@@ -1627,27 +1566,6 @@
     }
   },
   {
-    "word": "ikrāi",
-    "id": 2168,
-    "ru": "икра (ноги), голень"
-  },
-  {
-    "word": "peisāliwezis",
-    "id": 10268,
-    "w": "peisāliwezis",
-    "s": "[peisāli, weztun, kellawezis]"
-  },
-  {
-    "word": "pōstiniks",
-    "id": 10269,
-    "de": "Postangestellte, Postbote",
-    "en": "postal worker, postman",
-    "lt": "paštininkas, laiškanešys",
-    "lv": "pasta darbinieks, pastnieks",
-    "pl": "pocztowiec, pracownik pocztowy, listonosz",
-    "ru": "почтовый служащий, почтальон"
-  },
-  {
     "word": "eiskjareggis",
     "source": "[eīskus, regītwei]",
     "de": "Hellseher",
@@ -1655,7 +1573,8 @@
     "lt": "aiškiaregys",
     "lv": "gaišreģis",
     "pl": "jasnowidz, jasnowidzący",
-    "ru": "ясновидец, ясновидящий"
+    "ru": "ясновидец, ясновидящий",
+    "id": 10913
   },
   {
     "word": "eīskjareggibi",
@@ -1665,7 +1584,8 @@
     "lt": "aiškiaregystė",
     "lv": "gaišredzība",
     "pl": "jasnowidzenie",
-    "ru": "ясновидение"
+    "ru": "ясновидение",
+    "id": 10914
   },
   {
     "word": "absurditāti",
@@ -132789,29 +132709,6 @@
         }
       ]
     }
-  },
-  {
-    "word": "swāikstitwei",
-    "id": 6118,
-    "ru": "светить, светиться"
-  },
-  {
-    "word": "zwērs",
-    "id": 7261,
-    "en": "beast, animal",
-    "lt": "žvėris, gyvūnas",
-    "lv": "zvērs, dzīvnieks",
-    "ru": "зверь, животное"
-  },
-  {
-    "word": "zaljanēdants",
-    "id": 10763,
-    "s": "[Zalinēnts DRV]"
-  },
-  {
-    "word": "zaljanēnts",
-    "id": 10764,
-    "s": "[Zālis + ēstun DRV, Herbivore + žolėdis, zālēdājs MK]"
   },
   {
     "word": "auspānstun",
