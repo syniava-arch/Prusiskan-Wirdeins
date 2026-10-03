@@ -1,0 +1,2311 @@
+[
+  {
+    "word": "ussjalunks",
+    "source": "[Trillunks ]",
+    "de": "Sechseck, Hexagon",
+    "en": "hexagon",
+    "lt": "šešiakampis",
+    "lv": "sešstūris",
+    "pl": "sześciokąt, sześciobok, heksagon",
+    "ru": "шестиугольник",
+    "id": 10906
+  },
+  {
+    "word": "ūbutan",
+    "id": 6632,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ūbutan",
+          "gen": "ūbutas",
+          "dat": "ūbutu",
+          "akk": "ūbutan"
+        },
+        "pl": {
+          "nom": "ubutāi",
+          "gen": "ūbutan",
+          "dat": "ubutammans",
+          "akk": "ūbutans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ūnija",
+    "id": 6657,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ūnija",
+          "gen": "ūnijas",
+          "dat": "ūnijai",
+          "akk": "ūnijan"
+        },
+        "pl": {
+          "nom": "ūnijas",
+          "gen": "ūnijan",
+          "dat": "ūnijamans",
+          "akk": "ūnijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ūrlaups",
+    "id": 6674,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ūrlaups",
+          "gen": "ūrlaupas",
+          "dat": "ūrlaupu",
+          "akk": "ūrlaupan"
+        },
+        "pl": {
+          "nom": "ūrlaupai",
+          "gen": "ūrlaupan",
+          "dat": "ūrlaupamans",
+          "akk": "ūrlaupans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Ugānda",
+    "id": 8342,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Ugānda",
+          "gen": "Ugāndas",
+          "dat": "Ugāndai",
+          "akk": "Ugāndan"
+        },
+        "pl": {
+          "nom": "Ugāndas",
+          "gen": "Ugāndan",
+          "dat": "Ugāndamans",
+          "akk": "Ugāndans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ugnis",
+    "id": 6634,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ugnis",
+          "gen": "ugnis",
+          "dat": "ugnei",
+          "akk": "ugnin"
+        },
+        "pl": {
+          "nom": "ugnis",
+          "gen": "ugnin",
+          "dat": "ugnimmans",
+          "akk": "ugnins"
+        }
+      }
+    }
+  },
+  {
+    "word": "ugnisar̀giska wīrija",
+    "id": 10652,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ugnisar̀giska wīrija",
+          "gen": "ugnisar̀giskas wīrijas",
+          "dat": "ugnisar̀giskai wīrijai",
+          "akk": "ugnisar̀giskan wīrijan"
+        },
+        "pl": {
+          "nom": "ugnisar̀giskas wīrijas",
+          "gen": "ugnisar̀giskan wīrijan",
+          "dat": "ugnisar̀giskamans wīrijamans",
+          "akk": "ugnisar̀giskans wīrijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ugnisaŕgawa",
+    "id": 7589,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ugnisaŕgawa",
+          "gen": "ugnisaŕgawas",
+          "dat": "ugnisaŕgawai",
+          "akk": "ugnisaŕgawan"
+        },
+        "pl": {
+          "nom": "ugnisaŕgawas",
+          "gen": "ugnisaŕgawan",
+          "dat": "ugnisaŕgawamans",
+          "akk": "ugnisaŕgawans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ugnisaŕgeniks",
+    "id": 7593,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ugnisaŕgeniks",
+          "gen": "ugnisaŕgenikas",
+          "dat": "ugnisaŕgeniku",
+          "akk": "ugnisaŕgenikan"
+        },
+        "pl": {
+          "nom": "ugnisaŕgenikai",
+          "gen": "ugnisaŕgenikan",
+          "dat": "ugnisaŕgenikamans",
+          "akk": "ugnisaŕgenikans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ugnisaŕgiska wīrijja",
+    "id": 7590,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ugnisaŕgiska wīrijja",
+          "gen": "ugnisaŕgiskas wīrijjas",
+          "dat": "ugnisaŕgiskai wīrijjai",
+          "akk": "ugnisaŕgiskan wīrijjan"
+        },
+        "pl": {
+          "nom": "ugnisaŕgiskas wīrijjas",
+          "gen": "ugnisaŕgiskan wīrijjan",
+          "dat": "ugnisaŕgiskamans wīrijjamans",
+          "akk": "ugnisaŕgiskans wīrijjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ugnisaŕgiskan",
+    "id": 7591,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ugnisaŕgiskan",
+          "gen": "ugnisaŕgiskas",
+          "dat": "ugnisaŕgisku",
+          "akk": "ugnisaŕgiskan"
+        },
+        "pl": {
+          "nom": "ugnisaŕgiskāi",
+          "gen": "ugnisaŕgiskan",
+          "dat": "ugnisaŕgiskammans",
+          "akk": "ugnisaŕgiskans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ugnisaŕgisks",
+    "id": 7592,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ugnisaŕgisks",
+            "gen": "ugnisaŕgiskas",
+            "dat": "ugnisaŕgiskasmu",
+            "akk": "ugnisaŕgiskan"
+          },
+          "pl": {
+            "nom": "ugnisaŕgiskai",
+            "gen": "ugnisaŕgiskan",
+            "dat": "ugnisaŕgiskamans",
+            "akk": "ugnisaŕgiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ugnisaŕgiska",
+            "gen": "ugnisaŕgiskas",
+            "dat": "ugnisaŕgiskai",
+            "akk": "ugnisaŕgiskan"
+          },
+          "pl": {
+            "nom": "ugnisaŕgiskas",
+            "gen": "ugnisaŕgiskan",
+            "dat": "ugnisaŕgiskamans",
+            "akk": "ugnisaŕgiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ugnisaŕgiskan",
+            "gen": "ugnisaŕgiskas",
+            "dat": "ugnisaŕgiskasmu",
+            "akk": "ugnisaŕgiskan"
+          },
+          "pl": {
+            "nom": "ugnisaŕgiskai",
+            "gen": "ugnisaŕgiskan",
+            "dat": "ugnisaŕgiskamans",
+            "akk": "ugnisaŕgiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ugnisaŕgiskaisis",
+            "gen": "ugnisaŕgiskaisjas",
+            "dat": "ugnisaŕgiskaisjasmu",
+            "akk": "ugnisaŕgiskaisin"
+          },
+          "pl": {
+            "nom": "ugnisaŕgiskaisjai",
+            "gen": "ugnisaŕgiskaisin",
+            "dat": "ugnisaŕgiskaisimans",
+            "akk": "ugnisaŕgiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ugnisaŕgiskaisi",
+            "gen": "ugnisaŕgiskaisjas",
+            "dat": "ugnisaŕgiskaisjai",
+            "akk": "ugnisaŕgiskaisjan"
+          },
+          "pl": {
+            "nom": "ugnisaŕgiskaisjas",
+            "gen": "ugnisaŕgiskaisjan",
+            "dat": "ugnisaŕgiskaisjamans",
+            "akk": "ugnisaŕgiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ugnisaŕgiskaisi",
+            "gen": "ugnisaŕgiskaisjas",
+            "dat": "ugnisaŕgiskaisjasmu",
+            "akk": "ugnisaŕgiskaisi"
+          },
+          "pl": {
+            "nom": "ugnisaŕgiskaisjai",
+            "gen": "ugnisaŕgiskaisin",
+            "dat": "ugnisaŕgiskaisimans",
+            "akk": "ugnisaŕgiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaugnisaŕgiskaisis",
+            "gen": "ukaugnisaŕgiskaisjas",
+            "dat": "ukaugnisaŕgiskaisjasmu",
+            "akk": "ukaugnisaŕgiskaisin"
+          },
+          "pl": {
+            "nom": "ukaugnisaŕgiskaisjai",
+            "gen": "ukaugnisaŕgiskaisin",
+            "dat": "ukaugnisaŕgiskaisimans",
+            "akk": "ukaugnisaŕgiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaugnisaŕgiskaisi",
+            "gen": "ukaugnisaŕgiskaisjas",
+            "dat": "ukaugnisaŕgiskaisjai",
+            "akk": "ukaugnisaŕgiskaisjan"
+          },
+          "pl": {
+            "nom": "ukaugnisaŕgiskaisjas",
+            "gen": "ukaugnisaŕgiskaisjan",
+            "dat": "ukaugnisaŕgiskaisjamans",
+            "akk": "ukaugnisaŕgiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaugnisaŕgiskaisi",
+            "gen": "ukaugnisaŕgiskaisjas",
+            "dat": "ukaugnisaŕgiskaisjasmu",
+            "akk": "ukaugnisaŕgiskaisi"
+          },
+          "pl": {
+            "nom": "ukaugnisaŕgiskaisjai",
+            "gen": "ukaugnisaŕgiskaisin",
+            "dat": "ukaugnisaŕgiskaisimans",
+            "akk": "ukaugnisaŕgiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ugnisaŕgiskai",
+        "comparative": "ugnisaŕgiskais",
+        "superlative": "ukaugnisaŕgiskais"
+      }
+    }
+  },
+  {
+    "word": "ukamazzaisis",
+    "id": 6636,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ukamazzaisis",
+            "gen": "ukamazzaisis",
+            "dat": "ukamazzaisismu",
+            "akk": "ukamazzaisin"
+          },
+          "pl": {
+            "nom": "ukamazzaisjai",
+            "gen": "ukamazzaisjan",
+            "dat": "ukamazzaisjamans",
+            "akk": "ukamazzaisjans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukamazzaisi",
+            "gen": "ukamazzaisjas",
+            "dat": "ukamazzaisjai",
+            "akk": "ukamazzaisjan"
+          },
+          "pl": {
+            "nom": "ukamazzaisjas",
+            "gen": "ukamazzaisjan",
+            "dat": "ukamazzaisjamans",
+            "akk": "ukamazzaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukamazzaisi",
+            "gen": "ukamazzaisis",
+            "dat": "ukamazzaisismu",
+            "akk": "ukamazzaisi"
+          },
+          "pl": {
+            "nom": "ukamazzaisjai",
+            "gen": "ukamazzaisin",
+            "dat": "ukamazzaisimans",
+            "akk": "ukamazzaisins"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ukamazzaisjaisis",
+            "gen": "ukamazzaisjaisjas",
+            "dat": "ukamazzaisjaisjasmu",
+            "akk": "ukamazzaisjaisin"
+          },
+          "pl": {
+            "nom": "ukamazzaisjaisjai",
+            "gen": "ukamazzaisjaisin",
+            "dat": "ukamazzaisjaisimans",
+            "akk": "ukamazzaisjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukamazzaisjaisi",
+            "gen": "ukamazzaisjaisjas",
+            "dat": "ukamazzaisjaisjai",
+            "akk": "ukamazzaisjaisjan"
+          },
+          "pl": {
+            "nom": "ukamazzaisjaisjas",
+            "gen": "ukamazzaisjaisjan",
+            "dat": "ukamazzaisjaisjamans",
+            "akk": "ukamazzaisjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukamazzaisjaisi",
+            "gen": "ukamazzaisjaisjas",
+            "dat": "ukamazzaisjaisjasmu",
+            "akk": "ukamazzaisjaisi"
+          },
+          "pl": {
+            "nom": "ukamazzaisjaisjai",
+            "gen": "ukamazzaisjaisin",
+            "dat": "ukamazzaisjaisimans",
+            "akk": "ukamazzaisjaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaukamazzaisjaisis",
+            "gen": "ukaukamazzaisjaisjas",
+            "dat": "ukaukamazzaisjaisjasmu",
+            "akk": "ukaukamazzaisjaisin"
+          },
+          "pl": {
+            "nom": "ukaukamazzaisjaisjai",
+            "gen": "ukaukamazzaisjaisin",
+            "dat": "ukaukamazzaisjaisimans",
+            "akk": "ukaukamazzaisjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaukamazzaisjaisi",
+            "gen": "ukaukamazzaisjaisjas",
+            "dat": "ukaukamazzaisjaisjai",
+            "akk": "ukaukamazzaisjaisjan"
+          },
+          "pl": {
+            "nom": "ukaukamazzaisjaisjas",
+            "gen": "ukaukamazzaisjaisjan",
+            "dat": "ukaukamazzaisjaisjamans",
+            "akk": "ukaukamazzaisjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaukamazzaisjaisi",
+            "gen": "ukaukamazzaisjaisjas",
+            "dat": "ukaukamazzaisjaisjasmu",
+            "akk": "ukaukamazzaisjaisi"
+          },
+          "pl": {
+            "nom": "ukaukamazzaisjaisjai",
+            "gen": "ukaukamazzaisjaisin",
+            "dat": "ukaukamazzaisjaisimans",
+            "akk": "ukaukamazzaisjaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ukamazzaisjai",
+        "comparative": "ukamazzaisjais",
+        "superlative": "ukaukamazzaisjais"
+      }
+    }
+  },
+  {
+    "word": "ukamilīts",
+    "id": 10834,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ukamilīts",
+          "gen": "ukamilītas",
+          "dat": "ukamilītasmu",
+          "akk": "ukamilītan"
+        },
+        "pl": {
+          "nom": "ukamilitāi",
+          "gen": "ukamilītan",
+          "dat": "ukamilitammans",
+          "akk": "ukamilītans"
+        }
+      },
+      "fem": {
+        "sg": {
+          "nom": "ukamilitā",
+          "gen": "ukamilītas",
+          "dat": "ukamilītai",
+          "akk": "ukamilītan"
+        },
+        "pl": {
+          "nom": "ukamilītas",
+          "gen": "ukamilītan",
+          "dat": "ukamilitāmans",
+          "akk": "ukamilītans"
+        }
+      },
+      "neut": {
+        "sg": {
+          "nom": "ukamilītan",
+          "gen": "ukamilītas",
+          "dat": "ukamilītasmu",
+          "akk": "ukamilītan"
+        },
+        "pl": {
+          "nom": "ukamilītāi",
+          "gen": "ukamilītan",
+          "dat": "ukamilitammans",
+          "akk": "ukamilītans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Ukapirms",
+    "id": 6637,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "Ukapirms",
+          "gen": "Ukapirmas",
+          "dat": "Ukapirmu",
+          "akk": "Ukapirman"
+        },
+        "pl": {
+          "nom": "Ukapirmai",
+          "gen": "Ukapirman",
+          "dat": "Ukapirmamans",
+          "akk": "Ukapirmans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Ukrāini",
+    "id": 10653,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Ukrāini",
+          "gen": "Ukrāinis",
+          "dat": "Ukrāinei",
+          "akk": "Ukrāinin"
+        },
+        "pl": {
+          "nom": "Ukrāinis",
+          "gen": "Ukrāinin",
+          "dat": "Ukrāinimans",
+          "akk": "Ukrāinins"
+        }
+      }
+    }
+  },
+  {
+    "word": "ukrāinini",
+    "id": 10654,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ukrāinini",
+          "gen": "ukrāininjas",
+          "dat": "ukrāininjai",
+          "akk": "ukrāininjan"
+        },
+        "pl": {
+          "nom": "ukrāininjas",
+          "gen": "ukrāininjan",
+          "dat": "ukrāininjamans",
+          "akk": "ukrāininjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ukrāinis",
+    "id": 10655,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ukrāinis",
+          "gen": "ukrāinjas",
+          "dat": "ukrāinju",
+          "akk": "ukrāinjan"
+        },
+        "pl": {
+          "nom": "ukrāinjai",
+          "gen": "ukrāinjan",
+          "dat": "ukrāinjamans",
+          "akk": "ukrāinjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ukrāiniskan",
+    "id": 10656,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ukrāiniskan",
+          "gen": "ukrāiniskas",
+          "dat": "ukrāinisku",
+          "akk": "ukrāiniskan"
+        },
+        "pl": {
+          "nom": "ukrainiskāi",
+          "gen": "ukrāiniskan",
+          "dat": "ukrainiskammans",
+          "akk": "ukrāiniskans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ukrāinisks",
+    "id": 10657,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ukrāinisks",
+            "gen": "ukrāiniskas",
+            "dat": "ukrāiniskasmu",
+            "akk": "ukrāiniskan"
+          },
+          "pl": {
+            "nom": "ukrāiniskai",
+            "gen": "ukrāiniskan",
+            "dat": "ukrāiniskamans",
+            "akk": "ukrāiniskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukrāiniska",
+            "gen": "ukrāiniskas",
+            "dat": "ukrāiniskai",
+            "akk": "ukrāiniskan"
+          },
+          "pl": {
+            "nom": "ukrāiniskas",
+            "gen": "ukrāiniskan",
+            "dat": "ukrāiniskamans",
+            "akk": "ukrāiniskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukrāiniskan",
+            "gen": "ukrāiniskas",
+            "dat": "ukrāiniskasmu",
+            "akk": "ukrāiniskan"
+          },
+          "pl": {
+            "nom": "ukrāiniskai",
+            "gen": "ukrāiniskan",
+            "dat": "ukrāiniskamans",
+            "akk": "ukrāiniskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ukrāiniskaisis",
+            "gen": "ukrāiniskaisjas",
+            "dat": "ukrāiniskaisjasmu",
+            "akk": "ukrāiniskaisin"
+          },
+          "pl": {
+            "nom": "ukrāiniskaisjai",
+            "gen": "ukrāiniskaisin",
+            "dat": "ukrāiniskaisimans",
+            "akk": "ukrāiniskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukrāiniskaisi",
+            "gen": "ukrāiniskaisjas",
+            "dat": "ukrāiniskaisjai",
+            "akk": "ukrāiniskaisjan"
+          },
+          "pl": {
+            "nom": "ukrāiniskaisjas",
+            "gen": "ukrāiniskaisjan",
+            "dat": "ukrāiniskaisjamans",
+            "akk": "ukrāiniskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukrāiniskaisi",
+            "gen": "ukrāiniskaisjas",
+            "dat": "ukrāiniskaisjasmu",
+            "akk": "ukrāiniskaisi"
+          },
+          "pl": {
+            "nom": "ukrāiniskaisjai",
+            "gen": "ukrāiniskaisin",
+            "dat": "ukrāiniskaisimans",
+            "akk": "ukrāiniskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaukrāiniskaisis",
+            "gen": "ukaukrāiniskaisjas",
+            "dat": "ukaukrāiniskaisjasmu",
+            "akk": "ukaukrāiniskaisin"
+          },
+          "pl": {
+            "nom": "ukaukrāiniskaisjai",
+            "gen": "ukaukrāiniskaisin",
+            "dat": "ukaukrāiniskaisimans",
+            "akk": "ukaukrāiniskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaukrāiniskaisi",
+            "gen": "ukaukrāiniskaisjas",
+            "dat": "ukaukrāiniskaisjai",
+            "akk": "ukaukrāiniskaisjan"
+          },
+          "pl": {
+            "nom": "ukaukrāiniskaisjas",
+            "gen": "ukaukrāiniskaisjan",
+            "dat": "ukaukrāiniskaisjamans",
+            "akk": "ukaukrāiniskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaukrāiniskaisi",
+            "gen": "ukaukrāiniskaisjas",
+            "dat": "ukaukrāiniskaisjasmu",
+            "akk": "ukaukrāiniskaisi"
+          },
+          "pl": {
+            "nom": "ukaukrāiniskaisjai",
+            "gen": "ukaukrāiniskaisin",
+            "dat": "ukaukrāiniskaisimans",
+            "akk": "ukaukrāiniskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ukrāiniskai",
+        "comparative": "ukrāiniskais",
+        "superlative": "ukaukrāiniskais"
+      }
+    }
+  },
+  {
+    "word": "ultragērds",
+    "id": 10658,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ultragērds",
+          "gen": "ultragērdas",
+          "dat": "ultragērdu",
+          "akk": "ultragērdan"
+        },
+        "pl": {
+          "nom": "ultragērdai",
+          "gen": "ultragērdan",
+          "dat": "ultragērdamans",
+          "akk": "ultragērdans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ultrawiōletan",
+    "id": 10659,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ultrawiōletan",
+          "gen": "ultrawiōletas",
+          "dat": "ultrawiōletu",
+          "akk": "ultrawiōletan"
+        },
+        "pl": {
+          "nom": "ultrawioletāi",
+          "gen": "ultrawiōletan",
+          "dat": "ultrawioletammans",
+          "akk": "ultrawiōletans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ultrawiōlets",
+    "id": 10660,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ultrawiōlets",
+            "gen": "ultrawiōletas",
+            "dat": "ultrawiōletasmu",
+            "akk": "ultrawiōletan"
+          },
+          "pl": {
+            "nom": "ultrawiōletai",
+            "gen": "ultrawiōletan",
+            "dat": "ultrawiōletamans",
+            "akk": "ultrawiōletans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ultrawiōleta",
+            "gen": "ultrawiōletas",
+            "dat": "ultrawiōletai",
+            "akk": "ultrawiōletan"
+          },
+          "pl": {
+            "nom": "ultrawiōletas",
+            "gen": "ultrawiōletan",
+            "dat": "ultrawiōletamans",
+            "akk": "ultrawiōletans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ultrawiōletan",
+            "gen": "ultrawiōletas",
+            "dat": "ultrawiōletasmu",
+            "akk": "ultrawiōletan"
+          },
+          "pl": {
+            "nom": "ultrawiōletai",
+            "gen": "ultrawiōletan",
+            "dat": "ultrawiōletamans",
+            "akk": "ultrawiōletans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ultrawiōletaisis",
+            "gen": "ultrawiōletaisjas",
+            "dat": "ultrawiōletaisjasmu",
+            "akk": "ultrawiōletaisin"
+          },
+          "pl": {
+            "nom": "ultrawiōletaisjai",
+            "gen": "ultrawiōletaisin",
+            "dat": "ultrawiōletaisimans",
+            "akk": "ultrawiōletaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ultrawiōletaisi",
+            "gen": "ultrawiōletaisjas",
+            "dat": "ultrawiōletaisjai",
+            "akk": "ultrawiōletaisjan"
+          },
+          "pl": {
+            "nom": "ultrawiōletaisjas",
+            "gen": "ultrawiōletaisjan",
+            "dat": "ultrawiōletaisjamans",
+            "akk": "ultrawiōletaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ultrawiōletaisi",
+            "gen": "ultrawiōletaisjas",
+            "dat": "ultrawiōletaisjasmu",
+            "akk": "ultrawiōletaisi"
+          },
+          "pl": {
+            "nom": "ultrawiōletaisjai",
+            "gen": "ultrawiōletaisin",
+            "dat": "ultrawiōletaisimans",
+            "akk": "ultrawiōletaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaultrawiōletaisis",
+            "gen": "ukaultrawiōletaisjas",
+            "dat": "ukaultrawiōletaisjasmu",
+            "akk": "ukaultrawiōletaisin"
+          },
+          "pl": {
+            "nom": "ukaultrawiōletaisjai",
+            "gen": "ukaultrawiōletaisin",
+            "dat": "ukaultrawiōletaisimans",
+            "akk": "ukaultrawiōletaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaultrawiōletaisi",
+            "gen": "ukaultrawiōletaisjas",
+            "dat": "ukaultrawiōletaisjai",
+            "akk": "ukaultrawiōletaisjan"
+          },
+          "pl": {
+            "nom": "ukaultrawiōletaisjas",
+            "gen": "ukaultrawiōletaisjan",
+            "dat": "ukaultrawiōletaisjamans",
+            "akk": "ukaultrawiōletaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaultrawiōletaisi",
+            "gen": "ukaultrawiōletaisjas",
+            "dat": "ukaultrawiōletaisjasmu",
+            "akk": "ukaultrawiōletaisi"
+          },
+          "pl": {
+            "nom": "ukaultrawiōletaisjai",
+            "gen": "ukaultrawiōletaisin",
+            "dat": "ukaultrawiōletaisimans",
+            "akk": "ukaultrawiōletaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ultrawiōletai",
+        "comparative": "ultrawiōletais",
+        "superlative": "ukaultrawiōletais"
+      }
+    }
+  },
+  {
+    "word": "umnadi",
+    "id": 6648,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "umnadi",
+          "gen": "umnadis",
+          "dat": "umnadei",
+          "akk": "umnadin"
+        },
+        "pl": {
+          "nom": "umnadis",
+          "gen": "umnadin",
+          "dat": "umnadimans",
+          "akk": "umnadins"
+        }
+      }
+    }
+  },
+  {
+    "word": "undinni",
+    "id": 8700,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "undinni",
+          "gen": "undinnis",
+          "dat": "undinnei",
+          "akk": "undinnin"
+        },
+        "pl": {
+          "nom": "undinnis",
+          "gen": "undinnin",
+          "dat": "undinnimans",
+          "akk": "undinnins"
+        }
+      }
+    }
+  },
+  {
+    "word": "ungrini",
+    "id": 10666,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ungrini",
+          "gen": "ungrinjas",
+          "dat": "ungrinjai",
+          "akk": "ungrinjan"
+        },
+        "pl": {
+          "nom": "ungrinjas",
+          "gen": "ungrinjan",
+          "dat": "ungrinjamans",
+          "akk": "ungrinjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ungrs",
+    "id": 10665,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ungrs",
+          "gen": "ungras",
+          "dat": "ungru",
+          "akk": "ungran"
+        },
+        "pl": {
+          "nom": "ungrai",
+          "gen": "ungran",
+          "dat": "ungramans",
+          "akk": "ungrans"
+        }
+      }
+    }
+  },
+  {
+    "word": "unikāls",
+    "id": 10667,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "unikāls",
+            "gen": "unikālas",
+            "dat": "unikālasmu",
+            "akk": "unikālan"
+          },
+          "pl": {
+            "nom": "unikālai",
+            "gen": "unikālan",
+            "dat": "unikālamans",
+            "akk": "unikālans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "unikāla",
+            "gen": "unikālas",
+            "dat": "unikālai",
+            "akk": "unikālan"
+          },
+          "pl": {
+            "nom": "unikālas",
+            "gen": "unikālan",
+            "dat": "unikālamans",
+            "akk": "unikālans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "unikālan",
+            "gen": "unikālas",
+            "dat": "unikālasmu",
+            "akk": "unikālan"
+          },
+          "pl": {
+            "nom": "unikālai",
+            "gen": "unikālan",
+            "dat": "unikālamans",
+            "akk": "unikālans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "unikālaisis",
+            "gen": "unikālaisjas",
+            "dat": "unikālaisjasmu",
+            "akk": "unikālaisin"
+          },
+          "pl": {
+            "nom": "unikālaisjai",
+            "gen": "unikālaisin",
+            "dat": "unikālaisimans",
+            "akk": "unikālaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "unikālaisi",
+            "gen": "unikālaisjas",
+            "dat": "unikālaisjai",
+            "akk": "unikālaisjan"
+          },
+          "pl": {
+            "nom": "unikālaisjas",
+            "gen": "unikālaisjan",
+            "dat": "unikālaisjamans",
+            "akk": "unikālaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "unikālaisi",
+            "gen": "unikālaisjas",
+            "dat": "unikālaisjasmu",
+            "akk": "unikālaisi"
+          },
+          "pl": {
+            "nom": "unikālaisjai",
+            "gen": "unikālaisin",
+            "dat": "unikālaisimans",
+            "akk": "unikālaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaunikālaisis",
+            "gen": "ukaunikālaisjas",
+            "dat": "ukaunikālaisjasmu",
+            "akk": "ukaunikālaisin"
+          },
+          "pl": {
+            "nom": "ukaunikālaisjai",
+            "gen": "ukaunikālaisin",
+            "dat": "ukaunikālaisimans",
+            "akk": "ukaunikālaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaunikālaisi",
+            "gen": "ukaunikālaisjas",
+            "dat": "ukaunikālaisjai",
+            "akk": "ukaunikālaisjan"
+          },
+          "pl": {
+            "nom": "ukaunikālaisjas",
+            "gen": "ukaunikālaisjan",
+            "dat": "ukaunikālaisjamans",
+            "akk": "ukaunikālaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaunikālaisi",
+            "gen": "ukaunikālaisjas",
+            "dat": "ukaunikālaisjasmu",
+            "akk": "ukaunikālaisi"
+          },
+          "pl": {
+            "nom": "ukaunikālaisjai",
+            "gen": "ukaunikālaisin",
+            "dat": "ukaunikālaisimans",
+            "akk": "ukaunikālaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "unikālai",
+        "comparative": "unikālais",
+        "superlative": "ukaunikālais"
+      }
+    }
+  },
+  {
+    "word": "uniwersitāti",
+    "id": 6659,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "uniwersitāti",
+          "gen": "uniwersitātis",
+          "dat": "uniwersitātei",
+          "akk": "uniwersitātin"
+        },
+        "pl": {
+          "nom": "uniwersitātis",
+          "gen": "uniwersitātin",
+          "dat": "uniwersitātimans",
+          "akk": "uniwersitātins"
+        }
+      }
+    }
+  },
+  {
+    "word": "Urāls",
+    "id": 10669,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "Urāls",
+          "gen": "Urālas",
+          "dat": "Urālu",
+          "akk": "Urālan"
+        },
+        "pl": {
+          "nom": "Urālai",
+          "gen": "Urālan",
+          "dat": "Urālamans",
+          "akk": "Urālans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Urāns",
+    "id": 10670,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "Urāns",
+          "gen": "Urānas",
+          "dat": "Urānu",
+          "akk": "Urānan"
+        },
+        "pl": {
+          "nom": "Urānai",
+          "gen": "Urānan",
+          "dat": "Urānamans",
+          "akk": "Urānans"
+        }
+      }
+    }
+  },
+  {
+    "word": "urni",
+    "id": 6675,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "urni",
+          "gen": "urnis",
+          "dat": "urnei",
+          "akk": "urnin"
+        },
+        "pl": {
+          "nom": "urnis",
+          "gen": "urnin",
+          "dat": "urnimans",
+          "akk": "urnins"
+        }
+      }
+    }
+  },
+  {
+    "word": "Urugwājs",
+    "id": 8343,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "Urugwājs",
+          "gen": "Urugwājas",
+          "dat": "Urugwāju",
+          "akk": "Urugwājan"
+        },
+        "pl": {
+          "nom": "Urugwājai",
+          "gen": "Urugwājan",
+          "dat": "Urugwājamans",
+          "akk": "Urugwājans"
+        }
+      }
+    }
+  },
+  {
+    "word": "urwan",
+    "id": 6677,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "urwan",
+          "gen": "urwas",
+          "dat": "urwu",
+          "akk": "urwan"
+        },
+        "pl": {
+          "nom": "urwāi",
+          "gen": "urwan",
+          "dat": "urwammans",
+          "akk": "urwans"
+        }
+      }
+    }
+  },
+  {
+    "word": "usdesīmts",
+    "id": 6679,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "usdesīmts",
+          "gen": "usdesīmtas",
+          "dat": "usdesimtàsmu",
+          "akk": "usdesīmtan"
+        },
+        "pl": {
+          "nom": "usdesimtāi",
+          "gen": "usdesīmtan",
+          "dat": "usdesimtammans",
+          "akk": "usdesīmtans"
+        }
+      },
+      "fem": {
+        "sg": {
+          "nom": "usdesimtā",
+          "gen": "usdesīmtas",
+          "dat": "usdesīmtai",
+          "akk": "usdesīmtan"
+        },
+        "pl": {
+          "nom": "usdesīmtas",
+          "gen": "usdesīmtan",
+          "dat": "usdesimtāmans",
+          "akk": "usdesīmtans"
+        }
+      },
+      "neut": {
+        "sg": {
+          "nom": "usdesīmtan",
+          "gen": "usdesīmtas",
+          "dat": "usdesimtàsmu",
+          "akk": "usdesīmtan"
+        },
+        "pl": {
+          "nom": "usdesimtāi",
+          "gen": "usdesīmtan",
+          "dat": "usdesimtammans",
+          "akk": "usdesīmtans"
+        }
+      }
+    }
+  },
+  {
+    "word": "usdesimts",
+    "id": 6678,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "usdesimts",
+          "gen": "usdesimtis",
+          "dat": "usdesimtei",
+          "akk": "usdesimtin"
+        },
+        "pl": {
+          "nom": "usdesimtis",
+          "gen": "usdesimtin",
+          "dat": "usdesimtimans",
+          "akk": "usdesimtins"
+        }
+      }
+    }
+  },
+  {
+    "word": "uslan",
+    "id": 7770,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "uslan",
+          "gen": "uslas",
+          "dat": "uslu",
+          "akk": "uslan"
+        },
+        "pl": {
+          "nom": "uslāi",
+          "gen": "uslan",
+          "dat": "uslammans",
+          "akk": "uslans"
+        }
+      }
+    }
+  },
+  {
+    "word": "usnadesīmts",
+    "id": 6686,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "usnadesīmts",
+          "gen": "usnadesīmtas",
+          "dat": "usnadesimtàsmu",
+          "akk": "usnadesīmtan"
+        },
+        "pl": {
+          "nom": "usnadesimtāi",
+          "gen": "usnadesīmtan",
+          "dat": "usnadesimtammans",
+          "akk": "usnadesīmtans"
+        }
+      },
+      "fem": {
+        "sg": {
+          "nom": "usnadesimtā",
+          "gen": "usnadesīmtas",
+          "dat": "usnadesīmtai",
+          "akk": "usnadesīmtan"
+        },
+        "pl": {
+          "nom": "usnadesīmtas",
+          "gen": "usnadesīmtan",
+          "dat": "usnadesimtāmans",
+          "akk": "usnadesīmtans"
+        }
+      },
+      "neut": {
+        "sg": {
+          "nom": "usnadesīmtan",
+          "gen": "usnadesīmtas",
+          "dat": "usnadesimtàsmu",
+          "akk": "usnadesīmtan"
+        },
+        "pl": {
+          "nom": "usnadesimtāi",
+          "gen": "usnadesīmtan",
+          "dat": "usnadesimtammans",
+          "akk": "usnadesīmtans"
+        }
+      }
+    }
+  },
+  {
+    "word": "usnadesimtisks",
+    "id": 10674,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "usnadesimtisks",
+            "gen": "usnadesimtiskas",
+            "dat": "usnadesimtiskasmu",
+            "akk": "usnadesimtiskan"
+          },
+          "pl": {
+            "nom": "usnadesimtiskai",
+            "gen": "usnadesimtiskan",
+            "dat": "usnadesimtiskamans",
+            "akk": "usnadesimtiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "usnadesimtiska",
+            "gen": "usnadesimtiskas",
+            "dat": "usnadesimtiskai",
+            "akk": "usnadesimtiskan"
+          },
+          "pl": {
+            "nom": "usnadesimtiskas",
+            "gen": "usnadesimtiskan",
+            "dat": "usnadesimtiskamans",
+            "akk": "usnadesimtiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "usnadesimtiskan",
+            "gen": "usnadesimtiskas",
+            "dat": "usnadesimtiskasmu",
+            "akk": "usnadesimtiskan"
+          },
+          "pl": {
+            "nom": "usnadesimtiskai",
+            "gen": "usnadesimtiskan",
+            "dat": "usnadesimtiskamans",
+            "akk": "usnadesimtiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "usnadesimtiskaisis",
+            "gen": "usnadesimtiskaisjas",
+            "dat": "usnadesimtiskaisjasmu",
+            "akk": "usnadesimtiskaisin"
+          },
+          "pl": {
+            "nom": "usnadesimtiskaisjai",
+            "gen": "usnadesimtiskaisin",
+            "dat": "usnadesimtiskaisimans",
+            "akk": "usnadesimtiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "usnadesimtiskaisi",
+            "gen": "usnadesimtiskaisjas",
+            "dat": "usnadesimtiskaisjai",
+            "akk": "usnadesimtiskaisjan"
+          },
+          "pl": {
+            "nom": "usnadesimtiskaisjas",
+            "gen": "usnadesimtiskaisjan",
+            "dat": "usnadesimtiskaisjamans",
+            "akk": "usnadesimtiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "usnadesimtiskaisi",
+            "gen": "usnadesimtiskaisjas",
+            "dat": "usnadesimtiskaisjasmu",
+            "akk": "usnadesimtiskaisi"
+          },
+          "pl": {
+            "nom": "usnadesimtiskaisjai",
+            "gen": "usnadesimtiskaisin",
+            "dat": "usnadesimtiskaisimans",
+            "akk": "usnadesimtiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukausnadesimtiskaisis",
+            "gen": "ukausnadesimtiskaisjas",
+            "dat": "ukausnadesimtiskaisjasmu",
+            "akk": "ukausnadesimtiskaisin"
+          },
+          "pl": {
+            "nom": "ukausnadesimtiskaisjai",
+            "gen": "ukausnadesimtiskaisin",
+            "dat": "ukausnadesimtiskaisimans",
+            "akk": "ukausnadesimtiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukausnadesimtiskaisi",
+            "gen": "ukausnadesimtiskaisjas",
+            "dat": "ukausnadesimtiskaisjai",
+            "akk": "ukausnadesimtiskaisjan"
+          },
+          "pl": {
+            "nom": "ukausnadesimtiskaisjas",
+            "gen": "ukausnadesimtiskaisjan",
+            "dat": "ukausnadesimtiskaisjamans",
+            "akk": "ukausnadesimtiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukausnadesimtiskaisi",
+            "gen": "ukausnadesimtiskaisjas",
+            "dat": "ukausnadesimtiskaisjasmu",
+            "akk": "ukausnadesimtiskaisi"
+          },
+          "pl": {
+            "nom": "ukausnadesimtiskaisjai",
+            "gen": "ukausnadesimtiskaisin",
+            "dat": "ukausnadesimtiskaisimans",
+            "akk": "ukausnadesimtiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "usnadesimtiskai",
+        "comparative": "usnadesimtiskais",
+        "superlative": "ukausnadesimtiskais"
+      }
+    }
+  },
+  {
+    "word": "usserjai",
+    "id": 6680,
+    "paradigm": {
+      "masc": {
+        "pl": {
+          "nom": "usserjai",
+          "gen": "usserjan",
+          "dat": "usserjamans",
+          "akk": "usserjans"
+        }
+      },
+      "fem": {
+        "pl": {
+          "nom": "usseris",
+          "gen": "usserin",
+          "dat": "usserimans",
+          "akk": "usserins"
+        }
+      },
+      "neut": {
+        "pl": {
+          "nom": "usserjai",
+          "gen": "usserjin",
+          "dat": "usserjimans",
+          "akk": "usserjins"
+        }
+      }
+    }
+  },
+  {
+    "word": "usseta",
+    "id": 6682,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "usseta",
+          "gen": "ussetas",
+          "dat": "ussetai",
+          "akk": "ussetan"
+        },
+        "pl": {
+          "nom": "ussetas",
+          "gen": "ussetan",
+          "dat": "ussetamans",
+          "akk": "ussetans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ussīmts",
+    "id": 6684,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ussīmts",
+          "gen": "ussīmtas",
+          "dat": "ussimtàsmu",
+          "akk": "ussīmtan"
+        },
+        "pl": {
+          "nom": "ussimtāi",
+          "gen": "ussīmtan",
+          "dat": "ussimtammans",
+          "akk": "ussīmtans"
+        }
+      },
+      "fem": {
+        "sg": {
+          "nom": "ussimtā",
+          "gen": "ussīmtas",
+          "dat": "ussīmtai",
+          "akk": "ussīmtan"
+        },
+        "pl": {
+          "nom": "ussīmtas",
+          "gen": "ussīmtan",
+          "dat": "ussimtāmans",
+          "akk": "ussīmtans"
+        }
+      },
+      "neut": {
+        "sg": {
+          "nom": "ussīmtan",
+          "gen": "ussīmtas",
+          "dat": "ussimtàsmu",
+          "akk": "ussīmtan"
+        },
+        "pl": {
+          "nom": "ussimtāi",
+          "gen": "ussīmtan",
+          "dat": "ussimtammans",
+          "akk": "ussīmtans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ussjai",
+    "id": 6687,
+    "paradigm": {
+      "masc": {
+        "pl": {
+          "nom": "ussjai",
+          "gen": "ussjan",
+          "dat": "ussjamans",
+          "akk": "ussjans"
+        }
+      },
+      "fem": {
+        "pl": {
+          "nom": "ussjas",
+          "gen": "ussjan",
+          "dat": "ussjamans",
+          "akk": "ussjans"
+        }
+      },
+      "neut": {
+        "pl": {
+          "nom": "ussjai",
+          "gen": "ussjan",
+          "dat": "ussjamans",
+          "akk": "ussjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "usts",
+    "id": 6691,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "usts",
+          "gen": "ustas",
+          "dat": "ustàsmu",
+          "akk": "ustan"
+        },
+        "pl": {
+          "nom": "ustāi",
+          "gen": "ustan",
+          "dat": "ustammans",
+          "akk": "ustans"
+        }
+      },
+      "fem": {
+        "sg": {
+          "nom": "ustā",
+          "gen": "ustas",
+          "dat": "ustai",
+          "akk": "ustan"
+        },
+        "pl": {
+          "nom": "ustas",
+          "gen": "ustan",
+          "dat": "ustāmans",
+          "akk": "ustans"
+        }
+      },
+      "neut": {
+        "sg": {
+          "nom": "ustan",
+          "gen": "ustas",
+          "dat": "ustàsmu",
+          "akk": "ustan"
+        },
+        "pl": {
+          "nom": "ustāi",
+          "gen": "ustan",
+          "dat": "ustammans",
+          "akk": "ustans"
+        }
+      }
+    }
+  },
+  {
+    "word": "utōpija",
+    "id": 6692,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "utōpija",
+          "gen": "utōpijas",
+          "dat": "utōpijai",
+          "akk": "utōpijan"
+        },
+        "pl": {
+          "nom": "utōpijas",
+          "gen": "utōpijan",
+          "dat": "utōpijamans",
+          "akk": "utōpijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "utōpisks",
+    "id": 6693,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "utōpisks",
+            "gen": "utōpiskas",
+            "dat": "utōpiskasmu",
+            "akk": "utōpiskan"
+          },
+          "pl": {
+            "nom": "utōpiskai",
+            "gen": "utōpiskan",
+            "dat": "utōpiskamans",
+            "akk": "utōpiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "utōpiska",
+            "gen": "utōpiskas",
+            "dat": "utōpiskai",
+            "akk": "utōpiskan"
+          },
+          "pl": {
+            "nom": "utōpiskas",
+            "gen": "utōpiskan",
+            "dat": "utōpiskamans",
+            "akk": "utōpiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "utōpiskan",
+            "gen": "utōpiskas",
+            "dat": "utōpiskasmu",
+            "akk": "utōpiskan"
+          },
+          "pl": {
+            "nom": "utōpiskai",
+            "gen": "utōpiskan",
+            "dat": "utōpiskamans",
+            "akk": "utōpiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "utōpiskaisis",
+            "gen": "utōpiskaisjas",
+            "dat": "utōpiskaisjasmu",
+            "akk": "utōpiskaisin"
+          },
+          "pl": {
+            "nom": "utōpiskaisjai",
+            "gen": "utōpiskaisin",
+            "dat": "utōpiskaisimans",
+            "akk": "utōpiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "utōpiskaisi",
+            "gen": "utōpiskaisjas",
+            "dat": "utōpiskaisjai",
+            "akk": "utōpiskaisjan"
+          },
+          "pl": {
+            "nom": "utōpiskaisjas",
+            "gen": "utōpiskaisjan",
+            "dat": "utōpiskaisjamans",
+            "akk": "utōpiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "utōpiskaisi",
+            "gen": "utōpiskaisjas",
+            "dat": "utōpiskaisjasmu",
+            "akk": "utōpiskaisi"
+          },
+          "pl": {
+            "nom": "utōpiskaisjai",
+            "gen": "utōpiskaisin",
+            "dat": "utōpiskaisimans",
+            "akk": "utōpiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukautōpiskaisis",
+            "gen": "ukautōpiskaisjas",
+            "dat": "ukautōpiskaisjasmu",
+            "akk": "ukautōpiskaisin"
+          },
+          "pl": {
+            "nom": "ukautōpiskaisjai",
+            "gen": "ukautōpiskaisin",
+            "dat": "ukautōpiskaisimans",
+            "akk": "ukautōpiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukautōpiskaisi",
+            "gen": "ukautōpiskaisjas",
+            "dat": "ukautōpiskaisjai",
+            "akk": "ukautōpiskaisjan"
+          },
+          "pl": {
+            "nom": "ukautōpiskaisjas",
+            "gen": "ukautōpiskaisjan",
+            "dat": "ukautōpiskaisjamans",
+            "akk": "ukautōpiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukautōpiskaisi",
+            "gen": "ukautōpiskaisjas",
+            "dat": "ukautōpiskaisjasmu",
+            "akk": "ukautōpiskaisi"
+          },
+          "pl": {
+            "nom": "ukautōpiskaisjai",
+            "gen": "ukautōpiskaisin",
+            "dat": "ukautōpiskaisimans",
+            "akk": "ukautōpiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "utōpiskai",
+        "comparative": "utōpiskais",
+        "superlative": "ukautōpiskais"
+      }
+    }
+  },
+  {
+    "word": "uts",
+    "id": 6695,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "uts",
+          "gen": "uttis",
+          "dat": "uttei",
+          "akk": "uttin"
+        },
+        "pl": {
+          "nom": "uttis",
+          "gen": "uttin",
+          "dat": "utimmans",
+          "akk": "uttins"
+        }
+      }
+    }
+  },
+  {
+    "word": "Uzbekistāns",
+    "id": 8344,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "Uzbekistāns",
+          "gen": "Uzbekistānas",
+          "dat": "Uzbekistānu",
+          "akk": "Uzbekistānan"
+        },
+        "pl": {
+          "nom": "Uzbekistānai",
+          "gen": "Uzbekistānan",
+          "dat": "Uzbekistānamans",
+          "akk": "Uzbekistānans"
+        }
+      }
+    }
+  },
+  {
+    "word": "uzurpatōrs",
+    "id": 8672,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "uzurpatōrs",
+          "gen": "uzurpatōras",
+          "dat": "uzurpatōru",
+          "akk": "uzurpatōran"
+        },
+        "pl": {
+          "nom": "uzurpatōrai",
+          "gen": "uzurpatōran",
+          "dat": "uzurpatōramans",
+          "akk": "uzurpatōrans"
+        }
+      }
+    }
+  },
+  {
+    "word": "uzurpītun",
+    "id": 8673,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "uzurpijja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "uzurpijja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "uzurpijja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "uzurpijjimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "uzurpijjitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "uzurpijja"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "uzurpijja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "uzurpijja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "uzurpijja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "uzurpijjimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "uzurpijjitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "uzurpijja"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma uzurpīwuns / uzurpīwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei uzurpīwuns / uzurpīwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast uzurpīwuns / uzurpīwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast uzurpīwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai uzurpīwusis / uzurpīwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei uzurpīwusis / uzurpīwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast uzurpīwusis / uzurpīwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst uzurpīwuns / uzurpīwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst uzurpīwuns / uzurpīwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst uzurpīwuns / uzurpīwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst uzurpīwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai uzurpīwusis / uzurpīwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei uzurpīwusis / uzurpīwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst uzurpīwusis / uzurpīwusjas"
+          }
+        ]
+      },
+      "optative": "uzurpīsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "uzurpīs"
+        },
+        {
+          "p": "(jūs)",
+          "f": "uzurpīti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "uzurpīlai"
+        },
+        {
+          "p": "tū",
+          "f": "uzurpīlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "uzurpīlai"
+        },
+        {
+          "p": "mes",
+          "f": "uzurpīlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "uzurpīlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "uzurpīlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "uzurpīnts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "uzurpīnts",
+                "gen": "uzurpīntis",
+                "dat": "uzurpīntismu",
+                "akk": "uzurpīntin"
+              },
+              "pl": {
+                "nom": "uzurpīntjai",
+                "gen": "uzurpīntin",
+                "dat": "uzurpintimmans",
+                "akk": "uzurpīntins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "uzurpintī",
+                "gen": "uzurpīntjas",
+                "dat": "uzurpīntjai",
+                "akk": "uzurpīntjan"
+              },
+              "pl": {
+                "nom": "uzurpīntjas",
+                "gen": "uzurpīntjan",
+                "dat": "uzurpintjāmans",
+                "akk": "uzurpīntjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "uzurpīnti",
+                "gen": "uzurpīntis",
+                "dat": "uzurpīntismu",
+                "akk": "uzurpīntin"
+              },
+              "pl": {
+                "nom": "uzurpīntjai",
+                "gen": "uzurpīntin",
+                "dat": "uzurpintimmans",
+                "akk": "uzurpīntins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "uzurpīwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "uzurpīwuns",
+                "gen": "uzurpīwusjas",
+                "dat": "uzurpīwusjasmu",
+                "akk": "uzurpīwusin"
+              },
+              "pl": {
+                "nom": "uzurpīwusis",
+                "gen": "uzurpīwusin",
+                "dat": "uzurpīwusimans",
+                "akk": "uzurpīwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "uzurpīwusi",
+                "gen": "uzurpīwusjas",
+                "dat": "uzurpīwusjai",
+                "akk": "uzurpīwusjan"
+              },
+              "pl": {
+                "nom": "uzurpīwusjas",
+                "gen": "uzurpīwusjan",
+                "dat": "uzurpīwusjamans",
+                "akk": "uzurpīwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "uzurpīwus",
+                "gen": "uzurpīwusjas",
+                "dat": "uzurpīwusjasmu",
+                "akk": "uzurpīwus"
+              },
+              "pl": {
+                "nom": "uzurpīwus",
+                "gen": "uzurpīwusin",
+                "dat": "uzurpīwusimans",
+                "akk": "uzurpīwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "uzurpīts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "uzurpīts",
+                "gen": "uzurpītas",
+                "dat": "uzurpītasmu",
+                "akk": "uzurpītan"
+              },
+              "pl": {
+                "nom": "uzurpitāi",
+                "gen": "uzurpītan",
+                "dat": "uzurpitammans",
+                "akk": "uzurpītans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "uzurpitā",
+                "gen": "uzurpītas",
+                "dat": "uzurpītai",
+                "akk": "uzurpītan"
+              },
+              "pl": {
+                "nom": "uzurpītas",
+                "gen": "uzurpītan",
+                "dat": "uzurpitāmans",
+                "akk": "uzurpītans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "uzurpītan",
+                "gen": "uzurpītas",
+                "dat": "uzurpītasmu",
+                "akk": "uzurpītan"
+              },
+              "pl": {
+                "nom": "uzurpitāi",
+                "gen": "uzurpītan",
+                "dat": "uzurpitammans",
+                "akk": "uzurpītans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "Ungrai",
+    "id": 10664,
+    "paradigm": {
+      "masc": {
+        "pl": {
+          "nom": "Ungrai",
+          "gen": "Ungran",
+          "dat": "Ungramans",
+          "akk": "Ungrans"
+        }
+      }
+    }
+  }
+]

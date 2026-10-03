@@ -1,0 +1,5456 @@
+[
+  {
+    "word": "fāins",
+    "id": 9246,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "fāins",
+            "gen": "fāinas",
+            "dat": "fāinasmu",
+            "akk": "fāinan"
+          },
+          "pl": {
+            "nom": "fāinai",
+            "gen": "fāinan",
+            "dat": "fāinamans",
+            "akk": "fāinans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fāina",
+            "gen": "fāinas",
+            "dat": "fāinai",
+            "akk": "fāinan"
+          },
+          "pl": {
+            "nom": "fāinas",
+            "gen": "fāinan",
+            "dat": "fāinamans",
+            "akk": "fāinans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fāinan",
+            "gen": "fāinas",
+            "dat": "fāinasmu",
+            "akk": "fāinan"
+          },
+          "pl": {
+            "nom": "fāinai",
+            "gen": "fāinan",
+            "dat": "fāinamans",
+            "akk": "fāinans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "fāinaisis",
+            "gen": "fāinaisjas",
+            "dat": "fāinaisjasmu",
+            "akk": "fāinaisin"
+          },
+          "pl": {
+            "nom": "fāinaisjai",
+            "gen": "fāinaisin",
+            "dat": "fāinaisimans",
+            "akk": "fāinaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fāinaisi",
+            "gen": "fāinaisjas",
+            "dat": "fāinaisjai",
+            "akk": "fāinaisjan"
+          },
+          "pl": {
+            "nom": "fāinaisjas",
+            "gen": "fāinaisjan",
+            "dat": "fāinaisjamans",
+            "akk": "fāinaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fāinaisi",
+            "gen": "fāinaisjas",
+            "dat": "fāinaisjasmu",
+            "akk": "fāinaisi"
+          },
+          "pl": {
+            "nom": "fāinaisjai",
+            "gen": "fāinaisin",
+            "dat": "fāinaisimans",
+            "akk": "fāinaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukafāinaisis",
+            "gen": "ukafāinaisjas",
+            "dat": "ukafāinaisjasmu",
+            "akk": "ukafāinaisin"
+          },
+          "pl": {
+            "nom": "ukafāinaisjai",
+            "gen": "ukafāinaisin",
+            "dat": "ukafāinaisimans",
+            "akk": "ukafāinaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukafāinaisi",
+            "gen": "ukafāinaisjas",
+            "dat": "ukafāinaisjai",
+            "akk": "ukafāinaisjan"
+          },
+          "pl": {
+            "nom": "ukafāinaisjas",
+            "gen": "ukafāinaisjan",
+            "dat": "ukafāinaisjamans",
+            "akk": "ukafāinaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukafāinaisi",
+            "gen": "ukafāinaisjas",
+            "dat": "ukafāinaisjasmu",
+            "akk": "ukafāinaisi"
+          },
+          "pl": {
+            "nom": "ukafāinaisjai",
+            "gen": "ukafāinaisin",
+            "dat": "ukafāinaisimans",
+            "akk": "ukafāinaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "fāinai",
+        "comparative": "fāinais",
+        "superlative": "ukafāinais"
+      }
+    }
+  },
+  {
+    "word": "fabrīki",
+    "id": 1725,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "fabrīki",
+          "gen": "fabrīkis",
+          "dat": "fabrīkei",
+          "akk": "fabrīkin"
+        },
+        "pl": {
+          "nom": "fabrīkis",
+          "gen": "fabrīkin",
+          "dat": "fabrīkimans",
+          "akk": "fabrīkins"
+        }
+      }
+    }
+  },
+  {
+    "word": "faktan",
+    "id": 1726,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "faktan",
+          "gen": "faktas",
+          "dat": "faktu",
+          "akk": "faktan"
+        },
+        "pl": {
+          "nom": "faktāi",
+          "gen": "faktan",
+          "dat": "faktammans",
+          "akk": "faktans"
+        }
+      }
+    }
+  },
+  {
+    "word": "falāngi",
+    "id": 9247,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "falāngi",
+          "gen": "falāngis",
+          "dat": "falāngei",
+          "akk": "falāngin"
+        },
+        "pl": {
+          "nom": "falāngis",
+          "gen": "falāngin",
+          "dat": "falāngimans",
+          "akk": "falāngins"
+        }
+      }
+    }
+  },
+  {
+    "word": "falšingis",
+    "id": 9249,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "falšingis",
+            "gen": "falšingjas",
+            "dat": "falšingjasmu",
+            "akk": "falšingjan"
+          },
+          "pl": {
+            "nom": "falšingjai",
+            "gen": "falšingjan",
+            "dat": "falšingjamans",
+            "akk": "falšingjans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "falšingi",
+            "gen": "falšingis",
+            "dat": "falšingei",
+            "akk": "falšingin"
+          },
+          "pl": {
+            "nom": "falšingis",
+            "gen": "falšingin",
+            "dat": "falšingimans",
+            "akk": "falšingins"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "falšingi / falšingjan",
+            "gen": "falšingjas",
+            "dat": "falšingjasmu",
+            "akk": "falšingi / falšingjan"
+          },
+          "pl": {
+            "nom": "falšingjai",
+            "gen": "falšingjan",
+            "dat": "falšingjamans",
+            "akk": "falšingjans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "falšingjaisis",
+            "gen": "falšingjaisjas",
+            "dat": "falšingjaisjasmu",
+            "akk": "falšingjaisin"
+          },
+          "pl": {
+            "nom": "falšingjaisjai",
+            "gen": "falšingjaisin",
+            "dat": "falšingjaisimans",
+            "akk": "falšingjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "falšingjaisi",
+            "gen": "falšingjaisjas",
+            "dat": "falšingjaisjai",
+            "akk": "falšingjaisjan"
+          },
+          "pl": {
+            "nom": "falšingjaisjas",
+            "gen": "falšingjaisjan",
+            "dat": "falšingjaisjamans",
+            "akk": "falšingjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "falšingjaisi",
+            "gen": "falšingjaisjas",
+            "dat": "falšingjaisjasmu",
+            "akk": "falšingjaisi"
+          },
+          "pl": {
+            "nom": "falšingjaisjai",
+            "gen": "falšingjaisin",
+            "dat": "falšingjaisimans",
+            "akk": "falšingjaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukafalšingjaisis",
+            "gen": "ukafalšingjaisjas",
+            "dat": "ukafalšingjaisjasmu",
+            "akk": "ukafalšingjaisin"
+          },
+          "pl": {
+            "nom": "ukafalšingjaisjai",
+            "gen": "ukafalšingjaisin",
+            "dat": "ukafalšingjaisimans",
+            "akk": "ukafalšingjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukafalšingjaisi",
+            "gen": "ukafalšingjaisjas",
+            "dat": "ukafalšingjaisjai",
+            "akk": "ukafalšingjaisjan"
+          },
+          "pl": {
+            "nom": "ukafalšingjaisjas",
+            "gen": "ukafalšingjaisjan",
+            "dat": "ukafalšingjaisjamans",
+            "akk": "ukafalšingjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukafalšingjaisi",
+            "gen": "ukafalšingjaisjas",
+            "dat": "ukafalšingjaisjasmu",
+            "akk": "ukafalšingjaisi"
+          },
+          "pl": {
+            "nom": "ukafalšingjaisjai",
+            "gen": "ukafalšingjaisin",
+            "dat": "ukafalšingjaisimans",
+            "akk": "ukafalšingjaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "falšingjai",
+        "comparative": "falšingjais",
+        "superlative": "ukafalšingjais"
+      }
+    }
+  },
+  {
+    "word": "falšintun",
+    "id": 9250,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "falšina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "falšina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "falšina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "falšinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "falšinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "falšina"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "falšina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "falšina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "falšina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "falšinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "falšinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "falšina"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma falšinuns / falšinusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei falšinuns / falšinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast falšinuns / falšinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast falšinus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai falšinusis / falšinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei falšinusis / falšinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast falšinusis / falšinusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst falšinuns / falšinusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst falšinuns / falšinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst falšinuns / falšinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst falšinus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai falšinusis / falšinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei falšinusis / falšinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst falšinusis / falšinusjas"
+          }
+        ]
+      },
+      "optative": "falšinsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "falšinais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "falšinaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "falšinlai"
+        },
+        {
+          "p": "tū",
+          "f": "falšinlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "falšinlai"
+        },
+        {
+          "p": "mes",
+          "f": "falšinlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "falšinlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "falšinlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "falšinants",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "falšinants",
+                "gen": "falšinantis",
+                "dat": "falšinantismu",
+                "akk": "falšinantin"
+              },
+              "pl": {
+                "nom": "falšinantjai",
+                "gen": "falšinantin",
+                "dat": "falšinantimmans",
+                "akk": "falšinantins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "falšinantī",
+                "gen": "falšinantjas",
+                "dat": "falšinantjai",
+                "akk": "falšinantjan"
+              },
+              "pl": {
+                "nom": "falšinantjas",
+                "gen": "falšinantjan",
+                "dat": "falšinantjāmans",
+                "akk": "falšinantjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "falšinanti",
+                "gen": "falšinantis",
+                "dat": "falšinantismu",
+                "akk": "falšinantin"
+              },
+              "pl": {
+                "nom": "falšinantjai",
+                "gen": "falšinantin",
+                "dat": "falšinantimmans",
+                "akk": "falšinantins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "falšinuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "falšinuns",
+                "gen": "falšinusjas",
+                "dat": "falšinusjasmu",
+                "akk": "falšinusin"
+              },
+              "pl": {
+                "nom": "falšinusis",
+                "gen": "falšinusin",
+                "dat": "falšinusimans",
+                "akk": "falšinusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "falšinusi",
+                "gen": "falšinusjas",
+                "dat": "falšinusjai",
+                "akk": "falšinusjan"
+              },
+              "pl": {
+                "nom": "falšinusjas",
+                "gen": "falšinusjan",
+                "dat": "falšinusjamans",
+                "akk": "falšinusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "falšinus",
+                "gen": "falšinusjas",
+                "dat": "falšinusjasmu",
+                "akk": "falšinus"
+              },
+              "pl": {
+                "nom": "falšinus",
+                "gen": "falšinusin",
+                "dat": "falšinusimans",
+                "akk": "falšinus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "falšints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "falšints",
+                "gen": "falšintas",
+                "dat": "falšintasmu",
+                "akk": "falšintan"
+              },
+              "pl": {
+                "nom": "falšintāi",
+                "gen": "falšintan",
+                "dat": "falšintammans",
+                "akk": "falšintans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "falšintā",
+                "gen": "falšintas",
+                "dat": "falšintai",
+                "akk": "falšintan"
+              },
+              "pl": {
+                "nom": "falšintas",
+                "gen": "falšintan",
+                "dat": "falšintāmans",
+                "akk": "falšintans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "falšintan",
+                "gen": "falšintas",
+                "dat": "falšintasmu",
+                "akk": "falšintan"
+              },
+              "pl": {
+                "nom": "falšintāi",
+                "gen": "falšintan",
+                "dat": "falšintammans",
+                "akk": "falšintans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "falšintwei",
+    "id": 9251,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "falšina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "falšina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "falšina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "falšinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "falšinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "falšina"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "falšina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "falšina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "falšina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "falšinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "falšinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "falšina"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma falšinuns / falšinusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei falšinuns / falšinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast falšinuns / falšinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast falšinus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai falšinusis / falšinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei falšinusis / falšinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast falšinusis / falšinusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst falšinuns / falšinusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst falšinuns / falšinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst falšinuns / falšinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst falšinus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai falšinusis / falšinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei falšinusis / falšinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst falšinusis / falšinusjas"
+          }
+        ]
+      },
+      "optative": "falšinsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "falšinais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "falšinaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "falšinlai"
+        },
+        {
+          "p": "tū",
+          "f": "falšinlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "falšinlai"
+        },
+        {
+          "p": "mes",
+          "f": "falšinlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "falšinlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "falšinlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "falšinants",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "falšinants",
+                "gen": "falšinantis",
+                "dat": "falšinantismu",
+                "akk": "falšinantin"
+              },
+              "pl": {
+                "nom": "falšinantjai",
+                "gen": "falšinantin",
+                "dat": "falšinantimmans",
+                "akk": "falšinantins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "falšinantī",
+                "gen": "falšinantjas",
+                "dat": "falšinantjai",
+                "akk": "falšinantjan"
+              },
+              "pl": {
+                "nom": "falšinantjas",
+                "gen": "falšinantjan",
+                "dat": "falšinantjāmans",
+                "akk": "falšinantjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "falšinanti",
+                "gen": "falšinantis",
+                "dat": "falšinantismu",
+                "akk": "falšinantin"
+              },
+              "pl": {
+                "nom": "falšinantjai",
+                "gen": "falšinantin",
+                "dat": "falšinantimmans",
+                "akk": "falšinantins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "falšinuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "falšinuns",
+                "gen": "falšinusjas",
+                "dat": "falšinusjasmu",
+                "akk": "falšinusin"
+              },
+              "pl": {
+                "nom": "falšinusis",
+                "gen": "falšinusin",
+                "dat": "falšinusimans",
+                "akk": "falšinusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "falšinusi",
+                "gen": "falšinusjas",
+                "dat": "falšinusjai",
+                "akk": "falšinusjan"
+              },
+              "pl": {
+                "nom": "falšinusjas",
+                "gen": "falšinusjan",
+                "dat": "falšinusjamans",
+                "akk": "falšinusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "falšinus",
+                "gen": "falšinusjas",
+                "dat": "falšinusjasmu",
+                "akk": "falšinus"
+              },
+              "pl": {
+                "nom": "falšinus",
+                "gen": "falšinusin",
+                "dat": "falšinusimans",
+                "akk": "falšinus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "falšints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "falšints",
+                "gen": "falšintas",
+                "dat": "falšintasmu",
+                "akk": "falšintan"
+              },
+              "pl": {
+                "nom": "falšintāi",
+                "gen": "falšintan",
+                "dat": "falšintammans",
+                "akk": "falšintans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "falšintā",
+                "gen": "falšintas",
+                "dat": "falšintai",
+                "akk": "falšintan"
+              },
+              "pl": {
+                "nom": "falšintas",
+                "gen": "falšintan",
+                "dat": "falšintāmans",
+                "akk": "falšintans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "falšintan",
+                "gen": "falšintas",
+                "dat": "falšintasmu",
+                "akk": "falšintan"
+              },
+              "pl": {
+                "nom": "falšintāi",
+                "gen": "falšintan",
+                "dat": "falšintammans",
+                "akk": "falšintans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "falsifikātan",
+    "id": 1727,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "falsifikātan",
+          "gen": "falsifikātas",
+          "dat": "falsifikātu",
+          "akk": "falsifikātan"
+        },
+        "pl": {
+          "nom": "falsifikatāi",
+          "gen": "falsifikātan",
+          "dat": "falsifikatammans",
+          "akk": "falsifikātans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fantastiskan",
+    "id": 9252,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "fantastiskan",
+          "gen": "fantastiskas",
+          "dat": "fantastisku",
+          "akk": "fantastiskan"
+        },
+        "pl": {
+          "nom": "fantastiskāi",
+          "gen": "fantastiskan",
+          "dat": "fantastiskammans",
+          "akk": "fantastiskans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fantastisks",
+    "id": 9253,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "fantastisks",
+            "gen": "fantastiskas",
+            "dat": "fantastiskasmu",
+            "akk": "fantastiskan"
+          },
+          "pl": {
+            "nom": "fantastiskai",
+            "gen": "fantastiskan",
+            "dat": "fantastiskamans",
+            "akk": "fantastiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fantastiska",
+            "gen": "fantastiskas",
+            "dat": "fantastiskai",
+            "akk": "fantastiskan"
+          },
+          "pl": {
+            "nom": "fantastiskas",
+            "gen": "fantastiskan",
+            "dat": "fantastiskamans",
+            "akk": "fantastiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fantastiskan",
+            "gen": "fantastiskas",
+            "dat": "fantastiskasmu",
+            "akk": "fantastiskan"
+          },
+          "pl": {
+            "nom": "fantastiskai",
+            "gen": "fantastiskan",
+            "dat": "fantastiskamans",
+            "akk": "fantastiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "fantastiskaisis",
+            "gen": "fantastiskaisjas",
+            "dat": "fantastiskaisjasmu",
+            "akk": "fantastiskaisin"
+          },
+          "pl": {
+            "nom": "fantastiskaisjai",
+            "gen": "fantastiskaisin",
+            "dat": "fantastiskaisimans",
+            "akk": "fantastiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fantastiskaisi",
+            "gen": "fantastiskaisjas",
+            "dat": "fantastiskaisjai",
+            "akk": "fantastiskaisjan"
+          },
+          "pl": {
+            "nom": "fantastiskaisjas",
+            "gen": "fantastiskaisjan",
+            "dat": "fantastiskaisjamans",
+            "akk": "fantastiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fantastiskaisi",
+            "gen": "fantastiskaisjas",
+            "dat": "fantastiskaisjasmu",
+            "akk": "fantastiskaisi"
+          },
+          "pl": {
+            "nom": "fantastiskaisjai",
+            "gen": "fantastiskaisin",
+            "dat": "fantastiskaisimans",
+            "akk": "fantastiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukafantastiskaisis",
+            "gen": "ukafantastiskaisjas",
+            "dat": "ukafantastiskaisjasmu",
+            "akk": "ukafantastiskaisin"
+          },
+          "pl": {
+            "nom": "ukafantastiskaisjai",
+            "gen": "ukafantastiskaisin",
+            "dat": "ukafantastiskaisimans",
+            "akk": "ukafantastiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukafantastiskaisi",
+            "gen": "ukafantastiskaisjas",
+            "dat": "ukafantastiskaisjai",
+            "akk": "ukafantastiskaisjan"
+          },
+          "pl": {
+            "nom": "ukafantastiskaisjas",
+            "gen": "ukafantastiskaisjan",
+            "dat": "ukafantastiskaisjamans",
+            "akk": "ukafantastiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukafantastiskaisi",
+            "gen": "ukafantastiskaisjas",
+            "dat": "ukafantastiskaisjasmu",
+            "akk": "ukafantastiskaisi"
+          },
+          "pl": {
+            "nom": "ukafantastiskaisjai",
+            "gen": "ukafantastiskaisin",
+            "dat": "ukafantastiskaisimans",
+            "akk": "ukafantastiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "fantastiskai",
+        "comparative": "fantastiskais",
+        "superlative": "ukafantastiskais"
+      }
+    }
+  },
+  {
+    "word": "fantazīja",
+    "id": 9254,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "fantazīja",
+          "gen": "fantazījas",
+          "dat": "fantazījai",
+          "akk": "fantazījan"
+        },
+        "pl": {
+          "nom": "fantazījas",
+          "gen": "fantazījan",
+          "dat": "fantazījamans",
+          "akk": "fantazījans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Farēirai",
+    "id": 9255,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "Farēirai",
+          "gen": "Farēirai",
+          "dat": "Farēirai",
+          "akk": "Farēirai"
+        },
+        "pl": {
+          "nom": "Farēirai",
+          "gen": "Farēiran",
+          "dat": "Farēiramans",
+          "akk": "Farēirans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fašisms",
+    "id": 1728,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "fašisms",
+          "gen": "fašismas",
+          "dat": "fašismu",
+          "akk": "fašisman"
+        },
+        "pl": {
+          "nom": "fašismai",
+          "gen": "fašisman",
+          "dat": "fašismamans",
+          "akk": "fašismans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fazāns",
+    "id": 9256,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "fazāns",
+          "gen": "fazānas",
+          "dat": "fazānu",
+          "akk": "fazānan"
+        },
+        "pl": {
+          "nom": "fazānai",
+          "gen": "fazānan",
+          "dat": "fazānamans",
+          "akk": "fazānans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fēja",
+    "id": 9258,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "fēja",
+          "gen": "fējas",
+          "dat": "fējai",
+          "akk": "fējan"
+        },
+        "pl": {
+          "nom": "fējas",
+          "gen": "fējan",
+          "dat": "fējamans",
+          "akk": "fējans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fenōmenan",
+    "id": 1729,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "fenōmenan",
+          "gen": "fenōmenas",
+          "dat": "fenōmenu",
+          "akk": "fenōmenan"
+        },
+        "pl": {
+          "nom": "fenomenāi",
+          "gen": "fenōmenan",
+          "dat": "fenomenammans",
+          "akk": "fenōmenans"
+        }
+      }
+    }
+  },
+  {
+    "word": "feudāls",
+    "id": 1732,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "feudāls",
+            "gen": "feudālas",
+            "dat": "feudālasmu",
+            "akk": "feudālan"
+          },
+          "pl": {
+            "nom": "feudālai",
+            "gen": "feudālan",
+            "dat": "feudālamans",
+            "akk": "feudālans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "feudāla",
+            "gen": "feudālas",
+            "dat": "feudālai",
+            "akk": "feudālan"
+          },
+          "pl": {
+            "nom": "feudālas",
+            "gen": "feudālan",
+            "dat": "feudālamans",
+            "akk": "feudālans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "feudālan",
+            "gen": "feudālas",
+            "dat": "feudālasmu",
+            "akk": "feudālan"
+          },
+          "pl": {
+            "nom": "feudālai",
+            "gen": "feudālan",
+            "dat": "feudālamans",
+            "akk": "feudālans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "feudālaisis",
+            "gen": "feudālaisjas",
+            "dat": "feudālaisjasmu",
+            "akk": "feudālaisin"
+          },
+          "pl": {
+            "nom": "feudālaisjai",
+            "gen": "feudālaisin",
+            "dat": "feudālaisimans",
+            "akk": "feudālaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "feudālaisi",
+            "gen": "feudālaisjas",
+            "dat": "feudālaisjai",
+            "akk": "feudālaisjan"
+          },
+          "pl": {
+            "nom": "feudālaisjas",
+            "gen": "feudālaisjan",
+            "dat": "feudālaisjamans",
+            "akk": "feudālaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "feudālaisi",
+            "gen": "feudālaisjas",
+            "dat": "feudālaisjasmu",
+            "akk": "feudālaisi"
+          },
+          "pl": {
+            "nom": "feudālaisjai",
+            "gen": "feudālaisin",
+            "dat": "feudālaisimans",
+            "akk": "feudālaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukafeudālaisis",
+            "gen": "ukafeudālaisjas",
+            "dat": "ukafeudālaisjasmu",
+            "akk": "ukafeudālaisin"
+          },
+          "pl": {
+            "nom": "ukafeudālaisjai",
+            "gen": "ukafeudālaisin",
+            "dat": "ukafeudālaisimans",
+            "akk": "ukafeudālaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukafeudālaisi",
+            "gen": "ukafeudālaisjas",
+            "dat": "ukafeudālaisjai",
+            "akk": "ukafeudālaisjan"
+          },
+          "pl": {
+            "nom": "ukafeudālaisjas",
+            "gen": "ukafeudālaisjan",
+            "dat": "ukafeudālaisjamans",
+            "akk": "ukafeudālaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukafeudālaisi",
+            "gen": "ukafeudālaisjas",
+            "dat": "ukafeudālaisjasmu",
+            "akk": "ukafeudālaisi"
+          },
+          "pl": {
+            "nom": "ukafeudālaisjai",
+            "gen": "ukafeudālaisin",
+            "dat": "ukafeudālaisimans",
+            "akk": "ukafeudālaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "feudālai",
+        "comparative": "feudālais",
+        "superlative": "ukafeudālais"
+      }
+    }
+  },
+  {
+    "word": "feudalisms",
+    "id": 1730,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "feudalisms",
+          "gen": "feudalismas",
+          "dat": "feudalismu",
+          "akk": "feudalisman"
+        },
+        "pl": {
+          "nom": "feudalismai",
+          "gen": "feudalisman",
+          "dat": "feudalismamans",
+          "akk": "feudalismans"
+        }
+      }
+    }
+  },
+  {
+    "word": "feudalrikīs",
+    "id": 1731,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "feudalrikīs",
+          "gen": "feudalrikijjas",
+          "dat": "feudalrikijju",
+          "akk": "feudalrikijjan"
+        },
+        "pl": {
+          "nom": "feudalrikijjai",
+          "gen": "feudalrikijjan",
+          "dat": "feudalrikkimans",
+          "akk": "feudalrikijjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fīrma",
+    "id": 1747,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "fīrma",
+          "gen": "fīrmas",
+          "dat": "fīrmai",
+          "akk": "fīrman"
+        },
+        "pl": {
+          "nom": "fīrmas",
+          "gen": "fīrman",
+          "dat": "fīrmamans",
+          "akk": "fīrmans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Fidžis",
+    "id": 8231,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "Fidžis",
+          "gen": "Fidžjas",
+          "dat": "Fidžju",
+          "akk": "Fidžjan"
+        },
+        "pl": {
+          "nom": "Fidžjai",
+          "gen": "Fidžjan",
+          "dat": "Fidžjamans",
+          "akk": "Fidžjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "figūri",
+    "id": 1733,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "figūri",
+          "gen": "figūris",
+          "dat": "figūrei",
+          "akk": "figūrin"
+        },
+        "pl": {
+          "nom": "figūris",
+          "gen": "figūrin",
+          "dat": "figūrimans",
+          "akk": "figūrins"
+        }
+      }
+    }
+  },
+  {
+    "word": "fikcija",
+    "id": 1734,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "fikcija",
+          "gen": "fikcijas",
+          "dat": "fikcijai",
+          "akk": "fikcijan"
+        },
+        "pl": {
+          "nom": "fikcijas",
+          "gen": "fikcijan",
+          "dat": "fikcijamans",
+          "akk": "fikcijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fiksītun",
+    "id": 1735,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "fiksijja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "fiksijja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "fiksijja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "fiksijjimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "fiksijjitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "fiksijja"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "fiksijja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "fiksijja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "fiksijja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "fiksijjimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "fiksijjitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "fiksijja"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma fiksīwuns / fiksīwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei fiksīwuns / fiksīwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast fiksīwuns / fiksīwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast fiksīwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai fiksīwusis / fiksīwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei fiksīwusis / fiksīwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast fiksīwusis / fiksīwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst fiksīwuns / fiksīwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst fiksīwuns / fiksīwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst fiksīwuns / fiksīwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst fiksīwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai fiksīwusis / fiksīwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei fiksīwusis / fiksīwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst fiksīwusis / fiksīwusjas"
+          }
+        ]
+      },
+      "optative": "fiksīsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "fiksīs"
+        },
+        {
+          "p": "(jūs)",
+          "f": "fiksīti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "fiksīlai"
+        },
+        {
+          "p": "tū",
+          "f": "fiksīlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "fiksīlai"
+        },
+        {
+          "p": "mes",
+          "f": "fiksīlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "fiksīlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "fiksīlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "fiksīnts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "fiksīnts",
+                "gen": "fiksīntis",
+                "dat": "fiksīntismu",
+                "akk": "fiksīntin"
+              },
+              "pl": {
+                "nom": "fiksīntjai",
+                "gen": "fiksīntin",
+                "dat": "fiksintimmans",
+                "akk": "fiksīntins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "fiksintī",
+                "gen": "fiksīntjas",
+                "dat": "fiksīntjai",
+                "akk": "fiksīntjan"
+              },
+              "pl": {
+                "nom": "fiksīntjas",
+                "gen": "fiksīntjan",
+                "dat": "fiksintjāmans",
+                "akk": "fiksīntjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "fiksīnti",
+                "gen": "fiksīntis",
+                "dat": "fiksīntismu",
+                "akk": "fiksīntin"
+              },
+              "pl": {
+                "nom": "fiksīntjai",
+                "gen": "fiksīntin",
+                "dat": "fiksintimmans",
+                "akk": "fiksīntins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "fiksīwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "fiksīwuns",
+                "gen": "fiksīwusjas",
+                "dat": "fiksīwusjasmu",
+                "akk": "fiksīwusin"
+              },
+              "pl": {
+                "nom": "fiksīwusis",
+                "gen": "fiksīwusin",
+                "dat": "fiksīwusimans",
+                "akk": "fiksīwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "fiksīwusi",
+                "gen": "fiksīwusjas",
+                "dat": "fiksīwusjai",
+                "akk": "fiksīwusjan"
+              },
+              "pl": {
+                "nom": "fiksīwusjas",
+                "gen": "fiksīwusjan",
+                "dat": "fiksīwusjamans",
+                "akk": "fiksīwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "fiksīwus",
+                "gen": "fiksīwusjas",
+                "dat": "fiksīwusjasmu",
+                "akk": "fiksīwus"
+              },
+              "pl": {
+                "nom": "fiksīwus",
+                "gen": "fiksīwusin",
+                "dat": "fiksīwusimans",
+                "akk": "fiksīwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "fiksīts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "fiksīts",
+                "gen": "fiksītas",
+                "dat": "fiksītasmu",
+                "akk": "fiksītan"
+              },
+              "pl": {
+                "nom": "fiksitāi",
+                "gen": "fiksītan",
+                "dat": "fiksitammans",
+                "akk": "fiksītans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "fiksitā",
+                "gen": "fiksītas",
+                "dat": "fiksītai",
+                "akk": "fiksītan"
+              },
+              "pl": {
+                "nom": "fiksītas",
+                "gen": "fiksītan",
+                "dat": "fiksitāmans",
+                "akk": "fiksītans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "fiksītan",
+                "gen": "fiksītas",
+                "dat": "fiksītasmu",
+                "akk": "fiksītan"
+              },
+              "pl": {
+                "nom": "fiksitāi",
+                "gen": "fiksītan",
+                "dat": "fiksitammans",
+                "akk": "fiksītans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "filiāli",
+    "id": 9261,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "filiāli",
+          "gen": "filiālis",
+          "dat": "filiālei",
+          "akk": "filiālin"
+        },
+        "pl": {
+          "nom": "filiālis",
+          "gen": "filiālin",
+          "dat": "filiālimans",
+          "akk": "filiālins"
+        }
+      }
+    }
+  },
+  {
+    "word": "films",
+    "id": 1736,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "films",
+          "gen": "filmas",
+          "dat": "filmu",
+          "akk": "filman"
+        },
+        "pl": {
+          "nom": "filmai",
+          "gen": "filman",
+          "dat": "filmamans",
+          "akk": "filmans"
+        }
+      }
+    }
+  },
+  {
+    "word": "filolōgija",
+    "id": 1737,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "filolōgija",
+          "gen": "filolōgijas",
+          "dat": "filolōgijai",
+          "akk": "filolōgijan"
+        },
+        "pl": {
+          "nom": "filolōgijas",
+          "gen": "filolōgijan",
+          "dat": "filolōgijamans",
+          "akk": "filolōgijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "filolōgisks",
+    "id": 1738,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "filolōgisks",
+            "gen": "filolōgiskas",
+            "dat": "filolōgiskasmu",
+            "akk": "filolōgiskan"
+          },
+          "pl": {
+            "nom": "filolōgiskai",
+            "gen": "filolōgiskan",
+            "dat": "filolōgiskamans",
+            "akk": "filolōgiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "filolōgiska",
+            "gen": "filolōgiskas",
+            "dat": "filolōgiskai",
+            "akk": "filolōgiskan"
+          },
+          "pl": {
+            "nom": "filolōgiskas",
+            "gen": "filolōgiskan",
+            "dat": "filolōgiskamans",
+            "akk": "filolōgiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "filolōgiskan",
+            "gen": "filolōgiskas",
+            "dat": "filolōgiskasmu",
+            "akk": "filolōgiskan"
+          },
+          "pl": {
+            "nom": "filolōgiskai",
+            "gen": "filolōgiskan",
+            "dat": "filolōgiskamans",
+            "akk": "filolōgiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "filolōgiskaisis",
+            "gen": "filolōgiskaisjas",
+            "dat": "filolōgiskaisjasmu",
+            "akk": "filolōgiskaisin"
+          },
+          "pl": {
+            "nom": "filolōgiskaisjai",
+            "gen": "filolōgiskaisin",
+            "dat": "filolōgiskaisimans",
+            "akk": "filolōgiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "filolōgiskaisi",
+            "gen": "filolōgiskaisjas",
+            "dat": "filolōgiskaisjai",
+            "akk": "filolōgiskaisjan"
+          },
+          "pl": {
+            "nom": "filolōgiskaisjas",
+            "gen": "filolōgiskaisjan",
+            "dat": "filolōgiskaisjamans",
+            "akk": "filolōgiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "filolōgiskaisi",
+            "gen": "filolōgiskaisjas",
+            "dat": "filolōgiskaisjasmu",
+            "akk": "filolōgiskaisi"
+          },
+          "pl": {
+            "nom": "filolōgiskaisjai",
+            "gen": "filolōgiskaisin",
+            "dat": "filolōgiskaisimans",
+            "akk": "filolōgiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukafilolōgiskaisis",
+            "gen": "ukafilolōgiskaisjas",
+            "dat": "ukafilolōgiskaisjasmu",
+            "akk": "ukafilolōgiskaisin"
+          },
+          "pl": {
+            "nom": "ukafilolōgiskaisjai",
+            "gen": "ukafilolōgiskaisin",
+            "dat": "ukafilolōgiskaisimans",
+            "akk": "ukafilolōgiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukafilolōgiskaisi",
+            "gen": "ukafilolōgiskaisjas",
+            "dat": "ukafilolōgiskaisjai",
+            "akk": "ukafilolōgiskaisjan"
+          },
+          "pl": {
+            "nom": "ukafilolōgiskaisjas",
+            "gen": "ukafilolōgiskaisjan",
+            "dat": "ukafilolōgiskaisjamans",
+            "akk": "ukafilolōgiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukafilolōgiskaisi",
+            "gen": "ukafilolōgiskaisjas",
+            "dat": "ukafilolōgiskaisjasmu",
+            "akk": "ukafilolōgiskaisi"
+          },
+          "pl": {
+            "nom": "ukafilolōgiskaisjai",
+            "gen": "ukafilolōgiskaisin",
+            "dat": "ukafilolōgiskaisimans",
+            "akk": "ukafilolōgiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "filolōgiskai",
+        "comparative": "filolōgiskais",
+        "superlative": "ukafilolōgiskais"
+      }
+    }
+  },
+  {
+    "word": "filolōgs",
+    "id": 1739,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "filolōgs",
+          "gen": "filolōgas",
+          "dat": "filolōgu",
+          "akk": "filolōgan"
+        },
+        "pl": {
+          "nom": "filolōgai",
+          "gen": "filolōgan",
+          "dat": "filolōgamans",
+          "akk": "filolōgans"
+        }
+      }
+    }
+  },
+  {
+    "word": "filozōfija",
+    "id": 1740,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "filozōfija",
+          "gen": "filozōfijas",
+          "dat": "filozōfijai",
+          "akk": "filozōfijan"
+        },
+        "pl": {
+          "nom": "filozōfijas",
+          "gen": "filozōfijan",
+          "dat": "filozōfijamans",
+          "akk": "filozōfijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "filozōfisks",
+    "id": 1741,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "filozōfisks",
+            "gen": "filozōfiskas",
+            "dat": "filozōfiskasmu",
+            "akk": "filozōfiskan"
+          },
+          "pl": {
+            "nom": "filozōfiskai",
+            "gen": "filozōfiskan",
+            "dat": "filozōfiskamans",
+            "akk": "filozōfiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "filozōfiska",
+            "gen": "filozōfiskas",
+            "dat": "filozōfiskai",
+            "akk": "filozōfiskan"
+          },
+          "pl": {
+            "nom": "filozōfiskas",
+            "gen": "filozōfiskan",
+            "dat": "filozōfiskamans",
+            "akk": "filozōfiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "filozōfiskan",
+            "gen": "filozōfiskas",
+            "dat": "filozōfiskasmu",
+            "akk": "filozōfiskan"
+          },
+          "pl": {
+            "nom": "filozōfiskai",
+            "gen": "filozōfiskan",
+            "dat": "filozōfiskamans",
+            "akk": "filozōfiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "filozōfiskaisis",
+            "gen": "filozōfiskaisjas",
+            "dat": "filozōfiskaisjasmu",
+            "akk": "filozōfiskaisin"
+          },
+          "pl": {
+            "nom": "filozōfiskaisjai",
+            "gen": "filozōfiskaisin",
+            "dat": "filozōfiskaisimans",
+            "akk": "filozōfiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "filozōfiskaisi",
+            "gen": "filozōfiskaisjas",
+            "dat": "filozōfiskaisjai",
+            "akk": "filozōfiskaisjan"
+          },
+          "pl": {
+            "nom": "filozōfiskaisjas",
+            "gen": "filozōfiskaisjan",
+            "dat": "filozōfiskaisjamans",
+            "akk": "filozōfiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "filozōfiskaisi",
+            "gen": "filozōfiskaisjas",
+            "dat": "filozōfiskaisjasmu",
+            "akk": "filozōfiskaisi"
+          },
+          "pl": {
+            "nom": "filozōfiskaisjai",
+            "gen": "filozōfiskaisin",
+            "dat": "filozōfiskaisimans",
+            "akk": "filozōfiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukafilozōfiskaisis",
+            "gen": "ukafilozōfiskaisjas",
+            "dat": "ukafilozōfiskaisjasmu",
+            "akk": "ukafilozōfiskaisin"
+          },
+          "pl": {
+            "nom": "ukafilozōfiskaisjai",
+            "gen": "ukafilozōfiskaisin",
+            "dat": "ukafilozōfiskaisimans",
+            "akk": "ukafilozōfiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukafilozōfiskaisi",
+            "gen": "ukafilozōfiskaisjas",
+            "dat": "ukafilozōfiskaisjai",
+            "akk": "ukafilozōfiskaisjan"
+          },
+          "pl": {
+            "nom": "ukafilozōfiskaisjas",
+            "gen": "ukafilozōfiskaisjan",
+            "dat": "ukafilozōfiskaisjamans",
+            "akk": "ukafilozōfiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukafilozōfiskaisi",
+            "gen": "ukafilozōfiskaisjas",
+            "dat": "ukafilozōfiskaisjasmu",
+            "akk": "ukafilozōfiskaisi"
+          },
+          "pl": {
+            "nom": "ukafilozōfiskaisjai",
+            "gen": "ukafilozōfiskaisin",
+            "dat": "ukafilozōfiskaisimans",
+            "akk": "ukafilozōfiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "filozōfiskai",
+        "comparative": "filozōfiskais",
+        "superlative": "ukafilozōfiskais"
+      }
+    }
+  },
+  {
+    "word": "filozōfs",
+    "id": 1742,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "filozōfs",
+          "gen": "filozōfas",
+          "dat": "filozōfu",
+          "akk": "filozōfan"
+        },
+        "pl": {
+          "nom": "filozōfai",
+          "gen": "filozōfan",
+          "dat": "filozōfamans",
+          "akk": "filozōfans"
+        }
+      }
+    }
+  },
+  {
+    "word": "filteris",
+    "id": 9262,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "filteris",
+          "gen": "filterjas",
+          "dat": "filterju",
+          "akk": "filterjan"
+        },
+        "pl": {
+          "nom": "filterjai",
+          "gen": "filterjan",
+          "dat": "filterjamans",
+          "akk": "filterjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "filtrītun",
+    "id": 1743,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "filtrijja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "filtrijja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "filtrijja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "filtrijjimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "filtrijjitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "filtrijja"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "filtrijja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "filtrijja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "filtrijja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "filtrijjimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "filtrijjitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "filtrijja"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma filtrīwuns / filtrīwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei filtrīwuns / filtrīwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast filtrīwuns / filtrīwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast filtrīwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai filtrīwusis / filtrīwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei filtrīwusis / filtrīwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast filtrīwusis / filtrīwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst filtrīwuns / filtrīwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst filtrīwuns / filtrīwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst filtrīwuns / filtrīwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst filtrīwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai filtrīwusis / filtrīwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei filtrīwusis / filtrīwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst filtrīwusis / filtrīwusjas"
+          }
+        ]
+      },
+      "optative": "filtrīsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "filtrīs"
+        },
+        {
+          "p": "(jūs)",
+          "f": "filtrīti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "filtrīlai"
+        },
+        {
+          "p": "tū",
+          "f": "filtrīlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "filtrīlai"
+        },
+        {
+          "p": "mes",
+          "f": "filtrīlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "filtrīlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "filtrīlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "filtrīnts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "filtrīnts",
+                "gen": "filtrīntis",
+                "dat": "filtrīntismu",
+                "akk": "filtrīntin"
+              },
+              "pl": {
+                "nom": "filtrīntjai",
+                "gen": "filtrīntin",
+                "dat": "filtrintimmans",
+                "akk": "filtrīntins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "filtrintī",
+                "gen": "filtrīntjas",
+                "dat": "filtrīntjai",
+                "akk": "filtrīntjan"
+              },
+              "pl": {
+                "nom": "filtrīntjas",
+                "gen": "filtrīntjan",
+                "dat": "filtrintjāmans",
+                "akk": "filtrīntjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "filtrīnti",
+                "gen": "filtrīntis",
+                "dat": "filtrīntismu",
+                "akk": "filtrīntin"
+              },
+              "pl": {
+                "nom": "filtrīntjai",
+                "gen": "filtrīntin",
+                "dat": "filtrintimmans",
+                "akk": "filtrīntins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "filtrīwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "filtrīwuns",
+                "gen": "filtrīwusjas",
+                "dat": "filtrīwusjasmu",
+                "akk": "filtrīwusin"
+              },
+              "pl": {
+                "nom": "filtrīwusis",
+                "gen": "filtrīwusin",
+                "dat": "filtrīwusimans",
+                "akk": "filtrīwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "filtrīwusi",
+                "gen": "filtrīwusjas",
+                "dat": "filtrīwusjai",
+                "akk": "filtrīwusjan"
+              },
+              "pl": {
+                "nom": "filtrīwusjas",
+                "gen": "filtrīwusjan",
+                "dat": "filtrīwusjamans",
+                "akk": "filtrīwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "filtrīwus",
+                "gen": "filtrīwusjas",
+                "dat": "filtrīwusjasmu",
+                "akk": "filtrīwus"
+              },
+              "pl": {
+                "nom": "filtrīwus",
+                "gen": "filtrīwusin",
+                "dat": "filtrīwusimans",
+                "akk": "filtrīwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "filtrīts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "filtrīts",
+                "gen": "filtrītas",
+                "dat": "filtrītasmu",
+                "akk": "filtrītan"
+              },
+              "pl": {
+                "nom": "filtritāi",
+                "gen": "filtrītan",
+                "dat": "filtritammans",
+                "akk": "filtrītans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "filtritā",
+                "gen": "filtrītas",
+                "dat": "filtrītai",
+                "akk": "filtrītan"
+              },
+              "pl": {
+                "nom": "filtrītas",
+                "gen": "filtrītan",
+                "dat": "filtritāmans",
+                "akk": "filtrītans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "filtrītan",
+                "gen": "filtrītas",
+                "dat": "filtrītasmu",
+                "akk": "filtrītan"
+              },
+              "pl": {
+                "nom": "filtritāi",
+                "gen": "filtrītan",
+                "dat": "filtritammans",
+                "akk": "filtrītans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "fināli",
+    "id": 8167,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "fināli",
+          "gen": "finālis",
+          "dat": "finālei",
+          "akk": "finālin"
+        },
+        "pl": {
+          "nom": "finālis",
+          "gen": "finālin",
+          "dat": "finālimans",
+          "akk": "finālins"
+        }
+      }
+    }
+  },
+  {
+    "word": "finānci",
+    "id": 1744,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "finānci",
+          "gen": "fināncis",
+          "dat": "fināncei",
+          "akk": "fināncin"
+        },
+        "pl": {
+          "nom": "fināncis",
+          "gen": "fināncin",
+          "dat": "fināncimans",
+          "akk": "fināncins"
+        }
+      }
+    }
+  },
+  {
+    "word": "fināncisks",
+    "id": 1745,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "fināncisks",
+            "gen": "finānciskas",
+            "dat": "finānciskasmu",
+            "akk": "finānciskan"
+          },
+          "pl": {
+            "nom": "finānciskai",
+            "gen": "finānciskan",
+            "dat": "finānciskamans",
+            "akk": "finānciskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "finānciska",
+            "gen": "finānciskas",
+            "dat": "finānciskai",
+            "akk": "finānciskan"
+          },
+          "pl": {
+            "nom": "finānciskas",
+            "gen": "finānciskan",
+            "dat": "finānciskamans",
+            "akk": "finānciskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "finānciskan",
+            "gen": "finānciskas",
+            "dat": "finānciskasmu",
+            "akk": "finānciskan"
+          },
+          "pl": {
+            "nom": "finānciskai",
+            "gen": "finānciskan",
+            "dat": "finānciskamans",
+            "akk": "finānciskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "finānciskaisis",
+            "gen": "finānciskaisjas",
+            "dat": "finānciskaisjasmu",
+            "akk": "finānciskaisin"
+          },
+          "pl": {
+            "nom": "finānciskaisjai",
+            "gen": "finānciskaisin",
+            "dat": "finānciskaisimans",
+            "akk": "finānciskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "finānciskaisi",
+            "gen": "finānciskaisjas",
+            "dat": "finānciskaisjai",
+            "akk": "finānciskaisjan"
+          },
+          "pl": {
+            "nom": "finānciskaisjas",
+            "gen": "finānciskaisjan",
+            "dat": "finānciskaisjamans",
+            "akk": "finānciskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "finānciskaisi",
+            "gen": "finānciskaisjas",
+            "dat": "finānciskaisjasmu",
+            "akk": "finānciskaisi"
+          },
+          "pl": {
+            "nom": "finānciskaisjai",
+            "gen": "finānciskaisin",
+            "dat": "finānciskaisimans",
+            "akk": "finānciskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukafinānciskaisis",
+            "gen": "ukafinānciskaisjas",
+            "dat": "ukafinānciskaisjasmu",
+            "akk": "ukafinānciskaisin"
+          },
+          "pl": {
+            "nom": "ukafinānciskaisjai",
+            "gen": "ukafinānciskaisin",
+            "dat": "ukafinānciskaisimans",
+            "akk": "ukafinānciskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukafinānciskaisi",
+            "gen": "ukafinānciskaisjas",
+            "dat": "ukafinānciskaisjai",
+            "akk": "ukafinānciskaisjan"
+          },
+          "pl": {
+            "nom": "ukafinānciskaisjas",
+            "gen": "ukafinānciskaisjan",
+            "dat": "ukafinānciskaisjamans",
+            "akk": "ukafinānciskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukafinānciskaisi",
+            "gen": "ukafinānciskaisjas",
+            "dat": "ukafinānciskaisjasmu",
+            "akk": "ukafinānciskaisi"
+          },
+          "pl": {
+            "nom": "ukafinānciskaisjai",
+            "gen": "ukafinānciskaisin",
+            "dat": "ukafinānciskaisimans",
+            "akk": "ukafinānciskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "finānciskai",
+        "comparative": "finānciskais",
+        "superlative": "ukafinānciskais"
+      }
+    }
+  },
+  {
+    "word": "fināncists",
+    "id": 1746,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "fināncists",
+          "gen": "fināncistas",
+          "dat": "fināncistu",
+          "akk": "fināncistan"
+        },
+        "pl": {
+          "nom": "fināncistai",
+          "gen": "fināncistan",
+          "dat": "fināncistamans",
+          "akk": "fināncistans"
+        }
+      }
+    }
+  },
+  {
+    "word": "finansītun",
+    "id": 9264,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "finansijja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "finansijja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "finansijja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "finansijjimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "finansijjitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "finansijja"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "finansijja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "finansijja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "finansijja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "finansijjimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "finansijjitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "finansijja"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma finansīwuns / finansīwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei finansīwuns / finansīwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast finansīwuns / finansīwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast finansīwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai finansīwusis / finansīwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei finansīwusis / finansīwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast finansīwusis / finansīwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst finansīwuns / finansīwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst finansīwuns / finansīwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst finansīwuns / finansīwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst finansīwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai finansīwusis / finansīwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei finansīwusis / finansīwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst finansīwusis / finansīwusjas"
+          }
+        ]
+      },
+      "optative": "finansīsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "finansīs"
+        },
+        {
+          "p": "(jūs)",
+          "f": "finansīti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "finansīlai"
+        },
+        {
+          "p": "tū",
+          "f": "finansīlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "finansīlai"
+        },
+        {
+          "p": "mes",
+          "f": "finansīlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "finansīlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "finansīlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "finansīnts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "finansīnts",
+                "gen": "finansīntis",
+                "dat": "finansīntismu",
+                "akk": "finansīntin"
+              },
+              "pl": {
+                "nom": "finansīntjai",
+                "gen": "finansīntin",
+                "dat": "finansintimmans",
+                "akk": "finansīntins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "finansintī",
+                "gen": "finansīntjas",
+                "dat": "finansīntjai",
+                "akk": "finansīntjan"
+              },
+              "pl": {
+                "nom": "finansīntjas",
+                "gen": "finansīntjan",
+                "dat": "finansintjāmans",
+                "akk": "finansīntjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "finansīnti",
+                "gen": "finansīntis",
+                "dat": "finansīntismu",
+                "akk": "finansīntin"
+              },
+              "pl": {
+                "nom": "finansīntjai",
+                "gen": "finansīntin",
+                "dat": "finansintimmans",
+                "akk": "finansīntins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "finansīwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "finansīwuns",
+                "gen": "finansīwusjas",
+                "dat": "finansīwusjasmu",
+                "akk": "finansīwusin"
+              },
+              "pl": {
+                "nom": "finansīwusis",
+                "gen": "finansīwusin",
+                "dat": "finansīwusimans",
+                "akk": "finansīwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "finansīwusi",
+                "gen": "finansīwusjas",
+                "dat": "finansīwusjai",
+                "akk": "finansīwusjan"
+              },
+              "pl": {
+                "nom": "finansīwusjas",
+                "gen": "finansīwusjan",
+                "dat": "finansīwusjamans",
+                "akk": "finansīwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "finansīwus",
+                "gen": "finansīwusjas",
+                "dat": "finansīwusjasmu",
+                "akk": "finansīwus"
+              },
+              "pl": {
+                "nom": "finansīwus",
+                "gen": "finansīwusin",
+                "dat": "finansīwusimans",
+                "akk": "finansīwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "finansīts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "finansīts",
+                "gen": "finansītas",
+                "dat": "finansītasmu",
+                "akk": "finansītan"
+              },
+              "pl": {
+                "nom": "finansitāi",
+                "gen": "finansītan",
+                "dat": "finansitammans",
+                "akk": "finansītans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "finansitā",
+                "gen": "finansītas",
+                "dat": "finansītai",
+                "akk": "finansītan"
+              },
+              "pl": {
+                "nom": "finansītas",
+                "gen": "finansītan",
+                "dat": "finansitāmans",
+                "akk": "finansītans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "finansītan",
+                "gen": "finansītas",
+                "dat": "finansītasmu",
+                "akk": "finansītan"
+              },
+              "pl": {
+                "nom": "finansitāi",
+                "gen": "finansītan",
+                "dat": "finansitammans",
+                "akk": "finansītans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "firmamēntan",
+    "id": 1748,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "firmamēntan",
+          "gen": "firmamēntas",
+          "dat": "firmamēntu",
+          "akk": "firmamēntan"
+        },
+        "pl": {
+          "nom": "firmamentāi",
+          "gen": "firmamēntan",
+          "dat": "firmamentammans",
+          "akk": "firmamēntans"
+        }
+      }
+    }
+  },
+  {
+    "word": "firstista",
+    "id": 1749,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "firstista",
+          "gen": "firstistas",
+          "dat": "firstistai",
+          "akk": "firstistan"
+        },
+        "pl": {
+          "nom": "firstistas",
+          "gen": "firstistan",
+          "dat": "firstistamans",
+          "akk": "firstistans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fisks",
+    "id": 1750,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "fisks",
+          "gen": "fiskas",
+          "dat": "fisku",
+          "akk": "fiskan"
+        },
+        "pl": {
+          "nom": "fiskai",
+          "gen": "fiskan",
+          "dat": "fiskamans",
+          "akk": "fiskans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fizīkeniks",
+    "id": 1751,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "fizīkeniks",
+          "gen": "fizīkenikas",
+          "dat": "fizīkeniku",
+          "akk": "fizīkenikan"
+        },
+        "pl": {
+          "nom": "fizīkenikai",
+          "gen": "fizīkenikan",
+          "dat": "fizīkenikamans",
+          "akk": "fizīkenikans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fizīki",
+    "id": 1752,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "fizīki",
+          "gen": "fizīkis",
+          "dat": "fizīkei",
+          "akk": "fizīkin"
+        },
+        "pl": {
+          "nom": "fizīkis",
+          "gen": "fizīkin",
+          "dat": "fizīkimans",
+          "akk": "fizīkins"
+        }
+      }
+    }
+  },
+  {
+    "word": "fizīsks",
+    "id": 9265,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "fizīsks",
+            "gen": "fizīskas",
+            "dat": "fizīskasmu",
+            "akk": "fizīskan"
+          },
+          "pl": {
+            "nom": "fizīskai",
+            "gen": "fizīskan",
+            "dat": "fizīskamans",
+            "akk": "fizīskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fizīska",
+            "gen": "fizīskas",
+            "dat": "fizīskai",
+            "akk": "fizīskan"
+          },
+          "pl": {
+            "nom": "fizīskas",
+            "gen": "fizīskan",
+            "dat": "fizīskamans",
+            "akk": "fizīskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fizīskan",
+            "gen": "fizīskas",
+            "dat": "fizīskasmu",
+            "akk": "fizīskan"
+          },
+          "pl": {
+            "nom": "fizīskai",
+            "gen": "fizīskan",
+            "dat": "fizīskamans",
+            "akk": "fizīskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "fizīskaisis",
+            "gen": "fizīskaisjas",
+            "dat": "fizīskaisjasmu",
+            "akk": "fizīskaisin"
+          },
+          "pl": {
+            "nom": "fizīskaisjai",
+            "gen": "fizīskaisin",
+            "dat": "fizīskaisimans",
+            "akk": "fizīskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fizīskaisi",
+            "gen": "fizīskaisjas",
+            "dat": "fizīskaisjai",
+            "akk": "fizīskaisjan"
+          },
+          "pl": {
+            "nom": "fizīskaisjas",
+            "gen": "fizīskaisjan",
+            "dat": "fizīskaisjamans",
+            "akk": "fizīskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fizīskaisi",
+            "gen": "fizīskaisjas",
+            "dat": "fizīskaisjasmu",
+            "akk": "fizīskaisi"
+          },
+          "pl": {
+            "nom": "fizīskaisjai",
+            "gen": "fizīskaisin",
+            "dat": "fizīskaisimans",
+            "akk": "fizīskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukafizīskaisis",
+            "gen": "ukafizīskaisjas",
+            "dat": "ukafizīskaisjasmu",
+            "akk": "ukafizīskaisin"
+          },
+          "pl": {
+            "nom": "ukafizīskaisjai",
+            "gen": "ukafizīskaisin",
+            "dat": "ukafizīskaisimans",
+            "akk": "ukafizīskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukafizīskaisi",
+            "gen": "ukafizīskaisjas",
+            "dat": "ukafizīskaisjai",
+            "akk": "ukafizīskaisjan"
+          },
+          "pl": {
+            "nom": "ukafizīskaisjas",
+            "gen": "ukafizīskaisjan",
+            "dat": "ukafizīskaisjamans",
+            "akk": "ukafizīskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukafizīskaisi",
+            "gen": "ukafizīskaisjas",
+            "dat": "ukafizīskaisjasmu",
+            "akk": "ukafizīskaisi"
+          },
+          "pl": {
+            "nom": "ukafizīskaisjai",
+            "gen": "ukafizīskaisin",
+            "dat": "ukafizīskaisimans",
+            "akk": "ukafizīskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "fizīskai",
+        "comparative": "fizīskais",
+        "superlative": "ukafizīskais"
+      }
+    }
+  },
+  {
+    "word": "fjōrds",
+    "id": 9266,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "fjōrds",
+          "gen": "fjōrdas",
+          "dat": "fjōrdu",
+          "akk": "fjōrdan"
+        },
+        "pl": {
+          "nom": "fjōrdai",
+          "gen": "fjōrdan",
+          "dat": "fjōrdamans",
+          "akk": "fjōrdans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Flāndrai",
+    "id": 9268,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "Flāndrai",
+          "gen": "Flāndrai",
+          "dat": "Flāndrai",
+          "akk": "Flāndrai"
+        },
+        "pl": {
+          "nom": "Flāndrai",
+          "gen": "Flāndran",
+          "dat": "Flāndramans",
+          "akk": "Flāndrans"
+        }
+      }
+    }
+  },
+  {
+    "word": "flēiti",
+    "id": 9267,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "flēiti",
+          "gen": "flēitis",
+          "dat": "flēitei",
+          "akk": "flēitin"
+        },
+        "pl": {
+          "nom": "flēitis",
+          "gen": "flēitin",
+          "dat": "flēitimans",
+          "akk": "flēitins"
+        }
+      }
+    }
+  },
+  {
+    "word": "fleksija",
+    "id": 1753,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "fleksija",
+          "gen": "fleksijas",
+          "dat": "fleksijai",
+          "akk": "fleksijan"
+        },
+        "pl": {
+          "nom": "fleksijas",
+          "gen": "fleksijan",
+          "dat": "fleksijamans",
+          "akk": "fleksijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "flutti",
+    "id": 1754,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "flutti",
+          "gen": "fluttis",
+          "dat": "fluttei",
+          "akk": "fluttin"
+        },
+        "pl": {
+          "nom": "fluttis",
+          "gen": "fluttin",
+          "dat": "fluttimans",
+          "akk": "fluttins"
+        }
+      }
+    }
+  },
+  {
+    "word": "fōlderis",
+    "id": 1755,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "fōlderis",
+          "gen": "fōlderjas",
+          "dat": "fōlderju",
+          "akk": "fōlderjan"
+        },
+        "pl": {
+          "nom": "fōlderjai",
+          "gen": "fōlderjan",
+          "dat": "fōlderjamans",
+          "akk": "fōlderjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fōlianti",
+    "id": 9269,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "fōlianti",
+          "gen": "fōliantis",
+          "dat": "fōliantei",
+          "akk": "fōliantin"
+        },
+        "pl": {
+          "nom": "fōliantis",
+          "gen": "fōliantin",
+          "dat": "fōliantimans",
+          "akk": "fōliantins"
+        }
+      }
+    }
+  },
+  {
+    "word": "fōlija",
+    "id": 9270,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "fōlija",
+          "gen": "fōlijas",
+          "dat": "fōlijai",
+          "akk": "fōlijan"
+        },
+        "pl": {
+          "nom": "fōlijas",
+          "gen": "fōlijan",
+          "dat": "fōlijamans",
+          "akk": "fōlijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fōnds",
+    "id": 7876,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "fōnds",
+          "gen": "fōndas",
+          "dat": "fōndu",
+          "akk": "fōndan"
+        },
+        "pl": {
+          "nom": "fōndai",
+          "gen": "fōndan",
+          "dat": "fōndamans",
+          "akk": "fōndans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fōneman",
+    "id": 9271,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "fōneman",
+          "gen": "fōnemas",
+          "dat": "fōnemu",
+          "akk": "fōneman"
+        },
+        "pl": {
+          "nom": "fonemāi",
+          "gen": "fōneman",
+          "dat": "fonemammans",
+          "akk": "fōnemans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fōnetiki",
+    "id": 1759,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "fōnetiki",
+          "gen": "fōnetikis",
+          "dat": "fōnetikei",
+          "akk": "fōnetikin"
+        },
+        "pl": {
+          "nom": "fōnetikis",
+          "gen": "fōnetikin",
+          "dat": "fōnetikimans",
+          "akk": "fōnetikins"
+        }
+      }
+    }
+  },
+  {
+    "word": "fōnetisks",
+    "id": 1760,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "fōnetisks",
+            "gen": "fōnetiskas",
+            "dat": "fōnetiskasmu",
+            "akk": "fōnetiskan"
+          },
+          "pl": {
+            "nom": "fōnetiskai",
+            "gen": "fōnetiskan",
+            "dat": "fōnetiskamans",
+            "akk": "fōnetiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fōnetiska",
+            "gen": "fōnetiskas",
+            "dat": "fōnetiskai",
+            "akk": "fōnetiskan"
+          },
+          "pl": {
+            "nom": "fōnetiskas",
+            "gen": "fōnetiskan",
+            "dat": "fōnetiskamans",
+            "akk": "fōnetiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fōnetiskan",
+            "gen": "fōnetiskas",
+            "dat": "fōnetiskasmu",
+            "akk": "fōnetiskan"
+          },
+          "pl": {
+            "nom": "fōnetiskai",
+            "gen": "fōnetiskan",
+            "dat": "fōnetiskamans",
+            "akk": "fōnetiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "fōnetiskaisis",
+            "gen": "fōnetiskaisjas",
+            "dat": "fōnetiskaisjasmu",
+            "akk": "fōnetiskaisin"
+          },
+          "pl": {
+            "nom": "fōnetiskaisjai",
+            "gen": "fōnetiskaisin",
+            "dat": "fōnetiskaisimans",
+            "akk": "fōnetiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fōnetiskaisi",
+            "gen": "fōnetiskaisjas",
+            "dat": "fōnetiskaisjai",
+            "akk": "fōnetiskaisjan"
+          },
+          "pl": {
+            "nom": "fōnetiskaisjas",
+            "gen": "fōnetiskaisjan",
+            "dat": "fōnetiskaisjamans",
+            "akk": "fōnetiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fōnetiskaisi",
+            "gen": "fōnetiskaisjas",
+            "dat": "fōnetiskaisjasmu",
+            "akk": "fōnetiskaisi"
+          },
+          "pl": {
+            "nom": "fōnetiskaisjai",
+            "gen": "fōnetiskaisin",
+            "dat": "fōnetiskaisimans",
+            "akk": "fōnetiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukafōnetiskaisis",
+            "gen": "ukafōnetiskaisjas",
+            "dat": "ukafōnetiskaisjasmu",
+            "akk": "ukafōnetiskaisin"
+          },
+          "pl": {
+            "nom": "ukafōnetiskaisjai",
+            "gen": "ukafōnetiskaisin",
+            "dat": "ukafōnetiskaisimans",
+            "akk": "ukafōnetiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukafōnetiskaisi",
+            "gen": "ukafōnetiskaisjas",
+            "dat": "ukafōnetiskaisjai",
+            "akk": "ukafōnetiskaisjan"
+          },
+          "pl": {
+            "nom": "ukafōnetiskaisjas",
+            "gen": "ukafōnetiskaisjan",
+            "dat": "ukafōnetiskaisjamans",
+            "akk": "ukafōnetiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukafōnetiskaisi",
+            "gen": "ukafōnetiskaisjas",
+            "dat": "ukafōnetiskaisjasmu",
+            "akk": "ukafōnetiskaisi"
+          },
+          "pl": {
+            "nom": "ukafōnetiskaisjai",
+            "gen": "ukafōnetiskaisin",
+            "dat": "ukafōnetiskaisimans",
+            "akk": "ukafōnetiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "fōnetiskai",
+        "comparative": "fōnetiskais",
+        "superlative": "ukafōnetiskais"
+      }
+    }
+  },
+  {
+    "word": "fōnts",
+    "id": 8739,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "fōnts",
+          "gen": "fōntas",
+          "dat": "fōntu",
+          "akk": "fōntan"
+        },
+        "pl": {
+          "nom": "fōntai",
+          "gen": "fōntan",
+          "dat": "fōntamans",
+          "akk": "fōntans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fōrints",
+    "id": 9273,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "fōrints",
+          "gen": "fōrintas",
+          "dat": "fōrintu",
+          "akk": "fōrintan"
+        },
+        "pl": {
+          "nom": "fōrintai",
+          "gen": "fōrintan",
+          "dat": "fōrintamans",
+          "akk": "fōrintans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fōrmals",
+    "id": 8098,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "fōrmals",
+            "gen": "fōrmalas",
+            "dat": "fōrmalasmu",
+            "akk": "fōrmalan"
+          },
+          "pl": {
+            "nom": "fōrmalai",
+            "gen": "fōrmalan",
+            "dat": "fōrmalamans",
+            "akk": "fōrmalans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fōrmala",
+            "gen": "fōrmalas",
+            "dat": "fōrmalai",
+            "akk": "fōrmalan"
+          },
+          "pl": {
+            "nom": "fōrmalas",
+            "gen": "fōrmalan",
+            "dat": "fōrmalamans",
+            "akk": "fōrmalans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fōrmalan",
+            "gen": "fōrmalas",
+            "dat": "fōrmalasmu",
+            "akk": "fōrmalan"
+          },
+          "pl": {
+            "nom": "fōrmalai",
+            "gen": "fōrmalan",
+            "dat": "fōrmalamans",
+            "akk": "fōrmalans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "fōrmalaisis",
+            "gen": "fōrmalaisjas",
+            "dat": "fōrmalaisjasmu",
+            "akk": "fōrmalaisin"
+          },
+          "pl": {
+            "nom": "fōrmalaisjai",
+            "gen": "fōrmalaisin",
+            "dat": "fōrmalaisimans",
+            "akk": "fōrmalaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fōrmalaisi",
+            "gen": "fōrmalaisjas",
+            "dat": "fōrmalaisjai",
+            "akk": "fōrmalaisjan"
+          },
+          "pl": {
+            "nom": "fōrmalaisjas",
+            "gen": "fōrmalaisjan",
+            "dat": "fōrmalaisjamans",
+            "akk": "fōrmalaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fōrmalaisi",
+            "gen": "fōrmalaisjas",
+            "dat": "fōrmalaisjasmu",
+            "akk": "fōrmalaisi"
+          },
+          "pl": {
+            "nom": "fōrmalaisjai",
+            "gen": "fōrmalaisin",
+            "dat": "fōrmalaisimans",
+            "akk": "fōrmalaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukafōrmalaisis",
+            "gen": "ukafōrmalaisjas",
+            "dat": "ukafōrmalaisjasmu",
+            "akk": "ukafōrmalaisin"
+          },
+          "pl": {
+            "nom": "ukafōrmalaisjai",
+            "gen": "ukafōrmalaisin",
+            "dat": "ukafōrmalaisimans",
+            "akk": "ukafōrmalaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukafōrmalaisi",
+            "gen": "ukafōrmalaisjas",
+            "dat": "ukafōrmalaisjai",
+            "akk": "ukafōrmalaisjan"
+          },
+          "pl": {
+            "nom": "ukafōrmalaisjas",
+            "gen": "ukafōrmalaisjan",
+            "dat": "ukafōrmalaisjamans",
+            "akk": "ukafōrmalaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukafōrmalaisi",
+            "gen": "ukafōrmalaisjas",
+            "dat": "ukafōrmalaisjasmu",
+            "akk": "ukafōrmalaisi"
+          },
+          "pl": {
+            "nom": "ukafōrmalaisjai",
+            "gen": "ukafōrmalaisin",
+            "dat": "ukafōrmalaisimans",
+            "akk": "ukafōrmalaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "fōrmalai",
+        "comparative": "fōrmalais",
+        "superlative": "ukafōrmalais"
+      }
+    }
+  },
+  {
+    "word": "fōrmatan",
+    "id": 1761,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "fōrmatan",
+          "gen": "fōrmatas",
+          "dat": "fōrmatu",
+          "akk": "fōrmatan"
+        },
+        "pl": {
+          "nom": "formatāi",
+          "gen": "fōrmatan",
+          "dat": "formatammans",
+          "akk": "fōrmatans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fōrmatitun",
+    "id": 9274,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "fōrmati"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "fōrmati"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "fōrmati"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "fōrmatimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "fōrmatitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "fōrmati"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "fōrmati"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "fōrmati"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "fōrmati"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "fōrmatimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "fōrmatitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "fōrmati"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma fōrmatiwuns / fōrmatiwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei fōrmatiwuns / fōrmatiwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast fōrmatiwuns / fōrmatiwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast fōrmatiwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai fōrmatiwusis / fōrmatiwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei fōrmatiwusis / fōrmatiwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast fōrmatiwusis / fōrmatiwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst fōrmatiwuns / fōrmatiwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst fōrmatiwuns / fōrmatiwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst fōrmatiwuns / fōrmatiwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst fōrmatiwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai fōrmatiwusis / fōrmatiwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei fōrmatiwusis / fōrmatiwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst fōrmatiwusis / fōrmatiwusjas"
+          }
+        ]
+      },
+      "optative": "fōrmatisei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "fōrmatis"
+        },
+        {
+          "p": "(jūs)",
+          "f": "fōrmatiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "fōrmatilai"
+        },
+        {
+          "p": "tū",
+          "f": "fōrmatilai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "fōrmatilai"
+        },
+        {
+          "p": "mes",
+          "f": "fōrmatilimai"
+        },
+        {
+          "p": "jūs",
+          "f": "fōrmatilitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "fōrmatilai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "fōrmatints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "fōrmatints",
+                "gen": "fōrmatintis",
+                "dat": "fōrmatintismu",
+                "akk": "fōrmatintin"
+              },
+              "pl": {
+                "nom": "fōrmatintjai",
+                "gen": "fōrmatintin",
+                "dat": "formatintimmans",
+                "akk": "fōrmatintins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "formatintī",
+                "gen": "fōrmatintjas",
+                "dat": "fōrmatintjai",
+                "akk": "fōrmatintjan"
+              },
+              "pl": {
+                "nom": "fōrmatintjas",
+                "gen": "fōrmatintjan",
+                "dat": "formatintjāmans",
+                "akk": "fōrmatintjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "fōrmatinti",
+                "gen": "fōrmatintis",
+                "dat": "fōrmatintismu",
+                "akk": "fōrmatintin"
+              },
+              "pl": {
+                "nom": "fōrmatintjai",
+                "gen": "fōrmatintin",
+                "dat": "formatintimmans",
+                "akk": "fōrmatintins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "fōrmatiwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "fōrmatiwuns",
+                "gen": "fōrmatiwusjas",
+                "dat": "fōrmatiwusjasmu",
+                "akk": "fōrmatiwusin"
+              },
+              "pl": {
+                "nom": "fōrmatiwusis",
+                "gen": "fōrmatiwusin",
+                "dat": "fōrmatiwusimans",
+                "akk": "fōrmatiwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "fōrmatiwusi",
+                "gen": "fōrmatiwusjas",
+                "dat": "fōrmatiwusjai",
+                "akk": "fōrmatiwusjan"
+              },
+              "pl": {
+                "nom": "fōrmatiwusjas",
+                "gen": "fōrmatiwusjan",
+                "dat": "fōrmatiwusjamans",
+                "akk": "fōrmatiwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "fōrmatiwus",
+                "gen": "fōrmatiwusjas",
+                "dat": "fōrmatiwusjasmu",
+                "akk": "fōrmatiwus"
+              },
+              "pl": {
+                "nom": "fōrmatiwus",
+                "gen": "fōrmatiwusin",
+                "dat": "fōrmatiwusimans",
+                "akk": "fōrmatiwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "fōrmatits",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "fōrmatits",
+                "gen": "fōrmatitas",
+                "dat": "fōrmatitasmu",
+                "akk": "fōrmatitan"
+              },
+              "pl": {
+                "nom": "formatitāi",
+                "gen": "fōrmatitan",
+                "dat": "formatitammans",
+                "akk": "fōrmatitans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "formatitā",
+                "gen": "fōrmatitas",
+                "dat": "fōrmatitai",
+                "akk": "fōrmatitan"
+              },
+              "pl": {
+                "nom": "fōrmatitas",
+                "gen": "fōrmatitan",
+                "dat": "formatitāmans",
+                "akk": "fōrmatitans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "fōrmatitan",
+                "gen": "fōrmatitas",
+                "dat": "fōrmatitasmu",
+                "akk": "fōrmatitan"
+              },
+              "pl": {
+                "nom": "formatitāi",
+                "gen": "fōrmatitan",
+                "dat": "formatitammans",
+                "akk": "fōrmatitans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "fōrmi",
+    "id": 1762,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "fōrmi",
+          "gen": "fōrmis",
+          "dat": "fōrmei",
+          "akk": "fōrmin"
+        },
+        "pl": {
+          "nom": "fōrmis",
+          "gen": "fōrmin",
+          "dat": "fōrmimans",
+          "akk": "fōrmins"
+        }
+      }
+    }
+  },
+  {
+    "word": "fōrmulan",
+    "id": 9275,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "fōrmulan",
+          "gen": "fōrmulas",
+          "dat": "fōrmulu",
+          "akk": "fōrmulan"
+        },
+        "pl": {
+          "nom": "formulāi",
+          "gen": "fōrmulan",
+          "dat": "formulammans",
+          "akk": "fōrmulans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fōrmularan",
+    "id": 1763,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "fōrmularan",
+          "gen": "fōrmularas",
+          "dat": "fōrmularu",
+          "akk": "fōrmularan"
+        },
+        "pl": {
+          "nom": "formularāi",
+          "gen": "fōrmularan",
+          "dat": "formularammans",
+          "akk": "fōrmularans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fōrum",
+    "id": 9276,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "fōrum",
+          "gen": "fōras",
+          "dat": "fōru",
+          "akk": "fōran"
+        },
+        "pl": {
+          "nom": "forāi",
+          "gen": "fōrum",
+          "dat": "forammans",
+          "akk": "fōrans"
+        }
+      }
+    }
+  },
+  {
+    "word": "folklōri",
+    "id": 1756,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "folklōri",
+          "gen": "folklōris",
+          "dat": "folklōrei",
+          "akk": "folklōrin"
+        },
+        "pl": {
+          "nom": "folklōris",
+          "gen": "folklōrin",
+          "dat": "folklōrimans",
+          "akk": "folklōrins"
+        }
+      }
+    }
+  },
+  {
+    "word": "folklōristiki",
+    "id": 1757,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "folklōristiki",
+          "gen": "folklōristikis",
+          "dat": "folklōristikei",
+          "akk": "folklōristikin"
+        },
+        "pl": {
+          "nom": "folklōristikis",
+          "gen": "folklōristikin",
+          "dat": "folklōristikimans",
+          "akk": "folklōristikins"
+        }
+      }
+    }
+  },
+  {
+    "word": "folklōrists",
+    "id": 1758,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "folklōrists",
+          "gen": "folklōristas",
+          "dat": "folklōristu",
+          "akk": "folklōristan"
+        },
+        "pl": {
+          "nom": "folklōristai",
+          "gen": "folklōristan",
+          "dat": "folklōristamans",
+          "akk": "folklōristans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fontāni",
+    "id": 1767,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "fontāni",
+          "gen": "fontānis",
+          "dat": "fontānei",
+          "akk": "fontānin"
+        },
+        "pl": {
+          "nom": "fontānis",
+          "gen": "fontānin",
+          "dat": "fontānimans",
+          "akk": "fontānins"
+        }
+      }
+    }
+  },
+  {
+    "word": "fossils",
+    "id": 7810,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "fossils",
+            "gen": "fossilas",
+            "dat": "fossilasmu",
+            "akk": "fossilan"
+          },
+          "pl": {
+            "nom": "fossilai",
+            "gen": "fossilan",
+            "dat": "fossilamans",
+            "akk": "fossilans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fossila",
+            "gen": "fossilas",
+            "dat": "fossilai",
+            "akk": "fossilan"
+          },
+          "pl": {
+            "nom": "fossilas",
+            "gen": "fossilan",
+            "dat": "fossilamans",
+            "akk": "fossilans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fossilan",
+            "gen": "fossilas",
+            "dat": "fossilasmu",
+            "akk": "fossilan"
+          },
+          "pl": {
+            "nom": "fossilai",
+            "gen": "fossilan",
+            "dat": "fossilamans",
+            "akk": "fossilans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "fossilaisis",
+            "gen": "fossilaisjas",
+            "dat": "fossilaisjasmu",
+            "akk": "fossilaisin"
+          },
+          "pl": {
+            "nom": "fossilaisjai",
+            "gen": "fossilaisin",
+            "dat": "fossilaisimans",
+            "akk": "fossilaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fossilaisi",
+            "gen": "fossilaisjas",
+            "dat": "fossilaisjai",
+            "akk": "fossilaisjan"
+          },
+          "pl": {
+            "nom": "fossilaisjas",
+            "gen": "fossilaisjan",
+            "dat": "fossilaisjamans",
+            "akk": "fossilaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fossilaisi",
+            "gen": "fossilaisjas",
+            "dat": "fossilaisjasmu",
+            "akk": "fossilaisi"
+          },
+          "pl": {
+            "nom": "fossilaisjai",
+            "gen": "fossilaisin",
+            "dat": "fossilaisimans",
+            "akk": "fossilaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukafossilaisis",
+            "gen": "ukafossilaisjas",
+            "dat": "ukafossilaisjasmu",
+            "akk": "ukafossilaisin"
+          },
+          "pl": {
+            "nom": "ukafossilaisjai",
+            "gen": "ukafossilaisin",
+            "dat": "ukafossilaisimans",
+            "akk": "ukafossilaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukafossilaisi",
+            "gen": "ukafossilaisjas",
+            "dat": "ukafossilaisjai",
+            "akk": "ukafossilaisjan"
+          },
+          "pl": {
+            "nom": "ukafossilaisjas",
+            "gen": "ukafossilaisjan",
+            "dat": "ukafossilaisjamans",
+            "akk": "ukafossilaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukafossilaisi",
+            "gen": "ukafossilaisjas",
+            "dat": "ukafossilaisjasmu",
+            "akk": "ukafossilaisi"
+          },
+          "pl": {
+            "nom": "ukafossilaisjai",
+            "gen": "ukafossilaisin",
+            "dat": "ukafossilaisimans",
+            "akk": "ukafossilaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "fossilai",
+        "comparative": "fossilais",
+        "superlative": "ukafossilais"
+      }
+    }
+  },
+  {
+    "word": "fotōgrafija",
+    "id": 1764,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "fotōgrafija",
+          "gen": "fotōgrafijas",
+          "dat": "fotōgrafijai",
+          "akk": "fotōgrafijan"
+        },
+        "pl": {
+          "nom": "fotōgrafijas",
+          "gen": "fotōgrafijan",
+          "dat": "fotōgrafijamans",
+          "akk": "fotōgrafijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fotōgrafs",
+    "id": 1765,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "fotōgrafs",
+          "gen": "fotōgrafas",
+          "dat": "fotōgrafu",
+          "akk": "fotōgrafan"
+        },
+        "pl": {
+          "nom": "fotōgrafai",
+          "gen": "fotōgrafan",
+          "dat": "fotōgrafamans",
+          "akk": "fotōgrafans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fragmēnti",
+    "id": 9278,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "fragmēnti",
+          "gen": "fragmēntis",
+          "dat": "fragmēntei",
+          "akk": "fragmēntin"
+        },
+        "pl": {
+          "nom": "fragmēntis",
+          "gen": "fragmēntin",
+          "dat": "fragmēntimans",
+          "akk": "fragmēntins"
+        }
+      }
+    }
+  },
+  {
+    "word": "fragmentārisks",
+    "id": 9277,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "fragmentārisks",
+            "gen": "fragmentāriskas",
+            "dat": "fragmentāriskasmu",
+            "akk": "fragmentāriskan"
+          },
+          "pl": {
+            "nom": "fragmentāriskai",
+            "gen": "fragmentāriskan",
+            "dat": "fragmentāriskamans",
+            "akk": "fragmentāriskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fragmentāriska",
+            "gen": "fragmentāriskas",
+            "dat": "fragmentāriskai",
+            "akk": "fragmentāriskan"
+          },
+          "pl": {
+            "nom": "fragmentāriskas",
+            "gen": "fragmentāriskan",
+            "dat": "fragmentāriskamans",
+            "akk": "fragmentāriskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fragmentāriskan",
+            "gen": "fragmentāriskas",
+            "dat": "fragmentāriskasmu",
+            "akk": "fragmentāriskan"
+          },
+          "pl": {
+            "nom": "fragmentāriskai",
+            "gen": "fragmentāriskan",
+            "dat": "fragmentāriskamans",
+            "akk": "fragmentāriskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "fragmentāriskaisis",
+            "gen": "fragmentāriskaisjas",
+            "dat": "fragmentāriskaisjasmu",
+            "akk": "fragmentāriskaisin"
+          },
+          "pl": {
+            "nom": "fragmentāriskaisjai",
+            "gen": "fragmentāriskaisin",
+            "dat": "fragmentāriskaisimans",
+            "akk": "fragmentāriskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fragmentāriskaisi",
+            "gen": "fragmentāriskaisjas",
+            "dat": "fragmentāriskaisjai",
+            "akk": "fragmentāriskaisjan"
+          },
+          "pl": {
+            "nom": "fragmentāriskaisjas",
+            "gen": "fragmentāriskaisjan",
+            "dat": "fragmentāriskaisjamans",
+            "akk": "fragmentāriskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fragmentāriskaisi",
+            "gen": "fragmentāriskaisjas",
+            "dat": "fragmentāriskaisjasmu",
+            "akk": "fragmentāriskaisi"
+          },
+          "pl": {
+            "nom": "fragmentāriskaisjai",
+            "gen": "fragmentāriskaisin",
+            "dat": "fragmentāriskaisimans",
+            "akk": "fragmentāriskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukafragmentāriskaisis",
+            "gen": "ukafragmentāriskaisjas",
+            "dat": "ukafragmentāriskaisjasmu",
+            "akk": "ukafragmentāriskaisin"
+          },
+          "pl": {
+            "nom": "ukafragmentāriskaisjai",
+            "gen": "ukafragmentāriskaisin",
+            "dat": "ukafragmentāriskaisimans",
+            "akk": "ukafragmentāriskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukafragmentāriskaisi",
+            "gen": "ukafragmentāriskaisjas",
+            "dat": "ukafragmentāriskaisjai",
+            "akk": "ukafragmentāriskaisjan"
+          },
+          "pl": {
+            "nom": "ukafragmentāriskaisjas",
+            "gen": "ukafragmentāriskaisjan",
+            "dat": "ukafragmentāriskaisjamans",
+            "akk": "ukafragmentāriskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukafragmentāriskaisi",
+            "gen": "ukafragmentāriskaisjas",
+            "dat": "ukafragmentāriskaisjasmu",
+            "akk": "ukafragmentāriskaisi"
+          },
+          "pl": {
+            "nom": "ukafragmentāriskaisjai",
+            "gen": "ukafragmentāriskaisin",
+            "dat": "ukafragmentāriskaisimans",
+            "akk": "ukafragmentāriskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "fragmentāriskai",
+        "comparative": "fragmentāriskais",
+        "superlative": "ukafragmentāriskais"
+      }
+    }
+  },
+  {
+    "word": "fraktālisks",
+    "id": 9279,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "fraktālisks",
+            "gen": "fraktāliskas",
+            "dat": "fraktāliskasmu",
+            "akk": "fraktāliskan"
+          },
+          "pl": {
+            "nom": "fraktāliskai",
+            "gen": "fraktāliskan",
+            "dat": "fraktāliskamans",
+            "akk": "fraktāliskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fraktāliska",
+            "gen": "fraktāliskas",
+            "dat": "fraktāliskai",
+            "akk": "fraktāliskan"
+          },
+          "pl": {
+            "nom": "fraktāliskas",
+            "gen": "fraktāliskan",
+            "dat": "fraktāliskamans",
+            "akk": "fraktāliskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fraktāliskan",
+            "gen": "fraktāliskas",
+            "dat": "fraktāliskasmu",
+            "akk": "fraktāliskan"
+          },
+          "pl": {
+            "nom": "fraktāliskai",
+            "gen": "fraktāliskan",
+            "dat": "fraktāliskamans",
+            "akk": "fraktāliskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "fraktāliskais",
+            "gen": "fraktāliskaisjas",
+            "dat": "fraktāliskaisjasmu",
+            "akk": "fraktāliskaisin"
+          },
+          "pl": {
+            "nom": "fraktāliskaisjai",
+            "gen": "fraktāliskaisin",
+            "dat": "fraktāliskaisimans",
+            "akk": "fraktāliskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fraktāliskaisi",
+            "gen": "fraktāliskaisjas",
+            "dat": "fraktāliskaisjai",
+            "akk": "fraktāliskaisjan"
+          },
+          "pl": {
+            "nom": "fraktāliskaisjas",
+            "gen": "fraktāliskaisjan",
+            "dat": "fraktāliskaisjamans",
+            "akk": "fraktāliskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fraktāliskaisi",
+            "gen": "fraktāliskaisjas",
+            "dat": "fraktāliskaisjasmu",
+            "akk": "fraktāliskaisi"
+          },
+          "pl": {
+            "nom": "fraktāliskaisjai",
+            "gen": "fraktāliskaisin",
+            "dat": "fraktāliskaisimans",
+            "akk": "fraktāliskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukafraktāliskais",
+            "gen": "ukafraktāliskaisjas",
+            "dat": "ukafraktāliskaisjasmu",
+            "akk": "ukafraktāliskaisin"
+          },
+          "pl": {
+            "nom": "ukafraktāliskaisjai",
+            "gen": "ukafraktāliskaisin",
+            "dat": "ukafraktāliskaisimans",
+            "akk": "ukafraktāliskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukafraktāliskaisi",
+            "gen": "ukafraktāliskaisjas",
+            "dat": "ukafraktāliskaisjai",
+            "akk": "ukafraktāliskaisjan"
+          },
+          "pl": {
+            "nom": "ukafraktāliskaisjas",
+            "gen": "ukafraktāliskaisjan",
+            "dat": "ukafraktāliskaisjamans",
+            "akk": "ukafraktāliskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukafraktāliskaisi",
+            "gen": "ukafraktāliskaisjas",
+            "dat": "ukafraktāliskaisjasmu",
+            "akk": "ukafraktāliskaisi"
+          },
+          "pl": {
+            "nom": "ukafraktāliskaisjai",
+            "gen": "ukafraktāliskaisin",
+            "dat": "ukafraktāliskaisimans",
+            "akk": "ukafraktāliskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "fraktāliskai",
+        "comparative": "fraktāliskais",
+        "superlative": "ukafraktāliskais"
+      }
+    }
+  },
+  {
+    "word": "fraktāls",
+    "id": 9280,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "fraktāls",
+          "gen": "fraktālas",
+          "dat": "fraktālu",
+          "akk": "fraktālan"
+        },
+        "pl": {
+          "nom": "fraktālai",
+          "gen": "fraktālan",
+          "dat": "fraktālamans",
+          "akk": "fraktālans"
+        }
+      }
+    }
+  },
+  {
+    "word": "franks",
+    "id": 9281,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "franks",
+          "gen": "frankas",
+          "dat": "franku",
+          "akk": "frankan"
+        },
+        "pl": {
+          "nom": "frankai",
+          "gen": "frankan",
+          "dat": "frankamans",
+          "akk": "frankans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fregatti",
+    "id": 1766,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "fregatti",
+          "gen": "fregattis",
+          "dat": "fregattei",
+          "akk": "fregattin"
+        },
+        "pl": {
+          "nom": "fregattis",
+          "gen": "fregattin",
+          "dat": "fregattimans",
+          "akk": "fregattins"
+        }
+      }
+    }
+  },
+  {
+    "word": "frekwentatīws",
+    "id": 7672,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "frekwentatīws",
+            "gen": "frekwentatīwas",
+            "dat": "frekwentatīwasmu",
+            "akk": "frekwentatīwan"
+          },
+          "pl": {
+            "nom": "frekwentatīwai",
+            "gen": "frekwentatīwan",
+            "dat": "frekwentatīwamans",
+            "akk": "frekwentatīwans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "frekwentatīwa",
+            "gen": "frekwentatīwas",
+            "dat": "frekwentatīwai",
+            "akk": "frekwentatīwan"
+          },
+          "pl": {
+            "nom": "frekwentatīwas",
+            "gen": "frekwentatīwan",
+            "dat": "frekwentatīwamans",
+            "akk": "frekwentatīwans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "frekwentatīwan",
+            "gen": "frekwentatīwas",
+            "dat": "frekwentatīwasmu",
+            "akk": "frekwentatīwan"
+          },
+          "pl": {
+            "nom": "frekwentatīwai",
+            "gen": "frekwentatīwan",
+            "dat": "frekwentatīwamans",
+            "akk": "frekwentatīwans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "frekwentatīwaisis",
+            "gen": "frekwentatīwaisjas",
+            "dat": "frekwentatīwaisjasmu",
+            "akk": "frekwentatīwaisin"
+          },
+          "pl": {
+            "nom": "frekwentatīwaisjai",
+            "gen": "frekwentatīwaisin",
+            "dat": "frekwentatīwaisimans",
+            "akk": "frekwentatīwaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "frekwentatīwaisi",
+            "gen": "frekwentatīwaisjas",
+            "dat": "frekwentatīwaisjai",
+            "akk": "frekwentatīwaisjan"
+          },
+          "pl": {
+            "nom": "frekwentatīwaisjas",
+            "gen": "frekwentatīwaisjan",
+            "dat": "frekwentatīwaisjamans",
+            "akk": "frekwentatīwaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "frekwentatīwaisi",
+            "gen": "frekwentatīwaisjas",
+            "dat": "frekwentatīwaisjasmu",
+            "akk": "frekwentatīwaisi"
+          },
+          "pl": {
+            "nom": "frekwentatīwaisjai",
+            "gen": "frekwentatīwaisin",
+            "dat": "frekwentatīwaisimans",
+            "akk": "frekwentatīwaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukafrekwentatīwaisis",
+            "gen": "ukafrekwentatīwaisjas",
+            "dat": "ukafrekwentatīwaisjasmu",
+            "akk": "ukafrekwentatīwaisin"
+          },
+          "pl": {
+            "nom": "ukafrekwentatīwaisjai",
+            "gen": "ukafrekwentatīwaisin",
+            "dat": "ukafrekwentatīwaisimans",
+            "akk": "ukafrekwentatīwaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukafrekwentatīwaisi",
+            "gen": "ukafrekwentatīwaisjas",
+            "dat": "ukafrekwentatīwaisjai",
+            "akk": "ukafrekwentatīwaisjan"
+          },
+          "pl": {
+            "nom": "ukafrekwentatīwaisjas",
+            "gen": "ukafrekwentatīwaisjan",
+            "dat": "ukafrekwentatīwaisjamans",
+            "akk": "ukafrekwentatīwaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukafrekwentatīwaisi",
+            "gen": "ukafrekwentatīwaisjas",
+            "dat": "ukafrekwentatīwaisjasmu",
+            "akk": "ukafrekwentatīwaisi"
+          },
+          "pl": {
+            "nom": "ukafrekwentatīwaisjai",
+            "gen": "ukafrekwentatīwaisin",
+            "dat": "ukafrekwentatīwaisimans",
+            "akk": "ukafrekwentatīwaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "frekwentatīwai",
+        "comparative": "frekwentatīwais",
+        "superlative": "ukafrekwentatīwais"
+      }
+    }
+  },
+  {
+    "word": "frōnti",
+    "id": 9283,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "frōnti",
+          "gen": "frōntis",
+          "dat": "frōntei",
+          "akk": "frōntin"
+        },
+        "pl": {
+          "nom": "frōntis",
+          "gen": "frōntin",
+          "dat": "frōntimans",
+          "akk": "frōntins"
+        }
+      }
+    }
+  },
+  {
+    "word": "fundamentālisms",
+    "id": 9284,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "fundamentālisms",
+          "gen": "fundamentālismas",
+          "dat": "fundamentālismu",
+          "akk": "fundamentālisman"
+        },
+        "pl": {
+          "nom": "fundamentālismai",
+          "gen": "fundamentālisman",
+          "dat": "fundamentālismamans",
+          "akk": "fundamentālismans"
+        }
+      }
+    }
+  },
+  {
+    "word": "fundamentāls",
+    "id": 9285,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "fundamentāls",
+            "gen": "fundamentālas",
+            "dat": "fundamentālasmu",
+            "akk": "fundamentālan"
+          },
+          "pl": {
+            "nom": "fundamentālai",
+            "gen": "fundamentālan",
+            "dat": "fundamentālamans",
+            "akk": "fundamentālans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fundamentāla",
+            "gen": "fundamentālas",
+            "dat": "fundamentālai",
+            "akk": "fundamentālan"
+          },
+          "pl": {
+            "nom": "fundamentālas",
+            "gen": "fundamentālan",
+            "dat": "fundamentālamans",
+            "akk": "fundamentālans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fundamentālan",
+            "gen": "fundamentālas",
+            "dat": "fundamentālasmu",
+            "akk": "fundamentālan"
+          },
+          "pl": {
+            "nom": "fundamentālai",
+            "gen": "fundamentālan",
+            "dat": "fundamentālamans",
+            "akk": "fundamentālans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "fundamentālaisis",
+            "gen": "fundamentālaisjas",
+            "dat": "fundamentālaisjasmu",
+            "akk": "fundamentālaisin"
+          },
+          "pl": {
+            "nom": "fundamentālaisjai",
+            "gen": "fundamentālaisin",
+            "dat": "fundamentālaisimans",
+            "akk": "fundamentālaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "fundamentālaisi",
+            "gen": "fundamentālaisjas",
+            "dat": "fundamentālaisjai",
+            "akk": "fundamentālaisjan"
+          },
+          "pl": {
+            "nom": "fundamentālaisjas",
+            "gen": "fundamentālaisjan",
+            "dat": "fundamentālaisjamans",
+            "akk": "fundamentālaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "fundamentālaisi",
+            "gen": "fundamentālaisjas",
+            "dat": "fundamentālaisjasmu",
+            "akk": "fundamentālaisi"
+          },
+          "pl": {
+            "nom": "fundamentālaisjai",
+            "gen": "fundamentālaisin",
+            "dat": "fundamentālaisimans",
+            "akk": "fundamentālaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukafundamentālaisis",
+            "gen": "ukafundamentālaisjas",
+            "dat": "ukafundamentālaisjasmu",
+            "akk": "ukafundamentālaisin"
+          },
+          "pl": {
+            "nom": "ukafundamentālaisjai",
+            "gen": "ukafundamentālaisin",
+            "dat": "ukafundamentālaisimans",
+            "akk": "ukafundamentālaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukafundamentālaisi",
+            "gen": "ukafundamentālaisjas",
+            "dat": "ukafundamentālaisjai",
+            "akk": "ukafundamentālaisjan"
+          },
+          "pl": {
+            "nom": "ukafundamentālaisjas",
+            "gen": "ukafundamentālaisjan",
+            "dat": "ukafundamentālaisjamans",
+            "akk": "ukafundamentālaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukafundamentālaisi",
+            "gen": "ukafundamentālaisjas",
+            "dat": "ukafundamentālaisjasmu",
+            "akk": "ukafundamentālaisi"
+          },
+          "pl": {
+            "nom": "ukafundamentālaisjai",
+            "gen": "ukafundamentālaisin",
+            "dat": "ukafundamentālaisimans",
+            "akk": "ukafundamentālaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "fundamentālai",
+        "comparative": "fundamentālais",
+        "superlative": "ukafundamentālais"
+      }
+    }
+  },
+  {
+    "word": "funkcija",
+    "id": 9287,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "funkcija",
+          "gen": "funkcijas",
+          "dat": "funkcijai",
+          "akk": "funkcijan"
+        },
+        "pl": {
+          "nom": "funkcijas",
+          "gen": "funkcijan",
+          "dat": "funkcijamans",
+          "akk": "funkcijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "funkciōnals",
+    "id": 9286,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "funkciōnals",
+            "gen": "funkciōnalas",
+            "dat": "funkciōnalasmu",
+            "akk": "funkciōnalan"
+          },
+          "pl": {
+            "nom": "funkciōnalai",
+            "gen": "funkciōnalan",
+            "dat": "funkciōnalamans",
+            "akk": "funkciōnalans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "funkciōnala",
+            "gen": "funkciōnalas",
+            "dat": "funkciōnalai",
+            "akk": "funkciōnalan"
+          },
+          "pl": {
+            "nom": "funkciōnalas",
+            "gen": "funkciōnalan",
+            "dat": "funkciōnalamans",
+            "akk": "funkciōnalans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "funkciōnalan",
+            "gen": "funkciōnalas",
+            "dat": "funkciōnalasmu",
+            "akk": "funkciōnalan"
+          },
+          "pl": {
+            "nom": "funkciōnalai",
+            "gen": "funkciōnalan",
+            "dat": "funkciōnalamans",
+            "akk": "funkciōnalans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "funkciōnalaisis",
+            "gen": "funkciōnalaisjas",
+            "dat": "funkciōnalaisjasmu",
+            "akk": "funkciōnalaisin"
+          },
+          "pl": {
+            "nom": "funkciōnalaisjai",
+            "gen": "funkciōnalaisin",
+            "dat": "funkciōnalaisimans",
+            "akk": "funkciōnalaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "funkciōnalaisi",
+            "gen": "funkciōnalaisjas",
+            "dat": "funkciōnalaisjai",
+            "akk": "funkciōnalaisjan"
+          },
+          "pl": {
+            "nom": "funkciōnalaisjas",
+            "gen": "funkciōnalaisjan",
+            "dat": "funkciōnalaisjamans",
+            "akk": "funkciōnalaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "funkciōnalaisi",
+            "gen": "funkciōnalaisjas",
+            "dat": "funkciōnalaisjasmu",
+            "akk": "funkciōnalaisi"
+          },
+          "pl": {
+            "nom": "funkciōnalaisjai",
+            "gen": "funkciōnalaisin",
+            "dat": "funkciōnalaisimans",
+            "akk": "funkciōnalaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukafunkciōnalaisis",
+            "gen": "ukafunkciōnalaisjas",
+            "dat": "ukafunkciōnalaisjasmu",
+            "akk": "ukafunkciōnalaisin"
+          },
+          "pl": {
+            "nom": "ukafunkciōnalaisjai",
+            "gen": "ukafunkciōnalaisin",
+            "dat": "ukafunkciōnalaisimans",
+            "akk": "ukafunkciōnalaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukafunkciōnalaisi",
+            "gen": "ukafunkciōnalaisjas",
+            "dat": "ukafunkciōnalaisjai",
+            "akk": "ukafunkciōnalaisjan"
+          },
+          "pl": {
+            "nom": "ukafunkciōnalaisjas",
+            "gen": "ukafunkciōnalaisjan",
+            "dat": "ukafunkciōnalaisjamans",
+            "akk": "ukafunkciōnalaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukafunkciōnalaisi",
+            "gen": "ukafunkciōnalaisjas",
+            "dat": "ukafunkciōnalaisjasmu",
+            "akk": "ukafunkciōnalaisi"
+          },
+          "pl": {
+            "nom": "ukafunkciōnalaisjai",
+            "gen": "ukafunkciōnalaisin",
+            "dat": "ukafunkciōnalaisimans",
+            "akk": "ukafunkciōnalaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "funkciōnalai",
+        "comparative": "funkciōnalais",
+        "superlative": "ukafunkciōnalais"
+      }
+    }
+  },
+  {
+    "word": "furnīran",
+    "id": 1768,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "furnīran",
+          "gen": "furnīras",
+          "dat": "furnīru",
+          "akk": "furnīran"
+        },
+        "pl": {
+          "nom": "furnirāi",
+          "gen": "furnīran",
+          "dat": "furnirammans",
+          "akk": "furnīrans"
+        }
+      }
+    }
+  },
+  {
+    "word": "futbōls",
+    "id": 9288,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "futbōls",
+          "gen": "futbōlas",
+          "dat": "futbōlu",
+          "akk": "futbōlan"
+        },
+        "pl": {
+          "nom": "futbōlai",
+          "gen": "futbōlan",
+          "dat": "futbōlamans",
+          "akk": "futbōlans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Filipīnai",
+    "id": 8232,
+    "paradigm": {
+      "masc": {
+        "pl": {
+          "nom": "Filipīnai",
+          "gen": "Filipīnan",
+          "dat": "Filipīnamans",
+          "akk": "Filipīnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "frittis",
+    "id": 9282,
+    "paradigm": {
+      "fem": {
+        "pl": {
+          "nom": "frittis",
+          "gen": "frittin",
+          "dat": "frittimans",
+          "akk": "frittins"
+        }
+      }
+    }
+  },
+  {
+    "word": "federācija",
+    "id": 9257,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "federācija",
+          "gen": "federācijas",
+          "dat": "federācijai",
+          "akk": "federācijan"
+        },
+        "pl": {
+          "nom": "federācijas",
+          "gen": "federācijan",
+          "dat": "federācijamans",
+          "akk": "federācijans"
+        }
+      }
+    }
+  }
+]

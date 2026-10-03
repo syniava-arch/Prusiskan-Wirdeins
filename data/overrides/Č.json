@@ -1,0 +1,82 @@
+[
+  {
+    "word": "Čāds",
+    "id": 8204,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "Čāds",
+          "gen": "Čādas",
+          "dat": "Čādu",
+          "akk": "Čādan"
+        },
+        "pl": {
+          "nom": "Čādai",
+          "gen": "Čādan",
+          "dat": "Čādamans",
+          "akk": "Čādans"
+        }
+      }
+    }
+  },
+  {
+    "word": "čats",
+    "id": 7897,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "čats",
+          "gen": "čatas",
+          "dat": "čatu",
+          "akk": "čatan"
+        },
+        "pl": {
+          "nom": "čatai",
+          "gen": "čatan",
+          "dat": "čatamans",
+          "akk": "čatans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Čekkija",
+    "id": 8983,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Čekkija",
+          "gen": "Čekkijas",
+          "dat": "Čekkijai",
+          "akk": "Čekkijan"
+        },
+        "pl": {
+          "nom": "Čekkijas",
+          "gen": "Čekkijan",
+          "dat": "Čekkijamans",
+          "akk": "Čekkijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Čīli",
+    "id": 8207,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Čīli",
+          "gen": "Čīlis",
+          "dat": "Čīlei",
+          "akk": "Čīlin"
+        },
+        "pl": {
+          "nom": "Čīlis",
+          "gen": "Čīlin",
+          "dat": "Čīlimans",
+          "akk": "Čīlins"
+        }
+      }
+    }
+  }
+]

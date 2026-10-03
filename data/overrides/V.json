@@ -1,0 +1,42 @@
+[
+  {
+    "word": "Vanuātu",
+    "id": 8345,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "Vanuātu",
+          "gen": "Vanuātus",
+          "dat": "Vanuātu",
+          "akk": "Vanuātu"
+        },
+        "pl": {
+          "nom": "Vanuātu",
+          "gen": "Vanuātus",
+          "dat": "Vanuātu",
+          "akk": "Vanuātu"
+        }
+      }
+    }
+  },
+  {
+    "word": "Venezuēla",
+    "id": 8346,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Venezuēla",
+          "gen": "Venezuēlas",
+          "dat": "Venezuēlai",
+          "akk": "Venezuēlan"
+        },
+        "pl": {
+          "nom": "Venezuēlas",
+          "gen": "Venezuēlan",
+          "dat": "Venezuēlamans",
+          "akk": "Venezuēlans"
+        }
+      }
+    }
+  }
+]

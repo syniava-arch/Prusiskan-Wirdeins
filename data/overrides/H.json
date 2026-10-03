@@ -1,0 +1,888 @@
+[
+  {
+    "word": "hāms",
+    "id": 9366,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "hāms",
+          "gen": "hāmas",
+          "dat": "hāmu",
+          "akk": "hāman"
+        },
+        "pl": {
+          "nom": "hāmai",
+          "gen": "hāman",
+          "dat": "hāmamans",
+          "akk": "hāmans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Haīti",
+    "id": 8242,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Haīti",
+          "gen": "Haītis",
+          "dat": "Haītei",
+          "akk": "Haītin"
+        },
+        "pl": {
+          "nom": "Haītis",
+          "gen": "Haītin",
+          "dat": "Haītimans",
+          "akk": "Haītins"
+        }
+      }
+    }
+  },
+  {
+    "word": "hakkejs",
+    "id": 9365,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "hakkejs",
+          "gen": "hakkejas",
+          "dat": "hakkeju",
+          "akk": "hakkejan"
+        },
+        "pl": {
+          "nom": "hakkejai",
+          "gen": "hakkejan",
+          "dat": "hakkejamans",
+          "akk": "hakkejans"
+        }
+      }
+    }
+  },
+  {
+    "word": "harmōnisks",
+    "id": 9367,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "harmōnisks",
+            "gen": "harmōniskas",
+            "dat": "harmōniskasmu",
+            "akk": "harmōniskan"
+          },
+          "pl": {
+            "nom": "harmōniskai",
+            "gen": "harmōniskan",
+            "dat": "harmōniskamans",
+            "akk": "harmōniskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "harmōniska",
+            "gen": "harmōniskas",
+            "dat": "harmōniskai",
+            "akk": "harmōniskan"
+          },
+          "pl": {
+            "nom": "harmōniskas",
+            "gen": "harmōniskan",
+            "dat": "harmōniskamans",
+            "akk": "harmōniskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "harmōniskan",
+            "gen": "harmōniskas",
+            "dat": "harmōniskasmu",
+            "akk": "harmōniskan"
+          },
+          "pl": {
+            "nom": "harmōniskai",
+            "gen": "harmōniskan",
+            "dat": "harmōniskamans",
+            "akk": "harmōniskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "harmōniskaisis",
+            "gen": "harmōniskaisjas",
+            "dat": "harmōniskaisjasmu",
+            "akk": "harmōniskaisin"
+          },
+          "pl": {
+            "nom": "harmōniskaisjai",
+            "gen": "harmōniskaisin",
+            "dat": "harmōniskaisimans",
+            "akk": "harmōniskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "harmōniskaisi",
+            "gen": "harmōniskaisjas",
+            "dat": "harmōniskaisjai",
+            "akk": "harmōniskaisjan"
+          },
+          "pl": {
+            "nom": "harmōniskaisjas",
+            "gen": "harmōniskaisjan",
+            "dat": "harmōniskaisjamans",
+            "akk": "harmōniskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "harmōniskaisi",
+            "gen": "harmōniskaisjas",
+            "dat": "harmōniskaisjasmu",
+            "akk": "harmōniskaisi"
+          },
+          "pl": {
+            "nom": "harmōniskaisjai",
+            "gen": "harmōniskaisin",
+            "dat": "harmōniskaisimans",
+            "akk": "harmōniskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaharmōniskaisis",
+            "gen": "ukaharmōniskaisjas",
+            "dat": "ukaharmōniskaisjasmu",
+            "akk": "ukaharmōniskaisin"
+          },
+          "pl": {
+            "nom": "ukaharmōniskaisjai",
+            "gen": "ukaharmōniskaisin",
+            "dat": "ukaharmōniskaisimans",
+            "akk": "ukaharmōniskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaharmōniskaisi",
+            "gen": "ukaharmōniskaisjas",
+            "dat": "ukaharmōniskaisjai",
+            "akk": "ukaharmōniskaisjan"
+          },
+          "pl": {
+            "nom": "ukaharmōniskaisjas",
+            "gen": "ukaharmōniskaisjan",
+            "dat": "ukaharmōniskaisjamans",
+            "akk": "ukaharmōniskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaharmōniskaisi",
+            "gen": "ukaharmōniskaisjas",
+            "dat": "ukaharmōniskaisjasmu",
+            "akk": "ukaharmōniskaisi"
+          },
+          "pl": {
+            "nom": "ukaharmōniskaisjai",
+            "gen": "ukaharmōniskaisin",
+            "dat": "ukaharmōniskaisimans",
+            "akk": "ukaharmōniskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "harmōniskai",
+        "comparative": "harmōniskais",
+        "superlative": "ukaharmōniskais"
+      }
+    }
+  },
+  {
+    "word": "haubicci",
+    "id": 9368,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "haubicci",
+          "gen": "haubiccis",
+          "dat": "haubiccei",
+          "akk": "haubiccin"
+        },
+        "pl": {
+          "nom": "haubiccis",
+          "gen": "haubiccin",
+          "dat": "haubiccimans",
+          "akk": "haubiccins"
+        }
+      }
+    }
+  },
+  {
+    "word": "heraldiki",
+    "id": 2146,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "heraldiki",
+          "gen": "heraldikis",
+          "dat": "heraldikei",
+          "akk": "heraldikin"
+        },
+        "pl": {
+          "nom": "heraldikis",
+          "gen": "heraldikin",
+          "dat": "heraldikimans",
+          "akk": "heraldikins"
+        }
+      }
+    }
+  },
+  {
+    "word": "hermētisks",
+    "id": 8149,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "hermētisks",
+            "gen": "hermētiskas",
+            "dat": "hermētiskasmu",
+            "akk": "hermētiskan"
+          },
+          "pl": {
+            "nom": "hermētiskai",
+            "gen": "hermētiskan",
+            "dat": "hermētiskamans",
+            "akk": "hermētiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "hermētiska",
+            "gen": "hermētiskas",
+            "dat": "hermētiskai",
+            "akk": "hermētiskan"
+          },
+          "pl": {
+            "nom": "hermētiskas",
+            "gen": "hermētiskan",
+            "dat": "hermētiskamans",
+            "akk": "hermētiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "hermētiskan",
+            "gen": "hermētiskas",
+            "dat": "hermētiskasmu",
+            "akk": "hermētiskan"
+          },
+          "pl": {
+            "nom": "hermētiskai",
+            "gen": "hermētiskan",
+            "dat": "hermētiskamans",
+            "akk": "hermētiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "hermētiskaisis",
+            "gen": "hermētiskaisjas",
+            "dat": "hermētiskaisjasmu",
+            "akk": "hermētiskaisin"
+          },
+          "pl": {
+            "nom": "hermētiskaisjai",
+            "gen": "hermētiskaisin",
+            "dat": "hermētiskaisimans",
+            "akk": "hermētiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "hermētiskaisi",
+            "gen": "hermētiskaisjas",
+            "dat": "hermētiskaisjai",
+            "akk": "hermētiskaisjan"
+          },
+          "pl": {
+            "nom": "hermētiskaisjas",
+            "gen": "hermētiskaisjan",
+            "dat": "hermētiskaisjamans",
+            "akk": "hermētiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "hermētiskaisi",
+            "gen": "hermētiskaisjas",
+            "dat": "hermētiskaisjasmu",
+            "akk": "hermētiskaisi"
+          },
+          "pl": {
+            "nom": "hermētiskaisjai",
+            "gen": "hermētiskaisin",
+            "dat": "hermētiskaisimans",
+            "akk": "hermētiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukahermētiskaisis",
+            "gen": "ukahermētiskaisjas",
+            "dat": "ukahermētiskaisjasmu",
+            "akk": "ukahermētiskaisin"
+          },
+          "pl": {
+            "nom": "ukahermētiskaisjai",
+            "gen": "ukahermētiskaisin",
+            "dat": "ukahermētiskaisimans",
+            "akk": "ukahermētiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukahermētiskaisi",
+            "gen": "ukahermētiskaisjas",
+            "dat": "ukahermētiskaisjai",
+            "akk": "ukahermētiskaisjan"
+          },
+          "pl": {
+            "nom": "ukahermētiskaisjas",
+            "gen": "ukahermētiskaisjan",
+            "dat": "ukahermētiskaisjamans",
+            "akk": "ukahermētiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukahermētiskaisi",
+            "gen": "ukahermētiskaisjas",
+            "dat": "ukahermētiskaisjasmu",
+            "akk": "ukahermētiskaisi"
+          },
+          "pl": {
+            "nom": "ukahermētiskaisjai",
+            "gen": "ukahermētiskaisin",
+            "dat": "ukahermētiskaisimans",
+            "akk": "ukahermētiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "hermētiskai",
+        "comparative": "hermētiskais",
+        "superlative": "ukahermētiskais"
+      }
+    }
+  },
+  {
+    "word": "hibrīdi",
+    "id": 9369,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "hibrīdi",
+          "gen": "hibrīdis",
+          "dat": "hibrīdei",
+          "akk": "hibrīdin"
+        },
+        "pl": {
+          "nom": "hibrīdis",
+          "gen": "hibrīdin",
+          "dat": "hibrīdimans",
+          "akk": "hibrīdins"
+        }
+      }
+    }
+  },
+  {
+    "word": "hiēna",
+    "id": 9370,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "hiēna",
+          "gen": "hiēnas",
+          "dat": "hiēnai",
+          "akk": "hiēnan"
+        },
+        "pl": {
+          "nom": "hiēnas",
+          "gen": "hiēnan",
+          "dat": "hiēnamans",
+          "akk": "hiēnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "himns",
+    "id": 9371,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "himns",
+          "gen": "himnas",
+          "dat": "himnu",
+          "akk": "himnan"
+        },
+        "pl": {
+          "nom": "himnai",
+          "gen": "himnan",
+          "dat": "himnamans",
+          "akk": "himnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "hipōtezi",
+    "id": 2147,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "hipōtezi",
+          "gen": "hipōtezis",
+          "dat": "hipōtezei",
+          "akk": "hipōtezin"
+        },
+        "pl": {
+          "nom": "hipōtezis",
+          "gen": "hipōtezin",
+          "dat": "hipōtezimans",
+          "akk": "hipōtezins"
+        }
+      }
+    }
+  },
+  {
+    "word": "hōnorars",
+    "id": 2148,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "hōnorars",
+          "gen": "hōnoraras",
+          "dat": "hōnoraru",
+          "akk": "hōnoraran"
+        },
+        "pl": {
+          "nom": "hōnorarai",
+          "gen": "hōnoraran",
+          "dat": "hōnoraramans",
+          "akk": "hōnorarans"
+        }
+      }
+    }
+  },
+  {
+    "word": "hōtels",
+    "id": 2149,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "hōtels",
+          "gen": "hōtelas",
+          "dat": "hōtelu",
+          "akk": "hōtelan"
+        },
+        "pl": {
+          "nom": "hōtelai",
+          "gen": "hōtelan",
+          "dat": "hōtelamans",
+          "akk": "hōtelans"
+        }
+      }
+    }
+  },
+  {
+    "word": "humāniskan",
+    "id": 2151,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "humāniskan",
+          "gen": "humāniskas",
+          "dat": "humānisku",
+          "akk": "humāniskan"
+        },
+        "pl": {
+          "nom": "humaniskāi",
+          "gen": "humāniskan",
+          "dat": "humaniskammans",
+          "akk": "humāniskans"
+        }
+      }
+    }
+  },
+  {
+    "word": "humānisks",
+    "id": 2150,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "humānisks",
+            "gen": "humāniskas",
+            "dat": "humāniskasmu",
+            "akk": "humāniskan"
+          },
+          "pl": {
+            "nom": "humāniskai",
+            "gen": "humāniskan",
+            "dat": "humāniskamans",
+            "akk": "humāniskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "humāniska",
+            "gen": "humāniskas",
+            "dat": "humāniskai",
+            "akk": "humāniskan"
+          },
+          "pl": {
+            "nom": "humāniskas",
+            "gen": "humāniskan",
+            "dat": "humāniskamans",
+            "akk": "humāniskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "humāniskan",
+            "gen": "humāniskas",
+            "dat": "humāniskasmu",
+            "akk": "humāniskan"
+          },
+          "pl": {
+            "nom": "humāniskai",
+            "gen": "humāniskan",
+            "dat": "humāniskamans",
+            "akk": "humāniskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "humāniskaisis",
+            "gen": "humāniskaisjas",
+            "dat": "humāniskaisjasmu",
+            "akk": "humāniskaisin"
+          },
+          "pl": {
+            "nom": "humāniskaisjai",
+            "gen": "humāniskaisin",
+            "dat": "humāniskaisimans",
+            "akk": "humāniskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "humāniskaisi",
+            "gen": "humāniskaisjas",
+            "dat": "humāniskaisjai",
+            "akk": "humāniskaisjan"
+          },
+          "pl": {
+            "nom": "humāniskaisjas",
+            "gen": "humāniskaisjan",
+            "dat": "humāniskaisjamans",
+            "akk": "humāniskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "humāniskaisi",
+            "gen": "humāniskaisjas",
+            "dat": "humāniskaisjasmu",
+            "akk": "humāniskaisi"
+          },
+          "pl": {
+            "nom": "humāniskaisjai",
+            "gen": "humāniskaisin",
+            "dat": "humāniskaisimans",
+            "akk": "humāniskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukahumāniskaisis",
+            "gen": "ukahumāniskaisjas",
+            "dat": "ukahumāniskaisjasmu",
+            "akk": "ukahumāniskaisin"
+          },
+          "pl": {
+            "nom": "ukahumāniskaisjai",
+            "gen": "ukahumāniskaisin",
+            "dat": "ukahumāniskaisimans",
+            "akk": "ukahumāniskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukahumāniskaisi",
+            "gen": "ukahumāniskaisjas",
+            "dat": "ukahumāniskaisjai",
+            "akk": "ukahumāniskaisjan"
+          },
+          "pl": {
+            "nom": "ukahumāniskaisjas",
+            "gen": "ukahumāniskaisjan",
+            "dat": "ukahumāniskaisjamans",
+            "akk": "ukahumāniskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukahumāniskaisi",
+            "gen": "ukahumāniskaisjas",
+            "dat": "ukahumāniskaisjasmu",
+            "akk": "ukahumāniskaisi"
+          },
+          "pl": {
+            "nom": "ukahumāniskaisjai",
+            "gen": "ukahumāniskaisin",
+            "dat": "ukahumāniskaisimans",
+            "akk": "ukahumāniskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "humāniskai",
+        "comparative": "humāniskais",
+        "superlative": "ukahumāniskais"
+      }
+    }
+  },
+  {
+    "word": "humanisms",
+    "id": 2152,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "humanisms",
+          "gen": "humanismas",
+          "dat": "humanismu",
+          "akk": "humanisman"
+        },
+        "pl": {
+          "nom": "humanismai",
+          "gen": "humanisman",
+          "dat": "humanismamans",
+          "akk": "humanismans"
+        }
+      }
+    }
+  },
+  {
+    "word": "humanists",
+    "id": 2153,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "humanists",
+          "gen": "humanistas",
+          "dat": "humanistu",
+          "akk": "humanistan"
+        },
+        "pl": {
+          "nom": "humanistai",
+          "gen": "humanistan",
+          "dat": "humanistamans",
+          "akk": "humanistans"
+        }
+      }
+    }
+  },
+  {
+    "word": "humanitārs",
+    "id": 2154,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "humanitārs",
+            "gen": "humanitāras",
+            "dat": "humanitārasmu",
+            "akk": "humanitāran"
+          },
+          "pl": {
+            "nom": "humanitārai",
+            "gen": "humanitāran",
+            "dat": "humanitāramans",
+            "akk": "humanitārans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "humanitāra",
+            "gen": "humanitāras",
+            "dat": "humanitārai",
+            "akk": "humanitāran"
+          },
+          "pl": {
+            "nom": "humanitāras",
+            "gen": "humanitāran",
+            "dat": "humanitāramans",
+            "akk": "humanitārans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "humanitāran",
+            "gen": "humanitāras",
+            "dat": "humanitārasmu",
+            "akk": "humanitāran"
+          },
+          "pl": {
+            "nom": "humanitārai",
+            "gen": "humanitāran",
+            "dat": "humanitāramans",
+            "akk": "humanitārans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "humanitāraisis",
+            "gen": "humanitāraisjas",
+            "dat": "humanitāraisjasmu",
+            "akk": "humanitāraisin"
+          },
+          "pl": {
+            "nom": "humanitāraisjai",
+            "gen": "humanitāraisin",
+            "dat": "humanitāraisimans",
+            "akk": "humanitāraisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "humanitāraisi",
+            "gen": "humanitāraisjas",
+            "dat": "humanitāraisjai",
+            "akk": "humanitāraisjan"
+          },
+          "pl": {
+            "nom": "humanitāraisjas",
+            "gen": "humanitāraisjan",
+            "dat": "humanitāraisjamans",
+            "akk": "humanitāraisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "humanitāraisi",
+            "gen": "humanitāraisjas",
+            "dat": "humanitāraisjasmu",
+            "akk": "humanitāraisi"
+          },
+          "pl": {
+            "nom": "humanitāraisjai",
+            "gen": "humanitāraisin",
+            "dat": "humanitāraisimans",
+            "akk": "humanitāraisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukahumanitāraisis",
+            "gen": "ukahumanitāraisjas",
+            "dat": "ukahumanitāraisjasmu",
+            "akk": "ukahumanitāraisin"
+          },
+          "pl": {
+            "nom": "ukahumanitāraisjai",
+            "gen": "ukahumanitāraisin",
+            "dat": "ukahumanitāraisimans",
+            "akk": "ukahumanitāraisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukahumanitāraisi",
+            "gen": "ukahumanitāraisjas",
+            "dat": "ukahumanitāraisjai",
+            "akk": "ukahumanitāraisjan"
+          },
+          "pl": {
+            "nom": "ukahumanitāraisjas",
+            "gen": "ukahumanitāraisjan",
+            "dat": "ukahumanitāraisjamans",
+            "akk": "ukahumanitāraisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukahumanitāraisi",
+            "gen": "ukahumanitāraisjas",
+            "dat": "ukahumanitāraisjasmu",
+            "akk": "ukahumanitāraisi"
+          },
+          "pl": {
+            "nom": "ukahumanitāraisjai",
+            "gen": "ukahumanitāraisin",
+            "dat": "ukahumanitāraisimans",
+            "akk": "ukahumanitāraisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "humanitārai",
+        "comparative": "humanitārais",
+        "superlative": "ukahumanitārais"
+      }
+    }
+  },
+  {
+    "word": "humōrs",
+    "id": 9372,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "humōrs",
+          "gen": "humōras",
+          "dat": "humōru",
+          "akk": "humōran"
+        },
+        "pl": {
+          "nom": "humōrai",
+          "gen": "humōran",
+          "dat": "humōramans",
+          "akk": "humōrans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Hōnduras",
+    "id": 8243,
+    "paradigm": {
+      "fem": {
+        "pl": {
+          "nom": "Hōnduras",
+          "gen": "Hōnduran",
+          "dat": "Hōnduramans",
+          "akk": "Hōndurans"
+        }
+      }
+    }
+  }
+]

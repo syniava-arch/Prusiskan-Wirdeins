@@ -3,8 +3,32 @@
 
   const LETTER_ORDER = "ABCČDEFGHIJKLMNOPRSŠTUVWZŽ".split("");
   const PAGE_SIZE = 150;
+  // Нормализация для поиска: снимаем макроны/акценты и «мягкие» согласные,
+  // а также комбинирующие знаки (в данных встречаются наддолгие ā̄, ī̄ и т.п.).
   const MACRON = {'ā':'a','ī':'i','ū':'u','ē':'e','ō':'o','à':'a','á':'a','è':'e',
-                  'š':'s','č':'c','ž':'z'};
+                  'ì':'i','í':'i','ó':'o','ù':'u','ú':'u','ỹ':'y','ỳ':'y',
+                  'š':'s','č':'c','ž':'z',
+                  'ķ':'k','ģ':'g','ļ':'l','ĺ':'l','ľ':'l','ņ':'n','ń':'n',
+                  'ŗ':'r','ŕ':'r','ţ':'t','ț':'t','ḑ':'d','ź':'z','ḿ':'m'};
+  const normCache = new Map();
+  function stripAccents(s){
+    const cached = normCache.get(s);
+    if (cached !== undefined) return cached;
+    let out = "";
+    for (const ch of s.toLowerCase()){
+      if (ch >= "\u0300" && ch <= "\u036f") continue; // combining marks
+      out += MACRON[ch] || ch;
+    }
+    normCache.set(s, out);
+    return out;
+  }
+  // Буква группировки для новых слов: первый символ без диакритики,
+  // но č/š/ž остаются отдельными буквами алфавита.
+  function deriveLetter(w){
+    const first = w[0].toLowerCase();
+    if (first === "č" || first === "š" || first === "ž") return first.toUpperCase();
+    return (MACRON[first] || first).toUpperCase();
+  }
 
   const LANG_LABELS = {ru:"рус.", lt:"lit.", lv:"latv.", de:"deu.", en:"eng.", pl:"pol."};
 
@@ -35,14 +59,6 @@
     modalBackdrop: document.getElementById("modalBackdrop"),
   };
 
-  function stripAccents(s){
-    let out = "";
-    for (const ch of s.toLowerCase()){
-      out += MACRON[ch] || ch;
-    }
-    return out;
-  }
-
   // Recursively collects every inflected word-form string found inside an
   // entry's paradigm/conjugation data (declension tables, verb forms, etc.),
   // so they become searchable even though they aren't separate dictionary entries.
@@ -52,7 +68,10 @@
     if (Array.isArray(obj)){ obj.forEach(v => collectFormStrings(v, out)); return; }
     if (typeof obj === "object"){
       for (const k in obj){
-        if (k === "title") continue; // descriptive labels, not word-forms
+        // "title" — описательные подписи, "p" — местоимения-подлежащие
+        // (as (я), mes (мы)…): это не словоформы, и они не должны участвовать
+        // в поиске (иначе запрос «мы» матчит все глаголы).
+        if (k === "title" || k === "p") continue;
         collectFormStrings(obj[k], out);
       }
     }
@@ -197,10 +216,15 @@
 
   function genderGridHtml(genderObj){
     let out = "";
+    if (!genderObj || typeof genderObj !== "object") return out;
     for (const gender in genderObj){
-      for (const number in genderObj[gender]){
-        const forms = genderObj[gender][number];
+      const numbers = genderObj[gender];
+      if (!numbers || typeof numbers !== "object") continue; // защита от повреждённых данных
+      for (const number in numbers){
+        const forms = numbers[number];
+        if (!forms || typeof forms !== "object") continue;
         const cases = CASE_ORDER.filter(c => forms[c]);
+        if (!cases.length) continue;
         out += `<div class="mw-para-block">
           <div class="mw-para-title">${escapeHtml(GENDER_LABEL[gender] || gender)}, ${escapeHtml(NUMBER_LABEL[number] || number)}</div>
           <table class="mw-para-table">
@@ -350,6 +374,15 @@
     render();
   });
 
+  let inited = false;
+  function safeInit(data){
+    if (inited) return;
+    inited = true;
+    init(data);
+  }
+
+  const OVERRIDE_META_KEYS = ["word","id","letter","is_form","forms","base_word","grammar_note","source"];
+
   function applyOverrides(data, overrides){
     if (!Array.isArray(overrides) || !overrides.length) return data;
     const byWord = {};
@@ -384,26 +417,66 @@
       } else {
         // brand-new entry not present in the base dictionary
         const fresh = {
-          i: "new-" + key, w: ov.word, l: (ov.letter || ov.word[0]).toUpperCase(),
-          f: ov.forms || "", x: !!ov.is_form, b: ov.base_word || "", g: ov.grammar_note || "",
+          i: (ov.id !== undefined ? ov.id : "new-" + key),
+          w: ov.word,
+          l: (ov.letter || deriveLetter(ov.word)).toUpperCase(),
+          f: ov.forms || "",
+          x: !!ov.is_form,
+          b: ov.base_word || "",
+          g: ov.grammar_note || "",
           s: ov.source || "добавлено вручную",
           ru: ov.ru || "", lt: ov.lt || "", lv: ov.lv || "", de: ov.de || "", en: ov.en || "", pl: ov.pl || "",
-          ...ov,
         };
+        for (const k in ov){
+          if (OVERRIDE_META_KEYS.indexOf(k) !== -1) continue; // уже разложены выше
+          fresh[k] = ov[k]; // paradigm, conjugation, переводы и прочее
+        }
         data.push(fresh);
+        // регистрируем, чтобы повторный override того же слова не создал дубль
+        (byWord[key] ||= []).push(fresh);
+        if (fresh.i !== undefined && fresh.i !== null) byId[String(fresh.i)] = fresh;
       }
     }
     return data;
   }
 
+  const OVERRIDE_FILE_RE = /^[A-Za-zČŠŽ_]+\.json$/;
+
+  // Старый формат: единый data/overrides.json.
+  function loadOverridesFlat(){
+    return fetch("data/overrides.json")
+      .then(r => r.ok ? r.json() : [])
+      .catch(() => []);
+  }
+
+  // Новый формат: data/overrides/manifest.json + шарды по буквам
+  // (A.json … Ž.json, см. tools/shard_overrides.py). Шарды грузятся
+  // параллельно; порядок записей внутри шардов сохранён скриптом.
+  // Если манифеста нет — прозрачный откат на старый единый файл.
+  function loadOverrides(){
+    return fetch("data/overrides/manifest.json")
+      .then(r => r.ok ? r.json() : null)
+      .catch(() => null)
+      .then(m => {
+        if (!m || !Array.isArray(m.shards) || !m.shards.length) return loadOverridesFlat();
+        const files = m.shards
+          .map(s => (typeof s === "string" ? s : (s && s.file) || ""))
+          .filter(f => OVERRIDE_FILE_RE.test(f)); // защита имён от выхода за каталог
+        return Promise.all(files.map(f =>
+          fetch("data/overrides/" + f)
+            .then(r => r.ok ? r.json() : [])
+            .catch(() => [])
+        )).then(lists => lists.reduce((acc, l) => acc.concat(l), []));
+      })
+      .then(list => Array.isArray(list) ? list : []);
+  }
+
   fetch("data/dictionary.json")
     .then(r => r.json())
     .then(data => {
-      fetch("data/overrides.json")
-        .then(r => r.ok ? r.json() : [])
-        .catch(() => [])
-        .then(overrides => init(applyOverrides(data, overrides)))
-        .catch(() => init(data));
+      loadOverrides()
+        .then(overrides => safeInit(applyOverrides(data, overrides || [])))
+        .catch(() => safeInit(data));
     })
     .catch(err => {
       el.entryList.innerHTML = `<p style="color:var(--danger)">Не удалось загрузить словарь: ${escapeHtml(err.message)}. Убедитесь, что файл data/dictionary.json лежит рядом с index.html и страница открыта через веб-сервер (не просто двойным кликом по файлу).</p>`;

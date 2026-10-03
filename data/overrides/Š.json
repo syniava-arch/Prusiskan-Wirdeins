@@ -1,0 +1,7173 @@
+[
+  {
+    "word": "šāisents",
+    "id": 6177,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šāisents",
+          "gen": "šāisentis",
+          "dat": "šāisentismu",
+          "akk": "šāisentin"
+        },
+        "pl": {
+          "nom": "šāisentjai",
+          "gen": "šāisentin",
+          "dat": "šaisentimmans",
+          "akk": "šāisentins"
+        }
+      },
+      "fem": {
+        "sg": {
+          "nom": "šaisentī",
+          "gen": "šāisentjas",
+          "dat": "šāisentjai",
+          "akk": "šāisentjan"
+        },
+        "pl": {
+          "nom": "šāisentjas",
+          "gen": "šāisentjan",
+          "dat": "šaisentjāmans",
+          "akk": "šāisentjans"
+        }
+      },
+      "neut": {
+        "sg": {
+          "nom": "šāisenti",
+          "gen": "šāisentis",
+          "dat": "šāisentismu",
+          "akk": "šāisenti"
+        },
+        "pl": {
+          "nom": "šāisentjai",
+          "gen": "šāisentin",
+          "dat": "šaisentimmans",
+          "akk": "šāisentins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šāks",
+    "id": 6178,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šāks",
+          "gen": "šākas",
+          "dat": "šāku",
+          "akk": "šākan"
+        },
+        "pl": {
+          "nom": "šākai",
+          "gen": "šākan",
+          "dat": "šākamans",
+          "akk": "šākans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šānci",
+    "id": 6181,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šānci",
+          "gen": "šāncis",
+          "dat": "šāncei",
+          "akk": "šāncin"
+        },
+        "pl": {
+          "nom": "šāncis",
+          "gen": "šāncin",
+          "dat": "šāncimans",
+          "akk": "šāncins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šablōni",
+    "id": 10334,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šablōni",
+          "gen": "šablōnis",
+          "dat": "šablōnei",
+          "akk": "šablōnin"
+        },
+        "pl": {
+          "nom": "šablōnis",
+          "gen": "šablōnin",
+          "dat": "šablōnimans",
+          "akk": "šablōnins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šachts",
+    "id": 8001,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šachts",
+          "gen": "šachtas",
+          "dat": "šachtu",
+          "akk": "šachtan"
+        },
+        "pl": {
+          "nom": "šachtai",
+          "gen": "šachtan",
+          "dat": "šachtamans",
+          "akk": "šachtans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šaīns",
+    "id": 6176,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "šaīns",
+            "gen": "šaīnas",
+            "dat": "šaīnasmu",
+            "akk": "šaīnan"
+          },
+          "pl": {
+            "nom": "šaīnai",
+            "gen": "šaīnan",
+            "dat": "šaīnamans",
+            "akk": "šaīnans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "šaīna",
+            "gen": "šaīnas",
+            "dat": "šaīnai",
+            "akk": "šaīnan"
+          },
+          "pl": {
+            "nom": "šaīnas",
+            "gen": "šaīnan",
+            "dat": "šaīnamans",
+            "akk": "šaīnans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "šaīnan",
+            "gen": "šaīnas",
+            "dat": "šaīnasmu",
+            "akk": "šaīnan"
+          },
+          "pl": {
+            "nom": "šaīnai",
+            "gen": "šaīnan",
+            "dat": "šaīnamans",
+            "akk": "šaīnans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "šaīnaisis",
+            "gen": "šaīnaisjas",
+            "dat": "šaīnaisjasmu",
+            "akk": "šaīnaisin"
+          },
+          "pl": {
+            "nom": "šaīnaisjai",
+            "gen": "šaīnaisin",
+            "dat": "šaīnaisimans",
+            "akk": "šaīnaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "šaīnaisi",
+            "gen": "šaīnaisjas",
+            "dat": "šaīnaisjai",
+            "akk": "šaīnaisjan"
+          },
+          "pl": {
+            "nom": "šaīnaisjas",
+            "gen": "šaīnaisjan",
+            "dat": "šaīnaisjamans",
+            "akk": "šaīnaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "šaīnaisi",
+            "gen": "šaīnaisjas",
+            "dat": "šaīnaisjasmu",
+            "akk": "šaīnaisi"
+          },
+          "pl": {
+            "nom": "šaīnaisjai",
+            "gen": "šaīnaisin",
+            "dat": "šaīnaisimans",
+            "akk": "šaīnaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukašaīnaisis",
+            "gen": "ukašaīnaisjas",
+            "dat": "ukašaīnaisjasmu",
+            "akk": "ukašaīnaisin"
+          },
+          "pl": {
+            "nom": "ukašaīnaisjai",
+            "gen": "ukašaīnaisin",
+            "dat": "ukašaīnaisimans",
+            "akk": "ukašaīnaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukašaīnaisi",
+            "gen": "ukašaīnaisjas",
+            "dat": "ukašaīnaisjai",
+            "akk": "ukašaīnaisjan"
+          },
+          "pl": {
+            "nom": "ukašaīnaisjas",
+            "gen": "ukašaīnaisjan",
+            "dat": "ukašaīnaisjamans",
+            "akk": "ukašaīnaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukašaīnaisi",
+            "gen": "ukašaīnaisjas",
+            "dat": "ukašaīnaisjasmu",
+            "akk": "ukašaīnaisi"
+          },
+          "pl": {
+            "nom": "ukašaīnaisjai",
+            "gen": "ukašaīnaisin",
+            "dat": "ukašaīnaisimans",
+            "akk": "ukašaīnaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "šaīnai",
+        "comparative": "šaīnais",
+        "superlative": "ukašaīnais"
+      }
+    }
+  },
+  {
+    "word": "šaisēntiskan",
+    "id": 10338,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "šaisēntiskan",
+          "gen": "šaisēntiskas",
+          "dat": "šaisēntisku",
+          "akk": "šaisēntiskan"
+        },
+        "pl": {
+          "nom": "šaisentiskāi",
+          "gen": "šaisēntiskan",
+          "dat": "šaisentiskammans",
+          "akk": "šaisēntiskans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šakālis",
+    "id": 10339,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šakālis",
+          "gen": "šakāljas",
+          "dat": "šakālju",
+          "akk": "šakāljan"
+        },
+        "pl": {
+          "nom": "šakāljai",
+          "gen": "šakāljan",
+          "dat": "šakāljamans",
+          "akk": "šakāljans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šampānja",
+    "id": 8436,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šampānja",
+          "gen": "šampānjas",
+          "dat": "šampānjai",
+          "akk": "šampānjan"
+        },
+        "pl": {
+          "nom": "šampānjas",
+          "gen": "šampānjan",
+          "dat": "šampānjamans",
+          "akk": "šampānjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šampūns",
+    "id": 8437,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šampūns",
+          "gen": "šampūnas",
+          "dat": "šampūnu",
+          "akk": "šampūnan"
+        },
+        "pl": {
+          "nom": "šampūnai",
+          "gen": "šampūnan",
+          "dat": "šampūnamans",
+          "akk": "šampūnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šappan",
+    "id": 6186,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "šappan",
+          "gen": "šappas",
+          "dat": "šappu",
+          "akk": "šappan"
+        },
+        "pl": {
+          "nom": "šapāi",
+          "gen": "šappan",
+          "dat": "šapammans",
+          "akk": "šappans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šaūlē",
+    "id": 6187,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šaulē",
+          "gen": "šaūlis",
+          "dat": "šaūlei",
+          "akk": "šaūlin"
+        },
+        "pl": {
+          "nom": "šaūlis",
+          "gen": "šaūlin",
+          "dat": "šaulīmans",
+          "akk": "šaūlins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šaūsenis",
+    "id": 10373,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šaūsenis",
+          "gen": "šaūsenjas",
+          "dat": "šaūsenju",
+          "akk": "šaūsenjan"
+        },
+        "pl": {
+          "nom": "šaūsenjai",
+          "gen": "šaūsenjan",
+          "dat": "šaūsenjamans",
+          "akk": "šaūsenjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šaūtun",
+    "id": 6189,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "šaūja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šaūja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šaūja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šaūjimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šaūjitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šaūja"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "šaūwa"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šaūwa"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šaūwa"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šaūwamai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šaūwatei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šaūwa"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma šaūwuns / šaūwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei šaūwuns / šaūwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast šaūwuns / šaūwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast šaūwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai šaūwusis / šaūwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei šaūwusis / šaūwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast šaūwusis / šaūwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst šaūwuns / šaūwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst šaūwuns / šaūwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst šaūwuns / šaūwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst šaūwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai šaūwusis / šaūwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei šaūwusis / šaūwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst šaūwusis / šaūwusjas"
+          }
+        ]
+      },
+      "optative": "šaūsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "šaūjais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "šaūjaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "šaūlai"
+        },
+        {
+          "p": "tū",
+          "f": "šaūlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "šaūlai"
+        },
+        {
+          "p": "mes",
+          "f": "šaūlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "šaūlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "šaūlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "šaūjants",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šaūjants",
+                "gen": "šaūjantis",
+                "dat": "šaūjantismu",
+                "akk": "šaūjantin"
+              },
+              "pl": {
+                "nom": "šaūjantjai",
+                "gen": "šaūjantin",
+                "dat": "šaujantimmans",
+                "akk": "šaūjantins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šaujantī",
+                "gen": "šaūjantjas",
+                "dat": "šaūjantjai",
+                "akk": "šaūjantjan"
+              },
+              "pl": {
+                "nom": "šaūjantjas",
+                "gen": "šaūjantjan",
+                "dat": "šaujantjāmans",
+                "akk": "šaūjantjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šaūjanti",
+                "gen": "šaūjantis",
+                "dat": "šaūjantismu",
+                "akk": "šaūjantin"
+              },
+              "pl": {
+                "nom": "šaūjantjai",
+                "gen": "šaūjantin",
+                "dat": "šaujantimmans",
+                "akk": "šaūjantins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "šaūwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šaūwuns",
+                "gen": "šaūwusjas",
+                "dat": "šaūwusjasmu",
+                "akk": "šaūwusin"
+              },
+              "pl": {
+                "nom": "šaūwusis",
+                "gen": "šaūwusin",
+                "dat": "šaūwusimans",
+                "akk": "šaūwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šaūwusi",
+                "gen": "šaūwusjas",
+                "dat": "šaūwusjai",
+                "akk": "šaūwusjan"
+              },
+              "pl": {
+                "nom": "šaūwusjas",
+                "gen": "šaūwusjan",
+                "dat": "šaūwusjamans",
+                "akk": "šaūwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šaūwus",
+                "gen": "šaūwusjas",
+                "dat": "šaūwusjasmu",
+                "akk": "šaūwus"
+              },
+              "pl": {
+                "nom": "šaūwus",
+                "gen": "šaūwusin",
+                "dat": "šaūwusimans",
+                "akk": "šaūwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "šaūts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šaūts",
+                "gen": "šaūtas",
+                "dat": "šaūtasmu",
+                "akk": "šaūtan"
+              },
+              "pl": {
+                "nom": "šautāi",
+                "gen": "šaūtan",
+                "dat": "šautammans",
+                "akk": "šaūtans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šautā",
+                "gen": "šaūtas",
+                "dat": "šaūtai",
+                "akk": "šaūtan"
+              },
+              "pl": {
+                "nom": "šaūtas",
+                "gen": "šaūtan",
+                "dat": "šautāmans",
+                "akk": "šaūtans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šaūtan",
+                "gen": "šaūtas",
+                "dat": "šaūtasmu",
+                "akk": "šaūtan"
+              },
+              "pl": {
+                "nom": "šautāi",
+                "gen": "šaūtan",
+                "dat": "šautammans",
+                "akk": "šaūtans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "šawīs",
+    "id": 6190,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šawīs",
+          "gen": "šawījas",
+          "dat": "šawīju",
+          "akk": "šawījan"
+        },
+        "pl": {
+          "nom": "šawījai",
+          "gen": "šawījan",
+          "dat": "šawīmans",
+          "akk": "šawījans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šēika",
+    "id": 10379,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šēika",
+          "gen": "šēikas",
+          "dat": "šēikai",
+          "akk": "šēikan"
+        },
+        "pl": {
+          "nom": "šēikas",
+          "gen": "šēikan",
+          "dat": "šēikamans",
+          "akk": "šēikans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šērpi",
+    "id": 6192,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šērpi",
+          "gen": "šērpis",
+          "dat": "šērpei",
+          "akk": "šērpin"
+        },
+        "pl": {
+          "nom": "šērpis",
+          "gen": "šērpin",
+          "dat": "šērpimans",
+          "akk": "šērpins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šēzs",
+    "id": 10403,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šēzs",
+          "gen": "šēzas",
+          "dat": "šēzu",
+          "akk": "šēzan"
+        },
+        "pl": {
+          "nom": "šēzai",
+          "gen": "šēzan",
+          "dat": "šēzamans",
+          "akk": "šēzans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šīrki",
+    "id": 10426,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šīrki",
+          "gen": "šīrkis",
+          "dat": "šīrkei",
+          "akk": "šīrkin"
+        },
+        "pl": {
+          "nom": "šīrkis",
+          "gen": "šīrkin",
+          "dat": "šīrkimans",
+          "akk": "šīrkins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šīrmi",
+    "id": 7648,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šīrmi",
+          "gen": "šīrmis",
+          "dat": "šīrmei",
+          "akk": "šīrmin"
+        },
+        "pl": {
+          "nom": "šīrmis",
+          "gen": "šīrmin",
+          "dat": "šīrmimans",
+          "akk": "šīrmins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šillingis",
+    "id": 10416,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šillingis",
+          "gen": "šillingjas",
+          "dat": "šillingju",
+          "akk": "šillingjan"
+        },
+        "pl": {
+          "nom": "šillingjai",
+          "gen": "šillingjan",
+          "dat": "šillingjamans",
+          "akk": "šillingjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šimpānzis",
+    "id": 10417,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šimpānzis",
+          "gen": "šimpānzjas",
+          "dat": "šimpānzju",
+          "akk": "šimpānzjan"
+        },
+        "pl": {
+          "nom": "šimpānzjai",
+          "gen": "šimpānzjan",
+          "dat": "šimpānzjamans",
+          "akk": "šimpānzjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šis",
+    "id": 6193,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šis",
+          "gen": "šisse",
+          "dat": "šismu",
+          "akk": "šin"
+        },
+        "pl": {
+          "nom": "šāi",
+          "gen": "šēisan",
+          "dat": "šēimans",
+          "akk": "šins"
+        }
+      },
+      "fem": {
+        "sg": {
+          "nom": "šī",
+          "gen": "šisses",
+          "dat": "šissei",
+          "akk": "šan"
+        },
+        "pl": {
+          "nom": "šās",
+          "gen": "šēisan",
+          "dat": "šēimans",
+          "akk": "šans"
+        }
+      },
+      "neut": {
+        "sg": {
+          "nom": "šin",
+          "gen": "šisse",
+          "dat": "šismu",
+          "akk": "šin"
+        },
+        "pl": {
+          "nom": "šāi",
+          "gen": "šēisan",
+          "dat": "šēimans",
+          "akk": "šins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šišelīs",
+    "id": 6196,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šišelīs",
+          "gen": "šišelījas",
+          "dat": "šišelīju",
+          "akk": "šišelījan"
+        },
+        "pl": {
+          "nom": "šišelījai",
+          "gen": "šišelījan",
+          "dat": "šišelīmans",
+          "akk": "šišelījans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šiški",
+    "id": 6197,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šiški",
+          "gen": "šiškis",
+          "dat": "šiškei",
+          "akk": "šiškin"
+        },
+        "pl": {
+          "nom": "šiškis",
+          "gen": "šiškin",
+          "dat": "šiškimans",
+          "akk": "šiškins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šiššelitwei",
+    "id": 6199,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "šiššeljai"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šiššeljai"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šiššeljai"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šiššeljaimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šiššeljaitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šiššeljai"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "šiššeli"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šiššeli"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šiššeli"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šiššelimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šiššelitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šiššeli"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma šiššeliwuns / šiššeliwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei šiššeliwuns / šiššeliwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast šiššeliwuns / šiššeliwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast šiššeliwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai šiššeliwusis / šiššeliwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei šiššeliwusis / šiššeliwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast šiššeliwusis / šiššeliwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst šiššeliwuns / šiššeliwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst šiššeliwuns / šiššeliwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst šiššeliwuns / šiššeliwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst šiššeliwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai šiššeliwusis / šiššeliwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei šiššeliwusis / šiššeliwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst šiššeliwusis / šiššeliwusjas"
+          }
+        ]
+      },
+      "optative": "šiššelisei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "šiššeljais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "šiššeljaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "šiššelilai"
+        },
+        {
+          "p": "tū",
+          "f": "šiššelilai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "šiššelilai"
+        },
+        {
+          "p": "mes",
+          "f": "šiššelilimai"
+        },
+        {
+          "p": "jūs",
+          "f": "šiššelilitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "šiššelilai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "šiššelints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šiššelints",
+                "gen": "šiššelintis",
+                "dat": "šiššelintismu",
+                "akk": "šiššelintin"
+              },
+              "pl": {
+                "nom": "šiššelintjai",
+                "gen": "šiššelintin",
+                "dat": "šiššelintimmans",
+                "akk": "šiššelintins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šiššelintī",
+                "gen": "šiššelintjas",
+                "dat": "šiššelintjai",
+                "akk": "šiššelintjan"
+              },
+              "pl": {
+                "nom": "šiššelintjas",
+                "gen": "šiššelintjan",
+                "dat": "šiššelintjāmans",
+                "akk": "šiššelintjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šiššelinti",
+                "gen": "šiššelintis",
+                "dat": "šiššelintismu",
+                "akk": "šiššelintin"
+              },
+              "pl": {
+                "nom": "šiššelintjai",
+                "gen": "šiššelintin",
+                "dat": "šiššelintimmans",
+                "akk": "šiššelintins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "šiššeliwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šiššeliwuns",
+                "gen": "šiššeliwusjas",
+                "dat": "šiššeliwusjasmu",
+                "akk": "šiššeliwusin"
+              },
+              "pl": {
+                "nom": "šiššeliwusis",
+                "gen": "šiššeliwusin",
+                "dat": "šiššeliwusimans",
+                "akk": "šiššeliwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šiššeliwusi",
+                "gen": "šiššeliwusjas",
+                "dat": "šiššeliwusjai",
+                "akk": "šiššeliwusjan"
+              },
+              "pl": {
+                "nom": "šiššeliwusjas",
+                "gen": "šiššeliwusjan",
+                "dat": "šiššeliwusjamans",
+                "akk": "šiššeliwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šiššeliwus",
+                "gen": "šiššeliwusjas",
+                "dat": "šiššeliwusjasmu",
+                "akk": "šiššeliwus"
+              },
+              "pl": {
+                "nom": "šiššeliwus",
+                "gen": "šiššeliwusin",
+                "dat": "šiššeliwusimans",
+                "akk": "šiššeliwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "šiššelits",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šiššelits",
+                "gen": "šiššelitas",
+                "dat": "šiššelitasmu",
+                "akk": "šiššelitan"
+              },
+              "pl": {
+                "nom": "šiššelitāi",
+                "gen": "šiššelitan",
+                "dat": "šiššelitammans",
+                "akk": "šiššelitans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šiššelitā",
+                "gen": "šiššelitas",
+                "dat": "šiššelitai",
+                "akk": "šiššelitan"
+              },
+              "pl": {
+                "nom": "šiššelitas",
+                "gen": "šiššelitan",
+                "dat": "šiššelitāmans",
+                "akk": "šiššelitans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šiššelitan",
+                "gen": "šiššelitas",
+                "dat": "šiššelitasmu",
+                "akk": "šiššelitan"
+              },
+              "pl": {
+                "nom": "šiššelitāi",
+                "gen": "šiššelitan",
+                "dat": "šiššelitammans",
+                "akk": "šiššelitans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "šizōfrenija",
+    "id": 6200,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šizōfrenija",
+          "gen": "šizōfrenijas",
+          "dat": "šizōfrenijai",
+          "akk": "šizōfrenijan"
+        },
+        "pl": {
+          "nom": "šizōfrenijas",
+          "gen": "šizōfrenijan",
+          "dat": "šizōfrenijamans",
+          "akk": "šizōfrenijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šizōfrens",
+    "id": 6201,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šizōfrens",
+          "gen": "šizōfrenas",
+          "dat": "šizōfrenu",
+          "akk": "šizōfrenan"
+        },
+        "pl": {
+          "nom": "šizōfrenai",
+          "gen": "šizōfrenan",
+          "dat": "šizōfrenamans",
+          "akk": "šizōfrenans"
+        }
+      }
+    }
+  },
+  {
+    "word": "škādinsna",
+    "id": 6204,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "škādinsna",
+          "gen": "škādinsnas",
+          "dat": "škādinsnai",
+          "akk": "škādinsnan"
+        },
+        "pl": {
+          "nom": "škādinsnas",
+          "gen": "škādinsnan",
+          "dat": "škādinsnamans",
+          "akk": "škādinsnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Škōtija",
+    "id": 10546,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Škōtija",
+          "gen": "Škōtijas",
+          "dat": "Škōtijai",
+          "akk": "Škōtijan"
+        },
+        "pl": {
+          "nom": "Škōtijas",
+          "gen": "Škōtijan",
+          "dat": "Škōtijamans",
+          "akk": "Škōtijans"
+        }
+      }
+    },
+    "note": "восстановлено генерацией движка сайта (класс 45)"
+  },
+  {
+    "word": "škōtini",
+    "id": 10548,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "škōtini",
+          "gen": "škōtinjas",
+          "dat": "škōtinjai",
+          "akk": "škōtinjan"
+        },
+        "pl": {
+          "nom": "škōtinjas",
+          "gen": "škōtinjan",
+          "dat": "škōtinjamans",
+          "akk": "škōtinjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "škōtisks",
+    "id": 10549,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "škōtisks",
+            "gen": "škōtiskas",
+            "dat": "škōtiskasmu",
+            "akk": "škōtiskan"
+          },
+          "pl": {
+            "nom": "škōtiskai",
+            "gen": "škōtiskan",
+            "dat": "škōtiskamans",
+            "akk": "škōtiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "škōtiska",
+            "gen": "škōtiskas",
+            "dat": "škōtiskai",
+            "akk": "škōtiskan"
+          },
+          "pl": {
+            "nom": "škōtiskas",
+            "gen": "škōtiskan",
+            "dat": "škōtiskamans",
+            "akk": "škōtiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "škōtiskan",
+            "gen": "škōtiskas",
+            "dat": "škōtiskasmu",
+            "akk": "škōtiskan"
+          },
+          "pl": {
+            "nom": "škōtiskai",
+            "gen": "škōtiskan",
+            "dat": "škōtiskamans",
+            "akk": "škōtiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "škōtiskaisis",
+            "gen": "škōtiskaisjas",
+            "dat": "škōtiskaisjasmu",
+            "akk": "škōtiskaisin"
+          },
+          "pl": {
+            "nom": "škōtiskaisjai",
+            "gen": "škōtiskaisin",
+            "dat": "škōtiskaisimans",
+            "akk": "škōtiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "škōtiskaisi",
+            "gen": "škōtiskaisjas",
+            "dat": "škōtiskaisjai",
+            "akk": "škōtiskaisjan"
+          },
+          "pl": {
+            "nom": "škōtiskaisjas",
+            "gen": "škōtiskaisjan",
+            "dat": "škōtiskaisjamans",
+            "akk": "škōtiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "škōtiskaisi",
+            "gen": "škōtiskaisjas",
+            "dat": "škōtiskaisjasmu",
+            "akk": "škōtiskaisi"
+          },
+          "pl": {
+            "nom": "škōtiskaisjai",
+            "gen": "škōtiskaisin",
+            "dat": "škōtiskaisimans",
+            "akk": "škōtiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaškōtiskaisis",
+            "gen": "ukaškōtiskaisjas",
+            "dat": "ukaškōtiskaisjasmu",
+            "akk": "ukaškōtiskaisin"
+          },
+          "pl": {
+            "nom": "ukaškōtiskaisjai",
+            "gen": "ukaškōtiskaisin",
+            "dat": "ukaškōtiskaisimans",
+            "akk": "ukaškōtiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaškōtiskaisi",
+            "gen": "ukaškōtiskaisjas",
+            "dat": "ukaškōtiskaisjai",
+            "akk": "ukaškōtiskaisjan"
+          },
+          "pl": {
+            "nom": "ukaškōtiskaisjas",
+            "gen": "ukaškōtiskaisjan",
+            "dat": "ukaškōtiskaisjamans",
+            "akk": "ukaškōtiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaškōtiskaisi",
+            "gen": "ukaškōtiskaisjas",
+            "dat": "ukaškōtiskaisjasmu",
+            "akk": "ukaškōtiskaisi"
+          },
+          "pl": {
+            "nom": "ukaškōtiskaisjai",
+            "gen": "ukaškōtiskaisin",
+            "dat": "ukaškōtiskaisimans",
+            "akk": "ukaškōtiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "škōtiskai",
+        "comparative": "škōtiskais",
+        "superlative": "ukaškōtiskais"
+      }
+    }
+  },
+  {
+    "word": "škōts",
+    "id": 10547,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "škōts",
+          "gen": "škōtas",
+          "dat": "škōtu",
+          "akk": "škōtan"
+        },
+        "pl": {
+          "nom": "škōtai",
+          "gen": "škōtan",
+          "dat": "škōtamans",
+          "akk": "škōtans"
+        }
+      }
+    }
+  },
+  {
+    "word": "škurs",
+    "id": 6207,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "škurs",
+          "gen": "škuras",
+          "dat": "škuru",
+          "akk": "škuran"
+        },
+        "pl": {
+          "nom": "škurai",
+          "gen": "škuran",
+          "dat": "škuramans",
+          "akk": "škurans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šlāuksintwei",
+    "id": 10457,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "šlāuksina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šlāuksina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šlāuksina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šlāuksinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šlāuksinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šlāuksina"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "šlāuksina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šlāuksina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šlāuksina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šlāuksinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šlāuksinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šlāuksina"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma šlāuksinuns / šlāuksinusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei šlāuksinuns / šlāuksinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast šlāuksinuns / šlāuksinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast šlāuksinus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai šlāuksinusis / šlāuksinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei šlāuksinusis / šlāuksinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast šlāuksinusis / šlāuksinusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst šlāuksinuns / šlāuksinusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst šlāuksinuns / šlāuksinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst šlāuksinuns / šlāuksinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst šlāuksinus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai šlāuksinusis / šlāuksinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei šlāuksinusis / šlāuksinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst šlāuksinusis / šlāuksinusjas"
+          }
+        ]
+      },
+      "optative": "šlāuksinsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "šlāuksinais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "šlāuksinaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "šlāuksinlai"
+        },
+        {
+          "p": "tū",
+          "f": "šlāuksinlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "šlāuksinlai"
+        },
+        {
+          "p": "mes",
+          "f": "šlāuksinlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "šlāuksinlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "šlāuksinlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "šlāuksinants",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šlāuksinants",
+                "gen": "šlāuksinantis",
+                "dat": "šlāuksinantismu",
+                "akk": "šlāuksinantin"
+              },
+              "pl": {
+                "nom": "šlāuksinantjai",
+                "gen": "šlāuksinantin",
+                "dat": "šlauksinantimmans",
+                "akk": "šlāuksinantins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šlauksinantī",
+                "gen": "šlāuksinantjas",
+                "dat": "šlāuksinantjai",
+                "akk": "šlāuksinantjan"
+              },
+              "pl": {
+                "nom": "šlāuksinantjas",
+                "gen": "šlāuksinantjan",
+                "dat": "šlauksinantjāmans",
+                "akk": "šlāuksinantjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šlāuksinanti",
+                "gen": "šlāuksinantis",
+                "dat": "šlāuksinantismu",
+                "akk": "šlāuksinantin"
+              },
+              "pl": {
+                "nom": "šlāuksinantjai",
+                "gen": "šlāuksinantin",
+                "dat": "šlauksinantimmans",
+                "akk": "šlāuksinantins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "šlāuksinuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šlāuksinuns",
+                "gen": "šlāuksinusjas",
+                "dat": "šlāuksinusjasmu",
+                "akk": "šlāuksinusin"
+              },
+              "pl": {
+                "nom": "šlāuksinusis",
+                "gen": "šlāuksinusin",
+                "dat": "šlāuksinusimans",
+                "akk": "šlāuksinusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šlāuksinusi",
+                "gen": "šlāuksinusjas",
+                "dat": "šlāuksinusjai",
+                "akk": "šlāuksinusjan"
+              },
+              "pl": {
+                "nom": "šlāuksinusjas",
+                "gen": "šlāuksinusjan",
+                "dat": "šlāuksinusjamans",
+                "akk": "šlāuksinusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šlāuksinus",
+                "gen": "šlāuksinusjas",
+                "dat": "šlāuksinusjasmu",
+                "akk": "šlāuksinus"
+              },
+              "pl": {
+                "nom": "šlāuksinus",
+                "gen": "šlāuksinusin",
+                "dat": "šlāuksinusimans",
+                "akk": "šlāuksinus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "šlāuksints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šlāuksints",
+                "gen": "šlāuksintas",
+                "dat": "šlāuksintasmu",
+                "akk": "šlāuksintan"
+              },
+              "pl": {
+                "nom": "šlauksintāi",
+                "gen": "šlāuksintan",
+                "dat": "šlauksintammans",
+                "akk": "šlāuksintans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šlauksintā",
+                "gen": "šlāuksintas",
+                "dat": "šlāuksintai",
+                "akk": "šlāuksintan"
+              },
+              "pl": {
+                "nom": "šlāuksintas",
+                "gen": "šlāuksintan",
+                "dat": "šlauksintāmans",
+                "akk": "šlāuksintans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šlāuksintan",
+                "gen": "šlāuksintas",
+                "dat": "šlāuksintasmu",
+                "akk": "šlāuksintan"
+              },
+              "pl": {
+                "nom": "šlauksintāi",
+                "gen": "šlāuksintan",
+                "dat": "šlauksintammans",
+                "akk": "šlāuksintans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "šlāuksnaszaks",
+    "id": 10458,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šlāuksnaszaks",
+          "gen": "šlāuksnaszakas",
+          "dat": "šlāuksnaszaku",
+          "akk": "šlāuksnaszakan"
+        },
+        "pl": {
+          "nom": "šlāuksnaszakai",
+          "gen": "šlāuksnaszakan",
+          "dat": "šlāuksnaszakamans",
+          "akk": "šlāuksnaszakans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šlamīsnā",
+    "id": 6208,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šlamisnā",
+          "gen": "šlamīsnas",
+          "dat": "šlamīsnai",
+          "akk": "šlamīsnan"
+        },
+        "pl": {
+          "nom": "šlamīsnas",
+          "gen": "šlamīsnan",
+          "dat": "šlamisnāmans",
+          "akk": "šlamīsnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šlamītwei",
+    "id": 6209,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "šlamēi"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šlamēi"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šlamēi"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šlamēimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šlamēitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šlamēi"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "šlamēi"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šlamēi"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šlamēi"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šlamēimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šlamēitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šlamēi"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma šlamīwuns / šlamīwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei šlamīwuns / šlamīwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast šlamīwuns / šlamīwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast šlamīwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai šlamīwusis / šlamīwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei šlamīwusis / šlamīwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast šlamīwusis / šlamīwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst šlamīwuns / šlamīwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst šlamīwuns / šlamīwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst šlamīwuns / šlamīwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst šlamīwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai šlamīwusis / šlamīwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei šlamīwusis / šlamīwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst šlamīwusis / šlamīwusjas"
+          }
+        ]
+      },
+      "optative": "šlamīsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "šlamēis"
+        },
+        {
+          "p": "(jūs)",
+          "f": "šlamēiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "šlamīlai"
+        },
+        {
+          "p": "tū",
+          "f": "šlamīlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "šlamīlai"
+        },
+        {
+          "p": "mes",
+          "f": "šlamīlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "šlamīlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "šlamīlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "šlamīnts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šlamīnts",
+                "gen": "šlamīntis",
+                "dat": "šlamīntismu",
+                "akk": "šlamīntin"
+              },
+              "pl": {
+                "nom": "šlamīntjai",
+                "gen": "šlamīntin",
+                "dat": "šlamintimmans",
+                "akk": "šlamīntins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šlamintī",
+                "gen": "šlamīntjas",
+                "dat": "šlamīntjai",
+                "akk": "šlamīntjan"
+              },
+              "pl": {
+                "nom": "šlamīntjas",
+                "gen": "šlamīntjan",
+                "dat": "šlamintjāmans",
+                "akk": "šlamīntjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šlamīnti",
+                "gen": "šlamīntis",
+                "dat": "šlamīntismu",
+                "akk": "šlamīntin"
+              },
+              "pl": {
+                "nom": "šlamīntjai",
+                "gen": "šlamīntin",
+                "dat": "šlamintimmans",
+                "akk": "šlamīntins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "šlamīwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šlamīwuns",
+                "gen": "šlamīwusjas",
+                "dat": "šlamīwusjasmu",
+                "akk": "šlamīwusin"
+              },
+              "pl": {
+                "nom": "šlamīwusis",
+                "gen": "šlamīwusin",
+                "dat": "šlamīwusimans",
+                "akk": "šlamīwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šlamīwusi",
+                "gen": "šlamīwusjas",
+                "dat": "šlamīwusjai",
+                "akk": "šlamīwusjan"
+              },
+              "pl": {
+                "nom": "šlamīwusjas",
+                "gen": "šlamīwusjan",
+                "dat": "šlamīwusjamans",
+                "akk": "šlamīwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šlamīwus",
+                "gen": "šlamīwusjas",
+                "dat": "šlamīwusjasmu",
+                "akk": "šlamīwus"
+              },
+              "pl": {
+                "nom": "šlamīwus",
+                "gen": "šlamīwusin",
+                "dat": "šlamīwusimans",
+                "akk": "šlamīwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "šlamīts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šlamīts",
+                "gen": "šlamītas",
+                "dat": "šlamītasmu",
+                "akk": "šlamītan"
+              },
+              "pl": {
+                "nom": "šlamitāi",
+                "gen": "šlamītan",
+                "dat": "šlamitammans",
+                "akk": "šlamītans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šlamitā",
+                "gen": "šlamītas",
+                "dat": "šlamītai",
+                "akk": "šlamītan"
+              },
+              "pl": {
+                "nom": "šlamītas",
+                "gen": "šlamītan",
+                "dat": "šlamitāmans",
+                "akk": "šlamītans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šlamītan",
+                "gen": "šlamītas",
+                "dat": "šlamītasmu",
+                "akk": "šlamītan"
+              },
+              "pl": {
+                "nom": "šlamitāi",
+                "gen": "šlamītan",
+                "dat": "šlamitammans",
+                "akk": "šlamītans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "šlapsintajs",
+    "id": 10455,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šlapsintajs",
+          "gen": "šlapsintajas",
+          "dat": "šlapsintaju",
+          "akk": "šlapsintajan"
+        },
+        "pl": {
+          "nom": "šlapsintajai",
+          "gen": "šlapsintajan",
+          "dat": "šlapsintajamans",
+          "akk": "šlapsintajans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šlapsintun",
+    "id": 10456,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "šlapsina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šlapsina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šlapsina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šlapsinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šlapsinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šlapsina"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "šlapsina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šlapsina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šlapsina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šlapsinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šlapsinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šlapsina"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma šlapsinuns / šlapsinusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei šlapsinuns / šlapsinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast šlapsinuns / šlapsinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast šlapsinus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai šlapsinusis / šlapsinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei šlapsinusis / šlapsinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast šlapsinusis / šlapsinusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst šlapsinuns / šlapsinusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst šlapsinuns / šlapsinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst šlapsinuns / šlapsinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst šlapsinus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai šlapsinusis / šlapsinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei šlapsinusis / šlapsinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst šlapsinusis / šlapsinusjas"
+          }
+        ]
+      },
+      "optative": "šlapsinsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "šlapsinais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "šlapsinaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "šlapsinlai"
+        },
+        {
+          "p": "tū",
+          "f": "šlapsinlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "šlapsinlai"
+        },
+        {
+          "p": "mes",
+          "f": "šlapsinlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "šlapsinlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "šlapsinlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "šlapsinants",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šlapsinants",
+                "gen": "šlapsinantis",
+                "dat": "šlapsinantismu",
+                "akk": "šlapsinantin"
+              },
+              "pl": {
+                "nom": "šlapsinantjai",
+                "gen": "šlapsinantin",
+                "dat": "šlapsinantimmans",
+                "akk": "šlapsinantins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šlapsinantī",
+                "gen": "šlapsinantjas",
+                "dat": "šlapsinantjai",
+                "akk": "šlapsinantjan"
+              },
+              "pl": {
+                "nom": "šlapsinantjas",
+                "gen": "šlapsinantjan",
+                "dat": "šlapsinantjāmans",
+                "akk": "šlapsinantjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šlapsinanti",
+                "gen": "šlapsinantis",
+                "dat": "šlapsinantismu",
+                "akk": "šlapsinantin"
+              },
+              "pl": {
+                "nom": "šlapsinantjai",
+                "gen": "šlapsinantin",
+                "dat": "šlapsinantimmans",
+                "akk": "šlapsinantins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "šlapsinuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šlapsinuns",
+                "gen": "šlapsinusjas",
+                "dat": "šlapsinusjasmu",
+                "akk": "šlapsinusin"
+              },
+              "pl": {
+                "nom": "šlapsinusis",
+                "gen": "šlapsinusin",
+                "dat": "šlapsinusimans",
+                "akk": "šlapsinusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šlapsinusi",
+                "gen": "šlapsinusjas",
+                "dat": "šlapsinusjai",
+                "akk": "šlapsinusjan"
+              },
+              "pl": {
+                "nom": "šlapsinusjas",
+                "gen": "šlapsinusjan",
+                "dat": "šlapsinusjamans",
+                "akk": "šlapsinusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šlapsinus",
+                "gen": "šlapsinusjas",
+                "dat": "šlapsinusjasmu",
+                "akk": "šlapsinus"
+              },
+              "pl": {
+                "nom": "šlapsinus",
+                "gen": "šlapsinusin",
+                "dat": "šlapsinusimans",
+                "akk": "šlapsinus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "šlapsints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šlapsints",
+                "gen": "šlapsintas",
+                "dat": "šlapsintasmu",
+                "akk": "šlapsintan"
+              },
+              "pl": {
+                "nom": "šlapsintāi",
+                "gen": "šlapsintan",
+                "dat": "šlapsintammans",
+                "akk": "šlapsintans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šlapsintā",
+                "gen": "šlapsintas",
+                "dat": "šlapsintai",
+                "akk": "šlapsintan"
+              },
+              "pl": {
+                "nom": "šlapsintas",
+                "gen": "šlapsintan",
+                "dat": "šlapsintāmans",
+                "akk": "šlapsintans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šlapsintan",
+                "gen": "šlapsintas",
+                "dat": "šlapsintasmu",
+                "akk": "šlapsintan"
+              },
+              "pl": {
+                "nom": "šlapsintāi",
+                "gen": "šlapsintan",
+                "dat": "šlapsintammans",
+                "akk": "šlapsintans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "Šlēzija",
+    "id": 10459,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Šlēzija",
+          "gen": "Šlēzijas",
+          "dat": "Šlēzijai",
+          "akk": "Šlēzijan"
+        },
+        "pl": {
+          "nom": "Šlēzijas",
+          "gen": "Šlēzijan",
+          "dat": "Šlēzijamans",
+          "akk": "Šlēzijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šlūizi",
+    "id": 10465,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šlūizi",
+          "gen": "šlūizis",
+          "dat": "šlūizei",
+          "akk": "šlūizin"
+        },
+        "pl": {
+          "nom": "šlūizis",
+          "gen": "šlūizin",
+          "dat": "šlūizimans",
+          "akk": "šlūizins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šlūzeniki",
+    "id": 6211,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šlūzeniki",
+          "gen": "šlūzenikis",
+          "dat": "šlūzenikei",
+          "akk": "šlūzenikin"
+        },
+        "pl": {
+          "nom": "šlūzenikis",
+          "gen": "šlūzenikin",
+          "dat": "šlūzenikimans",
+          "akk": "šlūzenikins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šlūzeniks",
+    "id": 6213,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šlūzeniks",
+          "gen": "šlūzenikas",
+          "dat": "šlūzeniku",
+          "akk": "šlūzenikan"
+        },
+        "pl": {
+          "nom": "šlūzenikai",
+          "gen": "šlūzenikan",
+          "dat": "šlūzenikamans",
+          "akk": "šlūzenikans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šlūzi",
+    "id": 6214,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šlūzi",
+          "gen": "šlūzis",
+          "dat": "šlūzei",
+          "akk": "šlūzin"
+        },
+        "pl": {
+          "nom": "šlūzis",
+          "gen": "šlūzin",
+          "dat": "šlūzimans",
+          "akk": "šlūzins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šlūzingis",
+    "id": 8075,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "šlūzingis",
+            "gen": "šlūzingjas",
+            "dat": "šlūzingjasmu",
+            "akk": "šlūzingjan"
+          },
+          "pl": {
+            "nom": "šlūzingjai",
+            "gen": "šlūzingjan",
+            "dat": "šlūzingjamans",
+            "akk": "šlūzingjans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "šlūzingi",
+            "gen": "šlūzingis",
+            "dat": "šlūzingei",
+            "akk": "šlūzingin"
+          },
+          "pl": {
+            "nom": "šlūzingis",
+            "gen": "šlūzingin",
+            "dat": "šlūzingimans",
+            "akk": "šlūzingins"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "šlūzingi / šlūzingjan",
+            "gen": "šlūzingjas",
+            "dat": "šlūzingjasmu",
+            "akk": "šlūzingi / šlūzingjan"
+          },
+          "pl": {
+            "nom": "šlūzingjai",
+            "gen": "šlūzingjan",
+            "dat": "šlūzingjamans",
+            "akk": "šlūzingjans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "šlūzingjaisis",
+            "gen": "šlūzingjaisjas",
+            "dat": "šlūzingjaisjasmu",
+            "akk": "šlūzingjaisin"
+          },
+          "pl": {
+            "nom": "šlūzingjaisjai",
+            "gen": "šlūzingjaisin",
+            "dat": "šlūzingjaisimans",
+            "akk": "šlūzingjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "šlūzingjaisi",
+            "gen": "šlūzingjaisjas",
+            "dat": "šlūzingjaisjai",
+            "akk": "šlūzingjaisjan"
+          },
+          "pl": {
+            "nom": "šlūzingjaisjas",
+            "gen": "šlūzingjaisjan",
+            "dat": "šlūzingjaisjamans",
+            "akk": "šlūzingjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "šlūzingjaisi",
+            "gen": "šlūzingjaisjas",
+            "dat": "šlūzingjaisjasmu",
+            "akk": "šlūzingjaisi"
+          },
+          "pl": {
+            "nom": "šlūzingjaisjai",
+            "gen": "šlūzingjaisin",
+            "dat": "šlūzingjaisimans",
+            "akk": "šlūzingjaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukašlūzingjaisis",
+            "gen": "ukašlūzingjaisjas",
+            "dat": "ukašlūzingjaisjasmu",
+            "akk": "ukašlūzingjaisin"
+          },
+          "pl": {
+            "nom": "ukašlūzingjaisjai",
+            "gen": "ukašlūzingjaisin",
+            "dat": "ukašlūzingjaisimans",
+            "akk": "ukašlūzingjaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukašlūzingjaisi",
+            "gen": "ukašlūzingjaisjas",
+            "dat": "ukašlūzingjaisjai",
+            "akk": "ukašlūzingjaisjan"
+          },
+          "pl": {
+            "nom": "ukašlūzingjaisjas",
+            "gen": "ukašlūzingjaisjan",
+            "dat": "ukašlūzingjaisjamans",
+            "akk": "ukašlūzingjaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukašlūzingjaisi",
+            "gen": "ukašlūzingjaisjas",
+            "dat": "ukašlūzingjaisjasmu",
+            "akk": "ukašlūzingjaisi"
+          },
+          "pl": {
+            "nom": "ukašlūzingjaisjai",
+            "gen": "ukašlūzingjaisin",
+            "dat": "ukašlūzingjaisimans",
+            "akk": "ukašlūzingjaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "šlūzingjai",
+        "comparative": "šlūzingjais",
+        "superlative": "ukašlūzingjais"
+      }
+    }
+  },
+  {
+    "word": "šlūzingiskan",
+    "id": 6221,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "šlūzingiskan",
+          "gen": "šlūzingiskas",
+          "dat": "šlūzingisku",
+          "akk": "šlūzingiskan"
+        },
+        "pl": {
+          "nom": "šluzingiskāi",
+          "gen": "šlūzingiskan",
+          "dat": "šluzingiskammans",
+          "akk": "šlūzingiskans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šlūzingiskas",
+    "id": 10466,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "šlūzingiskas",
+            "gen": "šlūzingiskas",
+            "dat": "šlūzingiskasmu",
+            "akk": "šlūzingiskan"
+          },
+          "pl": {
+            "nom": "šlūzingiskai",
+            "gen": "šlūzingiskan",
+            "dat": "šlūzingiskamans",
+            "akk": "šlūzingiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "šlūzingiska",
+            "gen": "šlūzingiskas",
+            "dat": "šlūzingiskai",
+            "akk": "šlūzingiskan"
+          },
+          "pl": {
+            "nom": "šlūzingiskas",
+            "gen": "šlūzingiskan",
+            "dat": "šlūzingiskamans",
+            "akk": "šlūzingiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "šlūzingiskan",
+            "gen": "šlūzingiskas",
+            "dat": "šlūzingiskasmu",
+            "akk": "šlūzingiskan"
+          },
+          "pl": {
+            "nom": "šlūzingiskai",
+            "gen": "šlūzingiskan",
+            "dat": "šlūzingiskamans",
+            "akk": "šlūzingiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "šlūzingiskaisis",
+            "gen": "šlūzingiskaisjas",
+            "dat": "šlūzingiskaisjasmu",
+            "akk": "šlūzingiskaisin"
+          },
+          "pl": {
+            "nom": "šlūzingiskaisjai",
+            "gen": "šlūzingiskaisin",
+            "dat": "šlūzingiskaisimans",
+            "akk": "šlūzingiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "šlūzingiskaisi",
+            "gen": "šlūzingiskaisjas",
+            "dat": "šlūzingiskaisjai",
+            "akk": "šlūzingiskaisjan"
+          },
+          "pl": {
+            "nom": "šlūzingiskaisjas",
+            "gen": "šlūzingiskaisjan",
+            "dat": "šlūzingiskaisjamans",
+            "akk": "šlūzingiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "šlūzingiskaisi",
+            "gen": "šlūzingiskaisjas",
+            "dat": "šlūzingiskaisjasmu",
+            "akk": "šlūzingiskaisi"
+          },
+          "pl": {
+            "nom": "šlūzingiskaisjai",
+            "gen": "šlūzingiskaisin",
+            "dat": "šlūzingiskaisimans",
+            "akk": "šlūzingiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukašlūzingiskaisis",
+            "gen": "ukašlūzingiskaisjas",
+            "dat": "ukašlūzingiskaisjasmu",
+            "akk": "ukašlūzingiskaisin"
+          },
+          "pl": {
+            "nom": "ukašlūzingiskaisjai",
+            "gen": "ukašlūzingiskaisin",
+            "dat": "ukašlūzingiskaisimans",
+            "akk": "ukašlūzingiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukašlūzingiskaisi",
+            "gen": "ukašlūzingiskaisjas",
+            "dat": "ukašlūzingiskaisjai",
+            "akk": "ukašlūzingiskaisjan"
+          },
+          "pl": {
+            "nom": "ukašlūzingiskaisjas",
+            "gen": "ukašlūzingiskaisjan",
+            "dat": "ukašlūzingiskaisjamans",
+            "akk": "ukašlūzingiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukašlūzingiskaisi",
+            "gen": "ukašlūzingiskaisjas",
+            "dat": "ukašlūzingiskaisjasmu",
+            "akk": "ukašlūzingiskaisi"
+          },
+          "pl": {
+            "nom": "ukašlūzingiskaisjai",
+            "gen": "ukašlūzingiskaisin",
+            "dat": "ukašlūzingiskaisimans",
+            "akk": "ukašlūzingiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "šlūzingiskai",
+        "comparative": "šlūzingiskais",
+        "superlative": "ukašlūzingiskais"
+      }
+    }
+  },
+  {
+    "word": "šlūzisenis",
+    "id": 8077,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šlūzisenis",
+          "gen": "šlūzisenjas",
+          "dat": "šlūzisenju",
+          "akk": "šlūzisenjan"
+        },
+        "pl": {
+          "nom": "šlūzisenjai",
+          "gen": "šlūzisenjan",
+          "dat": "šlūzisenjamans",
+          "akk": "šlūzisenjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šlūzisna",
+    "id": 6222,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šlūzisna",
+          "gen": "šlūzisnas",
+          "dat": "šlūzisnai",
+          "akk": "šlūzisnan"
+        },
+        "pl": {
+          "nom": "šlūzisnas",
+          "gen": "šlūzisnan",
+          "dat": "šlūzisnamans",
+          "akk": "šlūzisnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šlūzitwei",
+    "id": 6225,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "šlūzi"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šlūzi"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šlūzi"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šlūzimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šlūzitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šlūzi"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "šlūzi"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šlūzi"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šlūzi"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šlūzimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šlūzitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šlūzi"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma šlūziwuns / šlūziwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei šlūziwuns / šlūziwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast šlūziwuns / šlūziwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast šlūziwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai šlūziwusis / šlūziwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei šlūziwusis / šlūziwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast šlūziwusis / šlūziwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst šlūziwuns / šlūziwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst šlūziwuns / šlūziwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst šlūziwuns / šlūziwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst šlūziwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai šlūziwusis / šlūziwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei šlūziwusis / šlūziwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst šlūziwusis / šlūziwusjas"
+          }
+        ]
+      },
+      "optative": "šlūzisei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "šlūzis"
+        },
+        {
+          "p": "(jūs)",
+          "f": "šlūziti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "šlūzilai"
+        },
+        {
+          "p": "tū",
+          "f": "šlūzilai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "šlūzilai"
+        },
+        {
+          "p": "mes",
+          "f": "šlūzilimai"
+        },
+        {
+          "p": "jūs",
+          "f": "šlūzilitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "šlūzilai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "šlūzints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šlūzints",
+                "gen": "šlūzintis",
+                "dat": "šlūzintismu",
+                "akk": "šlūzintin"
+              },
+              "pl": {
+                "nom": "šlūzintjai",
+                "gen": "šlūzintin",
+                "dat": "šluzintimmans",
+                "akk": "šlūzintins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šluzintī",
+                "gen": "šlūzintjas",
+                "dat": "šlūzintjai",
+                "akk": "šlūzintjan"
+              },
+              "pl": {
+                "nom": "šlūzintjas",
+                "gen": "šlūzintjan",
+                "dat": "šluzintjāmans",
+                "akk": "šlūzintjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šlūzinti",
+                "gen": "šlūzintis",
+                "dat": "šlūzintismu",
+                "akk": "šlūzintin"
+              },
+              "pl": {
+                "nom": "šlūzintjai",
+                "gen": "šlūzintin",
+                "dat": "šluzintimmans",
+                "akk": "šlūzintins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "šlūziwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šlūziwuns",
+                "gen": "šlūziwusjas",
+                "dat": "šlūziwusjasmu",
+                "akk": "šlūziwusin"
+              },
+              "pl": {
+                "nom": "šlūziwusis",
+                "gen": "šlūziwusin",
+                "dat": "šlūziwusimans",
+                "akk": "šlūziwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šlūziwusi",
+                "gen": "šlūziwusjas",
+                "dat": "šlūziwusjai",
+                "akk": "šlūziwusjan"
+              },
+              "pl": {
+                "nom": "šlūziwusjas",
+                "gen": "šlūziwusjan",
+                "dat": "šlūziwusjamans",
+                "akk": "šlūziwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šlūziwus",
+                "gen": "šlūziwusjas",
+                "dat": "šlūziwusjasmu",
+                "akk": "šlūziwus"
+              },
+              "pl": {
+                "nom": "šlūziwus",
+                "gen": "šlūziwusin",
+                "dat": "šlūziwusimans",
+                "akk": "šlūziwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "šlūzits",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šlūzits",
+                "gen": "šlūzitas",
+                "dat": "šlūzitasmu",
+                "akk": "šlūzitan"
+              },
+              "pl": {
+                "nom": "šluzitāi",
+                "gen": "šlūzitan",
+                "dat": "šluzitammans",
+                "akk": "šlūzitans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šluzitā",
+                "gen": "šlūzitas",
+                "dat": "šlūzitai",
+                "akk": "šlūzitan"
+              },
+              "pl": {
+                "nom": "šlūzitas",
+                "gen": "šlūzitan",
+                "dat": "šluzitāmans",
+                "akk": "šlūzitans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šlūzitan",
+                "gen": "šlūzitas",
+                "dat": "šlūzitasmu",
+                "akk": "šlūzitan"
+              },
+              "pl": {
+                "nom": "šluzitāi",
+                "gen": "šlūzitan",
+                "dat": "šluzitammans",
+                "akk": "šlūzitans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "šmaws",
+    "id": 6226,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šmaws",
+          "gen": "šmāuwas",
+          "dat": "šmāuwu",
+          "akk": "šmāuwan"
+        },
+        "pl": {
+          "nom": "šmāuwai",
+          "gen": "šmāuwan",
+          "dat": "šmāuamans",
+          "akk": "šmāuwans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šmīnka",
+    "id": 6227,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šmīnka",
+          "gen": "šmīnkas",
+          "dat": "šmīnkai",
+          "akk": "šmīnkan"
+        },
+        "pl": {
+          "nom": "šmīnkas",
+          "gen": "šmīnkan",
+          "dat": "šmīnkamans",
+          "akk": "šmīnkans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šmīnkintun",
+    "id": 6228,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "šmīnkina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šmīnkina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šmīnkina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šmīnkinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šmīnkinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šmīnkina"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "šmīnkina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šmīnkina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šmīnkina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šmīnkinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šmīnkinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šmīnkina"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma šmīnkinuns / šmīnkinusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei šmīnkinuns / šmīnkinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast šmīnkinuns / šmīnkinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast šmīnkinus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai šmīnkinusis / šmīnkinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei šmīnkinusis / šmīnkinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast šmīnkinusis / šmīnkinusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst šmīnkinuns / šmīnkinusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst šmīnkinuns / šmīnkinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst šmīnkinuns / šmīnkinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst šmīnkinus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai šmīnkinusis / šmīnkinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei šmīnkinusis / šmīnkinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst šmīnkinusis / šmīnkinusjas"
+          }
+        ]
+      },
+      "optative": "šmīnkinsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "šmīnkinais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "šmīnkinaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "šmīnkinlai"
+        },
+        {
+          "p": "tū",
+          "f": "šmīnkinlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "šmīnkinlai"
+        },
+        {
+          "p": "mes",
+          "f": "šmīnkinlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "šmīnkinlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "šmīnkinlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "šmīnkinants",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šmīnkinants",
+                "gen": "šmīnkinantis",
+                "dat": "šmīnkinantismu",
+                "akk": "šmīnkinantin"
+              },
+              "pl": {
+                "nom": "šmīnkinantjai",
+                "gen": "šmīnkinantin",
+                "dat": "šminkinantimmans",
+                "akk": "šmīnkinantins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šminkinantī",
+                "gen": "šmīnkinantjas",
+                "dat": "šmīnkinantjai",
+                "akk": "šmīnkinantjan"
+              },
+              "pl": {
+                "nom": "šmīnkinantjas",
+                "gen": "šmīnkinantjan",
+                "dat": "šminkinantjāmans",
+                "akk": "šmīnkinantjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šmīnkinanti",
+                "gen": "šmīnkinantis",
+                "dat": "šmīnkinantismu",
+                "akk": "šmīnkinantin"
+              },
+              "pl": {
+                "nom": "šmīnkinantjai",
+                "gen": "šmīnkinantin",
+                "dat": "šminkinantimmans",
+                "akk": "šmīnkinantins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "šmīnkinuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šmīnkinuns",
+                "gen": "šmīnkinusjas",
+                "dat": "šmīnkinusjasmu",
+                "akk": "šmīnkinusin"
+              },
+              "pl": {
+                "nom": "šmīnkinusis",
+                "gen": "šmīnkinusin",
+                "dat": "šmīnkinusimans",
+                "akk": "šmīnkinusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šmīnkinusi",
+                "gen": "šmīnkinusjas",
+                "dat": "šmīnkinusjai",
+                "akk": "šmīnkinusjan"
+              },
+              "pl": {
+                "nom": "šmīnkinusjas",
+                "gen": "šmīnkinusjan",
+                "dat": "šmīnkinusjamans",
+                "akk": "šmīnkinusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šmīnkinus",
+                "gen": "šmīnkinusjas",
+                "dat": "šmīnkinusjasmu",
+                "akk": "šmīnkinus"
+              },
+              "pl": {
+                "nom": "šmīnkinus",
+                "gen": "šmīnkinusin",
+                "dat": "šmīnkinusimans",
+                "akk": "šmīnkinus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "šmīnkints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šmīnkints",
+                "gen": "šmīnkintas",
+                "dat": "šmīnkintasmu",
+                "akk": "šmīnkintan"
+              },
+              "pl": {
+                "nom": "šminkintāi",
+                "gen": "šmīnkintan",
+                "dat": "šminkintammans",
+                "akk": "šmīnkintans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šminkintā",
+                "gen": "šmīnkintas",
+                "dat": "šmīnkintai",
+                "akk": "šmīnkintan"
+              },
+              "pl": {
+                "nom": "šmīnkintas",
+                "gen": "šmīnkintan",
+                "dat": "šminkintāmans",
+                "akk": "šmīnkintans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šmīnkintan",
+                "gen": "šmīnkintas",
+                "dat": "šmīnkintasmu",
+                "akk": "šmīnkintan"
+              },
+              "pl": {
+                "nom": "šminkintāi",
+                "gen": "šmīnkintan",
+                "dat": "šminkintammans",
+                "akk": "šmīnkintans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "šmunceli",
+    "id": 8660,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šmunceli",
+          "gen": "šmuncelis",
+          "dat": "šmuncelei",
+          "akk": "šmuncelin"
+        },
+        "pl": {
+          "nom": "šmuncelis",
+          "gen": "šmuncelin",
+          "dat": "šmuncelimans",
+          "akk": "šmuncelins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šnapss",
+    "id": 10473,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šnapss",
+          "gen": "šnapsas",
+          "dat": "šnapsu",
+          "akk": "šnapsan"
+        },
+        "pl": {
+          "nom": "šnapsai",
+          "gen": "šnapsan",
+          "dat": "šnapsamans",
+          "akk": "šnapsans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šnūri",
+    "id": 10479,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šnūri",
+          "gen": "šnūris",
+          "dat": "šnūrei",
+          "akk": "šnūrin"
+        },
+        "pl": {
+          "nom": "šnūris",
+          "gen": "šnūrin",
+          "dat": "šnūrimans",
+          "akk": "šnūrins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šnurgtwei",
+    "id": 10478,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "šnurgja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šnurgja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šnurgja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šnurgjamai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šnurgjatei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šnurgja"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "šnurgi"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šnurgi"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šnurgi"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šnurgimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šnurgitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šnurgi"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma šnurguns / šnurgusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei šnurguns / šnurgusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast šnurguns / šnurgusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast šnurgus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai šnurgusis / šnurgusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei šnurgusis / šnurgusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast šnurgusis / šnurgusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst šnurguns / šnurgusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst šnurguns / šnurgusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst šnurguns / šnurgusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst šnurgus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai šnurgusis / šnurgusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei šnurgusis / šnurgusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst šnurgusis / šnurgusjas"
+          }
+        ]
+      },
+      "optative": "šnurgsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "šnurgjais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "šnurgjaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "šnurglai"
+        },
+        {
+          "p": "tū",
+          "f": "šnurglai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "šnurglai"
+        },
+        {
+          "p": "mes",
+          "f": "šnurglimai"
+        },
+        {
+          "p": "jūs",
+          "f": "šnurglitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "šnurglai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "šnurgints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šnurgints",
+                "gen": "šnurgintis",
+                "dat": "šnurgintismu",
+                "akk": "šnurgintin"
+              },
+              "pl": {
+                "nom": "šnurgintjai",
+                "gen": "šnurgintin",
+                "dat": "šnurgintimmans",
+                "akk": "šnurgintins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šnurgintī",
+                "gen": "šnurgintjas",
+                "dat": "šnurgintjai",
+                "akk": "šnurgintjan"
+              },
+              "pl": {
+                "nom": "šnurgintjas",
+                "gen": "šnurgintjan",
+                "dat": "šnurgintjāmans",
+                "akk": "šnurgintjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šnurginti",
+                "gen": "šnurgintis",
+                "dat": "šnurgintismu",
+                "akk": "šnurgintin"
+              },
+              "pl": {
+                "nom": "šnurgintjai",
+                "gen": "šnurgintin",
+                "dat": "šnurgintimmans",
+                "akk": "šnurgintins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "šnurguns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šnurguns",
+                "gen": "šnurgusjas",
+                "dat": "šnurgusjasmu",
+                "akk": "šnurgusin"
+              },
+              "pl": {
+                "nom": "šnurgusis",
+                "gen": "šnurgusin",
+                "dat": "šnurgusimans",
+                "akk": "šnurgusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šnurgusi",
+                "gen": "šnurgusjas",
+                "dat": "šnurgusjai",
+                "akk": "šnurgusjan"
+              },
+              "pl": {
+                "nom": "šnurgusjas",
+                "gen": "šnurgusjan",
+                "dat": "šnurgusjamans",
+                "akk": "šnurgusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šnurgus",
+                "gen": "šnurgusjas",
+                "dat": "šnurgusjasmu",
+                "akk": "šnurgus"
+              },
+              "pl": {
+                "nom": "šnurgus",
+                "gen": "šnurgusin",
+                "dat": "šnurgusimans",
+                "akk": "šnurgus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "šnurgts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šnurgts",
+                "gen": "šnurgtas",
+                "dat": "šnurgtasmu",
+                "akk": "šnurgtan"
+              },
+              "pl": {
+                "nom": "šnurgtāi",
+                "gen": "šnurgtan",
+                "dat": "šnurgtammans",
+                "akk": "šnurgtans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šnurgtā",
+                "gen": "šnurgtas",
+                "dat": "šnurgtai",
+                "akk": "šnurgtan"
+              },
+              "pl": {
+                "nom": "šnurgtas",
+                "gen": "šnurgtan",
+                "dat": "šnurgtāmans",
+                "akk": "šnurgtans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šnurgtan",
+                "gen": "šnurgtas",
+                "dat": "šnurgtasmu",
+                "akk": "šnurgtan"
+              },
+              "pl": {
+                "nom": "šnurgtāi",
+                "gen": "šnurgtan",
+                "dat": "šnurgtammans",
+                "akk": "šnurgtans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "šōkintun",
+    "id": 10534,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "šōkina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šōkina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šōkina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šōkinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šōkinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šōkina"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "šōkina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šōkina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šōkina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šōkinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šōkinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šōkina"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma šōkinuns / šōkinusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei šōkinuns / šōkinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast šōkinuns / šōkinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast šōkinus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai šōkinusis / šōkinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei šōkinusis / šōkinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast šōkinusis / šōkinusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst šōkinuns / šōkinusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst šōkinuns / šōkinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst šōkinuns / šōkinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst šōkinus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai šōkinusis / šōkinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei šōkinusis / šōkinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst šōkinusis / šōkinusjas"
+          }
+        ]
+      },
+      "optative": "šōkinsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "šōkinais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "šōkinaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "šōkinlai"
+        },
+        {
+          "p": "tū",
+          "f": "šōkinlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "šōkinlai"
+        },
+        {
+          "p": "mes",
+          "f": "šōkinlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "šōkinlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "šōkinlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "šōkinants",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šōkinants",
+                "gen": "šōkinantis",
+                "dat": "šōkinantismu",
+                "akk": "šōkinantin"
+              },
+              "pl": {
+                "nom": "šōkinantjai",
+                "gen": "šōkinantin",
+                "dat": "šokinantimmans",
+                "akk": "šōkinantins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šokinantī",
+                "gen": "šōkinantjas",
+                "dat": "šōkinantjai",
+                "akk": "šōkinantjan"
+              },
+              "pl": {
+                "nom": "šōkinantjas",
+                "gen": "šōkinantjan",
+                "dat": "šokinantjāmans",
+                "akk": "šōkinantjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šōkinanti",
+                "gen": "šōkinantis",
+                "dat": "šōkinantismu",
+                "akk": "šōkinantin"
+              },
+              "pl": {
+                "nom": "šōkinantjai",
+                "gen": "šōkinantin",
+                "dat": "šokinantimmans",
+                "akk": "šōkinantins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "šōkinuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šōkinuns",
+                "gen": "šōkinusjas",
+                "dat": "šōkinusjasmu",
+                "akk": "šōkinusin"
+              },
+              "pl": {
+                "nom": "šōkinusis",
+                "gen": "šōkinusin",
+                "dat": "šōkinusimans",
+                "akk": "šōkinusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šōkinusi",
+                "gen": "šōkinusjas",
+                "dat": "šōkinusjai",
+                "akk": "šōkinusjan"
+              },
+              "pl": {
+                "nom": "šōkinusjas",
+                "gen": "šōkinusjan",
+                "dat": "šōkinusjamans",
+                "akk": "šōkinusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šōkinus",
+                "gen": "šōkinusjas",
+                "dat": "šōkinusjasmu",
+                "akk": "šōkinus"
+              },
+              "pl": {
+                "nom": "šōkinus",
+                "gen": "šōkinusin",
+                "dat": "šōkinusimans",
+                "akk": "šōkinus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "šōkints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šōkints",
+                "gen": "šōkintas",
+                "dat": "šōkintasmu",
+                "akk": "šōkintan"
+              },
+              "pl": {
+                "nom": "šokintāi",
+                "gen": "šōkintan",
+                "dat": "šokintammans",
+                "akk": "šōkintans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šokintā",
+                "gen": "šōkintas",
+                "dat": "šōkintai",
+                "akk": "šōkintan"
+              },
+              "pl": {
+                "nom": "šōkintas",
+                "gen": "šōkintan",
+                "dat": "šokintāmans",
+                "akk": "šōkintans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šōkintan",
+                "gen": "šōkintas",
+                "dat": "šōkintasmu",
+                "akk": "šōkintan"
+              },
+              "pl": {
+                "nom": "šokintāi",
+                "gen": "šōkintan",
+                "dat": "šokintammans",
+                "akk": "šōkintans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "šōkitun",
+    "id": 7295,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "šōkia"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šōkia"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šōkia"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šōkiimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šōkiitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šōkia"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "šōkia"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šōkia"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šōkia"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šōkiimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šōkiitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šōkia"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma šōkiuns / šōkiusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei šōkiuns / šōkiusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast šōkiuns / šōkiusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast šōkius"
+          },
+          {
+            "p": "mes",
+            "f": "asmai šōkiusis / šōkiusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei šōkiusis / šōkiusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast šōkiusis / šōkiusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst šōkiuns / šōkiusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst šōkiuns / šōkiusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst šōkiuns / šōkiusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst šōkius"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai šōkiusis / šōkiusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei šōkiusis / šōkiusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst šōkiusis / šōkiusjas"
+          }
+        ]
+      },
+      "optative": "šōkisei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "šōkiais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "šōkiaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "šōkilai"
+        },
+        {
+          "p": "tū",
+          "f": "šōkilai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "šōkilai"
+        },
+        {
+          "p": "mes",
+          "f": "šōkilimai"
+        },
+        {
+          "p": "jūs",
+          "f": "šōkilitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "šōkilai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "šōkiants",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šōkiants",
+                "gen": "šōkiantis",
+                "dat": "šōkiantismu",
+                "akk": "šōkiantin"
+              },
+              "pl": {
+                "nom": "šōkiantjai",
+                "gen": "šōkiantin",
+                "dat": "šokiantimmans",
+                "akk": "šōkiantins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šokiantī",
+                "gen": "šōkiantjas",
+                "dat": "šōkiantjai",
+                "akk": "šōkiantjan"
+              },
+              "pl": {
+                "nom": "šōkiantjas",
+                "gen": "šōkiantjan",
+                "dat": "šokiantjāmans",
+                "akk": "šōkiantjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šōkianti",
+                "gen": "šōkiantis",
+                "dat": "šōkiantismu",
+                "akk": "šōkiantin"
+              },
+              "pl": {
+                "nom": "šōkiantjai",
+                "gen": "šōkiantin",
+                "dat": "šokiantimmans",
+                "akk": "šōkiantins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "šōkiuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šōkiuns",
+                "gen": "šōkiusjas",
+                "dat": "šōkiusjasmu",
+                "akk": "šōkiusin"
+              },
+              "pl": {
+                "nom": "šōkiusis",
+                "gen": "šōkiusin",
+                "dat": "šōkiusimans",
+                "akk": "šōkiusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šōkiusi",
+                "gen": "šōkiusjas",
+                "dat": "šōkiusjai",
+                "akk": "šōkiusjan"
+              },
+              "pl": {
+                "nom": "šōkiusjas",
+                "gen": "šōkiusjan",
+                "dat": "šōkiusjamans",
+                "akk": "šōkiusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šōkius",
+                "gen": "šōkiusjas",
+                "dat": "šōkiusjasmu",
+                "akk": "šōkius"
+              },
+              "pl": {
+                "nom": "šōkius",
+                "gen": "šōkiusin",
+                "dat": "šōkiusimans",
+                "akk": "šōkius"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "šōkits",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šōkits",
+                "gen": "šōkitas",
+                "dat": "šōkitasmu",
+                "akk": "šōkitan"
+              },
+              "pl": {
+                "nom": "šokitāi",
+                "gen": "šōkitan",
+                "dat": "šokitammans",
+                "akk": "šōkitans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šokitā",
+                "gen": "šōkitas",
+                "dat": "šōkitai",
+                "akk": "šōkitan"
+              },
+              "pl": {
+                "nom": "šōkitas",
+                "gen": "šōkitan",
+                "dat": "šokitāmans",
+                "akk": "šōkitans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šōkitan",
+                "gen": "šōkitas",
+                "dat": "šōkitasmu",
+                "akk": "šōkitan"
+              },
+              "pl": {
+                "nom": "šokitāi",
+                "gen": "šōkitan",
+                "dat": "šokitammans",
+                "akk": "šōkitans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "šōks",
+    "id": 7296,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šōks",
+          "gen": "šōkas",
+          "dat": "šōku",
+          "akk": "šōkan"
+        },
+        "pl": {
+          "nom": "šōkai",
+          "gen": "šōkan",
+          "dat": "šōkamans",
+          "akk": "šōkans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šōsē",
+    "id": 6231,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šosē",
+          "gen": "šōsis",
+          "dat": "šōsei",
+          "akk": "šōsin"
+        },
+        "pl": {
+          "nom": "šōsis",
+          "gen": "šōsin",
+          "dat": "šosīmans",
+          "akk": "šōsins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šokōladi",
+    "id": 6229,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šokōladi",
+          "gen": "šokōladis",
+          "dat": "šokōladei",
+          "akk": "šokōladin"
+        },
+        "pl": {
+          "nom": "šokōladis",
+          "gen": "šokōladin",
+          "dat": "šokōladimans",
+          "akk": "šokōladins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šokōladisks",
+    "id": 6230,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "šokōladisks",
+            "gen": "šokōladiskas",
+            "dat": "šokōladiskasmu",
+            "akk": "šokōladiskan"
+          },
+          "pl": {
+            "nom": "šokōladiskai",
+            "gen": "šokōladiskan",
+            "dat": "šokōladiskamans",
+            "akk": "šokōladiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "šokōladiska",
+            "gen": "šokōladiskas",
+            "dat": "šokōladiskai",
+            "akk": "šokōladiskan"
+          },
+          "pl": {
+            "nom": "šokōladiskas",
+            "gen": "šokōladiskan",
+            "dat": "šokōladiskamans",
+            "akk": "šokōladiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "šokōladiskan",
+            "gen": "šokōladiskas",
+            "dat": "šokōladiskasmu",
+            "akk": "šokōladiskan"
+          },
+          "pl": {
+            "nom": "šokōladiskai",
+            "gen": "šokōladiskan",
+            "dat": "šokōladiskamans",
+            "akk": "šokōladiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "šokōladiskaisis",
+            "gen": "šokōladiskaisjas",
+            "dat": "šokōladiskaisjasmu",
+            "akk": "šokōladiskaisin"
+          },
+          "pl": {
+            "nom": "šokōladiskaisjai",
+            "gen": "šokōladiskaisin",
+            "dat": "šokōladiskaisimans",
+            "akk": "šokōladiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "šokōladiskaisi",
+            "gen": "šokōladiskaisjas",
+            "dat": "šokōladiskaisjai",
+            "akk": "šokōladiskaisjan"
+          },
+          "pl": {
+            "nom": "šokōladiskaisjas",
+            "gen": "šokōladiskaisjan",
+            "dat": "šokōladiskaisjamans",
+            "akk": "šokōladiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "šokōladiskaisi",
+            "gen": "šokōladiskaisjas",
+            "dat": "šokōladiskaisjasmu",
+            "akk": "šokōladiskaisi"
+          },
+          "pl": {
+            "nom": "šokōladiskaisjai",
+            "gen": "šokōladiskaisin",
+            "dat": "šokōladiskaisimans",
+            "akk": "šokōladiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukašokōladiskaisis",
+            "gen": "ukašokōladiskaisjas",
+            "dat": "ukašokōladiskaisjasmu",
+            "akk": "ukašokōladiskaisin"
+          },
+          "pl": {
+            "nom": "ukašokōladiskaisjai",
+            "gen": "ukašokōladiskaisin",
+            "dat": "ukašokōladiskaisimans",
+            "akk": "ukašokōladiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukašokōladiskaisi",
+            "gen": "ukašokōladiskaisjas",
+            "dat": "ukašokōladiskaisjai",
+            "akk": "ukašokōladiskaisjan"
+          },
+          "pl": {
+            "nom": "ukašokōladiskaisjas",
+            "gen": "ukašokōladiskaisjan",
+            "dat": "ukašokōladiskaisjamans",
+            "akk": "ukašokōladiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukašokōladiskaisi",
+            "gen": "ukašokōladiskaisjas",
+            "dat": "ukašokōladiskaisjasmu",
+            "akk": "ukašokōladiskaisi"
+          },
+          "pl": {
+            "nom": "ukašokōladiskaisjai",
+            "gen": "ukašokōladiskaisin",
+            "dat": "ukašokōladiskaisimans",
+            "akk": "ukašokōladiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "šokōladiskai",
+        "comparative": "šokōladiskais",
+        "superlative": "ukašokōladiskais"
+      }
+    }
+  },
+  {
+    "word": "špiōnitwei",
+    "id": 10492,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "špiōni"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "špiōni"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "špiōni"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "špiōnimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "špiōnitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "špiōni"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "špiōni"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "špiōni"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "špiōni"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "špiōnimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "špiōnitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "špiōni"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma špiōniwuns / špiōniwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei špiōniwuns / špiōniwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast špiōniwuns / špiōniwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast špiōniwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai špiōniwusis / špiōniwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei špiōniwusis / špiōniwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast špiōniwusis / špiōniwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst špiōniwuns / špiōniwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst špiōniwuns / špiōniwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst špiōniwuns / špiōniwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst špiōniwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai špiōniwusis / špiōniwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei špiōniwusis / špiōniwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst špiōniwusis / špiōniwusjas"
+          }
+        ]
+      },
+      "optative": "špiōnisei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "špiōnis"
+        },
+        {
+          "p": "(jūs)",
+          "f": "špiōniti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "špiōnilai"
+        },
+        {
+          "p": "tū",
+          "f": "špiōnilai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "špiōnilai"
+        },
+        {
+          "p": "mes",
+          "f": "špiōnilimai"
+        },
+        {
+          "p": "jūs",
+          "f": "špiōnilitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "špiōnilai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "špiōnints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "špiōnints",
+                "gen": "špiōnintis",
+                "dat": "špiōnintismu",
+                "akk": "špiōnintin"
+              },
+              "pl": {
+                "nom": "špiōnintjai",
+                "gen": "špiōnintin",
+                "dat": "špionintimmans",
+                "akk": "špiōnintins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "špionintī",
+                "gen": "špiōnintjas",
+                "dat": "špiōnintjai",
+                "akk": "špiōnintjan"
+              },
+              "pl": {
+                "nom": "špiōnintjas",
+                "gen": "špiōnintjan",
+                "dat": "špionintjāmans",
+                "akk": "špiōnintjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "špiōninti",
+                "gen": "špiōnintis",
+                "dat": "špiōnintismu",
+                "akk": "špiōnintin"
+              },
+              "pl": {
+                "nom": "špiōnintjai",
+                "gen": "špiōnintin",
+                "dat": "špionintimmans",
+                "akk": "špiōnintins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "špiōniwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "špiōniwuns",
+                "gen": "špiōniwusjas",
+                "dat": "špiōniwusjasmu",
+                "akk": "špiōniwusin"
+              },
+              "pl": {
+                "nom": "špiōniwusis",
+                "gen": "špiōniwusin",
+                "dat": "špiōniwusimans",
+                "akk": "špiōniwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "špiōniwusi",
+                "gen": "špiōniwusjas",
+                "dat": "špiōniwusjai",
+                "akk": "špiōniwusjan"
+              },
+              "pl": {
+                "nom": "špiōniwusjas",
+                "gen": "špiōniwusjan",
+                "dat": "špiōniwusjamans",
+                "akk": "špiōniwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "špiōniwus",
+                "gen": "špiōniwusjas",
+                "dat": "špiōniwusjasmu",
+                "akk": "špiōniwus"
+              },
+              "pl": {
+                "nom": "špiōniwus",
+                "gen": "špiōniwusin",
+                "dat": "špiōniwusimans",
+                "akk": "špiōniwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "špiōnits",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "špiōnits",
+                "gen": "špiōnitas",
+                "dat": "špiōnitasmu",
+                "akk": "špiōnitan"
+              },
+              "pl": {
+                "nom": "špionitāi",
+                "gen": "špiōnitan",
+                "dat": "špionitammans",
+                "akk": "špiōnitans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "špionitā",
+                "gen": "špiōnitas",
+                "dat": "špiōnitai",
+                "akk": "špiōnitan"
+              },
+              "pl": {
+                "nom": "špiōnitas",
+                "gen": "špiōnitan",
+                "dat": "špionitāmans",
+                "akk": "špiōnitans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "špiōnitan",
+                "gen": "špiōnitas",
+                "dat": "špiōnitasmu",
+                "akk": "špiōnitan"
+              },
+              "pl": {
+                "nom": "špionitāi",
+                "gen": "špiōnitan",
+                "dat": "špionitammans",
+                "akk": "špiōnitans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "špricci",
+    "id": 7340,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "špricci",
+          "gen": "špriccis",
+          "dat": "špriccei",
+          "akk": "špriccin"
+        },
+        "pl": {
+          "nom": "špriccis",
+          "gen": "špriccin",
+          "dat": "špriccimans",
+          "akk": "špriccins"
+        }
+      }
+    }
+  },
+  {
+    "word": "špriccintun",
+    "id": 7341,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "špriccina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "špriccina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "špriccina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "špriccinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "špriccinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "špriccina"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "špriccina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "špriccina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "špriccina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "špriccinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "špriccinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "špriccina"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma špriccinuns / špriccinusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei špriccinuns / špriccinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast špriccinuns / špriccinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast špriccinus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai špriccinusis / špriccinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei špriccinusis / špriccinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast špriccinusis / špriccinusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst špriccinuns / špriccinusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst špriccinuns / špriccinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst špriccinuns / špriccinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst špriccinus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai špriccinusis / špriccinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei špriccinusis / špriccinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst špriccinusis / špriccinusjas"
+          }
+        ]
+      },
+      "optative": "špriccinsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "špriccinais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "špriccinaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "špriccinlai"
+        },
+        {
+          "p": "tū",
+          "f": "špriccinlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "špriccinlai"
+        },
+        {
+          "p": "mes",
+          "f": "špriccinlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "špriccinlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "špriccinlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "špriccinants",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "špriccinants",
+                "gen": "špriccinantis",
+                "dat": "špriccinantismu",
+                "akk": "špriccinantin"
+              },
+              "pl": {
+                "nom": "špriccinantjai",
+                "gen": "špriccinantin",
+                "dat": "špriccinantimmans",
+                "akk": "špriccinantins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "špriccinantī",
+                "gen": "špriccinantjas",
+                "dat": "špriccinantjai",
+                "akk": "špriccinantjan"
+              },
+              "pl": {
+                "nom": "špriccinantjas",
+                "gen": "špriccinantjan",
+                "dat": "špriccinantjāmans",
+                "akk": "špriccinantjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "špriccinanti",
+                "gen": "špriccinantis",
+                "dat": "špriccinantismu",
+                "akk": "špriccinantin"
+              },
+              "pl": {
+                "nom": "špriccinantjai",
+                "gen": "špriccinantin",
+                "dat": "špriccinantimmans",
+                "akk": "špriccinantins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "špriccinuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "špriccinuns",
+                "gen": "špriccinusjas",
+                "dat": "špriccinusjasmu",
+                "akk": "špriccinusin"
+              },
+              "pl": {
+                "nom": "špriccinusis",
+                "gen": "špriccinusin",
+                "dat": "špriccinusimans",
+                "akk": "špriccinusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "špriccinusi",
+                "gen": "špriccinusjas",
+                "dat": "špriccinusjai",
+                "akk": "špriccinusjan"
+              },
+              "pl": {
+                "nom": "špriccinusjas",
+                "gen": "špriccinusjan",
+                "dat": "špriccinusjamans",
+                "akk": "špriccinusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "špriccinus",
+                "gen": "špriccinusjas",
+                "dat": "špriccinusjasmu",
+                "akk": "špriccinus"
+              },
+              "pl": {
+                "nom": "špriccinus",
+                "gen": "špriccinusin",
+                "dat": "špriccinusimans",
+                "akk": "špriccinus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "špriccints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "špriccints",
+                "gen": "špriccintas",
+                "dat": "špriccintasmu",
+                "akk": "špriccintan"
+              },
+              "pl": {
+                "nom": "špriccintāi",
+                "gen": "špriccintan",
+                "dat": "špriccintammans",
+                "akk": "špriccintans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "špriccintā",
+                "gen": "špriccintas",
+                "dat": "špriccintai",
+                "akk": "špriccintan"
+              },
+              "pl": {
+                "nom": "špriccintas",
+                "gen": "špriccintan",
+                "dat": "špriccintāmans",
+                "akk": "špriccintans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "špriccintan",
+                "gen": "špriccintas",
+                "dat": "špriccintasmu",
+                "akk": "špriccintan"
+              },
+              "pl": {
+                "nom": "špriccintāi",
+                "gen": "špriccintan",
+                "dat": "špriccintammans",
+                "akk": "špriccintans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "šrapnellan",
+    "id": 6238,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "šrapnellan",
+          "gen": "šrapnellas",
+          "dat": "šrapnellu",
+          "akk": "šrapnellan"
+        },
+        "pl": {
+          "nom": "šrapnelāi",
+          "gen": "šrapnellan",
+          "dat": "šrapnelammans",
+          "akk": "šrapnellans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Šrī Lankā",
+    "id": 8327,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Šrī Lankā",
+          "gen": "Šrī Lankas",
+          "dat": "Šrī Lankai",
+          "akk": "Šrī Lankan"
+        },
+        "pl": {
+          "nom": "Šrī Lankas",
+          "gen": "Šrī Lankan",
+          "dat": "Šrī Lankāmans",
+          "akk": "Šrī Lankans"
+        }
+      }
+    }
+  },
+  {
+    "word": "štābs",
+    "id": 6239,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "štābs",
+          "gen": "štābas",
+          "dat": "štābu",
+          "akk": "štāban"
+        },
+        "pl": {
+          "nom": "štābai",
+          "gen": "štāban",
+          "dat": "štābamans",
+          "akk": "štābans"
+        }
+      }
+    }
+  },
+  {
+    "word": "štangi",
+    "id": 10509,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "štangi",
+          "gen": "štangis",
+          "dat": "štangei",
+          "akk": "štangin"
+        },
+        "pl": {
+          "nom": "štangis",
+          "gen": "štangin",
+          "dat": "štangimans",
+          "akk": "štangins"
+        }
+      }
+    }
+  },
+  {
+    "word": "štēmpelis",
+    "id": 10511,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "štēmpelis",
+          "gen": "štēmpeljas",
+          "dat": "štēmpelju",
+          "akk": "štēmpeljan"
+        },
+        "pl": {
+          "nom": "štēmpeljai",
+          "gen": "štēmpeljan",
+          "dat": "štēmpeljamans",
+          "akk": "štēmpeljans"
+        }
+      }
+    }
+  },
+  {
+    "word": "štēmps",
+    "id": 10512,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "štēmps",
+          "gen": "štēmpas",
+          "dat": "štēmpu",
+          "akk": "štēmpan"
+        },
+        "pl": {
+          "nom": "štēmpai",
+          "gen": "štēmpan",
+          "dat": "štēmpamans",
+          "akk": "štēmpans"
+        }
+      }
+    }
+  },
+  {
+    "word": "štekkeris",
+    "id": 7649,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "štekkeris",
+          "gen": "štekkerjas",
+          "dat": "štekkerju",
+          "akk": "štekkerjan"
+        },
+        "pl": {
+          "nom": "štekkerjai",
+          "gen": "štekkerjan",
+          "dat": "štekkerjamans",
+          "akk": "štekkerjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "štifts",
+    "id": 10514,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "štifts",
+          "gen": "štiftas",
+          "dat": "štiftu",
+          "akk": "štiftan"
+        },
+        "pl": {
+          "nom": "štiftai",
+          "gen": "štiftan",
+          "dat": "štiftamans",
+          "akk": "štiftans"
+        }
+      }
+    }
+  },
+  {
+    "word": "štrāpi",
+    "id": 6243,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "štrāpi",
+          "gen": "štrāpis",
+          "dat": "štrāpei",
+          "akk": "štrāpin"
+        },
+        "pl": {
+          "nom": "štrāpis",
+          "gen": "štrāpin",
+          "dat": "štrāpimans",
+          "akk": "štrāpins"
+        }
+      }
+    }
+  },
+  {
+    "word": "Štrasburgan",
+    "id": 7946,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "Štrasburgan",
+          "gen": "Štrasburgas",
+          "dat": "Štrasburgu",
+          "akk": "Štrasburgan"
+        },
+        "pl": {
+          "nom": "Štrasburgāi",
+          "gen": "Štrasburgan",
+          "dat": "Štrasburgammans",
+          "akk": "Štrasburgans"
+        }
+      }
+    }
+  },
+  {
+    "word": "štūrmawis",
+    "id": 6244,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "štūrmawis",
+          "gen": "štūrmawjas",
+          "dat": "štūrmawju",
+          "akk": "štūrmawjan"
+        },
+        "pl": {
+          "nom": "štūrmawjai",
+          "gen": "štūrmawjan",
+          "dat": "štūrmawjamans",
+          "akk": "štūrmawjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "štūrmitun",
+    "id": 6245,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "štūrmjai"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "štūrmjai"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "štūrmjai"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "štūrmjaimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "štūrmjaitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "štūrmjai"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "štūrmi"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "štūrmi"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "štūrmi"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "štūrmimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "štūrmitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "štūrmi"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma štūrmiwuns / štūrmiwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei štūrmiwuns / štūrmiwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast štūrmiwuns / štūrmiwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast štūrmiwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai štūrmiwusis / štūrmiwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei štūrmiwusis / štūrmiwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast štūrmiwusis / štūrmiwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst štūrmiwuns / štūrmiwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst štūrmiwuns / štūrmiwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst štūrmiwuns / štūrmiwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst štūrmiwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai štūrmiwusis / štūrmiwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei štūrmiwusis / štūrmiwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst štūrmiwusis / štūrmiwusjas"
+          }
+        ]
+      },
+      "optative": "štūrmisei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "štūrmjais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "štūrmjaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "štūrmilai"
+        },
+        {
+          "p": "tū",
+          "f": "štūrmilai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "štūrmilai"
+        },
+        {
+          "p": "mes",
+          "f": "štūrmilimai"
+        },
+        {
+          "p": "jūs",
+          "f": "štūrmilitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "štūrmilai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "štūrmints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "štūrmints",
+                "gen": "štūrmintis",
+                "dat": "štūrmintismu",
+                "akk": "štūrmintin"
+              },
+              "pl": {
+                "nom": "štūrmintjai",
+                "gen": "štūrmintin",
+                "dat": "šturmintimmans",
+                "akk": "štūrmintins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šturmintī",
+                "gen": "štūrmintjas",
+                "dat": "štūrmintjai",
+                "akk": "štūrmintjan"
+              },
+              "pl": {
+                "nom": "štūrmintjas",
+                "gen": "štūrmintjan",
+                "dat": "šturmintjāmans",
+                "akk": "štūrmintjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "štūrminti",
+                "gen": "štūrmintis",
+                "dat": "štūrmintismu",
+                "akk": "štūrmintin"
+              },
+              "pl": {
+                "nom": "štūrmintjai",
+                "gen": "štūrmintin",
+                "dat": "šturmintimmans",
+                "akk": "štūrmintins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "štūrmiwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "štūrmiwuns",
+                "gen": "štūrmiwusjas",
+                "dat": "štūrmiwusjasmu",
+                "akk": "štūrmiwusin"
+              },
+              "pl": {
+                "nom": "štūrmiwusis",
+                "gen": "štūrmiwusin",
+                "dat": "štūrmiwusimans",
+                "akk": "štūrmiwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "štūrmiwusi",
+                "gen": "štūrmiwusjas",
+                "dat": "štūrmiwusjai",
+                "akk": "štūrmiwusjan"
+              },
+              "pl": {
+                "nom": "štūrmiwusjas",
+                "gen": "štūrmiwusjan",
+                "dat": "štūrmiwusjamans",
+                "akk": "štūrmiwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "štūrmiwus",
+                "gen": "štūrmiwusjas",
+                "dat": "štūrmiwusjasmu",
+                "akk": "štūrmiwus"
+              },
+              "pl": {
+                "nom": "štūrmiwus",
+                "gen": "štūrmiwusin",
+                "dat": "štūrmiwusimans",
+                "akk": "štūrmiwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "štūrmits",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "štūrmits",
+                "gen": "štūrmitas",
+                "dat": "štūrmitasmu",
+                "akk": "štūrmitan"
+              },
+              "pl": {
+                "nom": "šturmitāi",
+                "gen": "štūrmitan",
+                "dat": "šturmitammans",
+                "akk": "štūrmitans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šturmitā",
+                "gen": "štūrmitas",
+                "dat": "štūrmitai",
+                "akk": "štūrmitan"
+              },
+              "pl": {
+                "nom": "štūrmitas",
+                "gen": "štūrmitan",
+                "dat": "šturmitāmans",
+                "akk": "štūrmitans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "štūrmitan",
+                "gen": "štūrmitas",
+                "dat": "štūrmitasmu",
+                "akk": "štūrmitan"
+              },
+              "pl": {
+                "nom": "šturmitāi",
+                "gen": "štūrmitan",
+                "dat": "šturmitammans",
+                "akk": "štūrmitans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "štūrms",
+    "id": 6553,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "štūrms",
+          "gen": "štūrmas",
+          "dat": "štūrmu",
+          "akk": "štūrman"
+        },
+        "pl": {
+          "nom": "štūrmai",
+          "gen": "štūrman",
+          "dat": "štūrmamans",
+          "akk": "štūrmans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šūmena",
+    "id": 6246,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šūmena",
+          "gen": "šūmenas",
+          "dat": "šūmenai",
+          "akk": "šūmenan"
+        },
+        "pl": {
+          "nom": "šūmenas",
+          "gen": "šūmenan",
+          "dat": "šūmenamans",
+          "akk": "šūmenans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šūtun",
+    "id": 6247,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "šūja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šūja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šūja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šūjimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šūjitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šūja"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "šūwa"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šūwa"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šūwa"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šūwamai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šūwatei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šūwa"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma šūwuns / šūwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei šūwuns / šūwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast šūwuns / šūwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast šūwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai šūwusis / šūwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei šūwusis / šūwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast šūwusis / šūwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst šūwuns / šūwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst šūwuns / šūwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst šūwuns / šūwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst šūwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai šūwusis / šūwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei šūwusis / šūwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst šūwusis / šūwusjas"
+          }
+        ]
+      },
+      "optative": "šūsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "šūjais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "šūjaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "šūlai"
+        },
+        {
+          "p": "tū",
+          "f": "šūlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "šūlai"
+        },
+        {
+          "p": "mes",
+          "f": "šūlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "šūlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "šūlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "šūjants",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šūjants",
+                "gen": "šūjantis",
+                "dat": "šūjantismu",
+                "akk": "šūjantin"
+              },
+              "pl": {
+                "nom": "šūjantjai",
+                "gen": "šūjantin",
+                "dat": "šujantimmans",
+                "akk": "šūjantins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šujantī",
+                "gen": "šūjantjas",
+                "dat": "šūjantjai",
+                "akk": "šūjantjan"
+              },
+              "pl": {
+                "nom": "šūjantjas",
+                "gen": "šūjantjan",
+                "dat": "šujantjāmans",
+                "akk": "šūjantjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šūjanti",
+                "gen": "šūjantis",
+                "dat": "šūjantismu",
+                "akk": "šūjantin"
+              },
+              "pl": {
+                "nom": "šūjantjai",
+                "gen": "šūjantin",
+                "dat": "šujantimmans",
+                "akk": "šūjantins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "šūwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šūwuns",
+                "gen": "šūwusjas",
+                "dat": "šūwusjasmu",
+                "akk": "šūwusin"
+              },
+              "pl": {
+                "nom": "šūwusis",
+                "gen": "šūwusin",
+                "dat": "šūwusimans",
+                "akk": "šūwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šūwusi",
+                "gen": "šūwusjas",
+                "dat": "šūwusjai",
+                "akk": "šūwusjan"
+              },
+              "pl": {
+                "nom": "šūwusjas",
+                "gen": "šūwusjan",
+                "dat": "šūwusjamans",
+                "akk": "šūwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šūwus",
+                "gen": "šūwusjas",
+                "dat": "šūwusjasmu",
+                "akk": "šūwus"
+              },
+              "pl": {
+                "nom": "šūwus",
+                "gen": "šūwusin",
+                "dat": "šūwusimans",
+                "akk": "šūwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "šūts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šūts",
+                "gen": "šūtas",
+                "dat": "šūtasmu",
+                "akk": "šūtan"
+              },
+              "pl": {
+                "nom": "šutāi",
+                "gen": "šūtan",
+                "dat": "šutammans",
+                "akk": "šūtans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šutā",
+                "gen": "šūtas",
+                "dat": "šūtai",
+                "akk": "šūtan"
+              },
+              "pl": {
+                "nom": "šūtas",
+                "gen": "šūtan",
+                "dat": "šutāmans",
+                "akk": "šūtans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šūtan",
+                "gen": "šūtas",
+                "dat": "šūtasmu",
+                "akk": "šūtan"
+              },
+              "pl": {
+                "nom": "šutāi",
+                "gen": "šūtan",
+                "dat": "šutammans",
+                "akk": "šūtans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "šūtwan",
+    "id": 6248,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "šūtwan",
+          "gen": "šūtwas",
+          "dat": "šūtwu",
+          "akk": "šūtwan"
+        },
+        "pl": {
+          "nom": "šutwāi",
+          "gen": "šūtwan",
+          "dat": "šutwammans",
+          "akk": "šūtwans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šuprīni",
+    "id": 10540,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šuprīni",
+          "gen": "šuprīnis",
+          "dat": "šuprīnei",
+          "akk": "šuprīnin"
+        },
+        "pl": {
+          "nom": "šuprīnis",
+          "gen": "šuprīnin",
+          "dat": "šuprīnimans",
+          "akk": "šuprīnins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šups",
+    "id": 8787,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šups",
+          "gen": "šupas",
+          "dat": "šupu",
+          "akk": "šupan"
+        },
+        "pl": {
+          "nom": "šupai",
+          "gen": "šupan",
+          "dat": "šupamans",
+          "akk": "šupans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šurreks",
+    "id": 10541,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šurreks",
+          "gen": "šurrekas",
+          "dat": "šurreku",
+          "akk": "šurrekan"
+        },
+        "pl": {
+          "nom": "šurrekai",
+          "gen": "šurrekan",
+          "dat": "šurrekamans",
+          "akk": "šurrekans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šustintun",
+    "id": 10544,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "šustina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šustina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šustina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šustinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šustinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šustina"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "šustina"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "šustina"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "šustina"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "šustinimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "šustinitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "šustina"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma šustinuns / šustinusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei šustinuns / šustinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast šustinuns / šustinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast šustinus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai šustinusis / šustinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei šustinusis / šustinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast šustinusis / šustinusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst šustinuns / šustinusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst šustinuns / šustinusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst šustinuns / šustinusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst šustinus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai šustinusis / šustinusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei šustinusis / šustinusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst šustinusis / šustinusjas"
+          }
+        ]
+      },
+      "optative": "šustinsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "šustinais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "šustinaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "šustinlai"
+        },
+        {
+          "p": "tū",
+          "f": "šustinlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "šustinlai"
+        },
+        {
+          "p": "mes",
+          "f": "šustinlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "šustinlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "šustinlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "šustinants",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šustinants",
+                "gen": "šustinantis",
+                "dat": "šustinantismu",
+                "akk": "šustinantin"
+              },
+              "pl": {
+                "nom": "šustinantjai",
+                "gen": "šustinantin",
+                "dat": "šustinantimmans",
+                "akk": "šustinantins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šustinantī",
+                "gen": "šustinantjas",
+                "dat": "šustinantjai",
+                "akk": "šustinantjan"
+              },
+              "pl": {
+                "nom": "šustinantjas",
+                "gen": "šustinantjan",
+                "dat": "šustinantjāmans",
+                "akk": "šustinantjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šustinanti",
+                "gen": "šustinantis",
+                "dat": "šustinantismu",
+                "akk": "šustinantin"
+              },
+              "pl": {
+                "nom": "šustinantjai",
+                "gen": "šustinantin",
+                "dat": "šustinantimmans",
+                "akk": "šustinantins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "šustinuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šustinuns",
+                "gen": "šustinusjas",
+                "dat": "šustinusjasmu",
+                "akk": "šustinusin"
+              },
+              "pl": {
+                "nom": "šustinusis",
+                "gen": "šustinusin",
+                "dat": "šustinusimans",
+                "akk": "šustinusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šustinusi",
+                "gen": "šustinusjas",
+                "dat": "šustinusjai",
+                "akk": "šustinusjan"
+              },
+              "pl": {
+                "nom": "šustinusjas",
+                "gen": "šustinusjan",
+                "dat": "šustinusjamans",
+                "akk": "šustinusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šustinus",
+                "gen": "šustinusjas",
+                "dat": "šustinusjasmu",
+                "akk": "šustinus"
+              },
+              "pl": {
+                "nom": "šustinus",
+                "gen": "šustinusin",
+                "dat": "šustinusimans",
+                "akk": "šustinus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "šustints",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "šustints",
+                "gen": "šustintas",
+                "dat": "šustintasmu",
+                "akk": "šustintan"
+              },
+              "pl": {
+                "nom": "šustintāi",
+                "gen": "šustintan",
+                "dat": "šustintammans",
+                "akk": "šustintans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "šustintā",
+                "gen": "šustintas",
+                "dat": "šustintai",
+                "akk": "šustintan"
+              },
+              "pl": {
+                "nom": "šustintas",
+                "gen": "šustintan",
+                "dat": "šustintāmans",
+                "akk": "šustintans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "šustintan",
+                "gen": "šustintas",
+                "dat": "šustintasmu",
+                "akk": "šustintan"
+              },
+              "pl": {
+                "nom": "šustintāi",
+                "gen": "šustintan",
+                "dat": "šustintammans",
+                "akk": "šustintans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "šuwiks",
+    "id": 6249,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šuwiks",
+          "gen": "šuwikas",
+          "dat": "šuwiku",
+          "akk": "šuwikan"
+        },
+        "pl": {
+          "nom": "šuwikai",
+          "gen": "šuwikan",
+          "dat": "šuwikamans",
+          "akk": "šuwikans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šwadrija",
+    "id": 10550,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šwadrija",
+          "gen": "šwadrijas",
+          "dat": "šwadrijai",
+          "akk": "šwadrijan"
+        },
+        "pl": {
+          "nom": "šwadrijas",
+          "gen": "šwadrijan",
+          "dat": "šwadrijamans",
+          "akk": "šwadrijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šwadrōns",
+    "id": 10551,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šwadrōns",
+          "gen": "šwadrōnas",
+          "dat": "šwadrōnu",
+          "akk": "šwadrōnan"
+        },
+        "pl": {
+          "nom": "šwadrōnai",
+          "gen": "šwadrōnan",
+          "dat": "šwadrōnamans",
+          "akk": "šwadrōnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Šwēdija",
+    "id": 8764,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Šwēdija",
+          "gen": "Šwēdijas",
+          "dat": "Šwēdijai",
+          "akk": "Šwēdijan"
+        },
+        "pl": {
+          "nom": "Šwēdijas",
+          "gen": "Šwēdijan",
+          "dat": "Šwēdijamans",
+          "akk": "Šwēdijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šwēdini",
+    "id": 8763,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šwēdini",
+          "gen": "šwēdinjas",
+          "dat": "šwēdinjai",
+          "akk": "šwēdinjan"
+        },
+        "pl": {
+          "nom": "šwēdinjas",
+          "gen": "šwēdinjan",
+          "dat": "šwēdinjamans",
+          "akk": "šwēdinjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šwēdisks",
+    "id": 8762,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "šwēdisks",
+            "gen": "šwēdiskas",
+            "dat": "šwēdiskasmu",
+            "akk": "šwēdiskan"
+          },
+          "pl": {
+            "nom": "šwēdiskai",
+            "gen": "šwēdiskan",
+            "dat": "šwēdiskamans",
+            "akk": "šwēdiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "šwēdiska",
+            "gen": "šwēdiskas",
+            "dat": "šwēdiskai",
+            "akk": "šwēdiskan"
+          },
+          "pl": {
+            "nom": "šwēdiskas",
+            "gen": "šwēdiskan",
+            "dat": "šwēdiskamans",
+            "akk": "šwēdiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "šwēdiskan",
+            "gen": "šwēdiskas",
+            "dat": "šwēdiskasmu",
+            "akk": "šwēdiskan"
+          },
+          "pl": {
+            "nom": "šwēdiskai",
+            "gen": "šwēdiskan",
+            "dat": "šwēdiskamans",
+            "akk": "šwēdiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "šwēdiskaisis",
+            "gen": "šwēdiskaisjas",
+            "dat": "šwēdiskaisjasmu",
+            "akk": "šwēdiskaisin"
+          },
+          "pl": {
+            "nom": "šwēdiskaisjai",
+            "gen": "šwēdiskaisin",
+            "dat": "šwēdiskaisimans",
+            "akk": "šwēdiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "šwēdiskaisi",
+            "gen": "šwēdiskaisjas",
+            "dat": "šwēdiskaisjai",
+            "akk": "šwēdiskaisjan"
+          },
+          "pl": {
+            "nom": "šwēdiskaisjas",
+            "gen": "šwēdiskaisjan",
+            "dat": "šwēdiskaisjamans",
+            "akk": "šwēdiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "šwēdiskaisi",
+            "gen": "šwēdiskaisjas",
+            "dat": "šwēdiskaisjasmu",
+            "akk": "šwēdiskaisi"
+          },
+          "pl": {
+            "nom": "šwēdiskaisjai",
+            "gen": "šwēdiskaisin",
+            "dat": "šwēdiskaisimans",
+            "akk": "šwēdiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukašwēdiskaisis",
+            "gen": "ukašwēdiskaisjas",
+            "dat": "ukašwēdiskaisjasmu",
+            "akk": "ukašwēdiskaisin"
+          },
+          "pl": {
+            "nom": "ukašwēdiskaisjai",
+            "gen": "ukašwēdiskaisin",
+            "dat": "ukašwēdiskaisimans",
+            "akk": "ukašwēdiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukašwēdiskaisi",
+            "gen": "ukašwēdiskaisjas",
+            "dat": "ukašwēdiskaisjai",
+            "akk": "ukašwēdiskaisjan"
+          },
+          "pl": {
+            "nom": "ukašwēdiskaisjas",
+            "gen": "ukašwēdiskaisjan",
+            "dat": "ukašwēdiskaisjamans",
+            "akk": "ukašwēdiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukašwēdiskaisi",
+            "gen": "ukašwēdiskaisjas",
+            "dat": "ukašwēdiskaisjasmu",
+            "akk": "ukašwēdiskaisi"
+          },
+          "pl": {
+            "nom": "ukašwēdiskaisjai",
+            "gen": "ukašwēdiskaisin",
+            "dat": "ukašwēdiskaisimans",
+            "akk": "ukašwēdiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "šwēdiskai",
+        "comparative": "šwēdiskais",
+        "superlative": "ukašwēdiskais"
+      }
+    }
+  },
+  {
+    "word": "šwēds",
+    "id": 8761,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šwēds",
+          "gen": "šwēdas",
+          "dat": "šwēdu",
+          "akk": "šwēdan"
+        },
+        "pl": {
+          "nom": "šwēdai",
+          "gen": "šwēdan",
+          "dat": "šwēdamans",
+          "akk": "šwēdans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šwēicerini",
+    "id": 6250,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "šwēicerini",
+          "gen": "šwēicerinjas",
+          "dat": "šwēicerinjai",
+          "akk": "šwēicerinjan"
+        },
+        "pl": {
+          "nom": "šwēicerinjas",
+          "gen": "šwēicerinjan",
+          "dat": "šwēicerinjamans",
+          "akk": "šwēicerinjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šwēiceris",
+    "id": 6251,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šwēiceris",
+          "gen": "šwēicerjas",
+          "dat": "šwēicerju",
+          "akk": "šwēicerjan"
+        },
+        "pl": {
+          "nom": "šwēicerjai",
+          "gen": "šwēicerjan",
+          "dat": "šwēicerjamans",
+          "akk": "šwēicerjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šwēicerisks",
+    "id": 6252,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "šwēicerisks",
+            "gen": "šwēiceriskas",
+            "dat": "šwēiceriskasmu",
+            "akk": "šwēiceriskan"
+          },
+          "pl": {
+            "nom": "šwēiceriskai",
+            "gen": "šwēiceriskan",
+            "dat": "šwēiceriskamans",
+            "akk": "šwēiceriskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "šwēiceriska",
+            "gen": "šwēiceriskas",
+            "dat": "šwēiceriskai",
+            "akk": "šwēiceriskan"
+          },
+          "pl": {
+            "nom": "šwēiceriskas",
+            "gen": "šwēiceriskan",
+            "dat": "šwēiceriskamans",
+            "akk": "šwēiceriskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "šwēiceriskan",
+            "gen": "šwēiceriskas",
+            "dat": "šwēiceriskasmu",
+            "akk": "šwēiceriskan"
+          },
+          "pl": {
+            "nom": "šwēiceriskai",
+            "gen": "šwēiceriskan",
+            "dat": "šwēiceriskamans",
+            "akk": "šwēiceriskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "šwēiceriskaisis",
+            "gen": "šwēiceriskaisjas",
+            "dat": "šwēiceriskaisjasmu",
+            "akk": "šwēiceriskaisin"
+          },
+          "pl": {
+            "nom": "šwēiceriskaisjai",
+            "gen": "šwēiceriskaisin",
+            "dat": "šwēiceriskaisimans",
+            "akk": "šwēiceriskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "šwēiceriskaisi",
+            "gen": "šwēiceriskaisjas",
+            "dat": "šwēiceriskaisjai",
+            "akk": "šwēiceriskaisjan"
+          },
+          "pl": {
+            "nom": "šwēiceriskaisjas",
+            "gen": "šwēiceriskaisjan",
+            "dat": "šwēiceriskaisjamans",
+            "akk": "šwēiceriskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "šwēiceriskaisi",
+            "gen": "šwēiceriskaisjas",
+            "dat": "šwēiceriskaisjasmu",
+            "akk": "šwēiceriskaisi"
+          },
+          "pl": {
+            "nom": "šwēiceriskaisjai",
+            "gen": "šwēiceriskaisin",
+            "dat": "šwēiceriskaisimans",
+            "akk": "šwēiceriskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukašwēiceriskaisis",
+            "gen": "ukašwēiceriskaisjas",
+            "dat": "ukašwēiceriskaisjasmu",
+            "akk": "ukašwēiceriskaisin"
+          },
+          "pl": {
+            "nom": "ukašwēiceriskaisjai",
+            "gen": "ukašwēiceriskaisin",
+            "dat": "ukašwēiceriskaisimans",
+            "akk": "ukašwēiceriskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukašwēiceriskaisi",
+            "gen": "ukašwēiceriskaisjas",
+            "dat": "ukašwēiceriskaisjai",
+            "akk": "ukašwēiceriskaisjan"
+          },
+          "pl": {
+            "nom": "ukašwēiceriskaisjas",
+            "gen": "ukašwēiceriskaisjan",
+            "dat": "ukašwēiceriskaisjamans",
+            "akk": "ukašwēiceriskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukašwēiceriskaisi",
+            "gen": "ukašwēiceriskaisjas",
+            "dat": "ukašwēiceriskaisjasmu",
+            "akk": "ukašwēiceriskaisi"
+          },
+          "pl": {
+            "nom": "ukašwēiceriskaisjai",
+            "gen": "ukašwēiceriskaisin",
+            "dat": "ukašwēiceriskaisimans",
+            "akk": "ukašwēiceriskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "šwēiceriskai",
+        "comparative": "šwēiceriskais",
+        "superlative": "ukašwēiceriskais"
+      }
+    }
+  },
+  {
+    "word": "Šwēici",
+    "id": 6253,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Šwēici",
+          "gen": "Šwēicis",
+          "dat": "Šwēicei",
+          "akk": "Šwēicin"
+        },
+        "pl": {
+          "nom": "Šwēicis",
+          "gen": "Šwēicin",
+          "dat": "Šwēicimans",
+          "akk": "Šwēicins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šāncis",
+    "id": 6182,
+    "paradigm": {
+      "fem": {
+        "pl": {
+          "nom": "šāncis",
+          "gen": "šāncin",
+          "dat": "šāncimans",
+          "akk": "šāncins"
+        }
+      }
+    }
+  },
+  {
+    "word": "šaūsmas",
+    "id": 6188,
+    "paradigm": {
+      "fem": {
+        "pl": {
+          "nom": "šaūsmas",
+          "gen": "šaūsman",
+          "dat": "šausmāmans",
+          "akk": "šaūsmans"
+        }
+      }
+    }
+  },
+  {
+    "word": "šlūzims",
+    "id": 6218,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "šlūzims",
+          "gen": "šlūzimas",
+          "dat": "šlūzimu",
+          "akk": "šlūziman"
+        },
+        "pl": {
+          "nom": "šlūzimai",
+          "gen": "šlūziman",
+          "dat": "šlūzimamans",
+          "akk": "šlūzimans"
+        }
+      }
+    }
+  }
+]

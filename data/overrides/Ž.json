@@ -1,0 +1,22 @@
+[
+  {
+    "word": "žūrnals",
+    "id": 8136,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "žūrnals",
+          "gen": "žūrnalas",
+          "dat": "žūrnalu",
+          "akk": "žūrnalan"
+        },
+        "pl": {
+          "nom": "žūrnalai",
+          "gen": "žūrnalan",
+          "dat": "žūrnalamans",
+          "akk": "žūrnalans"
+        }
+      }
+    }
+  }
+]

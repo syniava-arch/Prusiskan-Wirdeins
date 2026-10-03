@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "generated": "2026-10-03",
+  "total": 9027,
+  "shards": [
+    {
+      "letter": "A",
+      "file": "A.json",
+      "count": 677
+    },
+    {
+      "letter": "B",
+      "file": "B.json",
+      "count": 377
+    },
+    {
+      "letter": "C",
+      "file": "C.json",
+      "count": 50
+    },
+    {
+      "letter": "Č",
+      "file": "Č.json",
+      "count": 4
+    },
+    {
+      "letter": "D",
+      "file": "D.json",
+      "count": 512
+    },
+    {
+      "letter": "E",
+      "file": "E.json",
+      "count": 717
+    },
+    {
+      "letter": "F",
+      "file": "F.json",
+      "count": 90
+    },
+    {
+      "letter": "G",
+      "file": "G.json",
+      "count": 463
+    },
+    {
+      "letter": "H",
+      "file": "H.json",
+      "count": 20
+    },
+    {
+      "letter": "I",
+      "file": "I.json",
+      "count": 325
+    },
+    {
+      "letter": "J",
+      "file": "J.json",
+      "count": 77
+    },
+    {
+      "letter": "K",
+      "file": "K.json",
+      "count": 866
+    },
+    {
+      "letter": "L",
+      "file": "L.json",
+      "count": 354
+    },
+    {
+      "letter": "M",
+      "file": "M.json",
+      "count": 473
+    },
+    {
+      "letter": "N",
+      "file": "N.json",
+      "count": 262
+    },
+    {
+      "letter": "O",
+      "file": "O.json",
+      "count": 62
+    },
+    {
+      "letter": "P",
+      "file": "P.json",
+      "count": 1281
+    },
+    {
+      "letter": "R",
+      "file": "R.json",
+      "count": 266
+    },
+    {
+      "letter": "S",
+      "file": "S.json",
+      "count": 943
+    },
+    {
+      "letter": "Š",
+      "file": "Š.json",
+      "count": 101
+    },
+    {
+      "letter": "T",
+      "file": "T.json",
+      "count": 410
+    },
+    {
+      "letter": "U",
+      "file": "U.json",
+      "count": 51
+    },
+    {
+      "letter": "V",
+      "file": "V.json",
+      "count": 2
+    },
+    {
+      "letter": "W",
+      "file": "W.json",
+      "count": 483
+    },
+    {
+      "letter": "Z",
+      "file": "Z.json",
+      "count": 160
+    },
+    {
+      "letter": "Ž",
+      "file": "Ž.json",
+      "count": 1
+    }
+  ]
+}

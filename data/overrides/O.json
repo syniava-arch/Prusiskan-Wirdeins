@@ -1,0 +1,3902 @@
+[
+  {
+    "word": "ōazi",
+    "id": 4008,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ōazi",
+          "gen": "ōazis",
+          "dat": "ōazei",
+          "akk": "ōazin"
+        },
+        "pl": {
+          "nom": "ōazis",
+          "gen": "ōazin",
+          "dat": "ōazimans",
+          "akk": "ōazins"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōbersts",
+    "id": 4009,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ōbersts",
+          "gen": "ōberstas",
+          "dat": "ōberstu",
+          "akk": "ōberstan"
+        },
+        "pl": {
+          "nom": "ōberstai",
+          "gen": "ōberstan",
+          "dat": "ōberstamans",
+          "akk": "ōberstans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōbjektan",
+    "id": 4010,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ōbjektan",
+          "gen": "ōbjektas",
+          "dat": "ōbjektu",
+          "akk": "ōbjektan"
+        },
+        "pl": {
+          "nom": "objektāi",
+          "gen": "ōbjektan",
+          "dat": "objektammans",
+          "akk": "ōbjektans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōbjektisks",
+    "id": 4011,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ōbjektisks",
+            "gen": "ōbjektiskas",
+            "dat": "ōbjektiskasmu",
+            "akk": "ōbjektiskan"
+          },
+          "pl": {
+            "nom": "ōbjektiskai",
+            "gen": "ōbjektiskan",
+            "dat": "ōbjektiskamans",
+            "akk": "ōbjektiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōbjektiska",
+            "gen": "ōbjektiskas",
+            "dat": "ōbjektiskai",
+            "akk": "ōbjektiskan"
+          },
+          "pl": {
+            "nom": "ōbjektiskas",
+            "gen": "ōbjektiskan",
+            "dat": "ōbjektiskamans",
+            "akk": "ōbjektiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōbjektiskan",
+            "gen": "ōbjektiskas",
+            "dat": "ōbjektiskasmu",
+            "akk": "ōbjektiskan"
+          },
+          "pl": {
+            "nom": "ōbjektiskai",
+            "gen": "ōbjektiskan",
+            "dat": "ōbjektiskamans",
+            "akk": "ōbjektiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ōbjektiskaisis",
+            "gen": "ōbjektiskaisjas",
+            "dat": "ōbjektiskaisjasmu",
+            "akk": "ōbjektiskaisin"
+          },
+          "pl": {
+            "nom": "ōbjektiskaisjai",
+            "gen": "ōbjektiskaisin",
+            "dat": "ōbjektiskaisimans",
+            "akk": "ōbjektiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōbjektiskaisi",
+            "gen": "ōbjektiskaisjas",
+            "dat": "ōbjektiskaisjai",
+            "akk": "ōbjektiskaisjan"
+          },
+          "pl": {
+            "nom": "ōbjektiskaisjas",
+            "gen": "ōbjektiskaisjan",
+            "dat": "ōbjektiskaisjamans",
+            "akk": "ōbjektiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōbjektiskaisi",
+            "gen": "ōbjektiskaisjas",
+            "dat": "ōbjektiskaisjasmu",
+            "akk": "ōbjektiskaisi"
+          },
+          "pl": {
+            "nom": "ōbjektiskaisjai",
+            "gen": "ōbjektiskaisin",
+            "dat": "ōbjektiskaisimans",
+            "akk": "ōbjektiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaōbjektiskaisis",
+            "gen": "ukaōbjektiskaisjas",
+            "dat": "ukaōbjektiskaisjasmu",
+            "akk": "ukaōbjektiskaisin"
+          },
+          "pl": {
+            "nom": "ukaōbjektiskaisjai",
+            "gen": "ukaōbjektiskaisin",
+            "dat": "ukaōbjektiskaisimans",
+            "akk": "ukaōbjektiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaōbjektiskaisi",
+            "gen": "ukaōbjektiskaisjas",
+            "dat": "ukaōbjektiskaisjai",
+            "akk": "ukaōbjektiskaisjan"
+          },
+          "pl": {
+            "nom": "ukaōbjektiskaisjas",
+            "gen": "ukaōbjektiskaisjan",
+            "dat": "ukaōbjektiskaisjamans",
+            "akk": "ukaōbjektiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaōbjektiskaisi",
+            "gen": "ukaōbjektiskaisjas",
+            "dat": "ukaōbjektiskaisjasmu",
+            "akk": "ukaōbjektiskaisi"
+          },
+          "pl": {
+            "nom": "ukaōbjektiskaisjai",
+            "gen": "ukaōbjektiskaisin",
+            "dat": "ukaōbjektiskaisimans",
+            "akk": "ukaōbjektiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ōbjektiskai",
+        "comparative": "ōbjektiskais",
+        "superlative": "ukaōbjektiskais"
+      }
+    }
+  },
+  {
+    "word": "ōbjektiws",
+    "id": 4012,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ōbjektiws",
+            "gen": "ōbjektiwas",
+            "dat": "ōbjektiwasmu",
+            "akk": "ōbjektiwan"
+          },
+          "pl": {
+            "nom": "ōbjektiwai",
+            "gen": "ōbjektiwan",
+            "dat": "ōbjektiwamans",
+            "akk": "ōbjektiwans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōbjektiwa",
+            "gen": "ōbjektiwas",
+            "dat": "ōbjektiwai",
+            "akk": "ōbjektiwan"
+          },
+          "pl": {
+            "nom": "ōbjektiwas",
+            "gen": "ōbjektiwan",
+            "dat": "ōbjektiwamans",
+            "akk": "ōbjektiwans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōbjektiwan",
+            "gen": "ōbjektiwas",
+            "dat": "ōbjektiwasmu",
+            "akk": "ōbjektiwan"
+          },
+          "pl": {
+            "nom": "ōbjektiwai",
+            "gen": "ōbjektiwan",
+            "dat": "ōbjektiwamans",
+            "akk": "ōbjektiwans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ōbjektiwaisis",
+            "gen": "ōbjektiwaisjas",
+            "dat": "ōbjektiwaisjasmu",
+            "akk": "ōbjektiwaisin"
+          },
+          "pl": {
+            "nom": "ōbjektiwaisjai",
+            "gen": "ōbjektiwaisin",
+            "dat": "ōbjektiwaisimans",
+            "akk": "ōbjektiwaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōbjektiwaisi",
+            "gen": "ōbjektiwaisjas",
+            "dat": "ōbjektiwaisjai",
+            "akk": "ōbjektiwaisjan"
+          },
+          "pl": {
+            "nom": "ōbjektiwaisjas",
+            "gen": "ōbjektiwaisjan",
+            "dat": "ōbjektiwaisjamans",
+            "akk": "ōbjektiwaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōbjektiwaisi",
+            "gen": "ōbjektiwaisjas",
+            "dat": "ōbjektiwaisjasmu",
+            "akk": "ōbjektiwaisi"
+          },
+          "pl": {
+            "nom": "ōbjektiwaisjai",
+            "gen": "ōbjektiwaisin",
+            "dat": "ōbjektiwaisimans",
+            "akk": "ōbjektiwaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaōbjektiwaisis",
+            "gen": "ukaōbjektiwaisjas",
+            "dat": "ukaōbjektiwaisjasmu",
+            "akk": "ukaōbjektiwaisin"
+          },
+          "pl": {
+            "nom": "ukaōbjektiwaisjai",
+            "gen": "ukaōbjektiwaisin",
+            "dat": "ukaōbjektiwaisimans",
+            "akk": "ukaōbjektiwaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaōbjektiwaisi",
+            "gen": "ukaōbjektiwaisjas",
+            "dat": "ukaōbjektiwaisjai",
+            "akk": "ukaōbjektiwaisjan"
+          },
+          "pl": {
+            "nom": "ukaōbjektiwaisjas",
+            "gen": "ukaōbjektiwaisjan",
+            "dat": "ukaōbjektiwaisjamans",
+            "akk": "ukaōbjektiwaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaōbjektiwaisi",
+            "gen": "ukaōbjektiwaisjas",
+            "dat": "ukaōbjektiwaisjasmu",
+            "akk": "ukaōbjektiwaisi"
+          },
+          "pl": {
+            "nom": "ukaōbjektiwaisjai",
+            "gen": "ukaōbjektiwaisin",
+            "dat": "ukaōbjektiwaisimans",
+            "akk": "ukaōbjektiwaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ōbjektiwai",
+        "comparative": "ōbjektiwais",
+        "superlative": "ukaōbjektiwais"
+      }
+    }
+  },
+  {
+    "word": "ōbserwabli",
+    "id": 9973,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ōbserwabli",
+          "gen": "ōbserwablis",
+          "dat": "ōbserwablei",
+          "akk": "ōbserwablin"
+        },
+        "pl": {
+          "nom": "ōbserwablis",
+          "gen": "ōbserwablin",
+          "dat": "ōbserwablimans",
+          "akk": "ōbserwablins"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōbserwatōrijan",
+    "id": 4014,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ōbserwatōrijan",
+          "gen": "ōbserwatōrijas",
+          "dat": "ōbserwatōriju",
+          "akk": "ōbserwatōrijan"
+        },
+        "pl": {
+          "nom": "obserwatorijāi",
+          "gen": "ōbserwatōrijan",
+          "dat": "obserwatorijammans",
+          "akk": "ōbserwatōrijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōkeans",
+    "id": 4015,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ōkeans",
+          "gen": "ōkeanas",
+          "dat": "ōkeanu",
+          "akk": "ōkeanan"
+        },
+        "pl": {
+          "nom": "ōkeanai",
+          "gen": "ōkeanan",
+          "dat": "ōkeanamans",
+          "akk": "ōkeanans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōkini",
+    "id": 4016,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ōkini",
+          "gen": "ōkinis",
+          "dat": "ōkinei",
+          "akk": "ōkinin"
+        },
+        "pl": {
+          "nom": "ōkinis",
+          "gen": "ōkinin",
+          "dat": "ōkinimans",
+          "akk": "ōkinins"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōks",
+    "id": 4017,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ōks",
+          "gen": "ōkas",
+          "dat": "ōku",
+          "akk": "ōkan"
+        },
+        "pl": {
+          "nom": "ōkai",
+          "gen": "ōkan",
+          "dat": "ōkamans",
+          "akk": "ōkans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōksidan",
+    "id": 9974,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ōksidan",
+          "gen": "ōksidas",
+          "dat": "ōksidu",
+          "akk": "ōksidan"
+        },
+        "pl": {
+          "nom": "oksidāi",
+          "gen": "ōksidan",
+          "dat": "oksidammans",
+          "akk": "ōksidans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōkupacija",
+    "id": 4018,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ōkupacija",
+          "gen": "ōkupacijas",
+          "dat": "ōkupacijai",
+          "akk": "ōkupacijan"
+        },
+        "pl": {
+          "nom": "ōkupacijas",
+          "gen": "ōkupacijan",
+          "dat": "ōkupacijamans",
+          "akk": "ōkupacijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōkupacisks",
+    "id": 9975,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ōkupacisks",
+            "gen": "ōkupaciskas",
+            "dat": "ōkupaciskasmu",
+            "akk": "ōkupaciskan"
+          },
+          "pl": {
+            "nom": "ōkupaciskai",
+            "gen": "ōkupaciskan",
+            "dat": "ōkupaciskamans",
+            "akk": "ōkupaciskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōkupaciska",
+            "gen": "ōkupaciskas",
+            "dat": "ōkupaciskai",
+            "akk": "ōkupaciskan"
+          },
+          "pl": {
+            "nom": "ōkupaciskas",
+            "gen": "ōkupaciskan",
+            "dat": "ōkupaciskamans",
+            "akk": "ōkupaciskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōkupaciskan",
+            "gen": "ōkupaciskas",
+            "dat": "ōkupaciskasmu",
+            "akk": "ōkupaciskan"
+          },
+          "pl": {
+            "nom": "ōkupaciskai",
+            "gen": "ōkupaciskan",
+            "dat": "ōkupaciskamans",
+            "akk": "ōkupaciskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ōkupaciskaisis",
+            "gen": "ōkupaciskaisjas",
+            "dat": "ōkupaciskaisjasmu",
+            "akk": "ōkupaciskaisin"
+          },
+          "pl": {
+            "nom": "ōkupaciskaisjai",
+            "gen": "ōkupaciskaisin",
+            "dat": "ōkupaciskaisimans",
+            "akk": "ōkupaciskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōkupaciskaisi",
+            "gen": "ōkupaciskaisjas",
+            "dat": "ōkupaciskaisjai",
+            "akk": "ōkupaciskaisjan"
+          },
+          "pl": {
+            "nom": "ōkupaciskaisjas",
+            "gen": "ōkupaciskaisjan",
+            "dat": "ōkupaciskaisjamans",
+            "akk": "ōkupaciskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōkupaciskaisi",
+            "gen": "ōkupaciskaisjas",
+            "dat": "ōkupaciskaisjasmu",
+            "akk": "ōkupaciskaisi"
+          },
+          "pl": {
+            "nom": "ōkupaciskaisjai",
+            "gen": "ōkupaciskaisin",
+            "dat": "ōkupaciskaisimans",
+            "akk": "ōkupaciskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaōkupaciskaisis",
+            "gen": "ukaōkupaciskaisjas",
+            "dat": "ukaōkupaciskaisjasmu",
+            "akk": "ukaōkupaciskaisin"
+          },
+          "pl": {
+            "nom": "ukaōkupaciskaisjai",
+            "gen": "ukaōkupaciskaisin",
+            "dat": "ukaōkupaciskaisimans",
+            "akk": "ukaōkupaciskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaōkupaciskaisi",
+            "gen": "ukaōkupaciskaisjas",
+            "dat": "ukaōkupaciskaisjai",
+            "akk": "ukaōkupaciskaisjan"
+          },
+          "pl": {
+            "nom": "ukaōkupaciskaisjas",
+            "gen": "ukaōkupaciskaisjan",
+            "dat": "ukaōkupaciskaisjamans",
+            "akk": "ukaōkupaciskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaōkupaciskaisi",
+            "gen": "ukaōkupaciskaisjas",
+            "dat": "ukaōkupaciskaisjasmu",
+            "akk": "ukaōkupaciskaisi"
+          },
+          "pl": {
+            "nom": "ukaōkupaciskaisjai",
+            "gen": "ukaōkupaciskaisin",
+            "dat": "ukaōkupaciskaisimans",
+            "akk": "ukaōkupaciskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ōkupaciskai",
+        "comparative": "ōkupaciskais",
+        "superlative": "ukaōkupaciskais"
+      }
+    }
+  },
+  {
+    "word": "ōkupanti",
+    "id": 4020,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ōkupanti",
+          "gen": "ōkupantjas",
+          "dat": "ōkupantjai",
+          "akk": "ōkupantjan"
+        },
+        "pl": {
+          "nom": "ōkupantjas",
+          "gen": "ōkupantjan",
+          "dat": "ōkupantjamans",
+          "akk": "ōkupantjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōkupants",
+    "id": 4021,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ōkupants",
+          "gen": "ōkupantis",
+          "dat": "ōkupanti",
+          "akk": "ōkupantin"
+        },
+        "pl": {
+          "nom": "ōkupantjai",
+          "gen": "ōkupantin",
+          "dat": "ōkupantimans",
+          "akk": "ōkupantins"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōkupatun",
+    "id": 4022,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "ōkupai"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "ōkupai"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "ōkupai"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "ōkupaimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "ōkupaitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "ōkupai"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "ōkupai"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "ōkupai"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "ōkupai"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "ōkupaimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "ōkupaitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "ōkupai"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma ōkupawuns / ōkupawusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei ōkupawuns / ōkupawusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast ōkupawuns / ōkupawusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast ōkupawus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai ōkupawusis / ōkupawusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei ōkupawusis / ōkupawusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast ōkupawusis / ōkupawusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst ōkupawuns / ōkupawusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst ōkupawuns / ōkupawusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst ōkupawuns / ōkupawusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst ōkupawus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai ōkupawusis / ōkupawusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei ōkupawusis / ōkupawusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst ōkupawusis / ōkupawusjas"
+          }
+        ]
+      },
+      "optative": "ōkupasei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "ōkupais"
+        },
+        {
+          "p": "(jūs)",
+          "f": "ōkupaiti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "ōkupalai"
+        },
+        {
+          "p": "tū",
+          "f": "ōkupalai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "ōkupalai"
+        },
+        {
+          "p": "mes",
+          "f": "ōkupalimai"
+        },
+        {
+          "p": "jūs",
+          "f": "ōkupalitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "ōkupalai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "ōkupants",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "ōkupants",
+                "gen": "ōkupantis",
+                "dat": "ōkupantismu",
+                "akk": "ōkupantin"
+              },
+              "pl": {
+                "nom": "ōkupantjai",
+                "gen": "ōkupantin",
+                "dat": "okupantimmans",
+                "akk": "ōkupantins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "okupantī",
+                "gen": "ōkupantjas",
+                "dat": "ōkupantjai",
+                "akk": "ōkupantjan"
+              },
+              "pl": {
+                "nom": "ōkupantjas",
+                "gen": "ōkupantjan",
+                "dat": "okupantjāmans",
+                "akk": "ōkupantjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "ōkupanti",
+                "gen": "ōkupantis",
+                "dat": "ōkupantismu",
+                "akk": "ōkupantin"
+              },
+              "pl": {
+                "nom": "ōkupantjai",
+                "gen": "ōkupantin",
+                "dat": "okupantimmans",
+                "akk": "ōkupantins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "ōkupawuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "ōkupawuns",
+                "gen": "ōkupawusjas",
+                "dat": "ōkupawusjasmu",
+                "akk": "ōkupawusin"
+              },
+              "pl": {
+                "nom": "ōkupawusis",
+                "gen": "ōkupawusin",
+                "dat": "ōkupawusimans",
+                "akk": "ōkupawusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "ōkupawusi",
+                "gen": "ōkupawusjas",
+                "dat": "ōkupawusjai",
+                "akk": "ōkupawusjan"
+              },
+              "pl": {
+                "nom": "ōkupawusjas",
+                "gen": "ōkupawusjan",
+                "dat": "ōkupawusjamans",
+                "akk": "ōkupawusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "ōkupawus",
+                "gen": "ōkupawusjas",
+                "dat": "ōkupawusjasmu",
+                "akk": "ōkupawus"
+              },
+              "pl": {
+                "nom": "ōkupawus",
+                "gen": "ōkupawusin",
+                "dat": "ōkupawusimans",
+                "akk": "ōkupawus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "ōkupats",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "ōkupats",
+                "gen": "ōkupatas",
+                "dat": "ōkupatasmu",
+                "akk": "ōkupatan"
+              },
+              "pl": {
+                "nom": "okupatāi",
+                "gen": "ōkupatan",
+                "dat": "okupatammans",
+                "akk": "ōkupatans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "okupatā",
+                "gen": "ōkupatas",
+                "dat": "ōkupatai",
+                "akk": "ōkupatan"
+              },
+              "pl": {
+                "nom": "ōkupatas",
+                "gen": "ōkupatan",
+                "dat": "okupatāmans",
+                "akk": "ōkupatans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "ōkupatan",
+                "gen": "ōkupatas",
+                "dat": "ōkupatasmu",
+                "akk": "ōkupatan"
+              },
+              "pl": {
+                "nom": "okupatāi",
+                "gen": "ōkupatan",
+                "dat": "okupatammans",
+                "akk": "ōkupatans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "ōlanderini",
+    "id": 6639,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ōlanderini",
+          "gen": "ōlanderinjas",
+          "dat": "ōlanderinjai",
+          "akk": "ōlanderinjan"
+        },
+        "pl": {
+          "nom": "ōlanderinjas",
+          "gen": "ōlanderinjan",
+          "dat": "ōlanderinjamans",
+          "akk": "ōlanderinjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōlanderis",
+    "id": 6640,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ōlanderis",
+          "gen": "ōlanderjas",
+          "dat": "ōlanderju",
+          "akk": "ōlanderjan"
+        },
+        "pl": {
+          "nom": "ōlanderjai",
+          "gen": "ōlanderjan",
+          "dat": "ōlanderjamans",
+          "akk": "ōlanderjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Ōlandija",
+    "id": 6638,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Ōlandija",
+          "gen": "Ōlandijas",
+          "dat": "Ōlandijai",
+          "akk": "Ōlandijan"
+        },
+        "pl": {
+          "nom": "Ōlandijas",
+          "gen": "Ōlandijan",
+          "dat": "Ōlandijamans",
+          "akk": "Ōlandijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōlandiskan",
+    "id": 6641,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ōlandiskan",
+          "gen": "ōlandiskas",
+          "dat": "ōlandisku",
+          "akk": "ōlandiskan"
+        },
+        "pl": {
+          "nom": "olandiskāi",
+          "gen": "ōlandiskan",
+          "dat": "olandiskammans",
+          "akk": "ōlandiskans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōlandisks",
+    "id": 6642,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ōlandisks",
+            "gen": "ōlandiskas",
+            "dat": "ōlandiskasmu",
+            "akk": "ōlandiskan"
+          },
+          "pl": {
+            "nom": "ōlandiskai",
+            "gen": "ōlandiskan",
+            "dat": "ōlandiskamans",
+            "akk": "ōlandiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōlandiska",
+            "gen": "ōlandiskas",
+            "dat": "ōlandiskai",
+            "akk": "ōlandiskan"
+          },
+          "pl": {
+            "nom": "ōlandiskas",
+            "gen": "ōlandiskan",
+            "dat": "ōlandiskamans",
+            "akk": "ōlandiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōlandiskan",
+            "gen": "ōlandiskas",
+            "dat": "ōlandiskasmu",
+            "akk": "ōlandiskan"
+          },
+          "pl": {
+            "nom": "ōlandiskai",
+            "gen": "ōlandiskan",
+            "dat": "ōlandiskamans",
+            "akk": "ōlandiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ōlandiskaisis",
+            "gen": "ōlandiskaisjas",
+            "dat": "ōlandiskaisjasmu",
+            "akk": "ōlandiskaisin"
+          },
+          "pl": {
+            "nom": "ōlandiskaisjai",
+            "gen": "ōlandiskaisin",
+            "dat": "ōlandiskaisimans",
+            "akk": "ōlandiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōlandiskaisi",
+            "gen": "ōlandiskaisjas",
+            "dat": "ōlandiskaisjai",
+            "akk": "ōlandiskaisjan"
+          },
+          "pl": {
+            "nom": "ōlandiskaisjas",
+            "gen": "ōlandiskaisjan",
+            "dat": "ōlandiskaisjamans",
+            "akk": "ōlandiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōlandiskaisi",
+            "gen": "ōlandiskaisjas",
+            "dat": "ōlandiskaisjasmu",
+            "akk": "ōlandiskaisi"
+          },
+          "pl": {
+            "nom": "ōlandiskaisjai",
+            "gen": "ōlandiskaisin",
+            "dat": "ōlandiskaisimans",
+            "akk": "ōlandiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaōlandiskaisis",
+            "gen": "ukaōlandiskaisjas",
+            "dat": "ukaōlandiskaisjasmu",
+            "akk": "ukaōlandiskaisin"
+          },
+          "pl": {
+            "nom": "ukaōlandiskaisjai",
+            "gen": "ukaōlandiskaisin",
+            "dat": "ukaōlandiskaisimans",
+            "akk": "ukaōlandiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaōlandiskaisi",
+            "gen": "ukaōlandiskaisjas",
+            "dat": "ukaōlandiskaisjai",
+            "akk": "ukaōlandiskaisjan"
+          },
+          "pl": {
+            "nom": "ukaōlandiskaisjas",
+            "gen": "ukaōlandiskaisjan",
+            "dat": "ukaōlandiskaisjamans",
+            "akk": "ukaōlandiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaōlandiskaisi",
+            "gen": "ukaōlandiskaisjas",
+            "dat": "ukaōlandiskaisjasmu",
+            "akk": "ukaōlandiskaisi"
+          },
+          "pl": {
+            "nom": "ukaōlandiskaisjai",
+            "gen": "ukaōlandiskaisin",
+            "dat": "ukaōlandiskaisimans",
+            "akk": "ukaōlandiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ōlandiskai",
+        "comparative": "ōlandiskais",
+        "superlative": "ukaōlandiskais"
+      }
+    }
+  },
+  {
+    "word": "ōliwa",
+    "id": 4023,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ōliwa",
+          "gen": "ōliwas",
+          "dat": "ōliwai",
+          "akk": "ōliwan"
+        },
+        "pl": {
+          "nom": "ōliwas",
+          "gen": "ōliwan",
+          "dat": "ōliwamans",
+          "akk": "ōliwans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōliwiskai zallis",
+    "id": 4024,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ōliwiskai zallis",
+            "gen": "ōliwiskai zalljas",
+            "dat": "ōliwiskai zalljasmu",
+            "akk": "ōliwiskai zalljan"
+          },
+          "pl": {
+            "nom": "ōliwiskai zalljai",
+            "gen": "ōliwiskai zalljan",
+            "dat": "ōliwiskai zalljamans",
+            "akk": "ōliwiskai zalljans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōliwiskai zalli",
+            "gen": "ōliwiskai zallis",
+            "dat": "ōliwiskai zallei",
+            "akk": "ōliwiskai zallin"
+          },
+          "pl": {
+            "nom": "ōliwiskai zallis",
+            "gen": "ōliwiskai zallin",
+            "dat": "ōliwiskai zallimans",
+            "akk": "ōliwiskai zallins"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōliwiskai zalljan",
+            "gen": "ōliwiskai zalljas",
+            "dat": "ōliwiskai zalljasmu",
+            "akk": "ōliwiskai zalljan"
+          },
+          "pl": {
+            "nom": "ōliwiskai zalljai",
+            "gen": "ōliwiskai zalljan",
+            "dat": "ōliwiskai zalljamans",
+            "akk": "ōliwiskai zalljans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ōliwiskai zalljaisis",
+            "gen": "ōliwiskai zalljaisjas",
+            "dat": "ōliwiskai zalljaisjasmu",
+            "akk": "ōliwiskai zalljaisin"
+          },
+          "pl": {
+            "nom": "ōliwiskai zalljaisjai",
+            "gen": "ōliwiskai zalljaisin",
+            "dat": "ōliwiskai zalljaisimans",
+            "akk": "ōliwiskai zalljaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōliwiskai zalljaisi",
+            "gen": "ōliwiskai zalljaisjas",
+            "dat": "ōliwiskai zalljaisjai",
+            "akk": "ōliwiskai zalljaisjan"
+          },
+          "pl": {
+            "nom": "ōliwiskai zalljaisjas",
+            "gen": "ōliwiskai zalljaisjan",
+            "dat": "ōliwiskai zalljaisjamans",
+            "akk": "ōliwiskai zalljaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōliwiskai zalljaisi",
+            "gen": "ōliwiskai zalljaisjas",
+            "dat": "ōliwiskai zalljaisjasmu",
+            "akk": "ōliwiskai zalljaisi"
+          },
+          "pl": {
+            "nom": "ōliwiskai zalljaisjai",
+            "gen": "ōliwiskai zalljaisin",
+            "dat": "ōliwiskai zalljaisimans",
+            "akk": "ōliwiskai zalljaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaōliwiskai zalljaisis",
+            "gen": "ukaōliwiskai zalljaisjas",
+            "dat": "ukaōliwiskai zalljaisjasmu",
+            "akk": "ukaōliwiskai zalljaisin"
+          },
+          "pl": {
+            "nom": "ukaōliwiskai zalljaisjai",
+            "gen": "ukaōliwiskai zalljaisin",
+            "dat": "ukaōliwiskai zalljaisimans",
+            "akk": "ukaōliwiskai zalljaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaōliwiskai zalljaisi",
+            "gen": "ukaōliwiskai zalljaisjas",
+            "dat": "ukaōliwiskai zalljaisjai",
+            "akk": "ukaōliwiskai zalljaisjan"
+          },
+          "pl": {
+            "nom": "ukaōliwiskai zalljaisjas",
+            "gen": "ukaōliwiskai zalljaisjan",
+            "dat": "ukaōliwiskai zalljaisjamans",
+            "akk": "ukaōliwiskai zalljaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaōliwiskai zalljaisi",
+            "gen": "ukaōliwiskai zalljaisjas",
+            "dat": "ukaōliwiskai zalljaisjasmu",
+            "akk": "ukaōliwiskai zalljaisi"
+          },
+          "pl": {
+            "nom": "ukaōliwiskai zalljaisjai",
+            "gen": "ukaōliwiskai zalljaisin",
+            "dat": "ukaōliwiskai zalljaisimans",
+            "akk": "ukaōliwiskai zalljaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ōliwiskai zalljai",
+        "comparative": "ōliwiskai zalljais",
+        "superlative": "ukaōliwiskai zalljais"
+      }
+    }
+  },
+  {
+    "word": "Ōmans",
+    "id": 8292,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "Ōmans",
+          "gen": "Ōmanas",
+          "dat": "Ōmanu",
+          "akk": "Ōmanan"
+        },
+        "pl": {
+          "nom": "Ōmanai",
+          "gen": "Ōmanan",
+          "dat": "Ōmanamans",
+          "akk": "Ōmanans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōndatra",
+    "id": 8786,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ōndatra",
+          "gen": "ōndatras",
+          "dat": "ōndatrai",
+          "akk": "ōndatran"
+        },
+        "pl": {
+          "nom": "ōndatras",
+          "gen": "ōndatran",
+          "dat": "ōndatramans",
+          "akk": "ōndatrans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōperācija",
+    "id": 9976,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ōperācija",
+          "gen": "ōperācijas",
+          "dat": "ōperācijai",
+          "akk": "ōperācijan"
+        },
+        "pl": {
+          "nom": "ōperācijas",
+          "gen": "ōperācijan",
+          "dat": "ōperācijamans",
+          "akk": "ōperācijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōperacisks",
+    "id": 9977,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ōperacisks",
+            "gen": "ōperaciskas",
+            "dat": "ōperaciskasmu",
+            "akk": "ōperaciskan"
+          },
+          "pl": {
+            "nom": "ōperaciskai",
+            "gen": "ōperaciskan",
+            "dat": "ōperaciskamans",
+            "akk": "ōperaciskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōperaciska",
+            "gen": "ōperaciskas",
+            "dat": "ōperaciskai",
+            "akk": "ōperaciskan"
+          },
+          "pl": {
+            "nom": "ōperaciskas",
+            "gen": "ōperaciskan",
+            "dat": "ōperaciskamans",
+            "akk": "ōperaciskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōperaciskan",
+            "gen": "ōperaciskas",
+            "dat": "ōperaciskasmu",
+            "akk": "ōperaciskan"
+          },
+          "pl": {
+            "nom": "ōperaciskai",
+            "gen": "ōperaciskan",
+            "dat": "ōperaciskamans",
+            "akk": "ōperaciskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ōperaciskaisis",
+            "gen": "ōperaciskaisjas",
+            "dat": "ōperaciskaisjasmu",
+            "akk": "ōperaciskaisin"
+          },
+          "pl": {
+            "nom": "ōperaciskaisjai",
+            "gen": "ōperaciskaisin",
+            "dat": "ōperaciskaisimans",
+            "akk": "ōperaciskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōperaciskaisi",
+            "gen": "ōperaciskaisjas",
+            "dat": "ōperaciskaisjai",
+            "akk": "ōperaciskaisjan"
+          },
+          "pl": {
+            "nom": "ōperaciskaisjas",
+            "gen": "ōperaciskaisjan",
+            "dat": "ōperaciskaisjamans",
+            "akk": "ōperaciskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōperaciskaisi",
+            "gen": "ōperaciskaisjas",
+            "dat": "ōperaciskaisjasmu",
+            "akk": "ōperaciskaisi"
+          },
+          "pl": {
+            "nom": "ōperaciskaisjai",
+            "gen": "ōperaciskaisin",
+            "dat": "ōperaciskaisimans",
+            "akk": "ōperaciskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaōperaciskaisis",
+            "gen": "ukaōperaciskaisjas",
+            "dat": "ukaōperaciskaisjasmu",
+            "akk": "ukaōperaciskaisin"
+          },
+          "pl": {
+            "nom": "ukaōperaciskaisjai",
+            "gen": "ukaōperaciskaisin",
+            "dat": "ukaōperaciskaisimans",
+            "akk": "ukaōperaciskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaōperaciskaisi",
+            "gen": "ukaōperaciskaisjas",
+            "dat": "ukaōperaciskaisjai",
+            "akk": "ukaōperaciskaisjan"
+          },
+          "pl": {
+            "nom": "ukaōperaciskaisjas",
+            "gen": "ukaōperaciskaisjan",
+            "dat": "ukaōperaciskaisjamans",
+            "akk": "ukaōperaciskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaōperaciskaisi",
+            "gen": "ukaōperaciskaisjas",
+            "dat": "ukaōperaciskaisjasmu",
+            "akk": "ukaōperaciskaisi"
+          },
+          "pl": {
+            "nom": "ukaōperaciskaisjai",
+            "gen": "ukaōperaciskaisin",
+            "dat": "ukaōperaciskaisimans",
+            "akk": "ukaōperaciskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ōperaciskai",
+        "comparative": "ōperaciskais",
+        "superlative": "ukaōperaciskais"
+      }
+    }
+  },
+  {
+    "word": "ōperatōrs",
+    "id": 9979,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ōperatōrs",
+          "gen": "ōperatōras",
+          "dat": "ōperatōru",
+          "akk": "ōperatōran"
+        },
+        "pl": {
+          "nom": "ōperatōrai",
+          "gen": "ōperatōran",
+          "dat": "ōperatōramans",
+          "akk": "ōperatōrans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōpereti",
+    "id": 4026,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ōpereti",
+          "gen": "ōperetis",
+          "dat": "ōperetei",
+          "akk": "ōperetin"
+        },
+        "pl": {
+          "nom": "ōperetis",
+          "gen": "ōperetin",
+          "dat": "ōperetimans",
+          "akk": "ōperetins"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōperi",
+    "id": 4027,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ōperi",
+          "gen": "ōperis",
+          "dat": "ōperei",
+          "akk": "ōperin"
+        },
+        "pl": {
+          "nom": "ōperis",
+          "gen": "ōperin",
+          "dat": "ōperimans",
+          "akk": "ōperins"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōpozicija",
+    "id": 4028,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ōpozicija",
+          "gen": "ōpozicijas",
+          "dat": "ōpozicijai",
+          "akk": "ōpozicijan"
+        },
+        "pl": {
+          "nom": "ōpozicijas",
+          "gen": "ōpozicijan",
+          "dat": "ōpozicijamans",
+          "akk": "ōpozicijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōptiki",
+    "id": 7606,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ōptiki",
+          "gen": "ōptikis",
+          "dat": "ōptikei",
+          "akk": "ōptikin"
+        },
+        "pl": {
+          "nom": "ōptikis",
+          "gen": "ōptikin",
+          "dat": "ōptikimans",
+          "akk": "ōptikins"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōptisks",
+    "id": 7607,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ōptisks",
+            "gen": "ōptiskas",
+            "dat": "ōptiskasmu",
+            "akk": "ōptiskan"
+          },
+          "pl": {
+            "nom": "ōptiskai",
+            "gen": "ōptiskan",
+            "dat": "ōptiskamans",
+            "akk": "ōptiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōptiska",
+            "gen": "ōptiskas",
+            "dat": "ōptiskai",
+            "akk": "ōptiskan"
+          },
+          "pl": {
+            "nom": "ōptiskas",
+            "gen": "ōptiskan",
+            "dat": "ōptiskamans",
+            "akk": "ōptiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōptiskan",
+            "gen": "ōptiskas",
+            "dat": "ōptiskasmu",
+            "akk": "ōptiskan"
+          },
+          "pl": {
+            "nom": "ōptiskai",
+            "gen": "ōptiskan",
+            "dat": "ōptiskamans",
+            "akk": "ōptiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ōptiskaisis",
+            "gen": "ōptiskaisjas",
+            "dat": "ōptiskaisjasmu",
+            "akk": "ōptiskaisin"
+          },
+          "pl": {
+            "nom": "ōptiskaisjai",
+            "gen": "ōptiskaisin",
+            "dat": "ōptiskaisimans",
+            "akk": "ōptiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōptiskaisi",
+            "gen": "ōptiskaisjas",
+            "dat": "ōptiskaisjai",
+            "akk": "ōptiskaisjan"
+          },
+          "pl": {
+            "nom": "ōptiskaisjas",
+            "gen": "ōptiskaisjan",
+            "dat": "ōptiskaisjamans",
+            "akk": "ōptiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōptiskaisi",
+            "gen": "ōptiskaisjas",
+            "dat": "ōptiskaisjasmu",
+            "akk": "ōptiskaisi"
+          },
+          "pl": {
+            "nom": "ōptiskaisjai",
+            "gen": "ōptiskaisin",
+            "dat": "ōptiskaisimans",
+            "akk": "ōptiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaōptiskaisis",
+            "gen": "ukaōptiskaisjas",
+            "dat": "ukaōptiskaisjasmu",
+            "akk": "ukaōptiskaisin"
+          },
+          "pl": {
+            "nom": "ukaōptiskaisjai",
+            "gen": "ukaōptiskaisin",
+            "dat": "ukaōptiskaisimans",
+            "akk": "ukaōptiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaōptiskaisi",
+            "gen": "ukaōptiskaisjas",
+            "dat": "ukaōptiskaisjai",
+            "akk": "ukaōptiskaisjan"
+          },
+          "pl": {
+            "nom": "ukaōptiskaisjas",
+            "gen": "ukaōptiskaisjan",
+            "dat": "ukaōptiskaisjamans",
+            "akk": "ukaōptiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaōptiskaisi",
+            "gen": "ukaōptiskaisjas",
+            "dat": "ukaōptiskaisjasmu",
+            "akk": "ukaōptiskaisi"
+          },
+          "pl": {
+            "nom": "ukaōptiskaisjai",
+            "gen": "ukaōptiskaisin",
+            "dat": "ukaōptiskaisimans",
+            "akk": "ukaōptiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ōptiskai",
+        "comparative": "ōptiskais",
+        "superlative": "ukaōptiskais"
+      }
+    }
+  },
+  {
+    "word": "ōrangutans",
+    "id": 9980,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ōrangutans",
+          "gen": "ōrangutanas",
+          "dat": "ōrangutanu",
+          "akk": "ōrangutanan"
+        },
+        "pl": {
+          "nom": "ōrangutanai",
+          "gen": "ōrangutanan",
+          "dat": "ōrangutanamans",
+          "akk": "ōrangutanans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōranzins",
+    "id": 4029,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ōranzins",
+            "gen": "ōranzinas",
+            "dat": "ōranzinasmu",
+            "akk": "ōranzinan"
+          },
+          "pl": {
+            "nom": "ōranzinai",
+            "gen": "ōranzinan",
+            "dat": "ōranzinamans",
+            "akk": "ōranzinans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōranzina",
+            "gen": "ōranzinas",
+            "dat": "ōranzinai",
+            "akk": "ōranzinan"
+          },
+          "pl": {
+            "nom": "ōranzinas",
+            "gen": "ōranzinan",
+            "dat": "ōranzinamans",
+            "akk": "ōranzinans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōranzinan",
+            "gen": "ōranzinas",
+            "dat": "ōranzinasmu",
+            "akk": "ōranzinan"
+          },
+          "pl": {
+            "nom": "ōranzinai",
+            "gen": "ōranzinan",
+            "dat": "ōranzinamans",
+            "akk": "ōranzinans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ōranzinaisis",
+            "gen": "ōranzinaisjas",
+            "dat": "ōranzinaisjasmu",
+            "akk": "ōranzinaisin"
+          },
+          "pl": {
+            "nom": "ōranzinaisjai",
+            "gen": "ōranzinaisin",
+            "dat": "ōranzinaisimans",
+            "akk": "ōranzinaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōranzinaisi",
+            "gen": "ōranzinaisjas",
+            "dat": "ōranzinaisjai",
+            "akk": "ōranzinaisjan"
+          },
+          "pl": {
+            "nom": "ōranzinaisjas",
+            "gen": "ōranzinaisjan",
+            "dat": "ōranzinaisjamans",
+            "akk": "ōranzinaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōranzinaisi",
+            "gen": "ōranzinaisjas",
+            "dat": "ōranzinaisjasmu",
+            "akk": "ōranzinaisi"
+          },
+          "pl": {
+            "nom": "ōranzinaisjai",
+            "gen": "ōranzinaisin",
+            "dat": "ōranzinaisimans",
+            "akk": "ōranzinaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaōranzinaisis",
+            "gen": "ukaōranzinaisjas",
+            "dat": "ukaōranzinaisjasmu",
+            "akk": "ukaōranzinaisin"
+          },
+          "pl": {
+            "nom": "ukaōranzinaisjai",
+            "gen": "ukaōranzinaisin",
+            "dat": "ukaōranzinaisimans",
+            "akk": "ukaōranzinaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaōranzinaisi",
+            "gen": "ukaōranzinaisjas",
+            "dat": "ukaōranzinaisjai",
+            "akk": "ukaōranzinaisjan"
+          },
+          "pl": {
+            "nom": "ukaōranzinaisjas",
+            "gen": "ukaōranzinaisjan",
+            "dat": "ukaōranzinaisjamans",
+            "akk": "ukaōranzinaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaōranzinaisi",
+            "gen": "ukaōranzinaisjas",
+            "dat": "ukaōranzinaisjasmu",
+            "akk": "ukaōranzinaisi"
+          },
+          "pl": {
+            "nom": "ukaōranzinaisjai",
+            "gen": "ukaōranzinaisin",
+            "dat": "ukaōranzinaisimans",
+            "akk": "ukaōranzinaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ōranzinai",
+        "comparative": "ōranzinais",
+        "superlative": "ukaōranzinais"
+      }
+    }
+  },
+  {
+    "word": "ōranzisks",
+    "id": 10817,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ōranzisks",
+            "gen": "ōranziskas",
+            "dat": "ōranziskasmu",
+            "akk": "ōranziskan"
+          },
+          "pl": {
+            "nom": "ōranziskai",
+            "gen": "ōranziskan",
+            "dat": "ōranziskamans",
+            "akk": "ōranziskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōranziska",
+            "gen": "ōranziskas",
+            "dat": "ōranziskai",
+            "akk": "ōranziskan"
+          },
+          "pl": {
+            "nom": "ōranziskas",
+            "gen": "ōranziskan",
+            "dat": "ōranziskamans",
+            "akk": "ōranziskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōranziskan",
+            "gen": "ōranziskas",
+            "dat": "ōranziskasmu",
+            "akk": "ōranziskan"
+          },
+          "pl": {
+            "nom": "ōranziskai",
+            "gen": "ōranziskan",
+            "dat": "ōranziskamans",
+            "akk": "ōranziskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ōranziskaisis",
+            "gen": "ōranziskaisjas",
+            "dat": "ōranziskaisjasmu",
+            "akk": "ōranziskaisin"
+          },
+          "pl": {
+            "nom": "ōranziskaisjai",
+            "gen": "ōranziskaisin",
+            "dat": "ōranziskaisimans",
+            "akk": "ōranziskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōranziskaisi",
+            "gen": "ōranziskaisjas",
+            "dat": "ōranziskaisjai",
+            "akk": "ōranziskaisjan"
+          },
+          "pl": {
+            "nom": "ōranziskaisjas",
+            "gen": "ōranziskaisjan",
+            "dat": "ōranziskaisjamans",
+            "akk": "ōranziskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōranziskaisi",
+            "gen": "ōranziskaisjas",
+            "dat": "ōranziskaisjasmu",
+            "akk": "ōranziskaisi"
+          },
+          "pl": {
+            "nom": "ōranziskaisjai",
+            "gen": "ōranziskaisin",
+            "dat": "ōranziskaisimans",
+            "akk": "ōranziskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaōranziskaisis",
+            "gen": "ukaōranziskaisjas",
+            "dat": "ukaōranziskaisjasmu",
+            "akk": "ukaōranziskaisin"
+          },
+          "pl": {
+            "nom": "ukaōranziskaisjai",
+            "gen": "ukaōranziskaisin",
+            "dat": "ukaōranziskaisimans",
+            "akk": "ukaōranziskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaōranziskaisi",
+            "gen": "ukaōranziskaisjas",
+            "dat": "ukaōranziskaisjai",
+            "akk": "ukaōranziskaisjan"
+          },
+          "pl": {
+            "nom": "ukaōranziskaisjas",
+            "gen": "ukaōranziskaisjan",
+            "dat": "ukaōranziskaisjamans",
+            "akk": "ukaōranziskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaōranziskaisi",
+            "gen": "ukaōranziskaisjas",
+            "dat": "ukaōranziskaisjasmu",
+            "akk": "ukaōranziskaisi"
+          },
+          "pl": {
+            "nom": "ukaōranziskaisjai",
+            "gen": "ukaōranziskaisin",
+            "dat": "ukaōranziskaisimans",
+            "akk": "ukaōranziskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ōranziskai",
+        "comparative": "ōranziskais",
+        "superlative": "ukaōranziskais"
+      }
+    }
+  },
+  {
+    "word": "ōrdens",
+    "id": 6670,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ōrdens",
+          "gen": "ōrdenas",
+          "dat": "ōrdenu",
+          "akk": "ōrdenan"
+        },
+        "pl": {
+          "nom": "ōrdenai",
+          "gen": "ōrdenan",
+          "dat": "ōrdenamans",
+          "akk": "ōrdenans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōrdinals",
+    "id": 4030,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ōrdinals",
+            "gen": "ōrdinalas",
+            "dat": "ōrdinalasmu",
+            "akk": "ōrdinalan"
+          },
+          "pl": {
+            "nom": "ōrdinalai",
+            "gen": "ōrdinalan",
+            "dat": "ōrdinalamans",
+            "akk": "ōrdinalans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōrdinala",
+            "gen": "ōrdinalas",
+            "dat": "ōrdinalai",
+            "akk": "ōrdinalan"
+          },
+          "pl": {
+            "nom": "ōrdinalas",
+            "gen": "ōrdinalan",
+            "dat": "ōrdinalamans",
+            "akk": "ōrdinalans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōrdinalan",
+            "gen": "ōrdinalas",
+            "dat": "ōrdinalasmu",
+            "akk": "ōrdinalan"
+          },
+          "pl": {
+            "nom": "ōrdinalai",
+            "gen": "ōrdinalan",
+            "dat": "ōrdinalamans",
+            "akk": "ōrdinalans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ōrdinalaisis",
+            "gen": "ōrdinalaisjas",
+            "dat": "ōrdinalaisjasmu",
+            "akk": "ōrdinalaisin"
+          },
+          "pl": {
+            "nom": "ōrdinalaisjai",
+            "gen": "ōrdinalaisin",
+            "dat": "ōrdinalaisimans",
+            "akk": "ōrdinalaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōrdinalaisi",
+            "gen": "ōrdinalaisjas",
+            "dat": "ōrdinalaisjai",
+            "akk": "ōrdinalaisjan"
+          },
+          "pl": {
+            "nom": "ōrdinalaisjas",
+            "gen": "ōrdinalaisjan",
+            "dat": "ōrdinalaisjamans",
+            "akk": "ōrdinalaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōrdinalaisi",
+            "gen": "ōrdinalaisjas",
+            "dat": "ōrdinalaisjasmu",
+            "akk": "ōrdinalaisi"
+          },
+          "pl": {
+            "nom": "ōrdinalaisjai",
+            "gen": "ōrdinalaisin",
+            "dat": "ōrdinalaisimans",
+            "akk": "ōrdinalaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaōrdinalaisis",
+            "gen": "ukaōrdinalaisjas",
+            "dat": "ukaōrdinalaisjasmu",
+            "akk": "ukaōrdinalaisin"
+          },
+          "pl": {
+            "nom": "ukaōrdinalaisjai",
+            "gen": "ukaōrdinalaisin",
+            "dat": "ukaōrdinalaisimans",
+            "akk": "ukaōrdinalaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaōrdinalaisi",
+            "gen": "ukaōrdinalaisjas",
+            "dat": "ukaōrdinalaisjai",
+            "akk": "ukaōrdinalaisjan"
+          },
+          "pl": {
+            "nom": "ukaōrdinalaisjas",
+            "gen": "ukaōrdinalaisjan",
+            "dat": "ukaōrdinalaisjamans",
+            "akk": "ukaōrdinalaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaōrdinalaisi",
+            "gen": "ukaōrdinalaisjas",
+            "dat": "ukaōrdinalaisjasmu",
+            "akk": "ukaōrdinalaisi"
+          },
+          "pl": {
+            "nom": "ukaōrdinalaisjai",
+            "gen": "ukaōrdinalaisin",
+            "dat": "ukaōrdinalaisimans",
+            "akk": "ukaōrdinalaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ōrdinalai",
+        "comparative": "ōrdinalais",
+        "superlative": "ukaōrdinalais"
+      }
+    }
+  },
+  {
+    "word": "ōrdowicijan",
+    "id": 7656,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ōrdowicijan",
+          "gen": "ōrdowicijas",
+          "dat": "ōrdowiciju",
+          "akk": "ōrdowicijan"
+        },
+        "pl": {
+          "nom": "ordowicijāi",
+          "gen": "ōrdowicijan",
+          "dat": "ordowicijammans",
+          "akk": "ōrdowicijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōrganan",
+    "id": 9981,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ōrganan",
+          "gen": "ōrganas",
+          "dat": "ōrganu",
+          "akk": "ōrganan"
+        },
+        "pl": {
+          "nom": "organāi",
+          "gen": "ōrganan",
+          "dat": "organammans",
+          "akk": "ōrganans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōrganisms",
+    "id": 9982,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ōrganisms",
+          "gen": "ōrganismas",
+          "dat": "ōrganismu",
+          "akk": "ōrganisman"
+        },
+        "pl": {
+          "nom": "ōrganismai",
+          "gen": "ōrganisman",
+          "dat": "ōrganismamans",
+          "akk": "ōrganismans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōrganizacija",
+    "id": 4031,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ōrganizacija",
+          "gen": "ōrganizacijas",
+          "dat": "ōrganizacijai",
+          "akk": "ōrganizacijan"
+        },
+        "pl": {
+          "nom": "ōrganizacijas",
+          "gen": "ōrganizacijan",
+          "dat": "ōrganizacijamans",
+          "akk": "ōrganizacijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōrganizītun",
+    "id": 4032,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "organizijja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "organizijja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "organizijja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "organizijjimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "organizijjitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "organizijja"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "organizijja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "organizijja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "organizijja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "organizijjimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "organizijjitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "organizijja"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma ōrganizīwuns / ōrganizīwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei ōrganizīwuns / ōrganizīwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast ōrganizīwuns / ōrganizīwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast ōrganizīwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai ōrganizīwusis / ōrganizīwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei ōrganizīwusis / ōrganizīwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast ōrganizīwusis / ōrganizīwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst ōrganizīwuns / ōrganizīwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst ōrganizīwuns / ōrganizīwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst ōrganizīwuns / ōrganizīwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst ōrganizīwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai ōrganizīwusis / ōrganizīwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei ōrganizīwusis / ōrganizīwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst ōrganizīwusis / ōrganizīwusjas"
+          }
+        ]
+      },
+      "optative": "ōrganizīsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "ōrganizīs"
+        },
+        {
+          "p": "(jūs)",
+          "f": "ōrganizīti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "ōrganizīlai"
+        },
+        {
+          "p": "tū",
+          "f": "ōrganizīlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "ōrganizīlai"
+        },
+        {
+          "p": "mes",
+          "f": "ōrganizīlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "ōrganizīlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "ōrganizīlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "ōrganizīnts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "ōrganizīnts",
+                "gen": "ōrganizīntis",
+                "dat": "ōrganizīntismu",
+                "akk": "ōrganizīntin"
+              },
+              "pl": {
+                "nom": "ōrganizīntjai",
+                "gen": "ōrganizīntin",
+                "dat": "organizintimmans",
+                "akk": "ōrganizīntins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "organizintī",
+                "gen": "ōrganizīntjas",
+                "dat": "ōrganizīntjai",
+                "akk": "ōrganizīntjan"
+              },
+              "pl": {
+                "nom": "ōrganizīntjas",
+                "gen": "ōrganizīntjan",
+                "dat": "organizintjāmans",
+                "akk": "ōrganizīntjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "ōrganizīnti",
+                "gen": "ōrganizīntis",
+                "dat": "ōrganizīntismu",
+                "akk": "ōrganizīntin"
+              },
+              "pl": {
+                "nom": "ōrganizīntjai",
+                "gen": "ōrganizīntin",
+                "dat": "organizintimmans",
+                "akk": "ōrganizīntins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "ōrganizīwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "ōrganizīwuns",
+                "gen": "ōrganizīwusjas",
+                "dat": "ōrganizīwusjasmu",
+                "akk": "ōrganizīwusin"
+              },
+              "pl": {
+                "nom": "ōrganizīwusis",
+                "gen": "ōrganizīwusin",
+                "dat": "ōrganizīwusimans",
+                "akk": "ōrganizīwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "ōrganizīwusi",
+                "gen": "ōrganizīwusjas",
+                "dat": "ōrganizīwusjai",
+                "akk": "ōrganizīwusjan"
+              },
+              "pl": {
+                "nom": "ōrganizīwusjas",
+                "gen": "ōrganizīwusjan",
+                "dat": "ōrganizīwusjamans",
+                "akk": "ōrganizīwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "ōrganizīwus",
+                "gen": "ōrganizīwusjas",
+                "dat": "ōrganizīwusjasmu",
+                "akk": "ōrganizīwus"
+              },
+              "pl": {
+                "nom": "ōrganizīwus",
+                "gen": "ōrganizīwusin",
+                "dat": "ōrganizīwusimans",
+                "akk": "ōrganizīwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "organizīts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "organizīts",
+                "gen": "organizītas",
+                "dat": "organizītasmu",
+                "akk": "organizītan"
+              },
+              "pl": {
+                "nom": "organizitāi",
+                "gen": "organizītan",
+                "dat": "organizitammans",
+                "akk": "organizītans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "organizitā",
+                "gen": "organizītas",
+                "dat": "organizītai",
+                "akk": "organizītan"
+              },
+              "pl": {
+                "nom": "organizītas",
+                "gen": "organizītan",
+                "dat": "organizitāmans",
+                "akk": "organizītans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "organizītan",
+                "gen": "organizītas",
+                "dat": "organizītasmu",
+                "akk": "organizītan"
+              },
+              "pl": {
+                "nom": "organizitāi",
+                "gen": "organizītan",
+                "dat": "organizitammans",
+                "akk": "organizītans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "ōrientācija",
+    "id": 9983,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ōrientācija",
+          "gen": "ōrientācijas",
+          "dat": "ōrientācijai",
+          "akk": "ōrientācijan"
+        },
+        "pl": {
+          "nom": "ōrientācijas",
+          "gen": "ōrientācijan",
+          "dat": "ōrientācijamans",
+          "akk": "ōrientācijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōriganan",
+    "id": 4033,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ōriganan",
+          "gen": "ōriganas",
+          "dat": "ōriganu",
+          "akk": "ōriganan"
+        },
+        "pl": {
+          "nom": "origanāi",
+          "gen": "ōriganan",
+          "dat": "origanammans",
+          "akk": "ōriganans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōriginālan",
+    "id": 4034,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ōriginālan",
+          "gen": "ōriginālas",
+          "dat": "ōriginālu",
+          "akk": "ōriginālan"
+        },
+        "pl": {
+          "nom": "originalāi",
+          "gen": "ōriginālan",
+          "dat": "originalammans",
+          "akk": "ōriginālans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōrigināls",
+    "id": 9984,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ōrigināls",
+            "gen": "ōriginālas",
+            "dat": "ōriginālasmu",
+            "akk": "ōriginālan"
+          },
+          "pl": {
+            "nom": "ōriginālai",
+            "gen": "ōriginālan",
+            "dat": "ōriginālamans",
+            "akk": "ōriginālans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōrigināla",
+            "gen": "ōriginālas",
+            "dat": "ōriginālai",
+            "akk": "ōriginālan"
+          },
+          "pl": {
+            "nom": "ōriginālas",
+            "gen": "ōriginālan",
+            "dat": "ōriginālamans",
+            "akk": "ōriginālans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōriginālan",
+            "gen": "ōriginālas",
+            "dat": "ōriginālasmu",
+            "akk": "ōriginālan"
+          },
+          "pl": {
+            "nom": "ōriginālai",
+            "gen": "ōriginālan",
+            "dat": "ōriginālamans",
+            "akk": "ōriginālans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ōriginālaisis",
+            "gen": "ōriginālaisjas",
+            "dat": "ōriginālaisjasmu",
+            "akk": "ōriginālaisin"
+          },
+          "pl": {
+            "nom": "ōriginālaisjai",
+            "gen": "ōriginālaisin",
+            "dat": "ōriginālaisimans",
+            "akk": "ōriginālaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōriginālaisi",
+            "gen": "ōriginālaisjas",
+            "dat": "ōriginālaisjai",
+            "akk": "ōriginālaisjan"
+          },
+          "pl": {
+            "nom": "ōriginālaisjas",
+            "gen": "ōriginālaisjan",
+            "dat": "ōriginālaisjamans",
+            "akk": "ōriginālaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōriginālaisi",
+            "gen": "ōriginālaisjas",
+            "dat": "ōriginālaisjasmu",
+            "akk": "ōriginālaisi"
+          },
+          "pl": {
+            "nom": "ōriginālaisjai",
+            "gen": "ōriginālaisin",
+            "dat": "ōriginālaisimans",
+            "akk": "ōriginālaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaōriginālaisis",
+            "gen": "ukaōriginālaisjas",
+            "dat": "ukaōriginālaisjasmu",
+            "akk": "ukaōriginālaisin"
+          },
+          "pl": {
+            "nom": "ukaōriginālaisjai",
+            "gen": "ukaōriginālaisin",
+            "dat": "ukaōriginālaisimans",
+            "akk": "ukaōriginālaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaōriginālaisi",
+            "gen": "ukaōriginālaisjas",
+            "dat": "ukaōriginālaisjai",
+            "akk": "ukaōriginālaisjan"
+          },
+          "pl": {
+            "nom": "ukaōriginālaisjas",
+            "gen": "ukaōriginālaisjan",
+            "dat": "ukaōriginālaisjamans",
+            "akk": "ukaōriginālaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaōriginālaisi",
+            "gen": "ukaōriginālaisjas",
+            "dat": "ukaōriginālaisjasmu",
+            "akk": "ukaōriginālaisi"
+          },
+          "pl": {
+            "nom": "ukaōriginālaisjai",
+            "gen": "ukaōriginālaisin",
+            "dat": "ukaōriginālaisimans",
+            "akk": "ukaōriginālaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ōriginālai",
+        "comparative": "ōriginālais",
+        "superlative": "ukaōriginālais"
+      }
+    }
+  },
+  {
+    "word": "ōrkestran",
+    "id": 4035,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ōrkestran",
+          "gen": "ōrkestras",
+          "dat": "ōrkestru",
+          "akk": "ōrkestran"
+        },
+        "pl": {
+          "nom": "orkestrāi",
+          "gen": "ōrkestran",
+          "dat": "orkestrammans",
+          "akk": "ōrkestrans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōrkestranti",
+    "id": 4036,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ōrkestranti",
+          "gen": "ōrkestrantjas",
+          "dat": "ōrkestrantjai",
+          "akk": "ōrkestrantjan"
+        },
+        "pl": {
+          "nom": "ōrkestrantjas",
+          "gen": "ōrkestrantjan",
+          "dat": "ōrkestrantjamans",
+          "akk": "ōrkestrantjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōrkestrants",
+    "id": 4037,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ōrkestrants",
+          "gen": "ōrkestrantis",
+          "dat": "ōrkestranti",
+          "akk": "ōrkestrantin"
+        },
+        "pl": {
+          "nom": "ōrkestrantjai",
+          "gen": "ōrkestrantin",
+          "dat": "ōrkestrantimans",
+          "akk": "ōrkestrantins"
+        }
+      }
+    }
+  },
+  {
+    "word": "okupacisks",
+    "id": 4019,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "okupacisks",
+            "gen": "okupaciskas",
+            "dat": "okupaciskasmu",
+            "akk": "okupaciskan"
+          },
+          "pl": {
+            "nom": "okupaciskai",
+            "gen": "okupaciskan",
+            "dat": "okupaciskamans",
+            "akk": "okupaciskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "okupaciska",
+            "gen": "okupaciskas",
+            "dat": "okupaciskai",
+            "akk": "okupaciskan"
+          },
+          "pl": {
+            "nom": "okupaciskas",
+            "gen": "okupaciskan",
+            "dat": "okupaciskamans",
+            "akk": "okupaciskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "okupaciskan",
+            "gen": "okupaciskas",
+            "dat": "okupaciskasmu",
+            "akk": "okupaciskan"
+          },
+          "pl": {
+            "nom": "okupaciskai",
+            "gen": "okupaciskan",
+            "dat": "okupaciskamans",
+            "akk": "okupaciskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "okupaciskaisis",
+            "gen": "okupaciskaisjas",
+            "dat": "okupaciskaisjasmu",
+            "akk": "okupaciskaisin"
+          },
+          "pl": {
+            "nom": "okupaciskaisjai",
+            "gen": "okupaciskaisin",
+            "dat": "okupaciskaisimans",
+            "akk": "okupaciskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "okupaciskaisi",
+            "gen": "okupaciskaisjas",
+            "dat": "okupaciskaisjai",
+            "akk": "okupaciskaisjan"
+          },
+          "pl": {
+            "nom": "okupaciskaisjas",
+            "gen": "okupaciskaisjan",
+            "dat": "okupaciskaisjamans",
+            "akk": "okupaciskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "okupaciskaisi",
+            "gen": "okupaciskaisjas",
+            "dat": "okupaciskaisjasmu",
+            "akk": "okupaciskaisi"
+          },
+          "pl": {
+            "nom": "okupaciskaisjai",
+            "gen": "okupaciskaisin",
+            "dat": "okupaciskaisimans",
+            "akk": "okupaciskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaokupaciskaisis",
+            "gen": "ukaokupaciskaisjas",
+            "dat": "ukaokupaciskaisjasmu",
+            "akk": "ukaokupaciskaisin"
+          },
+          "pl": {
+            "nom": "ukaokupaciskaisjai",
+            "gen": "ukaokupaciskaisin",
+            "dat": "ukaokupaciskaisimans",
+            "akk": "ukaokupaciskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaokupaciskaisi",
+            "gen": "ukaokupaciskaisjas",
+            "dat": "ukaokupaciskaisjai",
+            "akk": "ukaokupaciskaisjan"
+          },
+          "pl": {
+            "nom": "ukaokupaciskaisjas",
+            "gen": "ukaokupaciskaisjan",
+            "dat": "ukaokupaciskaisjamans",
+            "akk": "ukaokupaciskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaokupaciskaisi",
+            "gen": "ukaokupaciskaisjas",
+            "dat": "ukaokupaciskaisjasmu",
+            "akk": "ukaokupaciskaisi"
+          },
+          "pl": {
+            "nom": "ukaokupaciskaisjai",
+            "gen": "ukaokupaciskaisin",
+            "dat": "ukaokupaciskaisimans",
+            "akk": "ukaokupaciskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "okupaciskai",
+        "comparative": "okupaciskais",
+        "superlative": "ukaokupaciskais"
+      }
+    }
+  },
+  {
+    "word": "opciōnals",
+    "id": 4025,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "opciōnals",
+            "gen": "opciōnalas",
+            "dat": "opciōnalasmu",
+            "akk": "opciōnalan"
+          },
+          "pl": {
+            "nom": "opciōnalai",
+            "gen": "opciōnalan",
+            "dat": "opciōnalamans",
+            "akk": "opciōnalans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "opciōnala",
+            "gen": "opciōnalas",
+            "dat": "opciōnalai",
+            "akk": "opciōnalan"
+          },
+          "pl": {
+            "nom": "opciōnalas",
+            "gen": "opciōnalan",
+            "dat": "opciōnalamans",
+            "akk": "opciōnalans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "opciōnalan",
+            "gen": "opciōnalas",
+            "dat": "opciōnalasmu",
+            "akk": "opciōnalan"
+          },
+          "pl": {
+            "nom": "opciōnalai",
+            "gen": "opciōnalan",
+            "dat": "opciōnalamans",
+            "akk": "opciōnalans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "opciōnalaisis",
+            "gen": "opciōnalaisjas",
+            "dat": "opciōnalaisjasmu",
+            "akk": "opciōnalaisin"
+          },
+          "pl": {
+            "nom": "opciōnalaisjai",
+            "gen": "opciōnalaisin",
+            "dat": "opciōnalaisimans",
+            "akk": "opciōnalaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "opciōnalaisi",
+            "gen": "opciōnalaisjas",
+            "dat": "opciōnalaisjai",
+            "akk": "opciōnalaisjan"
+          },
+          "pl": {
+            "nom": "opciōnalaisjas",
+            "gen": "opciōnalaisjan",
+            "dat": "opciōnalaisjamans",
+            "akk": "opciōnalaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "opciōnalaisi",
+            "gen": "opciōnalaisjas",
+            "dat": "opciōnalaisjasmu",
+            "akk": "opciōnalaisi"
+          },
+          "pl": {
+            "nom": "opciōnalaisjai",
+            "gen": "opciōnalaisin",
+            "dat": "opciōnalaisimans",
+            "akk": "opciōnalaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaopciōnalaisis",
+            "gen": "ukaopciōnalaisjas",
+            "dat": "ukaopciōnalaisjasmu",
+            "akk": "ukaopciōnalaisin"
+          },
+          "pl": {
+            "nom": "ukaopciōnalaisjai",
+            "gen": "ukaopciōnalaisin",
+            "dat": "ukaopciōnalaisimans",
+            "akk": "ukaopciōnalaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaopciōnalaisi",
+            "gen": "ukaopciōnalaisjas",
+            "dat": "ukaopciōnalaisjai",
+            "akk": "ukaopciōnalaisjan"
+          },
+          "pl": {
+            "nom": "ukaopciōnalaisjas",
+            "gen": "ukaopciōnalaisjan",
+            "dat": "ukaopciōnalaisjamans",
+            "akk": "ukaopciōnalaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaopciōnalaisi",
+            "gen": "ukaopciōnalaisjas",
+            "dat": "ukaopciōnalaisjasmu",
+            "akk": "ukaopciōnalaisi"
+          },
+          "pl": {
+            "nom": "ukaopciōnalaisjai",
+            "gen": "ukaopciōnalaisin",
+            "dat": "ukaopciōnalaisimans",
+            "akk": "ukaopciōnalaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "opciōnalai",
+        "comparative": "opciōnalais",
+        "superlative": "ukaopciōnalais"
+      }
+    }
+  },
+  {
+    "word": "orizōntali",
+    "id": 10671,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "orizōntali",
+          "gen": "orizōntalis",
+          "dat": "orizōntalei",
+          "akk": "orizōntalin"
+        },
+        "pl": {
+          "nom": "orizōntalis",
+          "gen": "orizōntalin",
+          "dat": "orizōntalimans",
+          "akk": "orizōntalins"
+        }
+      }
+    }
+  },
+  {
+    "word": "orizōntals",
+    "id": 10672,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "orizōntals",
+            "gen": "orizōntalas",
+            "dat": "orizōntalasmu",
+            "akk": "orizōntalan"
+          },
+          "pl": {
+            "nom": "orizōntalai",
+            "gen": "orizōntalan",
+            "dat": "orizōntalamans",
+            "akk": "orizōntalans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "orizōntala",
+            "gen": "orizōntalas",
+            "dat": "orizōntalai",
+            "akk": "orizōntalan"
+          },
+          "pl": {
+            "nom": "orizōntalas",
+            "gen": "orizōntalan",
+            "dat": "orizōntalamans",
+            "akk": "orizōntalans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "orizōntalan",
+            "gen": "orizōntalas",
+            "dat": "orizōntalasmu",
+            "akk": "orizōntalan"
+          },
+          "pl": {
+            "nom": "orizōntalai",
+            "gen": "orizōntalan",
+            "dat": "orizōntalamans",
+            "akk": "orizōntalans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "orizōntalaisis",
+            "gen": "orizōntalaisjas",
+            "dat": "orizōntalaisjasmu",
+            "akk": "orizōntalaisin"
+          },
+          "pl": {
+            "nom": "orizōntalaisjai",
+            "gen": "orizōntalaisin",
+            "dat": "orizōntalaisimans",
+            "akk": "orizōntalaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "orizōntalaisi",
+            "gen": "orizōntalaisjas",
+            "dat": "orizōntalaisjai",
+            "akk": "orizōntalaisjan"
+          },
+          "pl": {
+            "nom": "orizōntalaisjas",
+            "gen": "orizōntalaisjan",
+            "dat": "orizōntalaisjamans",
+            "akk": "orizōntalaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "orizōntalaisi",
+            "gen": "orizōntalaisjas",
+            "dat": "orizōntalaisjasmu",
+            "akk": "orizōntalaisi"
+          },
+          "pl": {
+            "nom": "orizōntalaisjai",
+            "gen": "orizōntalaisin",
+            "dat": "orizōntalaisimans",
+            "akk": "orizōntalaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaorizōntalaisis",
+            "gen": "ukaorizōntalaisjas",
+            "dat": "ukaorizōntalaisjasmu",
+            "akk": "ukaorizōntalaisin"
+          },
+          "pl": {
+            "nom": "ukaorizōntalaisjai",
+            "gen": "ukaorizōntalaisin",
+            "dat": "ukaorizōntalaisimans",
+            "akk": "ukaorizōntalaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaorizōntalaisi",
+            "gen": "ukaorizōntalaisjas",
+            "dat": "ukaorizōntalaisjai",
+            "akk": "ukaorizōntalaisjan"
+          },
+          "pl": {
+            "nom": "ukaorizōntalaisjas",
+            "gen": "ukaorizōntalaisjan",
+            "dat": "ukaorizōntalaisjamans",
+            "akk": "ukaorizōntalaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaorizōntalaisi",
+            "gen": "ukaorizōntalaisjas",
+            "dat": "ukaorizōntalaisjasmu",
+            "akk": "ukaorizōntalaisi"
+          },
+          "pl": {
+            "nom": "ukaorizōntalaisjai",
+            "gen": "ukaorizōntalaisin",
+            "dat": "ukaorizōntalaisimans",
+            "akk": "ukaorizōntalaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "orizōntalai",
+        "comparative": "orizōntalais",
+        "superlative": "ukaorizōntalais"
+      }
+    }
+  },
+  {
+    "word": "orizōntisks",
+    "id": 10673,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "orizōntisks",
+            "gen": "orizōntiskas",
+            "dat": "orizōntiskasmu",
+            "akk": "orizōntiskan"
+          },
+          "pl": {
+            "nom": "orizōntiskai",
+            "gen": "orizōntiskan",
+            "dat": "orizōntiskamans",
+            "akk": "orizōntiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "orizōntiska",
+            "gen": "orizōntiskas",
+            "dat": "orizōntiskai",
+            "akk": "orizōntiskan"
+          },
+          "pl": {
+            "nom": "orizōntiskas",
+            "gen": "orizōntiskan",
+            "dat": "orizōntiskamans",
+            "akk": "orizōntiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "orizōntiskan",
+            "gen": "orizōntiskas",
+            "dat": "orizōntiskasmu",
+            "akk": "orizōntiskan"
+          },
+          "pl": {
+            "nom": "orizōntiskai",
+            "gen": "orizōntiskan",
+            "dat": "orizōntiskamans",
+            "akk": "orizōntiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "orizōntiskaisis",
+            "gen": "orizōntiskaisjas",
+            "dat": "orizōntiskaisjasmu",
+            "akk": "orizōntiskaisin"
+          },
+          "pl": {
+            "nom": "orizōntiskaisjai",
+            "gen": "orizōntiskaisin",
+            "dat": "orizōntiskaisimans",
+            "akk": "orizōntiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "orizōntiskaisi",
+            "gen": "orizōntiskaisjas",
+            "dat": "orizōntiskaisjai",
+            "akk": "orizōntiskaisjan"
+          },
+          "pl": {
+            "nom": "orizōntiskaisjas",
+            "gen": "orizōntiskaisjan",
+            "dat": "orizōntiskaisjamans",
+            "akk": "orizōntiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "orizōntiskaisi",
+            "gen": "orizōntiskaisjas",
+            "dat": "orizōntiskaisjasmu",
+            "akk": "orizōntiskaisi"
+          },
+          "pl": {
+            "nom": "orizōntiskaisjai",
+            "gen": "orizōntiskaisin",
+            "dat": "orizōntiskaisimans",
+            "akk": "orizōntiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaorizōntiskaisis",
+            "gen": "ukaorizōntiskaisjas",
+            "dat": "ukaorizōntiskaisjasmu",
+            "akk": "ukaorizōntiskaisin"
+          },
+          "pl": {
+            "nom": "ukaorizōntiskaisjai",
+            "gen": "ukaorizōntiskaisin",
+            "dat": "ukaorizōntiskaisimans",
+            "akk": "ukaorizōntiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaorizōntiskaisi",
+            "gen": "ukaorizōntiskaisjas",
+            "dat": "ukaorizōntiskaisjai",
+            "akk": "ukaorizōntiskaisjan"
+          },
+          "pl": {
+            "nom": "ukaorizōntiskaisjas",
+            "gen": "ukaorizōntiskaisjan",
+            "dat": "ukaorizōntiskaisjamans",
+            "akk": "ukaorizōntiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaorizōntiskaisi",
+            "gen": "ukaorizōntiskaisjas",
+            "dat": "ukaorizōntiskaisjasmu",
+            "akk": "ukaorizōntiskaisi"
+          },
+          "pl": {
+            "nom": "ukaorizōntiskaisjai",
+            "gen": "ukaorizōntiskaisin",
+            "dat": "ukaorizōntiskaisimans",
+            "akk": "ukaorizōntiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "orizōntiskai",
+        "comparative": "orizōntiskais",
+        "superlative": "ukaorizōntiskais"
+      }
+    }
+  },
+  {
+    "word": "orizōnts",
+    "id": 6671,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "orizōnts",
+          "gen": "orizōntis",
+          "dat": "orizōnti",
+          "akk": "orizōntin"
+        },
+        "pl": {
+          "nom": "orizōntjai",
+          "gen": "orizōntin",
+          "dat": "orizōntimans",
+          "akk": "orizōntins"
+        }
+      }
+    }
+  },
+  {
+    "word": "ortōdoksija",
+    "id": 4038,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ortōdoksija",
+          "gen": "ortōdoksijas",
+          "dat": "ortōdoksijai",
+          "akk": "ortōdoksijan"
+        },
+        "pl": {
+          "nom": "ortōdoksijas",
+          "gen": "ortōdoksijan",
+          "dat": "ortōdoksijamans",
+          "akk": "ortōdoksijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ortōdoksis",
+    "id": 4039,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ortōdoksis",
+          "gen": "ortōdoksjas",
+          "dat": "ortōdoksju",
+          "akk": "ortōdoksjan"
+        },
+        "pl": {
+          "nom": "ortōdoksjai",
+          "gen": "ortōdoksjan",
+          "dat": "ortōdoksjamans",
+          "akk": "ortōdoksjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ortōgrafija",
+    "id": 4040,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ortōgrafija",
+          "gen": "ortōgrafijas",
+          "dat": "ortōgrafijai",
+          "akk": "ortōgrafijan"
+        },
+        "pl": {
+          "nom": "ortōgrafijas",
+          "gen": "ortōgrafijan",
+          "dat": "ortōgrafijamans",
+          "akk": "ortōgrafijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ortōgrafisks",
+    "id": 4041,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ortōgrafisks",
+            "gen": "ortōgrafiskas",
+            "dat": "ortōgrafiskasmu",
+            "akk": "ortōgrafiskan"
+          },
+          "pl": {
+            "nom": "ortōgrafiskai",
+            "gen": "ortōgrafiskan",
+            "dat": "ortōgrafiskamans",
+            "akk": "ortōgrafiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ortōgrafiska",
+            "gen": "ortōgrafiskas",
+            "dat": "ortōgrafiskai",
+            "akk": "ortōgrafiskan"
+          },
+          "pl": {
+            "nom": "ortōgrafiskas",
+            "gen": "ortōgrafiskan",
+            "dat": "ortōgrafiskamans",
+            "akk": "ortōgrafiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ortōgrafiskan",
+            "gen": "ortōgrafiskas",
+            "dat": "ortōgrafiskasmu",
+            "akk": "ortōgrafiskan"
+          },
+          "pl": {
+            "nom": "ortōgrafiskai",
+            "gen": "ortōgrafiskan",
+            "dat": "ortōgrafiskamans",
+            "akk": "ortōgrafiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ortōgrafiskaisis",
+            "gen": "ortōgrafiskaisjas",
+            "dat": "ortōgrafiskaisjasmu",
+            "akk": "ortōgrafiskaisin"
+          },
+          "pl": {
+            "nom": "ortōgrafiskaisjai",
+            "gen": "ortōgrafiskaisin",
+            "dat": "ortōgrafiskaisimans",
+            "akk": "ortōgrafiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ortōgrafiskaisi",
+            "gen": "ortōgrafiskaisjas",
+            "dat": "ortōgrafiskaisjai",
+            "akk": "ortōgrafiskaisjan"
+          },
+          "pl": {
+            "nom": "ortōgrafiskaisjas",
+            "gen": "ortōgrafiskaisjan",
+            "dat": "ortōgrafiskaisjamans",
+            "akk": "ortōgrafiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ortōgrafiskaisi",
+            "gen": "ortōgrafiskaisjas",
+            "dat": "ortōgrafiskaisjasmu",
+            "akk": "ortōgrafiskaisi"
+          },
+          "pl": {
+            "nom": "ortōgrafiskaisjai",
+            "gen": "ortōgrafiskaisin",
+            "dat": "ortōgrafiskaisimans",
+            "akk": "ortōgrafiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaortōgrafiskaisis",
+            "gen": "ukaortōgrafiskaisjas",
+            "dat": "ukaortōgrafiskaisjasmu",
+            "akk": "ukaortōgrafiskaisin"
+          },
+          "pl": {
+            "nom": "ukaortōgrafiskaisjai",
+            "gen": "ukaortōgrafiskaisin",
+            "dat": "ukaortōgrafiskaisimans",
+            "akk": "ukaortōgrafiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaortōgrafiskaisi",
+            "gen": "ukaortōgrafiskaisjas",
+            "dat": "ukaortōgrafiskaisjai",
+            "akk": "ukaortōgrafiskaisjan"
+          },
+          "pl": {
+            "nom": "ukaortōgrafiskaisjas",
+            "gen": "ukaortōgrafiskaisjan",
+            "dat": "ukaortōgrafiskaisjamans",
+            "akk": "ukaortōgrafiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaortōgrafiskaisi",
+            "gen": "ukaortōgrafiskaisjas",
+            "dat": "ukaortōgrafiskaisjasmu",
+            "akk": "ukaortōgrafiskaisi"
+          },
+          "pl": {
+            "nom": "ukaortōgrafiskaisjai",
+            "gen": "ukaortōgrafiskaisin",
+            "dat": "ukaortōgrafiskaisimans",
+            "akk": "ukaortōgrafiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ortōgrafiskai",
+        "comparative": "ortōgrafiskais",
+        "superlative": "ukaortōgrafiskais"
+      }
+    }
+  },
+  {
+    "word": "ōpisan",
+    "id": 6665,
+    "w": "ōpisan",
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "ōpisan",
+          "gen": "ōpisas",
+          "dat": "ōpisu",
+          "akk": "ōpisan"
+        },
+        "pl": {
+          "nom": "opisāi",
+          "gen": "ōpisan",
+          "dat": "opisammans",
+          "akk": "ōpisans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ōpicials",
+    "id": 8457,
+    "w": "ōpicials",
+    "f": "ōficials",
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ōpicials",
+            "gen": "ōpicialas",
+            "dat": "ōpicialasmu",
+            "akk": "ōpicialan"
+          },
+          "pl": {
+            "nom": "ōpicialai",
+            "gen": "ōpicialan",
+            "dat": "ōpicialamans",
+            "akk": "ōpicialans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōpiciala",
+            "gen": "ōpicialas",
+            "dat": "ōpicialai",
+            "akk": "ōpicialan"
+          },
+          "pl": {
+            "nom": "ōpicialas",
+            "gen": "ōpicialan",
+            "dat": "ōpicialamans",
+            "akk": "ōpicialans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōpicialan",
+            "gen": "ōpicialas",
+            "dat": "ōpicialasmu",
+            "akk": "ōpicialan"
+          },
+          "pl": {
+            "nom": "ōpicialai",
+            "gen": "ōpicialan",
+            "dat": "ōpicialamans",
+            "akk": "ōpicialans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ōpicialaisis",
+            "gen": "ōpicialaisjas",
+            "dat": "ōpicialaisjasmu",
+            "akk": "ōpicialaisin"
+          },
+          "pl": {
+            "nom": "ōpicialaisjai",
+            "gen": "ōpicialaisin",
+            "dat": "ōpicialaisimans",
+            "akk": "ōpicialaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ōpicialaisi",
+            "gen": "ōpicialaisjas",
+            "dat": "ōpicialaisjai",
+            "akk": "ōpicialaisjan"
+          },
+          "pl": {
+            "nom": "ōpicialaisjas",
+            "gen": "ōpicialaisjan",
+            "dat": "ōpicialaisjamans",
+            "akk": "ōpicialaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ōpicialaisi",
+            "gen": "ōpicialaisjas",
+            "dat": "ōpicialaisjasmu",
+            "akk": "ōpicialaisi"
+          },
+          "pl": {
+            "nom": "ōpicialaisjai",
+            "gen": "ōpicialaisin",
+            "dat": "ōpicialaisimans",
+            "akk": "ōpicialaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaōpicialaisis",
+            "gen": "ukaōpicialaisjas",
+            "dat": "ukaōpicialaisjasmu",
+            "akk": "ukaōpicialaisin"
+          },
+          "pl": {
+            "nom": "ukaōpicialaisjai",
+            "gen": "ukaōpicialaisin",
+            "dat": "ukaōpicialaisimans",
+            "akk": "ukaōpicialaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaōpicialaisi",
+            "gen": "ukaōpicialaisjas",
+            "dat": "ukaōpicialaisjai",
+            "akk": "ukaōpicialaisjan"
+          },
+          "pl": {
+            "nom": "ukaōpicialaisjas",
+            "gen": "ukaōpicialaisjan",
+            "dat": "ukaōpicialaisjamans",
+            "akk": "ukaōpicialaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaōpicialaisi",
+            "gen": "ukaōpicialaisjas",
+            "dat": "ukaōpicialaisjasmu",
+            "akk": "ukaōpicialaisi"
+          },
+          "pl": {
+            "nom": "ukaōpicialaisjai",
+            "gen": "ukaōpicialaisin",
+            "dat": "ukaōpicialaisimans",
+            "akk": "ukaōpicialaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ōpicialai",
+        "comparative": "ōpicialais",
+        "superlative": "ukaōpicialais"
+      }
+    }
+  }
+]

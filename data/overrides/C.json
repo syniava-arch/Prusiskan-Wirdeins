@@ -1,0 +1,2306 @@
+[
+  {
+    "word": "Cēreri",
+    "id": 8989,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Cēreri",
+          "gen": "Cēreris",
+          "dat": "Cērerei",
+          "akk": "Cērerin"
+        },
+        "pl": {
+          "nom": "Cēreris",
+          "gen": "Cērerin",
+          "dat": "Cērerimans",
+          "akk": "Cērerins"
+        }
+      }
+    }
+  },
+  {
+    "word": "celibāts",
+    "id": 8376,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "celibāts",
+          "gen": "celibātas",
+          "dat": "celibātu",
+          "akk": "celibātan"
+        },
+        "pl": {
+          "nom": "celibātai",
+          "gen": "celibātan",
+          "dat": "celibātamans",
+          "akk": "celibātans"
+        }
+      }
+    }
+  },
+  {
+    "word": "celli",
+    "id": 8556,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "celli",
+          "gen": "cellis",
+          "dat": "cellei",
+          "akk": "cellin"
+        },
+        "pl": {
+          "nom": "cellis",
+          "gen": "cellin",
+          "dat": "cellimans",
+          "akk": "cellins"
+        }
+      }
+    }
+  },
+  {
+    "word": "centimētrs",
+    "id": 8984,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "centimētrs",
+          "gen": "centimētras",
+          "dat": "centimētru",
+          "akk": "centimētran"
+        },
+        "pl": {
+          "nom": "centimētrai",
+          "gen": "centimētran",
+          "dat": "centimētramans",
+          "akk": "centimētrans"
+        }
+      }
+    }
+  },
+  {
+    "word": "centrāls",
+    "id": 8986,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "centrāls",
+            "gen": "centrālas",
+            "dat": "centrālasmu",
+            "akk": "centrālan"
+          },
+          "pl": {
+            "nom": "centrālai",
+            "gen": "centrālan",
+            "dat": "centrālamans",
+            "akk": "centrālans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "centrāla",
+            "gen": "centrālas",
+            "dat": "centrālai",
+            "akk": "centrālan"
+          },
+          "pl": {
+            "nom": "centrālas",
+            "gen": "centrālan",
+            "dat": "centrālamans",
+            "akk": "centrālans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "centrālan",
+            "gen": "centrālas",
+            "dat": "centrālasmu",
+            "akk": "centrālan"
+          },
+          "pl": {
+            "nom": "centrālai",
+            "gen": "centrālan",
+            "dat": "centrālamans",
+            "akk": "centrālans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "centrālaisis",
+            "gen": "centrālaisjas",
+            "dat": "centrālaisjasmu",
+            "akk": "centrālaisin"
+          },
+          "pl": {
+            "nom": "centrālaisjai",
+            "gen": "centrālaisin",
+            "dat": "centrālaisimans",
+            "akk": "centrālaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "centrālaisi",
+            "gen": "centrālaisjas",
+            "dat": "centrālaisjai",
+            "akk": "centrālaisjan"
+          },
+          "pl": {
+            "nom": "centrālaisjas",
+            "gen": "centrālaisjan",
+            "dat": "centrālaisjamans",
+            "akk": "centrālaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "centrālaisi",
+            "gen": "centrālaisjas",
+            "dat": "centrālaisjasmu",
+            "akk": "centrālaisi"
+          },
+          "pl": {
+            "nom": "centrālaisjai",
+            "gen": "centrālaisin",
+            "dat": "centrālaisimans",
+            "akk": "centrālaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukacentrālaisis",
+            "gen": "ukacentrālaisjas",
+            "dat": "ukacentrālaisjasmu",
+            "akk": "ukacentrālaisin"
+          },
+          "pl": {
+            "nom": "ukacentrālaisjai",
+            "gen": "ukacentrālaisin",
+            "dat": "ukacentrālaisimans",
+            "akk": "ukacentrālaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukacentrālaisi",
+            "gen": "ukacentrālaisjas",
+            "dat": "ukacentrālaisjai",
+            "akk": "ukacentrālaisjan"
+          },
+          "pl": {
+            "nom": "ukacentrālaisjas",
+            "gen": "ukacentrālaisjan",
+            "dat": "ukacentrālaisjamans",
+            "akk": "ukacentrālaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukacentrālaisi",
+            "gen": "ukacentrālaisjas",
+            "dat": "ukacentrālaisjasmu",
+            "akk": "ukacentrālaisi"
+          },
+          "pl": {
+            "nom": "ukacentrālaisjai",
+            "gen": "ukacentrālaisin",
+            "dat": "ukacentrālaisimans",
+            "akk": "ukacentrālaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "centrālai",
+        "comparative": "centrālais",
+        "superlative": "ukacentrālais"
+      }
+    }
+  },
+  {
+    "word": "centrabaltisks",
+    "id": 8985,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "centrabaltisks",
+            "gen": "centrabaltiskas",
+            "dat": "centrabaltiskasmu",
+            "akk": "centrabaltiskan"
+          },
+          "pl": {
+            "nom": "centrabaltiskai",
+            "gen": "centrabaltiskan",
+            "dat": "centrabaltiskamans",
+            "akk": "centrabaltiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "centrabaltiska",
+            "gen": "centrabaltiskas",
+            "dat": "centrabaltiskai",
+            "akk": "centrabaltiskan"
+          },
+          "pl": {
+            "nom": "centrabaltiskas",
+            "gen": "centrabaltiskan",
+            "dat": "centrabaltiskamans",
+            "akk": "centrabaltiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "centrabaltiskan",
+            "gen": "centrabaltiskas",
+            "dat": "centrabaltiskasmu",
+            "akk": "centrabaltiskan"
+          },
+          "pl": {
+            "nom": "centrabaltiskai",
+            "gen": "centrabaltiskan",
+            "dat": "centrabaltiskamans",
+            "akk": "centrabaltiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "centrabaltiskaisis",
+            "gen": "centrabaltiskaisjas",
+            "dat": "centrabaltiskaisjasmu",
+            "akk": "centrabaltiskaisin"
+          },
+          "pl": {
+            "nom": "centrabaltiskaisjai",
+            "gen": "centrabaltiskaisin",
+            "dat": "centrabaltiskaisimans",
+            "akk": "centrabaltiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "centrabaltiskaisi",
+            "gen": "centrabaltiskaisjas",
+            "dat": "centrabaltiskaisjai",
+            "akk": "centrabaltiskaisjan"
+          },
+          "pl": {
+            "nom": "centrabaltiskaisjas",
+            "gen": "centrabaltiskaisjan",
+            "dat": "centrabaltiskaisjamans",
+            "akk": "centrabaltiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "centrabaltiskaisi",
+            "gen": "centrabaltiskaisjas",
+            "dat": "centrabaltiskaisjasmu",
+            "akk": "centrabaltiskaisi"
+          },
+          "pl": {
+            "nom": "centrabaltiskaisjai",
+            "gen": "centrabaltiskaisin",
+            "dat": "centrabaltiskaisimans",
+            "akk": "centrabaltiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukacentrabaltiskaisis",
+            "gen": "ukacentrabaltiskaisjas",
+            "dat": "ukacentrabaltiskaisjasmu",
+            "akk": "ukacentrabaltiskaisin"
+          },
+          "pl": {
+            "nom": "ukacentrabaltiskaisjai",
+            "gen": "ukacentrabaltiskaisin",
+            "dat": "ukacentrabaltiskaisimans",
+            "akk": "ukacentrabaltiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukacentrabaltiskaisi",
+            "gen": "ukacentrabaltiskaisjas",
+            "dat": "ukacentrabaltiskaisjai",
+            "akk": "ukacentrabaltiskaisjan"
+          },
+          "pl": {
+            "nom": "ukacentrabaltiskaisjas",
+            "gen": "ukacentrabaltiskaisjan",
+            "dat": "ukacentrabaltiskaisjamans",
+            "akk": "ukacentrabaltiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukacentrabaltiskaisi",
+            "gen": "ukacentrabaltiskaisjas",
+            "dat": "ukacentrabaltiskaisjasmu",
+            "akk": "ukacentrabaltiskaisi"
+          },
+          "pl": {
+            "nom": "ukacentrabaltiskaisjai",
+            "gen": "ukacentrabaltiskaisin",
+            "dat": "ukacentrabaltiskaisimans",
+            "akk": "ukacentrabaltiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "centrabaltiskai",
+        "comparative": "centrabaltiskais",
+        "superlative": "ukacentrabaltiskais"
+      }
+    }
+  },
+  {
+    "word": "Centralafrikas Republīki",
+    "id": 8205,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Centralafrikas Republīki",
+          "gen": "Centralafrikas Republīkis",
+          "dat": "Centralafrikas Republīkei",
+          "akk": "Centralafrikas Republīkin"
+        },
+        "pl": {
+          "nom": "Centralafrikas Republīkis",
+          "gen": "Centralafrikas Republīkin",
+          "dat": "Centralafrikas Republīkimans",
+          "akk": "Centralafrikas Republīkins"
+        }
+      }
+    }
+  },
+  {
+    "word": "centran",
+    "id": 8987,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "centran",
+          "gen": "centras",
+          "dat": "centru",
+          "akk": "centran"
+        },
+        "pl": {
+          "nom": "centrāi",
+          "gen": "centran",
+          "dat": "centrammans",
+          "akk": "centrans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ceremōnija",
+    "id": 8988,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ceremōnija",
+          "gen": "ceremōnijas",
+          "dat": "ceremōnijai",
+          "akk": "ceremōnijan"
+        },
+        "pl": {
+          "nom": "ceremōnijas",
+          "gen": "ceremōnijan",
+          "dat": "ceremōnijamans",
+          "akk": "ceremōnijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "certifikātan",
+    "id": 706,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "certifikātan",
+          "gen": "certifikātas",
+          "dat": "certifikātu",
+          "akk": "certifikātan"
+        },
+        "pl": {
+          "nom": "certifikatāi",
+          "gen": "certifikātan",
+          "dat": "certifikatammans",
+          "akk": "certifikātans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Ceylōns",
+    "id": 8206,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "Ceylōns",
+          "gen": "Ceylōnas",
+          "dat": "Ceylōnu",
+          "akk": "Ceylōnan"
+        },
+        "pl": {
+          "nom": "Ceylōnai",
+          "gen": "Ceylōnan",
+          "dat": "Ceylōnamans",
+          "akk": "Ceylōnans"
+        }
+      }
+    }
+  },
+  {
+    "word": "chaōsan",
+    "id": 7462,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "chaōsan",
+          "gen": "chaōsas",
+          "dat": "chaōsu",
+          "akk": "chaōsan"
+        },
+        "pl": {
+          "nom": "chaosāi",
+          "gen": "chaōsan",
+          "dat": "chaosammans",
+          "akk": "chaōsans"
+        }
+      }
+    }
+  },
+  {
+    "word": "chaōtisks",
+    "id": 7463,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "chaōtisks",
+            "gen": "chaōtiskas",
+            "dat": "chaōtiskasmu",
+            "akk": "chaōtiskan"
+          },
+          "pl": {
+            "nom": "chaōtiskai",
+            "gen": "chaōtiskan",
+            "dat": "chaōtiskamans",
+            "akk": "chaōtiskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "chaōtiska",
+            "gen": "chaōtiskas",
+            "dat": "chaōtiskai",
+            "akk": "chaōtiskan"
+          },
+          "pl": {
+            "nom": "chaōtiskas",
+            "gen": "chaōtiskan",
+            "dat": "chaōtiskamans",
+            "akk": "chaōtiskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "chaōtiskan",
+            "gen": "chaōtiskas",
+            "dat": "chaōtiskasmu",
+            "akk": "chaōtiskan"
+          },
+          "pl": {
+            "nom": "chaōtiskai",
+            "gen": "chaōtiskan",
+            "dat": "chaōtiskamans",
+            "akk": "chaōtiskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "chaōtiskaisis",
+            "gen": "chaōtiskaisjas",
+            "dat": "chaōtiskaisjasmu",
+            "akk": "chaōtiskaisin"
+          },
+          "pl": {
+            "nom": "chaōtiskaisjai",
+            "gen": "chaōtiskaisin",
+            "dat": "chaōtiskaisimans",
+            "akk": "chaōtiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "chaōtiskaisi",
+            "gen": "chaōtiskaisjas",
+            "dat": "chaōtiskaisjai",
+            "akk": "chaōtiskaisjan"
+          },
+          "pl": {
+            "nom": "chaōtiskaisjas",
+            "gen": "chaōtiskaisjan",
+            "dat": "chaōtiskaisjamans",
+            "akk": "chaōtiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "chaōtiskaisi",
+            "gen": "chaōtiskaisjas",
+            "dat": "chaōtiskaisjasmu",
+            "akk": "chaōtiskaisi"
+          },
+          "pl": {
+            "nom": "chaōtiskaisjai",
+            "gen": "chaōtiskaisin",
+            "dat": "chaōtiskaisimans",
+            "akk": "chaōtiskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukachaōtiskaisis",
+            "gen": "ukachaōtiskaisjas",
+            "dat": "ukachaōtiskaisjasmu",
+            "akk": "ukachaōtiskaisin"
+          },
+          "pl": {
+            "nom": "ukachaōtiskaisjai",
+            "gen": "ukachaōtiskaisin",
+            "dat": "ukachaōtiskaisimans",
+            "akk": "ukachaōtiskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukachaōtiskaisi",
+            "gen": "ukachaōtiskaisjas",
+            "dat": "ukachaōtiskaisjai",
+            "akk": "ukachaōtiskaisjan"
+          },
+          "pl": {
+            "nom": "ukachaōtiskaisjas",
+            "gen": "ukachaōtiskaisjan",
+            "dat": "ukachaōtiskaisjamans",
+            "akk": "ukachaōtiskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukachaōtiskaisi",
+            "gen": "ukachaōtiskaisjas",
+            "dat": "ukachaōtiskaisjasmu",
+            "akk": "ukachaōtiskaisi"
+          },
+          "pl": {
+            "nom": "ukachaōtiskaisjai",
+            "gen": "ukachaōtiskaisin",
+            "dat": "ukachaōtiskaisimans",
+            "akk": "ukachaōtiskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "chaōtiskai",
+        "comparative": "chaōtiskais",
+        "superlative": "ukachaōtiskais"
+      }
+    }
+  },
+  {
+    "word": "chaōts",
+    "id": 7464,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "chaōts",
+          "gen": "chaōtas",
+          "dat": "chaōtu",
+          "akk": "chaōtan"
+        },
+        "pl": {
+          "nom": "chaōtai",
+          "gen": "chaōtan",
+          "dat": "chaōtamans",
+          "akk": "chaōtans"
+        }
+      }
+    }
+  },
+  {
+    "word": "chirurgīja",
+    "id": 707,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "chirurgīja",
+          "gen": "chirurgījas",
+          "dat": "chirurgījai",
+          "akk": "chirurgījan"
+        },
+        "pl": {
+          "nom": "chirurgījas",
+          "gen": "chirurgījan",
+          "dat": "chirurgījamans",
+          "akk": "chirurgījans"
+        }
+      }
+    }
+  },
+  {
+    "word": "chirurgs",
+    "id": 708,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "chirurgs",
+          "gen": "chirurgas",
+          "dat": "chirurgu",
+          "akk": "chirurgan"
+        },
+        "pl": {
+          "nom": "chirurgai",
+          "gen": "chirurgan",
+          "dat": "chirurgamans",
+          "akk": "chirurgans"
+        }
+      }
+    }
+  },
+  {
+    "word": "chrōniks",
+    "id": 8990,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "chrōniks",
+          "gen": "chrōnikas",
+          "dat": "chrōniku",
+          "akk": "chrōnikan"
+        },
+        "pl": {
+          "nom": "chrōnikai",
+          "gen": "chrōnikan",
+          "dat": "chrōnikamans",
+          "akk": "chrōnikans"
+        }
+      }
+    }
+  },
+  {
+    "word": "chrōniskas",
+    "id": 8991,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "chrōniskas",
+            "gen": "chrōniskas",
+            "dat": "chrōniskasmu",
+            "akk": "chrōniskan"
+          },
+          "pl": {
+            "nom": "chrōniskai",
+            "gen": "chrōniskan",
+            "dat": "chrōniskamans",
+            "akk": "chrōniskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "chrōniska",
+            "gen": "chrōniskas",
+            "dat": "chrōniskai",
+            "akk": "chrōniskan"
+          },
+          "pl": {
+            "nom": "chrōniskas",
+            "gen": "chrōniskan",
+            "dat": "chrōniskamans",
+            "akk": "chrōniskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "chrōniskan",
+            "gen": "chrōniskas",
+            "dat": "chrōniskasmu",
+            "akk": "chrōniskan"
+          },
+          "pl": {
+            "nom": "chrōniskai",
+            "gen": "chrōniskan",
+            "dat": "chrōniskamans",
+            "akk": "chrōniskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "chrōniskaisis",
+            "gen": "chrōniskaisjas",
+            "dat": "chrōniskaisjasmu",
+            "akk": "chrōniskaisin"
+          },
+          "pl": {
+            "nom": "chrōniskaisjai",
+            "gen": "chrōniskaisin",
+            "dat": "chrōniskaisimans",
+            "akk": "chrōniskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "chrōniskaisi",
+            "gen": "chrōniskaisjas",
+            "dat": "chrōniskaisjai",
+            "akk": "chrōniskaisjan"
+          },
+          "pl": {
+            "nom": "chrōniskaisjas",
+            "gen": "chrōniskaisjan",
+            "dat": "chrōniskaisjamans",
+            "akk": "chrōniskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "chrōniskaisi",
+            "gen": "chrōniskaisjas",
+            "dat": "chrōniskaisjasmu",
+            "akk": "chrōniskaisi"
+          },
+          "pl": {
+            "nom": "chrōniskaisjai",
+            "gen": "chrōniskaisin",
+            "dat": "chrōniskaisimans",
+            "akk": "chrōniskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukachrōniskaisis",
+            "gen": "ukachrōniskaisjas",
+            "dat": "ukachrōniskaisjasmu",
+            "akk": "ukachrōniskaisin"
+          },
+          "pl": {
+            "nom": "ukachrōniskaisjai",
+            "gen": "ukachrōniskaisin",
+            "dat": "ukachrōniskaisimans",
+            "akk": "ukachrōniskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukachrōniskaisi",
+            "gen": "ukachrōniskaisjas",
+            "dat": "ukachrōniskaisjai",
+            "akk": "ukachrōniskaisjan"
+          },
+          "pl": {
+            "nom": "ukachrōniskaisjas",
+            "gen": "ukachrōniskaisjan",
+            "dat": "ukachrōniskaisjamans",
+            "akk": "ukachrōniskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukachrōniskaisi",
+            "gen": "ukachrōniskaisjas",
+            "dat": "ukachrōniskaisjasmu",
+            "akk": "ukachrōniskaisi"
+          },
+          "pl": {
+            "nom": "ukachrōniskaisjai",
+            "gen": "ukachrōniskaisin",
+            "dat": "ukachrōniskaisimans",
+            "akk": "ukachrōniskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "chrōniskai",
+        "comparative": "chrōniskais",
+        "superlative": "ukachrōniskais"
+      }
+    }
+  },
+  {
+    "word": "chronōlogīja",
+    "id": 8992,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "chronōlogīja",
+          "gen": "chronōlogījas",
+          "dat": "chronōlogījai",
+          "akk": "chronōlogījan"
+        },
+        "pl": {
+          "nom": "chronōlogījas",
+          "gen": "chronōlogījan",
+          "dat": "chronōlogījamans",
+          "akk": "chronōlogījans"
+        }
+      }
+    }
+  },
+  {
+    "word": "cīziks",
+    "id": 721,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "cīziks",
+          "gen": "cīzikas",
+          "dat": "cīziku",
+          "akk": "cīzikan"
+        },
+        "pl": {
+          "nom": "cīzikai",
+          "gen": "cīzikan",
+          "dat": "cīzikamans",
+          "akk": "cīzikans"
+        }
+      }
+    }
+  },
+  {
+    "word": "cigānanzalis",
+    "id": 8993,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "cigānanzalis",
+          "gen": "cigānanzaljas",
+          "dat": "cigānanzalju",
+          "akk": "cigānanzaljan"
+        },
+        "pl": {
+          "nom": "cigānanzaljai",
+          "gen": "cigānanzaljan",
+          "dat": "cigānanzaljamans",
+          "akk": "cigānanzaljans"
+        }
+      }
+    }
+  },
+  {
+    "word": "cigānini",
+    "id": 8994,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "cigānini",
+          "gen": "cigāninjas",
+          "dat": "cigāninjai",
+          "akk": "cigāninjan"
+        },
+        "pl": {
+          "nom": "cigāninjas",
+          "gen": "cigāninjan",
+          "dat": "cigāninjamans",
+          "akk": "cigāninjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "cigāns",
+    "id": 8995,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "cigāns",
+          "gen": "cigānas",
+          "dat": "cigānu",
+          "akk": "cigānan"
+        },
+        "pl": {
+          "nom": "cigānai",
+          "gen": "cigānan",
+          "dat": "cigānamans",
+          "akk": "cigānans"
+        }
+      }
+    }
+  },
+  {
+    "word": "cigaretti",
+    "id": 8996,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "cigaretti",
+          "gen": "cigarettis",
+          "dat": "cigarettei",
+          "akk": "cigarettin"
+        },
+        "pl": {
+          "nom": "cigarettis",
+          "gen": "cigarettin",
+          "dat": "cigarettimans",
+          "akk": "cigarettins"
+        }
+      }
+    }
+  },
+  {
+    "word": "cigarilla",
+    "id": 8997,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "cigarilla",
+          "gen": "cigarillas",
+          "dat": "cigarillai",
+          "akk": "cigarillan"
+        },
+        "pl": {
+          "nom": "cigarillas",
+          "gen": "cigarillan",
+          "dat": "cigarillamans",
+          "akk": "cigarillans"
+        }
+      }
+    }
+  },
+  {
+    "word": "cigarri",
+    "id": 8998,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "cigarri",
+          "gen": "cigarris",
+          "dat": "cigarrei",
+          "akk": "cigarrin"
+        },
+        "pl": {
+          "nom": "cigarris",
+          "gen": "cigarrin",
+          "dat": "cigarrimans",
+          "akk": "cigarrins"
+        }
+      }
+    }
+  },
+  {
+    "word": "cikls",
+    "id": 710,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "cikls",
+          "gen": "ciklas",
+          "dat": "ciklu",
+          "akk": "ciklan"
+        },
+        "pl": {
+          "nom": "ciklai",
+          "gen": "ciklan",
+          "dat": "ciklamans",
+          "akk": "ciklans"
+        }
+      }
+    }
+  },
+  {
+    "word": "cilīnderis",
+    "id": 8999,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "cilīnderis",
+          "gen": "cilīnderjas",
+          "dat": "cilīnderju",
+          "akk": "cilīnderjan"
+        },
+        "pl": {
+          "nom": "cilīnderjai",
+          "gen": "cilīnderjan",
+          "dat": "cilīnderjamans",
+          "akk": "cilīnderjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "cilīndrisks",
+    "id": 9000,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "cilīndrisks",
+            "gen": "cilīndriskas",
+            "dat": "cilīndriskasmu",
+            "akk": "cilīndriskan"
+          },
+          "pl": {
+            "nom": "cilīndriskai",
+            "gen": "cilīndriskan",
+            "dat": "cilīndriskamans",
+            "akk": "cilīndriskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "cilīndriska",
+            "gen": "cilīndriskas",
+            "dat": "cilīndriskai",
+            "akk": "cilīndriskan"
+          },
+          "pl": {
+            "nom": "cilīndriskas",
+            "gen": "cilīndriskan",
+            "dat": "cilīndriskamans",
+            "akk": "cilīndriskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "cilīndriskan",
+            "gen": "cilīndriskas",
+            "dat": "cilīndriskasmu",
+            "akk": "cilīndriskan"
+          },
+          "pl": {
+            "nom": "cilīndriskai",
+            "gen": "cilīndriskan",
+            "dat": "cilīndriskamans",
+            "akk": "cilīndriskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "cilīndriskaisis",
+            "gen": "cilīndriskaisjas",
+            "dat": "cilīndriskaisjasmu",
+            "akk": "cilīndriskaisin"
+          },
+          "pl": {
+            "nom": "cilīndriskaisjai",
+            "gen": "cilīndriskaisin",
+            "dat": "cilīndriskaisimans",
+            "akk": "cilīndriskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "cilīndriskaisi",
+            "gen": "cilīndriskaisjas",
+            "dat": "cilīndriskaisjai",
+            "akk": "cilīndriskaisjan"
+          },
+          "pl": {
+            "nom": "cilīndriskaisjas",
+            "gen": "cilīndriskaisjan",
+            "dat": "cilīndriskaisjamans",
+            "akk": "cilīndriskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "cilīndriskaisi",
+            "gen": "cilīndriskaisjas",
+            "dat": "cilīndriskaisjasmu",
+            "akk": "cilīndriskaisi"
+          },
+          "pl": {
+            "nom": "cilīndriskaisjai",
+            "gen": "cilīndriskaisin",
+            "dat": "cilīndriskaisimans",
+            "akk": "cilīndriskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukacilīndriskaisis",
+            "gen": "ukacilīndriskaisjas",
+            "dat": "ukacilīndriskaisjasmu",
+            "akk": "ukacilīndriskaisin"
+          },
+          "pl": {
+            "nom": "ukacilīndriskaisjai",
+            "gen": "ukacilīndriskaisin",
+            "dat": "ukacilīndriskaisimans",
+            "akk": "ukacilīndriskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukacilīndriskaisi",
+            "gen": "ukacilīndriskaisjas",
+            "dat": "ukacilīndriskaisjai",
+            "akk": "ukacilīndriskaisjan"
+          },
+          "pl": {
+            "nom": "ukacilīndriskaisjas",
+            "gen": "ukacilīndriskaisjan",
+            "dat": "ukacilīndriskaisjamans",
+            "akk": "ukacilīndriskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukacilīndriskaisi",
+            "gen": "ukacilīndriskaisjas",
+            "dat": "ukacilīndriskaisjasmu",
+            "akk": "ukacilīndriskaisi"
+          },
+          "pl": {
+            "nom": "ukacilīndriskaisjai",
+            "gen": "ukacilīndriskaisin",
+            "dat": "ukacilīndriskaisimans",
+            "akk": "ukacilīndriskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "cilīndriskai",
+        "comparative": "cilīndriskais",
+        "superlative": "ukacilīndriskais"
+      }
+    }
+  },
+  {
+    "word": "cinks",
+    "id": 7989,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "cinks",
+          "gen": "cinkas",
+          "dat": "cinku",
+          "akk": "cinkan"
+        },
+        "pl": {
+          "nom": "cinkai",
+          "gen": "cinkan",
+          "dat": "cinkamans",
+          "akk": "cinkans"
+        }
+      }
+    }
+  },
+  {
+    "word": "cipperi",
+    "id": 9001,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "cipperi",
+          "gen": "cipperis",
+          "dat": "cipperei",
+          "akk": "cipperin"
+        },
+        "pl": {
+          "nom": "cipperis",
+          "gen": "cipperin",
+          "dat": "cipperimans",
+          "akk": "cipperins"
+        }
+      }
+    }
+  },
+  {
+    "word": "cirkelis",
+    "id": 711,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "cirkelis",
+          "gen": "cirkeljas",
+          "dat": "cirkelju",
+          "akk": "cirkeljan"
+        },
+        "pl": {
+          "nom": "cirkeljai",
+          "gen": "cirkeljan",
+          "dat": "cirkeljamans",
+          "akk": "cirkeljans"
+        }
+      }
+    }
+  },
+  {
+    "word": "cirks",
+    "id": 713,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "cirks",
+          "gen": "cirkas",
+          "dat": "cirku",
+          "akk": "cirkan"
+        },
+        "pl": {
+          "nom": "cirkai",
+          "gen": "cirkan",
+          "dat": "cirkamans",
+          "akk": "cirkans"
+        }
+      }
+    }
+  },
+  {
+    "word": "cirkuls",
+    "id": 712,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "cirkuls",
+          "gen": "cirkulas",
+          "dat": "cirkulu",
+          "akk": "cirkulan"
+        },
+        "pl": {
+          "nom": "cirkulai",
+          "gen": "cirkulan",
+          "dat": "cirkulamans",
+          "akk": "cirkulans"
+        }
+      }
+    }
+  },
+  {
+    "word": "cistērni",
+    "id": 714,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "cistērni",
+          "gen": "cistērnis",
+          "dat": "cistērnei",
+          "akk": "cistērnin"
+        },
+        "pl": {
+          "nom": "cistērnis",
+          "gen": "cistērnin",
+          "dat": "cistērnimans",
+          "akk": "cistērnins"
+        }
+      }
+    }
+  },
+  {
+    "word": "citātan",
+    "id": 9003,
+    "paradigm": {
+      "neut": {
+        "sg": {
+          "nom": "citātan",
+          "gen": "citātas",
+          "dat": "citātu",
+          "akk": "citātan"
+        },
+        "pl": {
+          "nom": "citatāi",
+          "gen": "citātan",
+          "dat": "citatammans",
+          "akk": "citātans"
+        }
+      }
+    }
+  },
+  {
+    "word": "citītun",
+    "id": 9004,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "citijja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "citijja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "citijja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "citijjimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "citijjitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "citijja"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "citijja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "citijja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "citijja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "citijjimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "citijjitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "citijja"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma citīwuns / citīwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei citīwuns / citīwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast citīwuns / citīwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast citīwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai citīwusis / citīwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei citīwusis / citīwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast citīwusis / citīwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst citīwuns / citīwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst citīwuns / citīwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst citīwuns / citīwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst citīwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai citīwusis / citīwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei citīwusis / citīwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst citīwusis / citīwusjas"
+          }
+        ]
+      },
+      "optative": "citīsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "citīs"
+        },
+        {
+          "p": "(jūs)",
+          "f": "citīti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "citīlai"
+        },
+        {
+          "p": "tū",
+          "f": "citīlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "citīlai"
+        },
+        {
+          "p": "mes",
+          "f": "citīlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "citīlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "citīlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "citīnts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "citīnts",
+                "gen": "citīntis",
+                "dat": "citīntismu",
+                "akk": "citīntin"
+              },
+              "pl": {
+                "nom": "citīntjai",
+                "gen": "citīntin",
+                "dat": "citintimmans",
+                "akk": "citīntins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "citintī",
+                "gen": "citīntjas",
+                "dat": "citīntjai",
+                "akk": "citīntjan"
+              },
+              "pl": {
+                "nom": "citīntjas",
+                "gen": "citīntjan",
+                "dat": "citintjāmans",
+                "akk": "citīntjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "citīnti",
+                "gen": "citīntis",
+                "dat": "citīntismu",
+                "akk": "citīntin"
+              },
+              "pl": {
+                "nom": "citīntjai",
+                "gen": "citīntin",
+                "dat": "citintimmans",
+                "akk": "citīntins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "citīwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "citīwuns",
+                "gen": "citīwusjas",
+                "dat": "citīwusjasmu",
+                "akk": "citīwusin"
+              },
+              "pl": {
+                "nom": "citīwusis",
+                "gen": "citīwusin",
+                "dat": "citīwusimans",
+                "akk": "citīwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "citīwusi",
+                "gen": "citīwusjas",
+                "dat": "citīwusjai",
+                "akk": "citīwusjan"
+              },
+              "pl": {
+                "nom": "citīwusjas",
+                "gen": "citīwusjan",
+                "dat": "citīwusjamans",
+                "akk": "citīwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "citīwus",
+                "gen": "citīwusjas",
+                "dat": "citīwusjasmu",
+                "akk": "citīwus"
+              },
+              "pl": {
+                "nom": "citīwus",
+                "gen": "citīwusin",
+                "dat": "citīwusimans",
+                "akk": "citīwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "citīts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "citīts",
+                "gen": "citītas",
+                "dat": "citītasmu",
+                "akk": "citītan"
+              },
+              "pl": {
+                "nom": "cititāi",
+                "gen": "citītan",
+                "dat": "cititammans",
+                "akk": "citītans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "cititā",
+                "gen": "citītas",
+                "dat": "citītai",
+                "akk": "citītan"
+              },
+              "pl": {
+                "nom": "citītas",
+                "gen": "citītan",
+                "dat": "cititāmans",
+                "akk": "citītans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "citītan",
+                "gen": "citītas",
+                "dat": "citītasmu",
+                "akk": "citītan"
+              },
+              "pl": {
+                "nom": "cititāi",
+                "gen": "citītan",
+                "dat": "cititammans",
+                "akk": "citītans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "citrōni",
+    "id": 715,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "citrōni",
+          "gen": "citrōnis",
+          "dat": "citrōnei",
+          "akk": "citrōnin"
+        },
+        "pl": {
+          "nom": "citrōnis",
+          "gen": "citrōnin",
+          "dat": "citrōnimans",
+          "akk": "citrōnins"
+        }
+      }
+    }
+  },
+  {
+    "word": "ciwilisti",
+    "id": 717,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ciwilisti",
+          "gen": "ciwilistis",
+          "dat": "ciwilistei",
+          "akk": "ciwilistin"
+        },
+        "pl": {
+          "nom": "ciwilistis",
+          "gen": "ciwilistin",
+          "dat": "ciwilistimans",
+          "akk": "ciwilistins"
+        }
+      }
+    }
+  },
+  {
+    "word": "ciwilists",
+    "id": 718,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "ciwilists",
+          "gen": "ciwilistas",
+          "dat": "ciwilistu",
+          "akk": "ciwilistan"
+        },
+        "pl": {
+          "nom": "ciwilistai",
+          "gen": "ciwilistan",
+          "dat": "ciwilistamans",
+          "akk": "ciwilistans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ciwilizācija",
+    "id": 719,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "ciwilizācija",
+          "gen": "ciwilizācijas",
+          "dat": "ciwilizācijai",
+          "akk": "ciwilizācijan"
+        },
+        "pl": {
+          "nom": "ciwilizācijas",
+          "gen": "ciwilizācijan",
+          "dat": "ciwilizācijamans",
+          "akk": "ciwilizācijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "ciwilizītun",
+    "id": 720,
+    "conjugation": {
+      "indicative": {
+        "present": [
+          {
+            "p": "as (я)",
+            "f": "ciwilizijja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "ciwilizijja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "ciwilizijja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "ciwilizijjimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "ciwilizijjitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "ciwilizijja"
+          }
+        ],
+        "past": [
+          {
+            "p": "as (я)",
+            "f": "ciwilizijja"
+          },
+          {
+            "p": "tū (ты)",
+            "f": "ciwilizijja"
+          },
+          {
+            "p": "tāns/tenā/tennan (он/она/оно)",
+            "f": "ciwilizijja"
+          },
+          {
+            "p": "mes (мы)",
+            "f": "ciwilizijjimai"
+          },
+          {
+            "p": "jūs (вы)",
+            "f": "ciwilizijjitei"
+          },
+          {
+            "p": "tenēi/tennas (они)",
+            "f": "ciwilizijja"
+          }
+        ],
+        "perfect": [
+          {
+            "p": "as",
+            "f": "asma ciwilizīwuns / ciwilizīwusi"
+          },
+          {
+            "p": "tū",
+            "f": "assei ciwilizīwuns / ciwilizīwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "ast ciwilizīwuns / ciwilizīwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "ast ciwilizīwus"
+          },
+          {
+            "p": "mes",
+            "f": "asmai ciwilizīwusis / ciwilizīwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "astei ciwilizīwusis / ciwilizīwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "ast ciwilizīwusis / ciwilizīwusjas"
+          }
+        ],
+        "future": [
+          {
+            "p": "as",
+            "f": "wīrst ciwilizīwuns / ciwilizīwusi"
+          },
+          {
+            "p": "tū",
+            "f": "wīrst ciwilizīwuns / ciwilizīwusi"
+          },
+          {
+            "p": "tāns/tenā",
+            "f": "wīrst ciwilizīwuns / ciwilizīwusi"
+          },
+          {
+            "p": "tennan",
+            "f": "wīrst ciwilizīwus"
+          },
+          {
+            "p": "mes",
+            "f": "wīrstmai ciwilizīwusis / ciwilizīwusjas"
+          },
+          {
+            "p": "jūs",
+            "f": "wīrstei ciwilizīwusis / ciwilizīwusjas"
+          },
+          {
+            "p": "tenēi/tennas",
+            "f": "wīrst ciwilizīwusis / ciwilizīwusjas"
+          }
+        ]
+      },
+      "optative": "ciwilizīsei",
+      "imperative": [
+        {
+          "p": "(tū)",
+          "f": "ciwilizīs"
+        },
+        {
+          "p": "(jūs)",
+          "f": "ciwilizīti"
+        }
+      ],
+      "subjunctive": [
+        {
+          "p": "as",
+          "f": "ciwilizīlai"
+        },
+        {
+          "p": "tū",
+          "f": "ciwilizīlai"
+        },
+        {
+          "p": "tāns/tenā/tennan",
+          "f": "ciwilizīlai"
+        },
+        {
+          "p": "mes",
+          "f": "ciwilizīlimai"
+        },
+        {
+          "p": "jūs",
+          "f": "ciwilizīlitei"
+        },
+        {
+          "p": "tenēi/tennas",
+          "f": "ciwilizīlai"
+        }
+      ],
+      "participles": [
+        {
+          "title": "Причастие настоящего времени",
+          "headword": "ciwilizīnts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "ciwilizīnts",
+                "gen": "ciwilizīntis",
+                "dat": "ciwilizīntismu",
+                "akk": "ciwilizīntin"
+              },
+              "pl": {
+                "nom": "ciwilizīntjai",
+                "gen": "ciwilizīntin",
+                "dat": "ciwilizintimmans",
+                "akk": "ciwilizīntins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "ciwilizintī",
+                "gen": "ciwilizīntjas",
+                "dat": "ciwilizīntjai",
+                "akk": "ciwilizīntjan"
+              },
+              "pl": {
+                "nom": "ciwilizīntjas",
+                "gen": "ciwilizīntjan",
+                "dat": "ciwilizintjāmans",
+                "akk": "ciwilizīntjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "ciwilizīnti",
+                "gen": "ciwilizīntis",
+                "dat": "ciwilizīntismu",
+                "akk": "ciwilizīntin"
+              },
+              "pl": {
+                "nom": "ciwilizīntjai",
+                "gen": "ciwilizīntin",
+                "dat": "ciwilizintimmans",
+                "akk": "ciwilizīntins"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени",
+          "headword": "ciwilizīwuns",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "ciwilizīwuns",
+                "gen": "ciwilizīwusjas",
+                "dat": "ciwilizīwusjasmu",
+                "akk": "ciwilizīwusin"
+              },
+              "pl": {
+                "nom": "ciwilizīwusis",
+                "gen": "ciwilizīwusin",
+                "dat": "ciwilizīwusimans",
+                "akk": "ciwilizīwusins"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "ciwilizīwusi",
+                "gen": "ciwilizīwusjas",
+                "dat": "ciwilizīwusjai",
+                "akk": "ciwilizīwusjan"
+              },
+              "pl": {
+                "nom": "ciwilizīwusjas",
+                "gen": "ciwilizīwusjan",
+                "dat": "ciwilizīwusjamans",
+                "akk": "ciwilizīwusjans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "ciwilizīwus",
+                "gen": "ciwilizīwusjas",
+                "dat": "ciwilizīwusjasmu",
+                "akk": "ciwilizīwus"
+              },
+              "pl": {
+                "nom": "ciwilizīwus",
+                "gen": "ciwilizīwusin",
+                "dat": "ciwilizīwusimans",
+                "akk": "ciwilizīwus"
+              }
+            }
+          }
+        },
+        {
+          "title": "Причастие прошедшего времени, страд. залог",
+          "headword": "ciwilizīts",
+          "genders": {
+            "masc": {
+              "sg": {
+                "nom": "ciwilizīts",
+                "gen": "ciwilizītas",
+                "dat": "ciwilizītasmu",
+                "akk": "ciwilizītan"
+              },
+              "pl": {
+                "nom": "ciwilizitāi",
+                "gen": "ciwilizītan",
+                "dat": "ciwilizitammans",
+                "akk": "ciwilizītans"
+              }
+            },
+            "fem": {
+              "sg": {
+                "nom": "ciwilizitā",
+                "gen": "ciwilizītas",
+                "dat": "ciwilizītai",
+                "akk": "ciwilizītan"
+              },
+              "pl": {
+                "nom": "ciwilizītas",
+                "gen": "ciwilizītan",
+                "dat": "ciwilizitāmans",
+                "akk": "ciwilizītans"
+              }
+            },
+            "neut": {
+              "sg": {
+                "nom": "ciwilizītan",
+                "gen": "ciwilizītas",
+                "dat": "ciwilizītasmu",
+                "akk": "ciwilizītan"
+              },
+              "pl": {
+                "nom": "ciwilizitāi",
+                "gen": "ciwilizītan",
+                "dat": "ciwilizitammans",
+                "akk": "ciwilizītans"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "word": "ciwillisks",
+    "id": 716,
+    "paradigm": {
+      "positive": {
+        "masc": {
+          "sg": {
+            "nom": "ciwillisks",
+            "gen": "ciwilliskas",
+            "dat": "ciwilliskasmu",
+            "akk": "ciwilliskan"
+          },
+          "pl": {
+            "nom": "ciwilliskai",
+            "gen": "ciwilliskan",
+            "dat": "ciwilliskamans",
+            "akk": "ciwilliskans"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ciwilliska",
+            "gen": "ciwilliskas",
+            "dat": "ciwilliskai",
+            "akk": "ciwilliskan"
+          },
+          "pl": {
+            "nom": "ciwilliskas",
+            "gen": "ciwilliskan",
+            "dat": "ciwilliskamans",
+            "akk": "ciwilliskans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ciwilliskan",
+            "gen": "ciwilliskas",
+            "dat": "ciwilliskasmu",
+            "akk": "ciwilliskan"
+          },
+          "pl": {
+            "nom": "ciwilliskai",
+            "gen": "ciwilliskan",
+            "dat": "ciwilliskamans",
+            "akk": "ciwilliskans"
+          }
+        }
+      },
+      "comparative": {
+        "masc": {
+          "sg": {
+            "nom": "ciwilliskaisis",
+            "gen": "ciwilliskaisjas",
+            "dat": "ciwilliskaisjasmu",
+            "akk": "ciwilliskaisin"
+          },
+          "pl": {
+            "nom": "ciwilliskaisjai",
+            "gen": "ciwilliskaisin",
+            "dat": "ciwilliskaisimans",
+            "akk": "ciwilliskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ciwilliskaisi",
+            "gen": "ciwilliskaisjas",
+            "dat": "ciwilliskaisjai",
+            "akk": "ciwilliskaisjan"
+          },
+          "pl": {
+            "nom": "ciwilliskaisjas",
+            "gen": "ciwilliskaisjan",
+            "dat": "ciwilliskaisjamans",
+            "akk": "ciwilliskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ciwilliskaisi",
+            "gen": "ciwilliskaisjas",
+            "dat": "ciwilliskaisjasmu",
+            "akk": "ciwilliskaisi"
+          },
+          "pl": {
+            "nom": "ciwilliskaisjai",
+            "gen": "ciwilliskaisin",
+            "dat": "ciwilliskaisimans",
+            "akk": "ciwilliskaisins"
+          }
+        }
+      },
+      "superlative": {
+        "masc": {
+          "sg": {
+            "nom": "ukaciwilliskaisis",
+            "gen": "ukaciwilliskaisjas",
+            "dat": "ukaciwilliskaisjasmu",
+            "akk": "ukaciwilliskaisin"
+          },
+          "pl": {
+            "nom": "ukaciwilliskaisjai",
+            "gen": "ukaciwilliskaisin",
+            "dat": "ukaciwilliskaisimans",
+            "akk": "ukaciwilliskaisins"
+          }
+        },
+        "fem": {
+          "sg": {
+            "nom": "ukaciwilliskaisi",
+            "gen": "ukaciwilliskaisjas",
+            "dat": "ukaciwilliskaisjai",
+            "akk": "ukaciwilliskaisjan"
+          },
+          "pl": {
+            "nom": "ukaciwilliskaisjas",
+            "gen": "ukaciwilliskaisjan",
+            "dat": "ukaciwilliskaisjamans",
+            "akk": "ukaciwilliskaisjans"
+          }
+        },
+        "neut": {
+          "sg": {
+            "nom": "ukaciwilliskaisi",
+            "gen": "ukaciwilliskaisjas",
+            "dat": "ukaciwilliskaisjasmu",
+            "akk": "ukaciwilliskaisi"
+          },
+          "pl": {
+            "nom": "ukaciwilliskaisjai",
+            "gen": "ukaciwilliskaisin",
+            "dat": "ukaciwilliskaisimans",
+            "akk": "ukaciwilliskaisins"
+          }
+        }
+      },
+      "adverb": {
+        "positive": "ciwilliskai",
+        "comparative": "ciwilliskais",
+        "superlative": "ukaciwilliskais"
+      }
+    }
+  },
+  {
+    "word": "collis",
+    "id": 723,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "collis",
+          "gen": "colljas",
+          "dat": "collju",
+          "akk": "colljan"
+        },
+        "pl": {
+          "nom": "colljai",
+          "gen": "colljan",
+          "dat": "colljamans",
+          "akk": "colljans"
+        }
+      }
+    }
+  },
+  {
+    "word": "Costa Rica",
+    "id": 9005,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "Costa Rica",
+          "gen": "Costa Ricas",
+          "dat": "Costa Ricai",
+          "akk": "Costa Rican"
+        },
+        "pl": {
+          "nom": "Costa Ricas",
+          "gen": "Costa Rican",
+          "dat": "Costa Ricamans",
+          "akk": "Costa Ricans"
+        }
+      }
+    }
+  },
+  {
+    "word": "cukīnija",
+    "id": 9006,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "cukīnija",
+          "gen": "cukīnijas",
+          "dat": "cukīnijai",
+          "akk": "cukīnijan"
+        },
+        "pl": {
+          "nom": "cukīnijas",
+          "gen": "cukīnijan",
+          "dat": "cukīnijamans",
+          "akk": "cukīnijans"
+        }
+      }
+    }
+  },
+  {
+    "word": "cukkerini",
+    "id": 7710,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "cukkerini",
+          "gen": "cukkerinis",
+          "dat": "cukkerinei",
+          "akk": "cukkerinin"
+        },
+        "pl": {
+          "nom": "cukkerinis",
+          "gen": "cukkerinin",
+          "dat": "cukkerinimans",
+          "akk": "cukkerinins"
+        }
+      }
+    }
+  },
+  {
+    "word": "cukkeris",
+    "id": 722,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "cukkeris",
+          "gen": "cukkerjas",
+          "dat": "cukkerju",
+          "akk": "cukkerjan"
+        },
+        "pl": {
+          "nom": "cukkerjai",
+          "gen": "cukkerjan",
+          "dat": "cukkerjamans",
+          "akk": "cukkerjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "cukkerjas enwārgsenis",
+    "id": 7387,
+    "paradigm": {
+      "masc": {
+        "sg": {
+          "nom": "cukkerjas enwārgsenis",
+          "gen": "cukkerjas enwārgsenjas",
+          "dat": "cukkerjas enwārgsenju",
+          "akk": "cukkerjas enwārgsenjan"
+        },
+        "pl": {
+          "nom": "cukkerjas enwārgsenjai",
+          "gen": "cukkerjas enwārgsenjan",
+          "dat": "cukkerjas enwārgsenjamans",
+          "akk": "cukkerjas enwārgsenjans"
+        }
+      }
+    }
+  },
+  {
+    "word": "cunfti",
+    "id": 724,
+    "paradigm": {
+      "fem": {
+        "sg": {
+          "nom": "cunfti",
+          "gen": "cunftis",
+          "dat": "cunftei",
+          "akk": "cunftin"
+        },
+        "pl": {
+          "nom": "cunftis",
+          "gen": "cunftin",
+          "dat": "cunftimans",
+          "akk": "cunftins"
+        }
+      }
+    }
+  }
+]
