@@ -1,17 +1,17 @@
 {
   "version": 1,
   "generated": "2026-10-03",
-  "total": 9027,
+  "total": 11186,
   "shards": [
     {
       "letter": "A",
       "file": "A.json",
-      "count": 677
+      "count": 846
     },
     {
       "letter": "B",
       "file": "B.json",
-      "count": 377
+      "count": 509
     },
     {
       "letter": "C",
@@ -26,12 +26,12 @@
     {
       "letter": "D",
       "file": "D.json",
-      "count": 512
+      "count": 633
     },
     {
       "letter": "E",
       "file": "E.json",
-      "count": 717
+      "count": 753
     },
     {
       "letter": "F",
@@ -41,7 +41,7 @@
     {
       "letter": "G",
       "file": "G.json",
-      "count": 463
+      "count": 658
     },
     {
       "letter": "H",
@@ -51,32 +51,32 @@
     {
       "letter": "I",
       "file": "I.json",
-      "count": 325
+      "count": 330
     },
     {
       "letter": "J",
       "file": "J.json",
-      "count": 77
+      "count": 134
     },
     {
       "letter": "K",
       "file": "K.json",
-      "count": 866
+      "count": 1075
     },
     {
       "letter": "L",
       "file": "L.json",
-      "count": 354
+      "count": 409
     },
     {
       "letter": "M",
       "file": "M.json",
-      "count": 473
+      "count": 648
     },
     {
       "letter": "N",
       "file": "N.json",
-      "count": 262
+      "count": 470
     },
     {
       "letter": "O",
@@ -86,17 +86,17 @@
     {
       "letter": "P",
       "file": "P.json",
-      "count": 1281
+      "count": 1467
     },
     {
       "letter": "R",
       "file": "R.json",
-      "count": 266
+      "count": 349
     },
     {
       "letter": "S",
       "file": "S.json",
-      "count": 943
+      "count": 1181
     },
     {
       "letter": "Š",
@@ -106,12 +106,12 @@
     {
       "letter": "T",
       "file": "T.json",
-      "count": 410
+      "count": 503
     },
     {
       "letter": "U",
       "file": "U.json",
-      "count": 51
+      "count": 52
     },
     {
       "letter": "V",
@@ -121,12 +121,12 @@
     {
       "letter": "W",
       "file": "W.json",
-      "count": 483
+      "count": 605
     },
     {
       "letter": "Z",
       "file": "Z.json",
-      "count": 160
+      "count": 234
     },
     {
       "letter": "Ž",
